@@ -11,31 +11,15 @@ if content.exists():
     shutil.rmtree(content)
 content.mkdir()
 footer = '\n\n<footer><a href="https://x.com/0xkillchain">@0xkillchain on X</a></footer>\n'
-aliases = {
-    '74-Hebrew-Words-European-Languages': '74-Hebrew-Words-In-European-Languages',
-    '75-Ancient-Art': '75-Ancient-Art-Depicts-Europeans',
-    '76-The-Magi': '76-The-Magi-Were-Israelites',
-    '77-Christ-Depicted-As-European': '77-Christ-And-Apostles-European',
-    '78-Early-Christian-Art': '78-Early-Christian-Art-Confirms',
-    '81-Additional-Proofs': '81-European-Civilization',
-}
 notes = [p for p in ROOT.glob('*.md') if re.match(r'^\d+\s*-', p.name) or p.name == 'INDEX.md']
 numbers = {int(p.name.split('-')[0]) for p in notes if re.match(r'^\d+\s*-', p.name)}
 if numbers != set(range(1, 101)) or not (ROOT / 'INDEX.md').is_file():
     raise SystemExit('Expected source documents 1–100 and INDEX.md; refusing to publish incomplete content.')
 names = {p.stem for p in notes}
-# Match legacy shorthand links to the actual numbered document, without changing source text.
-for old, target in list(aliases.items()):
-    matches = [n for n in names if n.split('-')[0].strip().isdigit() and int(n.split('-')[0]) == int(old.split('-')[0])]
-    if target not in names and len(matches) == 1:
-        aliases[old] = matches[0]
+index_entries = []
+notes.sort(key=lambda p: int(p.name.split('-')[0]) if p.name != 'INDEX.md' else 101)
 for source in notes:
     text = source.read_text()
-    def resolve(match):
-        raw = match.group(1)
-        target = re.split(r'[|#]', raw, maxsplit=1)[0]
-        return '[[' + aliases.get(target, target) + raw[len(target):] + ']]'
-    text = re.sub(r'\[\[([^\]]+)\]\]', resolve, text)
     targets = [re.split(r'[|#]', m, maxsplit=1)[0] for m in re.findall(r'\[\[([^\]]+)\]\]', text)]
     missing = set(targets) - names - {''}
     if missing:
@@ -43,20 +27,15 @@ for source in notes:
     destination = 'source-index.md' if source.name == 'INDEX.md' else source.name
     legacy_name = source.stem.replace(' - ', '-').replace(' ', '-')
     redirect = f'---\naliases:\n  - {legacy_name}\n---\n\n' if source.name != 'INDEX.md' else ''
-    (content / destination).write_text(redirect + text.lstrip().rstrip() + footer)
-index_entries = []
-numbered_notes = sorted(
-    (p for p in notes if p.name != 'INDEX.md'),
-    key=lambda p: int(p.name.split('-')[0]),
-)
-for source in numbered_notes:
-    number = int(source.name.split('-')[0])
-    heading = re.search(r'^#\s+(.+)$', source.read_text(), re.MULTILINE)
-    title = heading.group(1).strip() if heading else source.stem.split('-', 1)[1].strip()
-    title = re.sub(r'^Proof\s+\d+:\s*', '', title)
-    index_entries.append(f'{number}. [[{source.stem}|{title}]]')
+    (content / destination).write_text(redirect + text.strip() + footer)
+    if source.name != 'INDEX.md':
+        number = int(source.name.split('-')[0])
+        heading = re.search(r'^#\s+(.+)$', text, re.MULTILINE)
+        title = heading.group(1).strip() if heading else source.stem.split('-', 1)[1].strip()
+        title = re.sub(r'^Proof\s+\d+:\s*', '', title)
+        index_entries.append(f'{number}. [[{source.stem}|{title}]]')
 (content / 'index.md').write_text(
-    '# 100 Proofs Index\n\n' +
+    '---\ntitle: 100 Proofs Index\n---\n\n' +
     '\n'.join(index_entries) + '\n' + footer
 )
 config_path = quartz / 'quartz.config.ts'
