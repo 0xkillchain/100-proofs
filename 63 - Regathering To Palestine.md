@@ -53,10 +53,10 @@ The modern state of Israel (1948) was founded by:
 | Requirement | Modern Israel? |
 |-------------|----------------|
 | From the north | Partially (Europe) |
-| All twelve tribes | No — mostly "Jews" |
-| One nation (united) | No — secular state |
-| Under Christ | No — reject Christ |
-| In righteousness | No — secular/apostate |
+| All twelve tribes | No, mostly "Jews" |
+| One nation (united) | No, secular state |
+| Under Christ | No, reject Christ |
+| In righteousness | No, secular/apostate |
 
 Modern Israel fails most prophetic requirements.
 
@@ -99,15 +99,15 @@ The true regathering will be:
 
 ### After Christ Returns
 
-> **Ezekiel 37:24** — "And **David my servant shall be king over them**; and they all shall have one shepherd."
+> **Ezekiel 37:24**: "And **David my servant shall be king over them**; and they all shall have one shepherd."
 
 "David" = Christ (the son of David)
 
-The regathering happens when Christ rules — not before.
+The regathering happens when Christ rules, not before.
 
 ### The Second Time
 
-> **Isaiah 11:11** — "The Lord shall set his hand again **the second time** to recover the remnant."
+> **Isaiah 11:11**: "The Lord shall set his hand again **the second time** to recover the remnant."
 
 First time: Return from Babylon
 Second time: Final regathering under Christ
@@ -135,11 +135,11 @@ Europeans awakening to identity precedes the physical regathering.
 
 The prophesied regathering proves:
 
-1. **Specific requirements** — Must be all tribes, under Christ
-2. **Modern Israel fails** — Doesn't meet criteria
-3. **True Israel scattered** — Europeans in diaspora
-4. **Future fulfillment** — At Christ's return
-5. **Awakening first** — Identity must be recognized
+1. **Specific requirements**: Must be all tribes, under Christ
+2. **Modern Israel fails**: Doesn't meet criteria
+3. **True Israel scattered**: Europeans in diaspora
+4. **Future fulfillment**: At Christ's return
+5. **Awakening first**: Identity must be recognized
 
 The regathering of true Israel (Europeans) to the land is yet future, under Christ's rule.
 
@@ -155,9 +155,9 @@ The regathering of true Israel (Europeans) to the land is yet future, under Chri
 
 ## Cross-References
 
-- [[60 - European Blindness]] — Blindness before awakening
-- [[38 - Edomite Infiltration]] — Who claims to be Israel
-- [[64 - Christ Will Remarry One People]] — The restoration
+- [[60 - European Blindness]]: Blindness before awakening
+- [[38 - Edomite Infiltration]]: Who claims to be Israel
+- [[64 - Christ Will Remarry One People]]: The restoration
 
 ---
 

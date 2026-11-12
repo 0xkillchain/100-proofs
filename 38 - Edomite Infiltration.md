@@ -18,7 +18,7 @@ Key points:
 - John Hyrcanus I conquered Idumea (~125 BC)
 - Edomites were forcibly circumcised
 - They adopted Jewish customs
-- They were "no other than Jews" — legally indistinguishable
+- They were "no other than Jews": legally indistinguishable
 
 ### The Problem
 
@@ -37,11 +37,11 @@ This forced conversion:
 **Josephus, Antiquities 14.1.3:**
 > "Antipater was an **Idumean** by birth."
 
-Antipater was Herod's father. Herod was an Edomite — not a true Israelite.
+Antipater was Herod's father. Herod was an Edomite, not a true Israelite.
 
 ### Herod's Rise
 
-Herod was appointed King of Judea by Rome (~40 BC). An Edomite ruled over Judah — Esau had gained dominion over Jacob.
+Herod was appointed King of Judea by Rome (~40 BC). An Edomite ruled over Judah, Esau had gained dominion over Jacob.
 
 ### Herod's Character
 
@@ -77,17 +77,17 @@ By Christ's time, the religious leadership was corrupted:
 
 ### Not Abraham's True Children
 
-> **John 8:37** — "I know that ye are Abraham's seed; but ye seek to kill me, because my word hath no place in you."
+> **John 8:37**: "I know that ye are Abraham's seed; but ye seek to kill me, because my word hath no place in you."
 
-Christ acknowledged they were "Abraham's seed" — but through Esau (who was also Abraham's descendant), not through Jacob.
+Christ acknowledged they were "Abraham's seed", but through Esau (who was also Abraham's descendant), not through Jacob.
 
-> **John 8:39** — "They answered and said unto him, Abraham is our father. Jesus saith unto them, **If ye were Abraham's children, ye would do the works of Abraham**."
+> **John 8:39**: "They answered and said unto him, Abraham is our father. Jesus saith unto them, **If ye were Abraham's children, ye would do the works of Abraham**."
 
 Being Abraham's "seed" (physical descent through Esau) is different from being Abraham's "children" (spiritual heirs through Jacob).
 
 ### Children of the Devil
 
-> **John 8:44** — "**Ye are of your father the devil**, and the lusts of your father ye will do. He was a **murderer from the beginning**."
+> **John 8:44**: "**Ye are of your father the devil**, and the lusts of your father ye will do. He was a **murderer from the beginning**."
 
 Christ identified these particular religious leaders as:
 - Children of the devil
@@ -100,9 +100,9 @@ Christ identified these particular religious leaders as:
 
 ### Revelation's Warning
 
-> **Revelation 2:9** — "I know the blasphemy of them which **say they are Jews, and are not**, but are the **synagogue of Satan**."
+> **Revelation 2:9**: "I know the blasphemy of them which **say they are Jews, and are not**, but are the **synagogue of Satan**."
 
-> **Revelation 3:9** — "Behold, I will make them of the **synagogue of Satan, which say they are Jews, and are not, but do lie**; behold, I will make them to come and worship before thy feet."
+> **Revelation 3:9**: "Behold, I will make them of the **synagogue of Satan, which say they are Jews, and are not, but do lie**; behold, I will make them to come and worship before thy feet."
 
 Some claimed to be "Jews" (Judeans) but were not:
 - They were lying
@@ -158,11 +158,11 @@ True Israel:
 
 The Edomite infiltration proves:
 
-1. **Historical fact** — Josephus documents the forced conversion
-2. **Herod's ancestry** — An Edomite ruled Judea
-3. **Christ's recognition** — He identified His enemies' true lineage
-4. **Revelation's warning** — "Jews who are not"
-5. **Modern implications** — "Jews" ≠ Israelites
+1. **Historical fact**: Josephus documents the forced conversion
+2. **Herod's ancestry**: An Edomite ruled Judea
+3. **Christ's recognition**: He identified His enemies' true lineage
+4. **Revelation's warning**: "Jews who are not"
+5. **Modern implications**: "Jews" ≠ Israelites
 
 Understanding this infiltration is essential for understanding who is who in biblical and modern contexts.
 
@@ -178,9 +178,9 @@ Understanding this infiltration is essential for understanding who is who in bib
 
 ## Cross-References
 
-- [[35 - Jacob And Esau]] — The foundational conflict
-- [[39 - Christ Identified His Adversaries]] — Christ's recognition
-- [[40 - Race Of Cain]] — The serpent seed connection
+- [[35 - Jacob And Esau]]: The foundational conflict
+- [[39 - Christ Identified His Adversaries]]: Christ's recognition
+- [[40 - Race Of Cain]]: The serpent seed connection
 
 ---
 

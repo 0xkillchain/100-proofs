@@ -17,7 +17,7 @@ The Scythians appeared in history at the exact time and place where the Israelit
 | Scythians first appear in historical records | ~700 BC |
 | Cimmerians first appear in historical records | ~700 BC |
 
-This is not coincidence. The Scythians emerged in history exactly when the Israelites were deported — within a single generation.
+This is not coincidence. The Scythians emerged in history exactly when the Israelites were deported, within a single generation.
 
 ### Location
 
@@ -36,12 +36,12 @@ This is directly north of the deportation zone (the cities of the Medes, south o
 
 The Persians called the Scythians "Sakā" (plural: Sakae).
 
-Hebrew: **Yitzhak** (יצחק) — Isaac
+Hebrew: **Yitzhak** (יצחק), Isaac
 - Dropping the "Y" prefix (common in Hebrew names): Itzhak → Sak
 - The Assyrians would have heard "house of Isaac" as "Bit-Sak" or similar
 - Persian "Sakā" = "people of Isaac"
 
-> **Amos 7:16** — "Thou sayest, Prophesy not against Israel, and drop not thy word against the **house of Isaac**."
+> **Amos 7:16**: "Thou sayest, Prophesy not against Israel, and drop not thy word against the **house of Isaac**."
 
 Israel was called the "house of Isaac." The Sakā/Scythians were the house of Isaac.
 
@@ -50,14 +50,14 @@ Israel was called the "house of Isaac." The Sakā/Scythians were the house of Is
 The Assyrians called these people "Gimirri." The Greeks rendered this as "Cimmerians" (Κιμμέριοι).
 
 Possible Hebrew connections:
-- **Gomer** — Hosea's wife, who symbolized unfaithful Israel (Hosea 1:3)
-- **Gamar** (גמר) — "to complete, to finish" — Israel was "finished" as a nation
+- **Gomer**: Hosea's wife, who symbolized unfaithful Israel (Hosea 1:3)
+- **Gamar** (גמר): "to complete, to finish": Israel was "finished" as a nation
 
-The Behistun Inscription equates Sakā and Gimirri — they were the same people called by different names.
+The Behistun Inscription equates Sakā and Gimirri, they were the same people called by different names.
 
 ### Iskuza
 
-Assyrian records also mention "Iskuza" — another rendering of "Isaac."
+Assyrian records also mention "Iskuza", another rendering of "Isaac."
 
 - Iskuza = Scythians (Greek)
 - Iskuza ≈ Isaac + territorial suffix
@@ -70,12 +70,12 @@ Assyrian records also mention "Iskuza" — another rendering of "Isaac."
 
 Herodotus and other Greek historians described the Scythians as:
 
-1. **Warlike** — Skilled horsemen and archers
-2. **Pastoral** — Herded cattle and sheep
-3. **Nomadic at first** — Lived in wagons, later settled
-4. **Monotheistic tendencies** — Worshipped a supreme sky god
-5. **Tabernacle-like structures** — Used tent-shrines
-6. **Genealogy-conscious** — Kept careful tribal records
+1. **Warlike**: Skilled horsemen and archers
+2. **Pastoral**: Herded cattle and sheep
+3. **Nomadic at first**: Lived in wagons, later settled
+4. **Monotheistic tendencies**: Worshipped a supreme sky god
+5. **Tabernacle-like structures**: Used tent-shrines
+6. **Genealogy-conscious**: Kept careful tribal records
 
 These characteristics align with Israelite culture:
 - Warlike: Israel was a warrior nation
@@ -133,9 +133,9 @@ The Saxons specifically are often linked to the Sacae:
 
 > "Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, **Scythian**, bond nor free: but Christ is all, and in all."
 
-Paul mentions Scythians alongside Greeks and Jews — as people who could be "in Christ." Why would Paul specifically mention Scythians unless they were relevant to his Israelite audience?
+Paul mentions Scythians alongside Greeks and Jews, as people who could be "in Christ." Why would Paul specifically mention Scythians unless they were relevant to his Israelite audience?
 
-If Scythians were simply random pagans, why single them out? Because Paul knew the Scythians were lost Israelites — and they, too, could be reconciled through Christ.
+If Scythians were simply random pagans, why single them out? Because Paul knew the Scythians were lost Israelites, and they, too, could be reconciled through Christ.
 
 ---
 
@@ -162,12 +162,12 @@ Modern genetic studies show:
 
 The Scythian-Israelite connection is supported by:
 
-1. **Timing** — Scythians appear exactly when Israel was deported
-2. **Location** — Scythians appear where the deportees were placed
-3. **Names** — Sakā = Isaac, Gimirri = Israelites
-4. **Culture** — Pastoral, tribal, religious parallels
-5. **Migration** — Scythians became the European peoples
-6. **Scripture** — Paul mentions Scythians as potential recipients of grace
+1. **Timing**: Scythians appear exactly when Israel was deported
+2. **Location**: Scythians appear where the deportees were placed
+3. **Names**: Sakā = Isaac, Gimirri = Israelites
+4. **Culture**: Pastoral, tribal, religious parallels
+5. **Migration**: Scythians became the European peoples
+6. **Scripture**: Paul mentions Scythians as potential recipients of grace
 
 The Scythians were the deported Israelites. The Europeans descended from the Scythians. Therefore, Europeans are descended from Israel.
 
@@ -183,9 +183,9 @@ The Scythians were the deported Israelites. The Europeans descended from the Scy
 
 ## Cross-References
 
-- [[07 - Assyrian Deportations]] — The deportation event
-- [[09 - Greeks Romans Were Israelites]] — Parallel migrations
-- [[10 - Germanic Tribes Were Israelites]] — The European destination
+- [[07 - Assyrian Deportations]]: The deportation event
+- [[09 - Greeks Romans Were Israelites]]: Parallel migrations
+- [[10 - Germanic Tribes Were Israelites]]: The European destination
 
 ---
 

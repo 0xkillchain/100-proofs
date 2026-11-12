@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Peter warned the early churches about infiltrators — false teachers who had crept in, speaking heresies, denying the Lord, and leading believers astray. These were not merely mistaken Christians but enemies of a different nature.
+Peter warned the early churches about infiltrators, false teachers who had crept in, speaking heresies, denying the Lord, and leading believers astray. These were not merely mistaken Christians but enemies of a different nature.
 
 ---
 
@@ -11,7 +11,7 @@ Peter warned the early churches about infiltrators — false teachers who had cr
 
 ### False Teachers Among You
 
-> **2 Peter 2:1** — "But there were **false prophets** also among the people, even as there shall be **false teachers among you**, who privily shall **bring in damnable heresies**, even denying the Lord that bought them, and bring upon themselves swift destruction."
+> **2 Peter 2:1**: "But there were **false prophets** also among the people, even as there shall be **false teachers among you**, who privily shall **bring in damnable heresies**, even denying the Lord that bought them, and bring upon themselves swift destruction."
 
 Characteristics:
 - False prophets/teachers
@@ -26,22 +26,22 @@ Characteristics:
 
 ### Not Just Mistaken
 
-> **2 Peter 2:12** — "But these, as **natural brute beasts, made to be taken and destroyed**, speak evil of the things that they understand not; and shall utterly perish in their own corruption."
+> **2 Peter 2:12**: "But these, as **natural brute beasts, made to be taken and destroyed**, speak evil of the things that they understand not; and shall utterly perish in their own corruption."
 
 They are described as:
-- "Natural brute beasts" — their nature is bestial
-- "Made to be taken and destroyed" — created for destruction
+- "Natural brute beasts": their nature is bestial
+- "Made to be taken and destroyed": created for destruction
 - Will "utterly perish"
 
 This is not describing deceived Christians but beings of a different nature.
 
 ### Spots and Blemishes
 
-> **2 Peter 2:13** — "And shall receive the reward of unrighteousness, as they that count it pleasure to riot in the day time. **Spots they are and blemishes**, sporting themselves with their own deceivings while they feast with you."
+> **2 Peter 2:13**: "And shall receive the reward of unrighteousness, as they that count it pleasure to riot in the day time. **Spots they are and blemishes**, sporting themselves with their own deceivings while they feast with you."
 
 They:
-- "Feast with you" — participate in Christian fellowship
-- Are "spots and blemishes" — corruptions, impurities
+- "Feast with you": participate in Christian fellowship
+- Are "spots and blemishes": corruptions, impurities
 - Sport in their own deceptions
 
 They are among the believers but are not of them.
@@ -52,7 +52,7 @@ They are among the believers but are not of them.
 
 ### Exploitation
 
-> **2 Peter 2:3** — "And through covetousness shall they with **feigned words make merchandise of you**."
+> **2 Peter 2:3**: "And through covetousness shall they with **feigned words make merchandise of you**."
 
 They use:
 - Covetousness (greed)
@@ -61,7 +61,7 @@ They use:
 
 ### Corruption
 
-> **2 Peter 2:18-19** — "For when they speak great swelling words of vanity, they allure through the lusts of the flesh... While they promise them **liberty**, they themselves are the **servants of corruption**."
+> **2 Peter 2:18-19**: "For when they speak great swelling words of vanity, they allure through the lusts of the flesh... While they promise them **liberty**, they themselves are the **servants of corruption**."
 
 Their strategy:
 - Swelling, empty words
@@ -85,7 +85,7 @@ The pattern: creatures who corrupted themselves and faced divine judgment.
 
 ---
 
-## Balaam — The Type
+## Balaam The Type
 
 ### 2 Peter 2:15-16
 
@@ -108,7 +108,7 @@ Balaam:
 They:
 - Had some knowledge of Christ
 - Returned to corruption
-- Are compared to dogs and pigs — unclean animals
+- Are compared to dogs and pigs: unclean animals
 
 The comparison to unclean animals suggests their true nature.
 
@@ -153,11 +153,11 @@ Peter's warning remains relevant.
 
 Peter's warnings reveal:
 
-1. **Infiltrators exist** — Among believers, not outside
-2. **Different nature** — Brute beasts made for destruction
-3. **Corruption is their goal** — Heresies, exploitation
-4. **Connected to angelic sin** — Same pattern
-5. **Judgment coming** — They will perish
+1. **Infiltrators exist**: Among believers, not outside
+2. **Different nature**: Brute beasts made for destruction
+3. **Corruption is their goal**: Heresies, exploitation
+4. **Connected to angelic sin**: Same pattern
+5. **Judgment coming**: They will perish
 
 Understanding infiltration helps identify false teachers and protect the flock.
 
@@ -173,9 +173,9 @@ Understanding infiltration helps identify false teachers and protect the flock.
 
 ## Cross-References
 
-- [[48 - Judes Warnings]] — Parallel warnings
-- [[38 - Edomite Infiltration]] — Historical infiltration
-- [[31 - Who Cannot Be Cleansed]] — Their fate
+- [[48 - Judes Warnings]]: Parallel warnings
+- [[38 - Edomite Infiltration]]: Historical infiltration
+- [[31 - Who Cannot Be Cleansed]]: Their fate
 
 ---
 

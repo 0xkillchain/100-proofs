@@ -3,7 +3,7 @@
 
 ## The Claim
 
-European literature — from epics to novels — reflects biblical themes, moral struggles, and the Israelite worldview. Scripture shaped European storytelling.
+European literature, from epics to novels, reflects biblical themes, moral struggles, and the Israelite worldview. Scripture shaped European storytelling.
 
 ---
 
@@ -22,17 +22,17 @@ From Beowulf to Dostoevsky, the Bible is the foundation.
 
 ## Great Works
 
-- **Dante's Divine Comedy** — Christian cosmology
-- **Milton's Paradise Lost** — Genesis retold
-- **Bunyan's Pilgrim's Progress** — Salvation journey
-- **Shakespeare** — Biblical morality throughout
-- **Tolkien/Lewis** — Christian allegory
+- **Dante's Divine Comedy**: Christian cosmology
+- **Milton's Paradise Lost**: Genesis retold
+- **Bunyan's Pilgrim's Progress**: Salvation journey
+- **Shakespeare**: Biblical morality throughout
+- **Tolkien/Lewis**: Christian allegory
 
 ---
 
 ## Synthesis
 
-European literature reflects Israel's worldview — the biblical narrative of creation, fall, redemption, and restoration shapes all great European storytelling.
+European literature reflects Israel's worldview, the biblical narrative of creation, fall, redemption, and restoration shapes all great European storytelling.
 
 ---
 

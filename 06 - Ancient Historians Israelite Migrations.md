@@ -19,7 +19,7 @@ The "Father of History" wrote extensively about the Scythians in his *Histories*
 - They had customs similar to the peoples of the Near East
 - They were a distinct, identifiable nation
 
-**Timing:** The Scythians appeared in history at exactly the time and place where the Assyrians deported the Israelites (722-720 BC, to the region of the Medes — south of the Caspian Sea).
+**Timing:** The Scythians appeared in history at exactly the time and place where the Assyrians deported the Israelites (722-720 BC, to the region of the Medes, south of the Caspian Sea).
 
 ### Diodorus Siculus (c. 90–30 BC)
 
@@ -78,12 +78,12 @@ The Scythians appeared exactly when and where the deported Israelites would have
 ### Geographic Alignment
 
 **Where the Assyrians placed Israel:**
-> **2 Kings 17:6** — "In Halah and in Habor by the river of Gozan, and in the cities of the Medes."
+> **2 Kings 17:6**: "In Halah and in Habor by the river of Gozan, and in the cities of the Medes."
 
-- Halah — Upper Mesopotamia
-- Habor — The Khabur River region
-- Gozan — Northern Mesopotamia
-- Cities of the Medes — South of the Caspian Sea (modern Iran)
+- Halah: Upper Mesopotamia
+- Habor: The Khabur River region
+- Gozan: Northern Mesopotamia
+- Cities of the Medes: South of the Caspian Sea (modern Iran)
 
 **Where the Scythians came from:**
 - East of the Caspian Sea
@@ -125,20 +125,20 @@ Where was this "immense multitude"? Following the migration pattern: **Europe**.
 
 The historical record shows a continuous chain:
 
-1. **Biblical record** — Israel deported to Assyria (722-720 BC)
-2. **Assyrian records** — Bit-Khumri/Gimirri appear in deportation zones
-3. **Greek records** — Scythians/Cimmerians emerge from the east (~700 BC)
-4. **Greek/Roman records** — These peoples migrate westward into Europe
-5. **Roman records** — Germanic tribes emerge from Scythian territories
-6. **Medieval records** — European nations form from Germanic tribes
+1. **Biblical record**: Israel deported to Assyria (722-720 BC)
+2. **Assyrian records**: Bit-Khumri/Gimirri appear in deportation zones
+3. **Greek records**: Scythians/Cimmerians emerge from the east (~700 BC)
+4. **Greek/Roman records**: These peoples migrate westward into Europe
+5. **Roman records**: Germanic tribes emerge from Scythian territories
+6. **Medieval records**: European nations form from Germanic tribes
 
-This is not speculation — it is documented history.
+This is not speculation, it is documented history.
 
 ---
 
 ## Synthesis
 
-The ancient historians — writing independently, over centuries, from different cultures — all document:
+The ancient historians, writing independently, over centuries, from different cultures, all document:
 
 1. **Eastern migrations** into the Black Sea region around 700 BC
 2. **Westward movement** of these peoples into Europe
@@ -160,9 +160,9 @@ The secular historical record confirms the biblical account: Israel was deported
 
 ## Cross-References
 
-- [[07 - Assyrian Deportations]] — The biblical account
-- [[08 - Scythians Were Israelites]] — Detailed Scythian connection
-- [[10 - Germanic Tribes Were Israelites]] — The European destination
+- [[07 - Assyrian Deportations]]: The biblical account
+- [[08 - Scythians Were Israelites]]: Detailed Scythian connection
+- [[10 - Germanic Tribes Were Israelites]]: The European destination
 
 ---
 

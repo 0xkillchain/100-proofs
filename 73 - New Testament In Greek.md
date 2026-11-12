@@ -3,7 +3,7 @@
 
 ## The Claim
 
-The New Testament was written in Greek — not Hebrew or Aramaic — because its primary audience was Greek-speaking Europeans. The scattered Israelites in Europe spoke Greek, so the apostles wrote in their language.
+The New Testament was written in Greek, not Hebrew or Aramaic, because its primary audience was Greek-speaking Europeans. The scattered Israelites in Europe spoke Greek, so the apostles wrote in their language.
 
 ---
 
@@ -70,7 +70,7 @@ When the NT was written:
 | Thessalonians | Thessalonica (Greece) | Greek city |
 | Hebrews | Scattered "Hebrews" | Greek used |
 
-The audience was Greek-speaking — the scattered Israelites.
+The audience was Greek-speaking, the scattered Israelites.
 
 ---
 
@@ -78,7 +78,7 @@ The audience was Greek-speaking — the scattered Israelites.
 
 ### Logos
 
-> **John 1:1** — "In the beginning was the **Logos**, and the Logos was with God, and the Logos was God."
+> **John 1:1**: "In the beginning was the **Logos**, and the Logos was with God, and the Logos was God."
 
 John used the Greek concept of "Logos" (Word/Reason) to describe Christ. This communicated to Greek-speaking, philosophically-trained Israelites.
 
@@ -156,13 +156,13 @@ The NT in Greek points to scattered Israel as the audience.
 
 The NT in Greek proves:
 
-1. **Audience was Greek-speaking** — Scattered Israelites
-2. **Septuagint connection** — Already using Greek OT
-3. **European destination** — Greece, Rome, Anatolia
-4. **Logos vocabulary** — Communicated to Greeks
-5. **European preservation** — Israel kept their Scriptures
+1. **Audience was Greek-speaking**: Scattered Israelites
+2. **Septuagint connection**: Already using Greek OT
+3. **European destination**: Greece, Rome, Anatolia
+4. **Logos vocabulary**: Communicated to Greeks
+5. **European preservation**: Israel kept their Scriptures
 
-The New Testament was written in Greek for Greek-speaking Israelites — the Europeans.
+The New Testament was written in Greek for Greek-speaking Israelites, the Europeans.
 
 ---
 
@@ -176,9 +176,9 @@ The New Testament was written in Greek for Greek-speaking Israelites — the Eur
 
 ## Cross-References
 
-- [[70 - Septuagint Vs Masoretic]] — Greek OT tradition
-- [[03 - Who Did Apostles Write To]] — The audience
-- [[72 - Greek Culture Matches Israelite]] — Greek-Israelite connection
+- [[70 - Septuagint Vs Masoretic]]: Greek OT tradition
+- [[03 - Who Did Apostles Write To]]: The audience
+- [[72 - Greek Culture Matches Israelite]]: Greek-Israelite connection
 
 ---
 

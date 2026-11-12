@@ -3,7 +3,7 @@
 
 ## The Claim
 
-The "two witnesses" of Revelation 11 can be interpreted as representing the two houses of Israel — Judah and Israel (the ten tribes) — or as the Old and New Testaments preserved by European Christians. Either interpretation points to Israel's identity.
+The "two witnesses" of Revelation 11 can be interpreted as representing the two houses of Israel, Judah and Israel (the ten tribes), or as the Old and New Testaments preserved by European Christians. Either interpretation points to Israel's identity.
 
 ---
 
@@ -24,8 +24,8 @@ The "two witnesses" of Revelation 11 can be interpreted as representing the two 
 ### Judah and Israel
 
 The "two witnesses" may represent:
-- **House of Judah** — The southern kingdom
-- **House of Israel** — The ten northern tribes
+- **House of Judah**: The southern kingdom
+- **House of Israel**: The ten northern tribes
 
 Both houses:
 - Witnessed to God's truth
@@ -34,9 +34,9 @@ Both houses:
 
 ### Zechariah's Vision
 
-> **Zechariah 4:11-14** — "What are these **two olive trees** upon the right side of the candlestick and upon the left side thereof?... These are the **two anointed ones**, that stand by the Lord of the whole earth."
+> **Zechariah 4:11-14**: "What are these **two olive trees** upon the right side of the candlestick and upon the left side thereof?... These are the **two anointed ones**, that stand by the Lord of the whole earth."
 
-The two olive trees = two anointed witnesses. In Zechariah's time: Zerubbabel (ruler) and Joshua (priest) — representing kingly and priestly functions.
+The two olive trees = two anointed witnesses. In Zechariah's time: Zerubbabel (ruler) and Joshua (priest), representing kingly and priestly functions.
 
 In prophecy: The two houses of Israel, both anointed for witness.
 
@@ -47,8 +47,8 @@ In prophecy: The two houses of Israel, both anointed for witness.
 ### The Two Covenants
 
 The "two witnesses" may represent:
-- **Old Testament** — The Law and Prophets
-- **New Testament** — The Gospel and Apostolic witness
+- **Old Testament**: The Law and Prophets
+- **New Testament**: The Gospel and Apostolic witness
 
 Both testaments:
 - Witness to God's truth
@@ -143,13 +143,13 @@ If Europe (under corrupt religion), the witnesses are European Christians/Script
 
 The two witnesses prove:
 
-1. **Two houses interpretation** — Judah and Israel witnessing
-2. **Two testaments interpretation** — Old and New preserved
-3. **European fulfillment** — Persecution and resurrection in Europe
-4. **1,260 years** — Matches European Christian history
-5. **Israel connection** — Either way, points to Israel
+1. **Two houses interpretation**: Judah and Israel witnessing
+2. **Two testaments interpretation**: Old and New preserved
+3. **European fulfillment**: Persecution and resurrection in Europe
+4. **1,260 years**: Matches European Christian history
+5. **Israel connection**: Either way, points to Israel
 
-The two witnesses testify in and through Israel — the European Christians.
+The two witnesses testify in and through Israel, the European Christians.
 
 ---
 
@@ -163,9 +163,9 @@ The two witnesses testify in and through Israel — the European Christians.
 
 ## Cross-References
 
-- [[54 - Europeans Tyrannized By Papacy]] — The persecution
-- [[56 - Mass Produced Bible]] — Scripture's resurrection
-- [[58 - Woman In The Wilderness]] — Related symbolism
+- [[54 - Europeans Tyrannized By Papacy]]: The persecution
+- [[56 - Mass Produced Bible]]: Scripture's resurrection
+- [[58 - Woman In The Wilderness]]: Related symbolism
 
 ---
 

@@ -3,7 +3,7 @@
 
 ## The Claim
 
-For 1,400 years, Islam has waged war against Christian Europe. These wars were against Israel — the European Christians — not primarily against Jews. The ongoing conflict between Islam and Christendom is the conflict between Ishmael/Esau and Jacob.
+For 1,400 years, Islam has waged war against Christian Europe. These wars were against Israel, the European Christians, not primarily against Jews. The ongoing conflict between Islam and Christendom is the conflict between Ishmael/Esau and Jacob.
 
 ---
 
@@ -22,7 +22,7 @@ Within 100 years of Muhammad's death (632 AD), Islam conquered:
 Christian lands fell to Islam:
 - Middle Eastern Christians (formerly Israelites?)
 - North African Christians
-- Spanish Christians (Visigoths — Israelites)
+- Spanish Christians (Visigoths: Israelites)
 
 ### The Targets
 
@@ -90,7 +90,7 @@ The conflict is:
 
 ### Scripture on Ishmael
 
-> **Genesis 16:12** — "And he will be a **wild man**; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren."
+> **Genesis 16:12**: "And he will be a **wild man**; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren."
 
 Ishmael's nature: wild, conflictual, hand against every man.
 
@@ -159,7 +159,7 @@ Today, Islam enters Europe through:
 - Refugee flows
 - Demographic change
 
-This is a different form of conquest — without warfare.
+This is a different form of conquest, without warfare.
 
 ### The Struggle Continues
 
@@ -174,11 +174,11 @@ The conflict between Islam and Christian Europe:
 
 Islam's wars against Europe prove:
 
-1. **1,400 years of conflict** — Continuous pattern
-2. **Targeted Christians** — Specifically European Christendom
-3. **Ishmael vs. Isaac** — Ancient enmity
-4. **Esau joins** — Edomites within Islam
-5. **Israel vs. enemies** — Prophetic conflict
+1. **1,400 years of conflict**: Continuous pattern
+2. **Targeted Christians**: Specifically European Christendom
+3. **Ishmael vs. Isaac**: Ancient enmity
+4. **Esau joins**: Edomites within Islam
+5. **Israel vs. enemies**: Prophetic conflict
 
 The Islamic-European conflict is the conflict between Israel and its ancient enemies.
 
@@ -194,9 +194,9 @@ The Islamic-European conflict is the conflict between Israel and its ancient ene
 
 ## Cross-References
 
-- [[35 - Jacob And Esau]] — The original conflict
-- [[54 - Europeans Tyrannized By Papacy]] — The other oppressor
-- [[37 - Prophecies About Esaus Descendants]] — Esau's enmity
+- [[35 - Jacob And Esau]]: The original conflict
+- [[54 - Europeans Tyrannized By Papacy]]: The other oppressor
+- [[37 - Prophecies About Esaus Descendants]]: Esau's enmity
 
 ---
 

@@ -9,23 +9,23 @@ Spain and Portugal (Iberia) were settled by Israelites. Phoenician colonies spre
 
 ## The Name "Iberia"
 
-### Eber — Father of the Hebrews
+### Eber Father of the Hebrews
 
-> **Genesis 10:21** — "Unto Shem also, the father of all the children of **Eber**, the brother of Japheth the elder, even to him were children born."
+> **Genesis 10:21**: "Unto Shem also, the father of all the children of **Eber**, the brother of Japheth the elder, even to him were children born."
 
-> **Genesis 11:14-17** — The lineage from Shem to **Eber** to Peleg to Abraham.
+> **Genesis 11:14-17**: The lineage from Shem to **Eber** to Peleg to Abraham.
 
-"Hebrew" (*Ivri*) comes from "Eber" — the ancestor of Abraham. The Hebrews were the "children of Eber."
+"Hebrew" (*Ivri*) comes from "Eber", the ancestor of Abraham. The Hebrews were the "children of Eber."
 
 ### Iberia = Land of Eber?
 
 | Term | Meaning |
 |------|---------|
 | Eber (עֵבֶר) | "Region beyond," or the patriarch |
-| Ivri (עִבְרִי) | Hebrew — descendant of Eber |
+| Ivri (עִבְרִי) | Hebrew, descendant of Eber |
 | Iberia | The peninsula of Spain/Portugal |
 
-The name "Iberia" may indicate "land of the Hebrews/Iberians" — those who came from beyond (the east), the descendants of Eber.
+The name "Iberia" may indicate "land of the Hebrews/Iberians", those who came from beyond (the east), the descendants of Eber.
 
 Note: There is also an "Iberia" in the Caucasus (modern Georgia). Both regions were on Israelite migration routes.
 
@@ -35,15 +35,15 @@ Note: There is also an "Iberia" in the Caucasus (modern Georgia). Both regions w
 
 ### Tarshish
 
-> **1 Kings 10:22** — "For the king had at sea a navy of **Tarshish** with the navy of Hiram: once in three years came the navy of Tarshish, bringing gold, and silver, ivory, and apes, and peacocks."
+> **1 Kings 10:22**: "For the king had at sea a navy of **Tarshish** with the navy of Hiram: once in three years came the navy of Tarshish, bringing gold, and silver, ivory, and apes, and peacocks."
 
-> **Ezekiel 27:12** — "**Tarshish** was thy merchant by reason of the multitude of all kind of riches; with silver, iron, **tin**, and lead, they traded in thy fairs."
+> **Ezekiel 27:12**: "**Tarshish** was thy merchant by reason of the multitude of all kind of riches; with silver, iron, **tin**, and lead, they traded in thy fairs."
 
 Tarshish was a major trading destination, supplying:
-- Silver — Spain was the ancient world's silver source
-- Tin — Britain (connected through Spanish ports)
-- Iron — Abundant in Iberia
-- Lead — Spanish mines
+- Silver: Spain was the ancient world's silver source
+- Tin: Britain (connected through Spanish ports)
+- Iron: Abundant in Iberia
+- Lead: Spanish mines
 
 Most scholars locate Tarshish in Spain, possibly:
 - Tartessos (near modern Seville)
@@ -52,7 +52,7 @@ Most scholars locate Tarshish in Spain, possibly:
 
 ### Gades (Cadiz)
 
-Gades (modern Cadiz) was founded by Phoenicians around 1100 BC — making it one of the oldest continuously inhabited cities in Western Europe.
+Gades (modern Cadiz) was founded by Phoenicians around 1100 BC, making it one of the oldest continuously inhabited cities in Western Europe.
 
 Phoenician colonies in Iberia:
 | Colony | Modern Name | Founded |
@@ -82,15 +82,15 @@ After Phoenicia declined, Carthage (itself founded by Phoenicians) controlled mu
 - Hannibal Barca launched his invasion of Rome from Spain
 - Spanish silver funded Carthaginian armies
 
-The Carthaginians were Phoenicians — and the Phoenicians were Israelites.
+The Carthaginians were Phoenicians, and the Phoenicians were Israelites.
 
 ### After Rome
 
 When Rome conquered Iberia (206 BC onward), the population remained:
 - Iberian (pre-existing, possibly Hebrew-connected)
 - Phoenician/Carthaginian (Israelite)
-- Celtic (Israelite — see [[11 - Celts Were Israelites]])
-- Later: Roman (itself partially Israelite — see [[09 - Greeks Romans Were Israelites]])
+- Celtic (Israelite: see [[11 - Celts Were Israelites]])
+- Later: Roman (itself partially Israelite: see [[09 - Greeks Romans Were Israelites]])
 
 ---
 
@@ -98,7 +98,7 @@ When Rome conquered Iberia (206 BC onward), the population remained:
 
 ### The Celtiberians
 
-Central and western Iberia was populated by Celtiberians — a mixture of:
+Central and western Iberia was populated by Celtiberians, a mixture of:
 - Celtic peoples moving south from Gaul
 - Iberian peoples already there
 
@@ -108,10 +108,10 @@ Both groups have Israelite connections:
 
 ### Galicia
 
-Northwestern Spain is called **Galicia** — sharing its name with:
-- Galatia (in Anatolia — where Paul wrote)
+Northwestern Spain is called **Galicia**, sharing its name with:
+- Galatia (in Anatolia: where Paul wrote)
 - Gaul (France)
-- All derived from "Galat" — possibly meaning "wanderer" or connected to the Galatian Celts
+- All derived from "Galat": possibly meaning "wanderer" or connected to the Galatian Celts
 
 ---
 
@@ -119,11 +119,11 @@ Northwestern Spain is called **Galicia** — sharing its name with:
 
 ### Paul's Intention
 
-> **Romans 15:24** — "Whensoever I take my journey into **Spain**, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you."
+> **Romans 15:24**: "Whensoever I take my journey into **Spain**, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you."
 
-> **Romans 15:28** — "When therefore I have performed this... I will come by you into **Spain**."
+> **Romans 15:28**: "When therefore I have performed this... I will come by you into **Spain**."
 
-Paul planned to visit Spain. Why? Because Israelites were there — the lost sheep he was sent to find.
+Paul planned to visit Spain. Why? Because Israelites were there, the lost sheep he was sent to find.
 
 Tradition holds that Paul did reach Spain, though the biblical record doesn't confirm it.
 
@@ -142,7 +142,7 @@ Spain's deep Christian identity suggests an Israelite population recognizing the
 
 ### Jews in Spain
 
-A large Jewish population lived in Spain from ancient times until 1492. They were called "Sephardim" (from "Sepharad," the Hebrew name for Spain — Obadiah 1:20).
+A large Jewish population lived in Spain from ancient times until 1492. They were called "Sephardim" (from "Sepharad," the Hebrew name for Spain, Obadiah 1:20).
 
 **Important distinction:**
 - Some Sephardim were true Israelites (from Judah and Benjamin)
@@ -157,12 +157,12 @@ The Alhambra Decree (1492) expelled those who refused to convert. Many sincere I
 
 The Iberians were Israelites because:
 
-1. **The name** — "Iberia" likely derives from "Eber" (Hebrew)
-2. **Phoenician colonies** — Tarshish, Gades, and others were Israelite settlements
-3. **Carthaginian presence** — Carthage was Phoenician (Israelite)
-4. **Celtic influx** — Celts from the north were also Israelites
-5. **Paul's intention** — He planned to bring the Gospel to Spain
-6. **Christian heritage** — Spain became deeply Christian, defending the faith for centuries
+1. **The name**: "Iberia" likely derives from "Eber" (Hebrew)
+2. **Phoenician colonies**: Tarshish, Gades, and others were Israelite settlements
+3. **Carthaginian presence**: Carthage was Phoenician (Israelite)
+4. **Celtic influx**: Celts from the north were also Israelites
+5. **Paul's intention**: He planned to bring the Gospel to Spain
+6. **Christian heritage**: Spain became deeply Christian, defending the faith for centuries
 
 Spain and Portugal represent the convergence of sea-route Israelites (Phoenician) and land-route Israelites (Celtic), united under Christianity.
 
@@ -178,9 +178,9 @@ Spain and Portugal represent the convergence of sea-route Israelites (Phoenician
 
 ## Cross-References
 
-- [[05 - Phoenicians Were Israelites]] — The sea route connection
-- [[11 - Celts Were Israelites]] — The land route connection
-- [[03 - Who Did Apostles Write To]] — Paul's planned Spanish mission
+- [[05 - Phoenicians Were Israelites]]: The sea route connection
+- [[11 - Celts Were Israelites]]: The land route connection
+- [[03 - Who Did Apostles Write To]]: Paul's planned Spanish mission
 
 ---
 

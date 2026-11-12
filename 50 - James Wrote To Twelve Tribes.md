@@ -3,7 +3,7 @@
 
 ## The Claim
 
-James explicitly addressed his epistle to "the twelve tribes scattered abroad." This confirms that the New Testament was written to Israelites in the diaspora — not to a new, universal church replacing Israel.
+James explicitly addressed his epistle to "the twelve tribes scattered abroad." This confirms that the New Testament was written to Israelites in the diaspora, not to a new, universal church replacing Israel.
 
 ---
 
@@ -14,9 +14,9 @@ James explicitly addressed his epistle to "the twelve tribes scattered abroad." 
 > "James, a servant of God and of the Lord Jesus Christ, **to the twelve tribes which are scattered abroad**, greeting."
 
 This is unmistakably clear:
-- **Twelve tribes** — All of Israel, not just Judah
-- **Scattered abroad** — In diaspora (*diaspora* in Greek)
-- Not a metaphor — Literal Israelites
+- **Twelve tribes**: All of Israel, not just Judah
+- **Scattered abroad**: In diaspora (*diaspora* in Greek)
+- Not a metaphor: Literal Israelites
 
 ---
 
@@ -42,9 +42,9 @@ By James's time:
 - The ten northern tribes had been scattered for ~700 years
 - They had lost their national identity
 - They were called "Gentiles" (nations)
-- But they still existed — scattered in Europe
+- But they still existed: scattered in Europe
 
-James addressed **all twelve tribes** — not just Judah and Benjamin.
+James addressed **all twelve tribes**, not just Judah and Benjamin.
 
 ### Where Were They?
 
@@ -60,10 +60,10 @@ The twelve tribes were:
 
 ### Literal Reading
 
-Some claim James wrote to "spiritual Israel" — the church replacing Israel. But:
-- James says "twelve tribes" — a specific, ethnic term
-- James says "scattered" — they had a homeland they left
-- James doesn't redefine terms — he uses them naturally
+Some claim James wrote to "spiritual Israel", the church replacing Israel. But:
+- James says "twelve tribes": a specific, ethnic term
+- James says "scattered": they had a homeland they left
+- James doesn't redefine terms: he uses them naturally
 
 ### Compare to Other Epistles
 
@@ -83,7 +83,7 @@ All addressed to Israelites in specific locations.
 
 James's letter contains:
 - References to the law (1:25, 2:8-12)
-- Synagogue mentioned (2:2 — "assembly" is *sunagoge*)
+- Synagogue mentioned (2:2: "assembly" is *sunagoge*)
 - Abraham as "our father" (2:21)
 - Old Testament examples (Elijah, Rahab, Job)
 - Prophetic language
@@ -92,7 +92,7 @@ This is a letter to Israelites by an Israelite.
 
 ### Rich Oppressing Poor
 
-> **James 5:1-6** — Warnings to the rich who exploit workers
+> **James 5:1-6**: Warnings to the rich who exploit workers
 
 This fits the context of wealthy Edomite/Sadducean classes exploiting common Israelites.
 
@@ -144,7 +144,7 @@ The New Testament was written:
 
 If the twelve tribes received the Gospel and became Christians, then:
 - The Christian nations of Europe are the twelve tribes
-- The "lost" tribes aren't lost — they're found in Christendom
+- The "lost" tribes aren't lost: they're found in Christendom
 - Salvation is for Israel, and Israel is identifiable
 
 ---
@@ -153,11 +153,11 @@ If the twelve tribes received the Gospel and became Christians, then:
 
 James 1:1 proves:
 
-1. **Explicit address** — "Twelve tribes scattered abroad"
-2. **All twelve** — Not just Judah, but all Israel
-3. **Diaspora** — They were scattered in the nations
-4. **Continuity** — Israel continued into the Christian era
-5. **The church = Israel** — Not a replacement
+1. **Explicit address**: "Twelve tribes scattered abroad"
+2. **All twelve**: Not just Judah, but all Israel
+3. **Diaspora**: They were scattered in the nations
+4. **Continuity**: Israel continued into the Christian era
+5. **The church = Israel**: Not a replacement
 
 James wrote to Israelites. The New Testament was for Israelites. Christianity is Israel's faith.
 
@@ -173,9 +173,9 @@ James wrote to Israelites. The New Testament was for Israelites. Christianity is
 
 ## Cross-References
 
-- [[03 - Who Did Apostles Write To]] — The apostolic audience
-- [[23 - New Covenant]] — Covenant with Israel and Judah
-- [[28 - What Church Really Means]] — Ekklesia = Israel's assembly
+- [[03 - Who Did Apostles Write To]]: The apostolic audience
+- [[23 - New Covenant]]: Covenant with Israel and Judah
+- [[28 - What Church Really Means]]: Ekklesia = Israel's assembly
 
 ---
 

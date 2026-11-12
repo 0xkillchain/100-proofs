@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Ancient Near Eastern art consistently depicts Israelites and related peoples with European features — light skin, varied hair colors, and Caucasian characteristics. This visual evidence predates modern racial theories.
+Ancient Near Eastern art consistently depicts Israelites and related peoples with European features, light skin, varied hair colors, and Caucasian characteristics. This visual evidence predates modern racial theories.
 
 ---
 
@@ -12,10 +12,10 @@ Ancient Near Eastern art consistently depicts Israelites and related peoples wit
 ### Racial Distinctions
 
 Egyptian tomb paintings distinguished peoples:
-- **Egyptians** — Brown/copper skin
-- **Nubians** — Black skin, African features
-- **Libyans** — Light skin, blonde/red hair
-- **Asiatics** — Light to medium skin, beards
+- **Egyptians**: Brown/copper skin
+- **Nubians**: Black skin, African features
+- **Libyans**: Light skin, blonde/red hair
+- **Asiatics**: Light to medium skin, beards
 
 Egyptians were meticulous about depicting different peoples accurately.
 
@@ -135,12 +135,12 @@ This became the standard image, originating in the Eastern Roman Empire.
 ### Consistent Depiction
 
 Throughout medieval Europe:
-- Christ, Mary, apostles — European
-- Prophets and patriarchs — European
-- Angels — European
+- Christ, Mary, apostles: European
+- Prophets and patriarchs: European
+- Angels: European
 - No distinction between "Semitic" and "European"
 
-Artists depicted what they knew — themselves and their ancestors.
+Artists depicted what they knew, themselves and their ancestors.
 
 ---
 
@@ -167,11 +167,11 @@ The depiction of Israelites as dark "Middle Eastern" is:
 
 Ancient art proves:
 
-1. **Egyptian distinction** — Israelites different from Nubians
-2. **Assyrian depictions** — Semitic, not African
-3. **Early Christian art** — European features
-4. **Byzantine tradition** — Light-skinned Christ
-5. **Medieval continuity** — No distinction made
+1. **Egyptian distinction**: Israelites different from Nubians
+2. **Assyrian depictions**: Semitic, not African
+3. **Early Christian art**: European features
+4. **Byzantine tradition**: Light-skinned Christ
+5. **Medieval continuity**: No distinction made
 
 Ancient peoples depicted Israelites with European features because Israelites looked European.
 
@@ -187,9 +187,9 @@ Ancient peoples depicted Israelites with European features because Israelites lo
 
 ## Cross-References
 
-- [[14 - Ancient Artwork Depictions]] — Detailed art survey
-- [[76 - Magi Depicted European]] — Magi specifically
-- [[77 - Christ And Apostles European]] — Christ's appearance
+- [[14 - Ancient Artwork Depictions]]: Detailed art survey
+- [[76 - Magi Depicted European]]: Magi specifically
+- [[77 - Christ And Apostles European]]: Christ's appearance
 
 ---
 

@@ -11,23 +11,23 @@ The promises made to Abraham, Isaac, and Jacob were specific and measurable. Onl
 
 ### To Abraham
 
-> **Genesis 12:2-3** — "I will make of thee a **great nation**... and in thee shall **all families of the earth be blessed**."
+> **Genesis 12:2-3**: "I will make of thee a **great nation**... and in thee shall **all families of the earth be blessed**."
 
-> **Genesis 13:16** — "I will make thy seed as the **dust of the earth**: so that if a man can number the dust of the earth, then shall thy seed also be numbered."
+> **Genesis 13:16**: "I will make thy seed as the **dust of the earth**: so that if a man can number the dust of the earth, then shall thy seed also be numbered."
 
-> **Genesis 17:4-6** — "Thou shalt be a father of **many nations**... I will make thee exceeding fruitful, and I will make **nations** of thee, and **kings** shall come out of thee."
+> **Genesis 17:4-6**: "Thou shalt be a father of **many nations**... I will make thee exceeding fruitful, and I will make **nations** of thee, and **kings** shall come out of thee."
 
-> **Genesis 22:17-18** — "I will multiply thy seed as the **stars of the heaven**, and as the **sand which is upon the sea shore**; and thy seed shall **possess the gate of his enemies**."
+> **Genesis 22:17-18**: "I will multiply thy seed as the **stars of the heaven**, and as the **sand which is upon the sea shore**; and thy seed shall **possess the gate of his enemies**."
 
 ### To Isaac
 
-> **Genesis 26:4** — "I will make thy seed to multiply as the **stars of heaven**... and in thy seed shall **all the nations of the earth be blessed**."
+> **Genesis 26:4**: "I will make thy seed to multiply as the **stars of heaven**... and in thy seed shall **all the nations of the earth be blessed**."
 
 ### To Jacob
 
-> **Genesis 28:14** — "Thy seed shall be as the **dust of the earth**, and thou shalt **spread abroad to the west, and to the east, and to the north, and to the south**."
+> **Genesis 28:14**: "Thy seed shall be as the **dust of the earth**, and thou shalt **spread abroad to the west, and to the east, and to the north, and to the south**."
 
-> **Genesis 35:11** — "**A nation and a company of nations** shall be of thee, and **kings** shall come out of thy loins."
+> **Genesis 35:11**: "**A nation and a company of nations** shall be of thee, and **kings** shall come out of thy loins."
 
 ---
 
@@ -67,11 +67,11 @@ The promise of "many nations" is only fulfilled in Europe.
 
 ### "Company of Nations"
 
-> **Genesis 35:11** — "A nation and a company of nations shall be of thee."
+> **Genesis 35:11**: "A nation and a company of nations shall be of thee."
 
 This specifically prophesies:
-1. **A nation** (singular, great) — United States of America
-2. **A company of nations** — The British Commonwealth
+1. **A nation** (singular, great): United States of America
+2. **A company of nations**: The British Commonwealth
 
 The British Commonwealth at its height included:
 - Canada, Australia, New Zealand
@@ -82,7 +82,7 @@ No other entity in history matches "a company of nations."
 
 ### "Possess the Gate of His Enemies"
 
-> **Genesis 22:17** — "Thy seed shall possess the gate of his enemies."
+> **Genesis 22:17**: "Thy seed shall possess the gate of his enemies."
 
 "Gates" = strategic passages, chokepoints.
 
@@ -103,21 +103,21 @@ At their height, European powers controlled virtually every strategic waterway o
 
 ### "Bless All Nations"
 
-> **Genesis 12:3** — "In thee shall all families of the earth be blessed."
+> **Genesis 12:3**: "In thee shall all families of the earth be blessed."
 
 How have Europeans blessed all nations?
-1. **Christianity** — Spread the Gospel globally
-2. **Medicine** — Modern healthcare, vaccines, surgery
-3. **Technology** — Industrial revolution, electricity, computing
-4. **Agriculture** — Modern farming techniques
-5. **Law** — Constitutional government, human rights concepts
-6. **Education** — Universities, literacy, scientific method
+1. **Christianity**: Spread the Gospel globally
+2. **Medicine**: Modern healthcare, vaccines, surgery
+3. **Technology**: Industrial revolution, electricity, computing
+4. **Agriculture**: Modern farming techniques
+5. **Law**: Constitutional government, human rights concepts
+6. **Education**: Universities, literacy, scientific method
 
 No other civilization has blessed the world as comprehensively.
 
-### "Spread Abroad" — Global Colonization
+### "Spread Abroad" Global Colonization
 
-> **Genesis 28:14** — "Thou shalt spread abroad to the west, and to the east, and to the north, and to the south."
+> **Genesis 28:14**: "Thou shalt spread abroad to the west, and to the east, and to the north, and to the south."
 
 European colonization reached:
 - **West**: Americas (North and South)
@@ -168,9 +168,9 @@ Therefore, Europeans are Israel.
 ## Synthesis
 
 The promises to the patriarchs were:
-1. **Specific** — Not vague generalities
-2. **Measurable** — Many nations, gates, global spread
-3. **Fulfilled** — By one people group only
+1. **Specific**: Not vague generalities
+2. **Measurable**: Many nations, gates, global spread
+3. **Fulfilled**: By one people group only
 
 The European peoples are the only candidates who match all criteria:
 - Many nations ✓
@@ -195,9 +195,9 @@ The promises identify Israel. Israel is Europe.
 
 ## Cross-References
 
-- [[01 - Nations Abraham Seed]] — The foundational promises
-- [[17 - Ephraim Manasseh]] — The specific Britain/America prophecy
-- [[52 - Deuteronomy Blessings Curses]] — Blessings and curses applied
+- [[01 - Nations Abraham Seed]]: The foundational promises
+- [[17 - Ephraim Manasseh]]: The specific Britain/America prophecy
+- [[52 - Deuteronomy Blessings Curses]]: Blessings and curses applied
 
 ---
 

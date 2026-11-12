@@ -22,7 +22,7 @@ Europeans transformed medicine from superstition to science.
 
 ## The Biblical Motivation
 
-> **Matthew 25:36** — "I was sick, and ye visited me."
+> **Matthew 25:36**: "I was sick, and ye visited me."
 
 Christ healed. His followers built hospitals.
 
@@ -36,13 +36,13 @@ European medicine:
 - Reduced infant mortality
 - Continues to advance
 
-A blessing to all nations — as promised to Abraham's seed.
+A blessing to all nations, as promised to Abraham's seed.
 
 ---
 
 ## Synthesis
 
-Medical care reflects Israel's calling to bless all families of the earth — healing as service.
+Medical care reflects Israel's calling to bless all families of the earth, healing as service.
 
 ---
 

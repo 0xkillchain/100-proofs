@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Ancient Greek culture shares significant parallels with Israelite culture — law, religion, philosophy, and social structure. These parallels suggest common origin through Israelite migrations to Greece.
+Ancient Greek culture shares significant parallels with Israelite culture, law, religion, philosophy, and social structure. These parallels suggest common origin through Israelite migrations to Greece.
 
 ---
 
@@ -134,7 +134,7 @@ Both feature:
 
 ### Proverbs
 
-Greek gnomes (maxims) parallel Hebrew proverbs — short wisdom sayings.
+Greek gnomes (maxims) parallel Hebrew proverbs, short wisdom sayings.
 
 ### History Writing
 
@@ -162,9 +162,9 @@ If Dan was a seafaring tribe:
 
 ### Options
 
-1. **Coincidence** — Unlikely given the specificity
-2. **Borrowing** — Greeks borrowed from Near East (some true)
-3. **Common origin** — Israelites migrated to Greece
+1. **Coincidence**: Unlikely given the specificity
+2. **Borrowing**: Greeks borrowed from Near East (some true)
+3. **Common origin**: Israelites migrated to Greece
 
 ### The Migration Theory
 
@@ -185,7 +185,7 @@ Why did Greeks accept Christianity so readily?
 - Their culture was compatible
 - They recognized the truth
 
-Because they were Israelites — the sheep heard the Shepherd's voice.
+Because they were Israelites, the sheep heard the Shepherd's voice.
 
 ---
 
@@ -193,11 +193,11 @@ Because they were Israelites — the sheep heard the Shepherd's voice.
 
 Greek-Israelite cultural parallels prove:
 
-1. **Legal similarities** — Written law, courts, proportionality
-2. **Religious echoes** — Sacrifice, festivals, priesthood
-3. **Philosophical overlap** — Wisdom, Logos, ethics
-4. **Social structure** — Tribes, assemblies, citizen armies
-5. **Danaan connection** — Dan in Greek memory
+1. **Legal similarities**: Written law, courts, proportionality
+2. **Religious echoes**: Sacrifice, festivals, priesthood
+3. **Philosophical overlap**: Wisdom, Logos, ethics
+4. **Social structure**: Tribes, assemblies, citizen armies
+5. **Danaan connection**: Dan in Greek memory
 
 Greek culture's parallels with Israelite culture suggest common Israelite origin.
 
@@ -213,9 +213,9 @@ Greek culture's parallels with Israelite culture suggest common Israelite origin
 
 ## Cross-References
 
-- [[09 - Greeks Romans Were Israelites]] — Greek Israelite identity
-- [[15 - Language Connections]] — Linguistic parallels
-- [[73 - New Testament In Greek]] — Why Greek for NT
+- [[09 - Greeks Romans Were Israelites]]: Greek Israelite identity
+- [[15 - Language Connections]]: Linguistic parallels
+- [[73 - New Testament In Greek]]: Why Greek for NT
 
 ---
 

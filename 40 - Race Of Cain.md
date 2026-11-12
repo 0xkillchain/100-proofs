@@ -17,21 +17,21 @@ Cain was not Adam's son but the offspring of Eve and the serpent (Satan or a fal
 
 Cain was "of" (from, out of) "that wicked one" (the devil).
 
-This is not figurative — John uses *ek* to indicate origin. Cain's father was the wicked one.
+This is not figurative, John uses *ek* to indicate origin. Cain's father was the wicked one.
 
 ### Comparison with Abel
 
-> **Genesis 4:1** — "And Adam knew Eve his wife; and she conceived, and bare Cain."
+> **Genesis 4:1**: "And Adam knew Eve his wife; and she conceived, and bare Cain."
 
 The text says Adam "knew" Eve and she conceived and bore Cain. But:
 
-> **Genesis 4:2** — "And she **again** bare his brother Abel."
+> **Genesis 4:2**: "And she **again** bare his brother Abel."
 
-"Again" (Hebrew: *yasaph*) can mean "continued" — suggesting a single conception event producing two sons (twins from different fathers — heteropaternal superfecundation).
+"Again" (Hebrew: *yasaph*) can mean "continued", suggesting a single conception event producing two sons (twins from different fathers, heteropaternal superfecundation).
 
-> **Genesis 4:25** — "And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me **another seed instead of Abel**."
+> **Genesis 4:25**: "And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me **another seed instead of Abel**."
 
-Eve said Seth was appointed "instead of Abel" — not "instead of Cain." Cain was not counted as Adam's seed.
+Eve said Seth was appointed "instead of Abel", not "instead of Cain." Cain was not counted as Adam's seed.
 
 ---
 
@@ -53,7 +53,7 @@ Cain's line includes:
 - Enoch (different from Seth's Enoch)
 - Irad, Mehujael, Methusael, Lamech (different from Seth's Lamech)
 
-Two distinct genealogies — two distinct races.
+Two distinct genealogies, two distinct races.
 
 ---
 
@@ -61,19 +61,19 @@ Two distinct genealogies — two distinct races.
 
 ### Who Was the Serpent?
 
-> **Revelation 12:9** — "And the great dragon was cast out, that **old serpent, called the Devil, and Satan**, which deceiveth the whole world."
+> **Revelation 12:9**: "And the great dragon was cast out, that **old serpent, called the Devil, and Satan**, which deceiveth the whole world."
 
-The serpent in Eden was Satan — a spiritual being who took physical form.
+The serpent in Eden was Satan, a spiritual being who took physical form.
 
 ### What Happened?
 
-> **Genesis 3:13** — "And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The **serpent beguiled me**, and I did eat."
+> **Genesis 3:13**: "And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The **serpent beguiled me**, and I did eat."
 
 "Beguiled" (Hebrew: *nasha*) = seduced, deceived
 
-In 2 Corinthians 11:3, Paul uses *exapatao* for the same event — a word used for seduction.
+In 2 Corinthians 11:3, Paul uses *exapatao* for the same event, a word used for seduction.
 
-> **Genesis 3:6** — "She took of the fruit thereof, and did eat, and gave also unto her husband."
+> **Genesis 3:6**: "She took of the fruit thereof, and did eat, and gave also unto her husband."
 
 "Eat" (*akal*) is used elsewhere for sexual relations (Proverbs 30:20). The "fruit" was not literal fruit but carnal knowledge with the serpent.
 
@@ -86,8 +86,8 @@ In 2 Corinthians 11:3, Paul uses *exapatao* for the same event — a word used f
 > "And I will put **enmity between thee and the woman, and between thy seed and her seed**; it shall bruise thy head, and thou shalt bruise his heel."
 
 Two seeds are prophesied:
-1. **Her seed** — Eve's line through Seth → eventually to Christ
-2. **Thy seed** — The serpent's line through Cain
+1. **Her seed**: Eve's line through Seth → eventually to Christ
+2. **Thy seed**: The serpent's line through Cain
 
 This enmity is:
 - Perpetual
@@ -110,13 +110,13 @@ The conflict between these two seeds runs through Scripture:
 
 Cain's line is characterized by:
 - Murder (Cain killed Abel; Lamech boasted of killing)
-- Worldly achievement (Jubal — music; Tubal-Cain — metalwork)
+- Worldly achievement (Jubal: music; Tubal-Cain: metalwork)
 - Arrogance
 - Violence
 
 ### Where Did They Go?
 
-> **Genesis 4:16** — "And Cain went out from the presence of the LORD, and dwelt in the **land of Nod**, on the east of Eden."
+> **Genesis 4:16**: "And Cain went out from the presence of the LORD, and dwelt in the **land of Nod**, on the east of Eden."
 
 Cain settled separately from Adam's line. His descendants:
 - Multiplied
@@ -129,17 +129,17 @@ Cain settled separately from Adam's line. His descendants:
 
 ### Canaan's Curse
 
-> **Genesis 9:25** — "Cursed be **Canaan**; a servant of servants shall he be unto his brethren."
+> **Genesis 9:25**: "Cursed be **Canaan**; a servant of servants shall he be unto his brethren."
 
-Why was Canaan cursed for Ham's sin? Possibly because Canaan's mother was of Cain's line — the curse recognized existing corruption.
+Why was Canaan cursed for Ham's sin? Possibly because Canaan's mother was of Cain's line, the curse recognized existing corruption.
 
 ### Canaanites and Kenites
 
 The Kenites were descendants of Cain (*Qayin* → Kenite). They lived among the Canaanites and later infiltrated Israel.
 
-> **1 Chronicles 2:55** — "The families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, and Suchathites. These are the **Kenites** that came of Hemath, the father of the house of Rechab."
+> **1 Chronicles 2:55**: "The families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, and Suchathites. These are the **Kenites** that came of Hemath, the father of the house of Rechab."
 
-Kenites (Cain's descendants) became scribes in Israel — influencing the copying and interpretation of Scripture.
+Kenites (Cain's descendants) became scribes in Israel, influencing the copying and interpretation of Scripture.
 
 ---
 
@@ -149,7 +149,7 @@ Kenites (Cain's descendants) became scribes in Israel — influencing the copyin
 
 > "Ye are of **your father the devil**, and the lusts of your father ye will do. He was a **murderer from the beginning**."
 
-The devil was a "murderer from the beginning" — Cain was the first murderer. Christ identified His enemies as descendants of Cain/the serpent.
+The devil was a "murderer from the beginning", Cain was the first murderer. Christ identified His enemies as descendants of Cain/the serpent.
 
 ### Matthew 23:35
 
@@ -163,11 +163,11 @@ Why would they be responsible for Abel's blood? Because they descended from his 
 
 The race of Cain explains:
 
-1. **Cain's origin** — "Of that wicked one" (1 John 3:12)
-2. **Two genealogies** — Adam's line vs. Cain's line
-3. **Two seeds** — Genesis 3:15 prophecy
-4. **Perpetual enmity** — Between the seedlines
-5. **Christ's enemies** — Children of the devil, from a "murderer from the beginning"
+1. **Cain's origin**: "Of that wicked one" (1 John 3:12)
+2. **Two genealogies**: Adam's line vs. Cain's line
+3. **Two seeds**: Genesis 3:15 prophecy
+4. **Perpetual enmity**: Between the seedlines
+5. **Christ's enemies**: Children of the devil, from a "murderer from the beginning"
 
 The serpent seed continues through history, opposing God's people.
 
@@ -183,10 +183,10 @@ The serpent seed continues through history, opposing God's people.
 
 ## Cross-References
 
-- [[41 - Nephilim And Fallen Angels]] — Angelic corruption
-- [[42 - Genesis 6]] — The corruption of flesh
-- [[43 - Two Trees In The Garden]] — Symbolic interpretation
-- [[39 - Christ Identified His Adversaries]] — Christ's recognition
+- [[41 - Nephilim And Fallen Angels]]: Angelic corruption
+- [[42 - Genesis 6]]: The corruption of flesh
+- [[43 - Two Trees In The Garden]]: Symbolic interpretation
+- [[39 - Christ Identified His Adversaries]]: Christ's recognition
 
 ---
 

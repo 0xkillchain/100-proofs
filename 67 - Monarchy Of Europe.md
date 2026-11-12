@@ -26,7 +26,7 @@ Judah was promised:
 
 > "When thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee... I will establish the throne of his kingdom for ever... **thy throne shall be established for ever**."
 
-David's throne was promised perpetuity — forever.
+David's throne was promised perpetuity, forever.
 
 ### Jeremiah 33:17
 
@@ -96,7 +96,7 @@ European coronations included:
 
 ### Psalm 72 at Coronations
 
-British coronations traditionally include Psalm 72 — a psalm about the ideal Davidic king.
+British coronations traditionally include Psalm 72, a psalm about the ideal Davidic king.
 
 ---
 
@@ -111,7 +111,7 @@ If Jacob's prophecy is true:
 
 If Christ came and the sceptre had departed, the prophecy failed.
 
-**Solution:** The sceptre transferred to European monarchies — Israelite (Judahite) kings ruling scattered Israel.
+**Solution:** The sceptre transferred to European monarchies, Israelite (Judahite) kings ruling scattered Israel.
 
 ---
 
@@ -119,14 +119,14 @@ If Christ came and the sceptre had departed, the prophecy failed.
 
 ### Forever Means Forever
 
-> **Psalm 89:34-37** — "My covenant will I not break, nor alter the thing that is gone out of my lips. Once have I sworn by my holiness that I will not lie unto David. **His seed shall endure for ever**, and **his throne as the sun before me**."
+> **Psalm 89:34-37**: "My covenant will I not break, nor alter the thing that is gone out of my lips. Once have I sworn by my holiness that I will not lie unto David. **His seed shall endure for ever**, and **his throne as the sun before me**."
 
 The covenant is:
 - Unbreakable
 - David's seed endures
 - Throne continues "as the sun"
 
-This requires a continuing monarchy — which European royalty provides.
+This requires a continuing monarchy, which European royalty provides.
 
 ---
 
@@ -153,11 +153,11 @@ Other surviving monarchies (Scandinavia, Spain, Netherlands) also:
 
 European monarchy proves:
 
-1. **Jacob's prophecy** — Sceptre to Judah
-2. **David's covenant** — Throne forever
-3. **Transfer tradition** — Tea-Tephi to Ireland
-4. **Coronation practices** — Israelite elements
-5. **Continuing monarchy** — Fulfills "shall not depart"
+1. **Jacob's prophecy**: Sceptre to Judah
+2. **David's covenant**: Throne forever
+3. **Transfer tradition**: Tea-Tephi to Ireland
+4. **Coronation practices**: Israelite elements
+5. **Continuing monarchy**: Fulfills "shall not depart"
 
 European monarchs are the continuation of Judah's sceptre, ruling over scattered Israel.
 
@@ -173,9 +173,9 @@ European monarchs are the continuation of Judah's sceptre, ruling over scattered
 
 ## Cross-References
 
-- [[11 - Celts Were Israelites]] — Ireland connection
-- [[02 - Symbols Heraldry Twelve Tribes]] — Royal symbols
-- [[18 - Jacobs Blessing Twelve Tribes]] — Judah's blessing
+- [[11 - Celts Were Israelites]]: Ireland connection
+- [[02 - Symbols Heraldry Twelve Tribes]]: Royal symbols
+- [[18 - Jacobs Blessing Twelve Tribes]]: Judah's blessing
 
 ---
 

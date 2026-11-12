@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Europeans developed a unique Christian civilization characterized by specific values — individual rights, rule of law, charity, scientific inquiry, and moral conscience. These traits reflect Israel's calling and covenant character.
+Europeans developed a unique Christian civilization characterized by specific values, individual rights, rule of law, charity, scientific inquiry, and moral conscience. These traits reflect Israel's calling and covenant character.
 
 ---
 
@@ -57,7 +57,7 @@ These traits reflect Israel's calling:
 
 ## Synthesis
 
-European Christian character reflects Israel's covenant nature — a people called to be holy, just, merciful, and wise.
+European Christian character reflects Israel's covenant nature, a people called to be holy, just, merciful, and wise.
 
 ---
 

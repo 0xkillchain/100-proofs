@@ -40,17 +40,17 @@ This quotes 1 Enoch 1:9 almost verbatim. Jude treated Enoch's prophecy as authen
 
 ### 1 Enoch 6-11
 
-Enoch describes the "Watchers" — angels who:
+Enoch describes the "Watchers", angels who:
 - Descended to earth
 - Took human wives
 - Produced the Nephilim
 - Taught forbidden knowledge
 
-> **1 Enoch 6:1-2** — "And it came to pass when the children of men had multiplied that in those days were born unto them beautiful and comely daughters. And the **angels, the children of the heaven, saw and lusted after them**."
+> **1 Enoch 6:1-2**: "And it came to pass when the children of men had multiplied that in those days were born unto them beautiful and comely daughters. And the **angels, the children of the heaven, saw and lusted after them**."
 
 ### The Offspring
 
-> **1 Enoch 7:2-5** — "And they became pregnant, and they bare great **giants**... who consumed all the acquisitions of men. And when men could no longer sustain them, the giants turned against them and devoured mankind."
+> **1 Enoch 7:2-5**: "And they became pregnant, and they bare great **giants**... who consumed all the acquisitions of men. And when men could no longer sustain them, the giants turned against them and devoured mankind."
 
 This expands on Genesis 6:1-4:
 - Angels mating with humans
@@ -63,7 +63,7 @@ This expands on Genesis 6:1-4:
 
 ### Why the Flood
 
-> **1 Enoch 10:1-3** — "Then said the Most High... Go to Noah and tell him in my name 'Hide thyself!' and reveal to him the end that is approaching: that **the whole earth will be destroyed**, and a deluge is about to come upon the whole earth."
+> **1 Enoch 10:1-3**: "Then said the Most High... Go to Noah and tell him in my name 'Hide thyself!' and reveal to him the end that is approaching: that **the whole earth will be destroyed**, and a deluge is about to come upon the whole earth."
 
 The Flood was judgment on:
 - The Watchers' sin
@@ -72,7 +72,7 @@ The Flood was judgment on:
 
 ### Binding of the Angels
 
-> **1 Enoch 10:4-6** — "Bind Azazel hand and foot, and **cast him into the darkness**: and make an opening in the desert, which is in Dudael, and cast him therein."
+> **1 Enoch 10:4-6**: "Bind Azazel hand and foot, and **cast him into the darkness**: and make an opening in the desert, which is in Dudael, and cast him therein."
 
 This parallels:
 - Jude 6: Angels "in everlasting chains under darkness"
@@ -94,9 +94,9 @@ The Book of Enoch understands:
 
 Enoch frequently references the "elect":
 
-> **1 Enoch 1:1** — "The words of the blessing of Enoch, wherewith he blessed the **elect and righteous**, who will be living in the day of tribulation."
+> **1 Enoch 1:1**: "The words of the blessing of Enoch, wherewith he blessed the **elect and righteous**, who will be living in the day of tribulation."
 
-The "elect" are God's chosen people — Israel.
+The "elect" are God's chosen people, Israel.
 
 ---
 
@@ -106,15 +106,15 @@ The "elect" are God's chosen people — Israel.
 
 1 Enoch contains prophecies of the "Son of Man":
 
-> **1 Enoch 46:1-3** — "And there I saw One who had a head of days, And His head was white like wool, And with Him was another being whose countenance had the appearance of a man, And his face was full of graciousness, like one of the holy angels."
+> **1 Enoch 46:1-3**: "And there I saw One who had a head of days, And His head was white like wool, And with Him was another being whose countenance had the appearance of a man, And his face was full of graciousness, like one of the holy angels."
 
 This influenced how Jews understood Daniel 7 and prepared for Christ.
 
 ### Judgment on the Wicked
 
-> **1 Enoch 63:11** — "And now we long for a little rest but find it not: We are driven off and obtain it not."
+> **1 Enoch 63:11**: "And now we long for a little rest but find it not: We are driven off and obtain it not."
 
-The wicked will find no rest — judgment awaits.
+The wicked will find no rest, judgment awaits.
 
 ---
 
@@ -156,11 +156,11 @@ Like the Apocrypha, Enoch witnesses to:
 
 The Book of Enoch confirms:
 
-1. **Angelic sin** — Watchers mated with humans
-2. **Nephilim** — Giant offspring
-3. **Judgment** — Flood as cleansing
-4. **Two seeds** — Elect vs. wicked
-5. **Early understanding** — How Jews read Genesis 6
+1. **Angelic sin**: Watchers mated with humans
+2. **Nephilim**: Giant offspring
+3. **Judgment**: Flood as cleansing
+4. **Two seeds**: Elect vs. wicked
+5. **Early understanding**: How Jews read Genesis 6
 
 Enoch provides context for the two seedlines doctrine and the corruption that necessitated the Flood.
 
@@ -176,9 +176,9 @@ Enoch provides context for the two seedlines doctrine and the corruption that ne
 
 ## Cross-References
 
-- [[41 - Nephilim And Fallen Angels]] — Genesis 6 connection
-- [[42 - Genesis 6]] — The corruption
-- [[48 - Judes Warnings]] — Jude's use of Enoch
+- [[41 - Nephilim And Fallen Angels]]: Genesis 6 connection
+- [[42 - Genesis 6]]: The corruption
+- [[48 - Judes Warnings]]: Jude's use of Enoch
 
 ---
 

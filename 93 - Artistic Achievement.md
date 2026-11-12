@@ -3,7 +3,7 @@
 
 ## The Claim
 
-European art — cathedrals, paintings, music, literature — represents unparalleled creative achievement. This reflects Israel's worship tradition and the human capacity for beauty as image-bearers of God.
+European art, cathedrals, paintings, music, literature, represents unparalleled creative achievement. This reflects Israel's worship tradition and the human capacity for beauty as image-bearers of God.
 
 ---
 
@@ -30,7 +30,7 @@ European art was overwhelmingly:
 ## The Image of God
 
 Creativity reflects being made in God's image:
-> **Genesis 1:27** — "God created man in his own image."
+> **Genesis 1:27**: "God created man in his own image."
 
 The Creator's children create.
 
@@ -38,7 +38,7 @@ The Creator's children create.
 
 ## Synthesis
 
-Artistic achievement reflects Israel's worship and image-bearing nature — creating beauty for God's glory.
+Artistic achievement reflects Israel's worship and image-bearing nature, creating beauty for God's glory.
 
 ---
 

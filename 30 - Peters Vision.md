@@ -1,9 +1,9 @@
 
-# Proof 30: Peter's Vision — Cleansing the Dispersed
+# Proof 30: Peter's Vision Cleansing the Dispersed
 
 ## The Claim
 
-Peter's vision of the unclean animals (Acts 10) is commonly misinterpreted as abolishing food laws or opening salvation to all races. In context, it declared the dispersed Israelites "clean" — no longer unclean due to their time among the nations.
+Peter's vision of the unclean animals (Acts 10) is commonly misinterpreted as abolishing food laws or opening salvation to all races. In context, it declared the dispersed Israelites "clean", no longer unclean due to their time among the nations.
 
 ---
 
@@ -28,7 +28,7 @@ Problems with this view:
 
 Problems with this view:
 - The context is about Israelites, not all races
-- Peter went to Cornelius — a Roman (European)
+- Peter went to Cornelius: a Roman (European)
 - Peter's conclusion was about Israelites being cleansed, not about universal salvation
 
 ---
@@ -45,7 +45,7 @@ Peter understood the vision was about **people**, not food.
 
 > "Then Peter opened his mouth, and said, Of a truth I perceive that **God is no respecter of persons**: But in every nation he that feareth him, and worketh righteousness, is accepted with him."
 
-"Every nation" — the nations of scattered Israel. Those who fear God and work righteousness (among the Israelite nations) are accepted.
+"Every nation", the nations of scattered Israel. Those who fear God and work righteousness (among the Israelite nations) are accepted.
 
 ---
 
@@ -53,17 +53,17 @@ Peter understood the vision was about **people**, not food.
 
 ### Who Was Cornelius?
 
-> **Acts 10:1-2** — "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band, A **devout man, and one that feared God** with all his house, which gave much alms to the people, and prayed to God alway."
+> **Acts 10:1-2**: "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band, A **devout man, and one that feared God** with all his house, which gave much alms to the people, and prayed to God alway."
 
 Cornelius was:
 - A Roman centurion (European)
-- A "God-fearer" — attached to Israelite worship
+- A "God-fearer": attached to Israelite worship
 - Already giving alms to "the people" (Israel)
 - Already praying to the God of Israel
 
 Why would a random pagan Roman fear the God of Israel, give to Israel, and pray to Israel's God?
 
-**Because he was an Israelite** — dispersed among the nations, living in the Roman world, but still connected to his heritage.
+**Because he was an Israelite**, dispersed among the nations, living in the Roman world, but still connected to his heritage.
 
 ---
 
@@ -76,7 +76,7 @@ Under the Old Covenant, Israelites who:
 - Lost their identity
 - Didn't keep the ceremonial law
 
-...became ritually "unclean" — separated from the covenant community.
+...became ritually "unclean", separated from the covenant community.
 
 ### The Cleansing
 
@@ -86,7 +86,7 @@ Peter's vision declared:
 - They can be received back into the covenant community
 - Peter should not call them "unclean" or avoid them
 
-> **Acts 10:15** — "What God hath cleansed, that call not thou common."
+> **Acts 10:15**: "What God hath cleansed, that call not thou common."
 
 God cleansed the dispersed Israelites through Christ's sacrifice.
 
@@ -98,9 +98,9 @@ God cleansed the dispersed Israelites through Christ's sacrifice.
 
 Peter explained the vision to the Jerusalem church:
 
-> **v.17-18** — "Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God? When they heard these things, they held their peace, and **glorified God, saying, Then hath God also to the Gentiles [nations] granted repentance unto life**."
+> **v.17-18**: "Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God? When they heard these things, they held their peace, and **glorified God, saying, Then hath God also to the Gentiles [nations] granted repentance unto life**."
 
-The "Gentiles" (nations) granted repentance are the dispersed Israelite nations — now cleansed and able to receive the Gospel.
+The "Gentiles" (nations) granted repentance are the dispersed Israelite nations, now cleansed and able to receive the Gospel.
 
 ---
 
@@ -108,19 +108,19 @@ The "Gentiles" (nations) granted repentance are the dispersed Israelite nations 
 
 ### The Background
 
-> **Hosea 1:9** — "Call his name Loammi: for ye are **not my people**."
+> **Hosea 1:9**: "Call his name Loammi: for ye are **not my people**."
 
-> **Hosea 2:23** — "I will say to them which were not my people, **Thou art my people**."
+> **Hosea 2:23**: "I will say to them which were not my people, **Thou art my people**."
 
-The Northern Kingdom was declared "not my people" — unclean, outside the covenant.
+The Northern Kingdom was declared "not my people", unclean, outside the covenant.
 
 Peter's vision reversed this: those who were "unclean" (not my people) are now "clean" (my people again).
 
 ### Peter Quotes Hosea
 
-> **1 Peter 2:10** — "Which in time past were **not a people**, but are now **the people of God**: which had **not obtained mercy**, but now have **obtained mercy**."
+> **1 Peter 2:10**: "Which in time past were **not a people**, but are now **the people of God**: which had **not obtained mercy**, but now have **obtained mercy**."
 
-Peter applies Hosea's prophecy to his European audience — because they are the dispersed Israelites Hosea prophesied about.
+Peter applies Hosea's prophecy to his European audience, because they are the dispersed Israelites Hosea prophesied about.
 
 ---
 
@@ -146,13 +146,13 @@ The vision says:
 
 Peter's vision proves:
 
-1. **Context is people, not food** — Peter's own interpretation
-2. **Cornelius was a God-fearer** — Already connected to Israel
-3. **"Unclean" referred to scattered Israel** — Dispersed, outside the covenant
-4. **Christ cleansed them** — The blood removed the barrier
-5. **Hosea's prophecy fulfilled** — "Not my people" becomes "my people"
+1. **Context is people, not food**: Peter's own interpretation
+2. **Cornelius was a God-fearer**: Already connected to Israel
+3. **"Unclean" referred to scattered Israel**: Dispersed, outside the covenant
+4. **Christ cleansed them**: The blood removed the barrier
+5. **Hosea's prophecy fulfilled**: "Not my people" becomes "my people"
 
-The vision opened the door to dispersed Israelites in Europe — not to all races universally.
+The vision opened the door to dispersed Israelites in Europe, not to all races universally.
 
 ---
 
@@ -166,9 +166,9 @@ The vision opened the door to dispersed Israelites in Europe — not to all race
 
 ## Cross-References
 
-- [[03 - Who Did Apostles Write To]] — Peter's audience
-- [[23 - New Covenant]] — The cleansing covenant
-- [[26 - Ministry Of Reconciliation]] — Reconciling the scattered
+- [[03 - Who Did Apostles Write To]]: Peter's audience
+- [[23 - New Covenant]]: The cleansing covenant
+- [[26 - Ministry Of Reconciliation]]: Reconciling the scattered
 
 ---
 

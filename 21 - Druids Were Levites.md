@@ -3,7 +3,7 @@
 
 ## The Claim
 
-The Druids of Britain and Gaul functioned exactly like Levitical priests: teaching the law, keeping genealogies, judging disputes, and performing sacrifices. When Christianity arrived, Druids readily converted — they had been awaiting the Messiah.
+The Druids of Britain and Gaul functioned exactly like Levitical priests: teaching the law, keeping genealogies, judging disputes, and performing sacrifices. When Christianity arrived, Druids readily converted, they had been awaiting the Messiah.
 
 ---
 
@@ -86,13 +86,13 @@ The High Priest of Israel:
 ### Theological Parallels
 
 **Immortality of the soul:**
-Caesar noted Druids believed in the soul's immortality and transmigration — a distorted memory of resurrection?
+Caesar noted Druids believed in the soul's immortality and transmigration, a distorted memory of resurrection?
 
 **One supreme God:**
-Above their pantheon, Druids acknowledged a supreme deity — possibly a faded memory of Yahweh.
+Above their pantheon, Druids acknowledged a supreme deity, possibly a faded memory of Yahweh.
 
 **Sacred groves:**
-Druids worshipped in oak groves — Israel also had sacred groves (before apostasy made them idolatrous).
+Druids worshipped in oak groves, Israel also had sacred groves (before apostasy made them idolatrous).
 
 **Mistletoe ceremony:**
 The cutting of mistletoe with a golden sickle may echo Levitical harvest rituals.
@@ -148,7 +148,7 @@ The Culdees ("servants of God") were Celtic Christian monks who:
 
 - Human sacrifice was practiced in Israel during apostasy (2 Kings 16:3)
 - The Druids may have fallen into similar apostasy
-- This doesn't negate their Levitical origin — it confirms they followed Israel's pattern of faithfulness and apostasy
+- This doesn't negate their Levitical origin: it confirms they followed Israel's pattern of faithfulness and apostasy
 
 ### "Druidism is too different from Judaism"
 
@@ -163,11 +163,11 @@ The Culdees ("servants of God") were Celtic Christian monks who:
 
 The Druids were Levites because:
 
-1. **Identical functions** — Teaching, judging, sacrificing, genealogies
-2. **Identical structure** — High priest, scattered among tribes, no land
-3. **Identical exemptions** — No military service, no taxation
-4. **Ready conversion** — Recognized Christ as Messiah
-5. **Continuation** — Became Christian clergy seamlessly
+1. **Identical functions**: Teaching, judging, sacrificing, genealogies
+2. **Identical structure**: High priest, scattered among tribes, no land
+3. **Identical exemptions**: No military service, no taxation
+4. **Ready conversion**: Recognized Christ as Messiah
+5. **Continuation**: Became Christian clergy seamlessly
 
 The Levites migrated with the other tribes. In Britain and Gaul, they became known as Druids. When Christ came, they recognized Him and converted.
 
@@ -183,9 +183,9 @@ The Levites migrated with the other tribes. In Britain and Gaul, they became kno
 
 ## Cross-References
 
-- [[11 - Celts Were Israelites]] — The Celtic-Israelite connection
-- [[22 - Christianity Only Spread To Europeans]] — Why Celts converted
-- [[03 - Who Did Apostles Write To]] — The apostolic mission
+- [[11 - Celts Were Israelites]]: The Celtic-Israelite connection
+- [[22 - Christianity Only Spread To Europeans]]: Why Celts converted
+- [[03 - Who Did Apostles Write To]]: The apostolic mission
 
 ---
 

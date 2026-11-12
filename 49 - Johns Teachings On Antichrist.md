@@ -3,7 +3,7 @@
 
 ## The Claim
 
-John identified "antichrists" who had gone out from among the believers. These were not merely doctrinal opponents but were of a different nature — "not of us" — and could be identified by their denial of Christ and hatred of the brethren.
+John identified "antichrists" who had gone out from among the believers. These were not merely doctrinal opponents but were of a different nature, "not of us", and could be identified by their denial of Christ and hatred of the brethren.
 
 ---
 
@@ -33,7 +33,7 @@ Key insight:
 - They were never truly "of us"
 - Their departure revealed their true nature
 
-This is not about Christians who backslid. These were never genuine — "not of us" in nature.
+This is not about Christians who backslid. These were never genuine, "not of us" in nature.
 
 ---
 
@@ -63,15 +63,15 @@ The test:
 
 > "Beloved, believe not every spirit, but **try the spirits** whether they are of God: because **many false prophets are gone out into the world**."
 
-There is a spirit behind the antichrists — not just intellectual disagreement but spiritual opposition.
+There is a spirit behind the antichrists, not just intellectual disagreement but spiritual opposition.
 
 ### 1 John 4:4-5
 
 > "Ye are of God, little children, and have overcome them: because **greater is he that is in you**, than he that is in the world. **They are of the world**: therefore speak they of the world, and the world heareth them."
 
 Two groups:
-1. "Ye are of God" — believers, Israelites
-2. "They are of the world" — antichrists, worldly origin
+1. "Ye are of God": believers, Israelites
+2. "They are of the world": antichrists, worldly origin
 
 The world hears them because they are of the same nature.
 
@@ -84,10 +84,10 @@ The world hears them because they are of the same nature.
 > "In this the children of God are manifest, and **the children of the devil**: whosoever doeth not righteousness is not of God, neither he that loveth not his brother. For this is the message that ye heard from the beginning, that we should love one another. **Not as Cain, who was of that wicked one**, and slew his brother."
 
 The distinction:
-- Children of God — do righteousness, love brethren
-- Children of the devil — don't love, like Cain
+- Children of God: do righteousness, love brethren
+- Children of the devil: don't love, like Cain
 
-Cain is the prototype of antichrist — "of that wicked one."
+Cain is the prototype of antichrist, "of that wicked one."
 
 ### 1 John 3:14-15
 
@@ -104,8 +104,8 @@ Hatred of the brethren = spiritual murder = no eternal life.
 > "He that committeth sin is of the devil; for **the devil sinneth from the beginning**. For this purpose the Son of God was manifested, that he might destroy the works of the devil. Whosoever is born of God doth not commit sin; for **his seed remaineth in him**: and he cannot sin, because he is born of God. In this the children of God are manifest, and **the children of the devil**."
 
 Two seeds:
-- Children of God — His seed is in them
-- Children of the devil — from a different origin
+- Children of God: His seed is in them
+- Children of the devil: from a different origin
 
 This is lineage, not just behavior.
 
@@ -157,12 +157,12 @@ This connects to the antichrist spirit John described.
 
 John's teaching on antichrist reveals:
 
-1. **Many antichrists exist** — Not just one future figure
-2. **They infiltrated** — Were among believers, then left
-3. **Not of us** — Different nature, not just different belief
-4. **Deny Christ** — His identity, His incarnation
-5. **Children of the devil** — Like Cain, same lineage
-6. **Synagogue of Satan** — Claiming Israel's identity falsely
+1. **Many antichrists exist**: Not just one future figure
+2. **They infiltrated**: Were among believers, then left
+3. **Not of us**: Different nature, not just different belief
+4. **Deny Christ**: His identity, His incarnation
+5. **Children of the devil**: Like Cain, same lineage
+6. **Synagogue of Satan**: Claiming Israel's identity falsely
 
 The antichrist spirit is the spirit of the serpent seed opposing Christ and His people.
 
@@ -178,9 +178,9 @@ The antichrist spirit is the spirit of the serpent seed opposing Christ and His 
 
 ## Cross-References
 
-- [[39 - Christ Identified His Adversaries]] — Christ's recognition
-- [[40 - Race Of Cain]] — The Cain connection
-- [[38 - Edomite Infiltration]] — Who they are historically
+- [[39 - Christ Identified His Adversaries]]: Christ's recognition
+- [[40 - Race Of Cain]]: The Cain connection
+- [[38 - Edomite Infiltration]]: Who they are historically
 
 ---
 

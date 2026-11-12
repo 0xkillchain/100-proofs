@@ -62,9 +62,9 @@ As Europe:
 
 This matches Deuteronomy 28's curses:
 
-> **Deuteronomy 28:25** — "The LORD shall cause thee to be **smitten before thine enemies**."
+> **Deuteronomy 28:25**: "The LORD shall cause thee to be **smitten before thine enemies**."
 
-> **Deuteronomy 28:43** — "The stranger that is within thee shall get up **above thee** very high."
+> **Deuteronomy 28:43**: "The stranger that is within thee shall get up **above thee** very high."
 
 ---
 
@@ -74,9 +74,9 @@ This matches Deuteronomy 28's curses:
 
 The full prophecy describes future dominance:
 
-> **Isaiah 60:14** — "The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet."
+> **Isaiah 60:14**: "The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet."
 
-> **Isaiah 61:6** — "Ye shall eat the riches of the Gentiles [nations], and in their glory shall ye boast yourselves."
+> **Isaiah 61:6**: "Ye shall eat the riches of the Gentiles [nations], and in their glory shall ye boast yourselves."
 
 This awaits fulfillment when:
 - Israel is restored
@@ -136,11 +136,11 @@ European history follows this pattern exactly.
 
 Nations fearing Israel proves:
 
-1. **Prophesied** — Deuteronomy, Isaiah, Micah
-2. **Fulfilled historically** — European dominance
-3. **Lost through apostasy** — Modern decline
-4. **Future restoration** — Under Christ
-5. **Identifies Israel** — Europeans match the pattern
+1. **Prophesied**: Deuteronomy, Isaiah, Micah
+2. **Fulfilled historically**: European dominance
+3. **Lost through apostasy**: Modern decline
+4. **Future restoration**: Under Christ
+5. **Identifies Israel**: Europeans match the pattern
 
 The nations feared European powers when they were faithful. They will fear restored Israel again under Christ.
 
@@ -156,9 +156,9 @@ The nations feared European powers when they were faithful. They will fear resto
 
 ## Cross-References
 
-- [[52 - Deuteronomy Blessings Curses]] — Blessings and curses
-- [[16 - Promises Only Europeans Fulfilled]] — Historical fulfillment
-- [[63 - Regathering To Palestine]] — Future restoration
+- [[52 - Deuteronomy Blessings Curses]]: Blessings and curses
+- [[16 - Promises Only Europeans Fulfilled]]: Historical fulfillment
+- [[63 - Regathering To Palestine]]: Future restoration
 
 ---
 

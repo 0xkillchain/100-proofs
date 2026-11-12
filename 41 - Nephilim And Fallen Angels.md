@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Fallen angels mated with human women, producing the Nephilim — giant hybrid beings. This corruption of the human race was a primary reason for the Flood. The Nephilim bloodline survived through various means and continues to oppose God's people.
+Fallen angels mated with human women, producing the Nephilim, giant hybrid beings. This corruption of the human race was a primary reason for the Flood. The Nephilim bloodline survived through various means and continues to oppose God's people.
 
 ---
 
@@ -21,13 +21,13 @@ Fallen angels mated with human women, producing the Nephilim — giant hybrid be
 
 "Sons of God" (Hebrew: *bene elohim*) in the Old Testament refers to angels:
 
-> **Job 1:6** — "Now there was a day when the **sons of God** came to present themselves before the LORD, and **Satan** came also among them."
+> **Job 1:6**: "Now there was a day when the **sons of God** came to present themselves before the LORD, and **Satan** came also among them."
 
-> **Job 2:1** — "Again there was a day when the **sons of God** came to present themselves before the LORD."
+> **Job 2:1**: "Again there was a day when the **sons of God** came to present themselves before the LORD."
 
-> **Job 38:7** — "When the morning stars sang together, and all the **sons of God** shouted for joy?"
+> **Job 38:7**: "When the morning stars sang together, and all the **sons of God** shouted for joy?"
 
-In Job, "sons of God" are clearly angels — supernatural beings in God's court.
+In Job, "sons of God" are clearly angels, supernatural beings in God's court.
 
 ### Why Not "Godly Men"?
 
@@ -47,7 +47,7 @@ Some claim "sons of God" means Seth's line. Problems:
 
 Key points:
 - Angels left their proper place
-- Their sin was like Sodom's — sexual ("strange flesh")
+- Their sin was like Sodom's: sexual ("strange flesh")
 - They are now imprisoned awaiting judgment
 
 ### 2 Peter 2:4-5
@@ -77,11 +77,11 @@ They were:
 
 ### After the Flood
 
-> **Genesis 6:4** — "There were giants in the earth in those days; **and also after that**."
+> **Genesis 6:4**: "There were giants in the earth in those days; **and also after that**."
 
-The Nephilim existed before the Flood and "after that" — they or their bloodline survived.
+The Nephilim existed before the Flood and "after that", they or their bloodline survived.
 
-> **Numbers 13:33** — "And there we saw the **giants, the sons of Anak, which come of the giants**: and we were in our own sight as grasshoppers."
+> **Numbers 13:33**: "And there we saw the **giants, the sons of Anak, which come of the giants**: and we were in our own sight as grasshoppers."
 
 The Anakim in Canaan were Nephilim descendants. Israel was commanded to destroy them.
 
@@ -92,11 +92,11 @@ The Anakim in Canaan were Nephilim descendants. Israel was commanded to destroy 
 ### The Giants
 
 Multiple groups of giants existed:
-- **Anakim** — Descendants of Anak (Numbers 13:33)
-- **Rephaim** — "Shades" or giants (Genesis 14:5)
-- **Emim** — "Terrible ones" (Deuteronomy 2:10-11)
-- **Zamzummim** — Giants in Ammon (Deuteronomy 2:20)
-- **Amorites** — Described as tall as cedars (Amos 2:9)
+- **Anakim**: Descendants of Anak (Numbers 13:33)
+- **Rephaim**: "Shades" or giants (Genesis 14:5)
+- **Emim**: "Terrible ones" (Deuteronomy 2:10-11)
+- **Zamzummim**: Giants in Ammon (Deuteronomy 2:20)
+- **Amorites**: Described as tall as cedars (Amos 2:9)
 
 ### Why Destroy Canaan?
 
@@ -114,11 +114,11 @@ The Canaanites were:
 
 ### Theories
 
-1. **Ham's wife** — One of Noah's daughters-in-law carried Nephilim genetics
-2. **Second incursion** — Angels sinned again after the Flood
-3. **Not all imprisoned** — Some fallen angels remained free
+1. **Ham's wife**: One of Noah's daughters-in-law carried Nephilim genetics
+2. **Second incursion**: Angels sinned again after the Flood
+3. **Not all imprisoned**: Some fallen angels remained free
 
-The text says Nephilim existed "before the Flood" and "after" — the bloodline persisted somehow.
+The text says Nephilim existed "before the Flood" and "after", the bloodline persisted somehow.
 
 ### The Corruption Spread
 
@@ -138,7 +138,7 @@ The corrupted bloodline wound through history.
 
 > "**Noah was a just man and perfect in his generations**."
 
-"Perfect in his generations" (Hebrew: *tamim* — unblemished) suggests genetic purity — Noah's lineage was uncorrupted by Nephilim.
+"Perfect in his generations" (Hebrew: *tamim*, unblemished) suggests genetic purity, Noah's lineage was uncorrupted by Nephilim.
 
 The Flood was to:
 - Preserve the Adamic line
@@ -151,11 +151,11 @@ The Flood was to:
 
 The Nephilim reality proves:
 
-1. **Angels sinned** — Left their estate, mated with women
-2. **Produced hybrids** — The Nephilim, giants
-3. **Corrupted humanity** — Reason for the Flood
-4. **Survived partially** — Giants in Canaan after Flood
-5. **Connected to enemies** — Canaanites, Edomites carry this bloodline
+1. **Angels sinned**: Left their estate, mated with women
+2. **Produced hybrids**: The Nephilim, giants
+3. **Corrupted humanity**: Reason for the Flood
+4. **Survived partially**: Giants in Canaan after Flood
+5. **Connected to enemies**: Canaanites, Edomites carry this bloodline
 
 Understanding the Nephilim explains why God commanded Israel to remain separate and why certain peoples cannot be redeemed.
 
@@ -171,9 +171,9 @@ Understanding the Nephilim explains why God commanded Israel to remain separate 
 
 ## Cross-References
 
-- [[42 - Genesis 6]] — The corruption of all flesh
-- [[40 - Race Of Cain]] — The Cain connection
-- [[43 - Two Trees In The Garden]] — Original corruption
+- [[42 - Genesis 6]]: The corruption of all flesh
+- [[40 - Race Of Cain]]: The Cain connection
+- [[43 - Two Trees In The Garden]]: Original corruption
 
 ---
 

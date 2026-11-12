@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Jude's epistle warns about ungodly men who had "crept in unawares" — infiltrators who corrupted the faith. He compares them to Cain, Balaam, and Korah, and to the angels who sinned, revealing their nature and destiny.
+Jude's epistle warns about ungodly men who had "crept in unawares", infiltrators who corrupted the faith. He compares them to Cain, Balaam, and Korah, and to the angels who sinned, revealing their nature and destiny.
 
 ---
 
@@ -16,7 +16,7 @@ Jude's epistle warns about ungodly men who had "crept in unawares" — infiltrat
 Key points:
 - The faith must be contended for
 - Men have "crept in unawares" (*pareisduo* = to slip in secretly)
-- They were "ordained to this condemnation" — their fate was predetermined
+- They were "ordained to this condemnation": their fate was predetermined
 - They turn grace into license
 - They deny the Lord
 
@@ -29,9 +29,9 @@ Key points:
 > "Woe unto them! for they have gone **in the way of Cain**, and ran greedily after **the error of Balaam** for reward, and perished in **the gainsaying of Core** [Korah]."
 
 Three examples:
-1. **Cain** — Murdered his brother, was "of that wicked one"
-2. **Balaam** — Corrupted Israel for money
-3. **Korah** — Rebelled against Moses's authority
+1. **Cain**: Murdered his brother, was "of that wicked one"
+2. **Balaam**: Corrupted Israel for money
+3. **Korah**: Rebelled against Moses's authority
 
 These represent:
 - Murder/hatred (Cain)
@@ -49,7 +49,7 @@ These represent:
 Jude connects:
 - Angels who sinned (Genesis 6)
 - Their sin was sexual ("going after strange flesh")
-- Sodom — same type of sin (strange flesh)
+- Sodom: same type of sin (strange flesh)
 - Eternal judgment
 
 The infiltrators are connected to this lineage of corruption.
@@ -66,10 +66,10 @@ They:
 - Defile the flesh
 - Despise authority
 - Speak against things they don't understand
-- Know things "naturally, as brute beasts" — by animal instinct
+- Know things "naturally, as brute beasts": by animal instinct
 - Corrupt themselves
 
-"Brute beasts" parallels 2 Peter 2:12 — these are beings of a different, bestial nature.
+"Brute beasts" parallels 2 Peter 2:12, these are beings of a different, bestial nature.
 
 ---
 
@@ -80,12 +80,12 @@ They:
 > "These are **spots in your feasts of charity**, when they feast with you, feeding themselves without fear: **clouds they are without water**, carried about of winds; **trees whose fruit withereth, without fruit, twice dead, plucked up by the roots**; Raging waves of the sea, foaming out their own shame; **wandering stars**, to whom is reserved the blackness of darkness for ever."
 
 Metaphors:
-- **Spots** — blemishes (corruption)
-- **Clouds without water** — promise but don't deliver
-- **Twice dead** — spiritually dead, then physically dead
-- **Plucked up by roots** — completely removed
-- **Wandering stars** — like fallen angels, out of place
-- **Blackness of darkness forever** — eternal judgment
+- **Spots**: blemishes (corruption)
+- **Clouds without water**: promise but don't deliver
+- **Twice dead**: spiritually dead, then physically dead
+- **Plucked up by roots**: completely removed
+- **Wandering stars**: like fallen angels, out of place
+- **Blackness of darkness forever**: eternal judgment
 
 ---
 
@@ -95,7 +95,7 @@ Metaphors:
 
 > "And **Enoch** also, the seventh from Adam, prophesied of these, saying, Behold, the **Lord cometh with ten thousands of his saints, To execute judgment upon all**, and to convince all that are ungodly among them of all their ungodly deeds."
 
-Jude quotes the Book of Enoch — connecting these infiltrators to the pre-Flood corruption that Enoch witnessed and prophesied against.
+Jude quotes the Book of Enoch, connecting these infiltrators to the pre-Flood corruption that Enoch witnessed and prophesied against.
 
 ---
 
@@ -129,7 +129,7 @@ They:
 - Are sensual (soulish, not spiritual)
 - Do not have the Spirit
 
-They lack the *neshamah* — God's breath that was in Adam's race.
+They lack the *neshamah*, God's breath that was in Adam's race.
 
 ---
 
@@ -137,14 +137,14 @@ They lack the *neshamah* — God's breath that was in Adam's race.
 
 Jude's warnings reveal:
 
-1. **Infiltrators crept in** — Secretly entered among believers
-2. **Ordained for condemnation** — Their fate predetermined
-3. **Connected to Cain** — Same lineage
-4. **Brute beast nature** — Not fully human
-5. **Connected to fallen angels** — Same pattern of corruption
-6. **Judgment certain** — Blackness of darkness forever
+1. **Infiltrators crept in**: Secretly entered among believers
+2. **Ordained for condemnation**: Their fate predetermined
+3. **Connected to Cain**: Same lineage
+4. **Brute beast nature**: Not fully human
+5. **Connected to fallen angels**: Same pattern of corruption
+6. **Judgment certain**: Blackness of darkness forever
 
-Jude describes the same enemies Peter warned about — the serpent seed among God's people.
+Jude describes the same enemies Peter warned about, the serpent seed among God's people.
 
 ---
 
@@ -158,9 +158,9 @@ Jude describes the same enemies Peter warned about — the serpent seed among Go
 
 ## Cross-References
 
-- [[47 - Peters Warnings]] — Parallel warnings
-- [[40 - Race Of Cain]] — The Cain lineage
-- [[41 - Nephilim And Fallen Angels]] — The angelic sin
+- [[47 - Peters Warnings]]: Parallel warnings
+- [[40 - Race Of Cain]]: The Cain lineage
+- [[41 - Nephilim And Fallen Angels]]: The angelic sin
 
 ---
 

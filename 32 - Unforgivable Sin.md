@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Scripture speaks of an unforgivable sin — blasphemy against the Holy Spirit. In context, this relates to those who, knowing Christ's identity, rejected Him because of their own lineage. For some, forgiveness was never possible.
+Scripture speaks of an unforgivable sin, blasphemy against the Holy Spirit. In context, this relates to those who, knowing Christ's identity, rejected Him because of their own lineage. For some, forgiveness was never possible.
 
 ---
 
@@ -23,11 +23,11 @@ Scripture speaks of an unforgivable sin — blasphemy against the Holy Spirit. I
 
 ### Who Was Christ Addressing?
 
-> **Matthew 12:24** — "But when the Pharisees heard it, they said, This fellow doth not cast out devils, but by Beelzebub the prince of the devils."
+> **Matthew 12:24**: "But when the Pharisees heard it, they said, This fellow doth not cast out devils, but by Beelzebub the prince of the devils."
 
 The Pharisees:
 - Witnessed Christ's miracles
-- Knew they were divine (John 3:2 — Nicodemus: "we know thou art a teacher come from God")
+- Knew they were divine (John 3:2: Nicodemus: "we know thou art a teacher come from God")
 - Attributed them to Satan
 
 ### Why Was This Unforgivable?
@@ -37,7 +37,7 @@ The Pharisees:
 2. **Deliberately** called the Holy Spirit satanic
 3. **Could not plead ignorance**
 
-But there's a deeper issue: Christ had identified these particular Pharisees as children of the devil (John 8:44). For them, forgiveness was never possible — not because of this one sin, but because of what they were.
+But there's a deeper issue: Christ had identified these particular Pharisees as children of the devil (John 8:44). For them, forgiveness was never possible, not because of this one sin, but because of what they were.
 
 ---
 
@@ -45,13 +45,13 @@ But there's a deeper issue: Christ had identified these particular Pharisees as 
 
 ### Who Can Be Forgiven?
 
-> **Matthew 12:31** — "All manner of sin and blasphemy **shall be forgiven unto men**."
+> **Matthew 12:31**: "All manner of sin and blasphemy **shall be forgiven unto men**."
 
-"Men" (Greek: *anthropoi*) — humanity, Adam's race. For Adam's race, all sins can be forgiven.
+"Men" (Greek: *anthropoi*), humanity, Adam's race. For Adam's race, all sins can be forgiven.
 
 ### Who Cannot Be Forgiven?
 
-Those who are not of Adam — the serpent's seed — have no access to forgiveness through Christ (the kinsman-redeemer of Adam).
+Those who are not of Adam, the serpent's seed, have no access to forgiveness through Christ (the kinsman-redeemer of Adam).
 
 When Christ said blasphemy against the Spirit is unforgivable, He may have been indicating:
 - For these particular individuals
@@ -64,7 +64,7 @@ When Christ said blasphemy against the Spirit is unforgivable, He may have been 
 
 ### Children of the Devil
 
-> **John 8:44** — "Ye are of your father the devil."
+> **John 8:44**: "Ye are of your father the devil."
 
 Christ told these religious leaders:
 - They were not Abraham's children (v.39)
@@ -73,9 +73,9 @@ Christ told these religious leaders:
 
 ### Murderers from the Beginning
 
-> **John 8:44** — "He was a murderer from the beginning."
+> **John 8:44**: "He was a murderer from the beginning."
 
-The devil was a "murderer from the beginning" — this points to Cain, the first murderer (Genesis 4:8). These Pharisees were descendants of Cain, through the Edomite infiltration of Judea.
+The devil was a "murderer from the beginning", this points to Cain, the first murderer (Genesis 4:8). These Pharisees were descendants of Cain, through the Edomite infiltration of Judea.
 
 ---
 
@@ -86,15 +86,15 @@ The devil was a "murderer from the beginning" — this points to Cain, the first
 > "For it is **impossible** for those who were once enlightened, and have tasted of the heavenly gift... If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame."
 
 For some, it is "impossible" to be renewed to repentance:
-- Not difficult — impossible
-- Not unlikely — never
-- Not a matter of more effort — it cannot happen
+- Not difficult: impossible
+- Not unlikely: never
+- Not a matter of more effort: it cannot happen
 
 ### Hebrews 10:26-27
 
 > "For if we sin wilfully after that we have received the knowledge of the truth, **there remaineth no more sacrifice for sins**, But a certain fearful looking for of judgment."
 
-For some, there is no sacrifice available — no redemption possible.
+For some, there is no sacrifice available, no redemption possible.
 
 ---
 
@@ -116,7 +116,7 @@ Those outside Adam's race, or corrupted lineages:
 - No covenant
 - No mechanism for forgiveness
 
-The "unforgivable sin" reveals that forgiveness has boundaries — not all beings can be forgiven.
+The "unforgivable sin" reveals that forgiveness has boundaries, not all beings can be forgiven.
 
 ---
 
@@ -129,9 +129,9 @@ The warning to Israelite Christians:
 - Don't harden your heart to the point of no return
 - Don't become aligned with Christ's enemies
 
-> **Hebrews 3:12-13** — "Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God. But exhort one another daily... lest any of you be hardened through the deceitfulness of sin."
+> **Hebrews 3:12-13**: "Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God. But exhort one another daily... lest any of you be hardened through the deceitfulness of sin."
 
-Israelites can harden their hearts. But their hardness is willful apostasy — different from the inherent inability of other lineages to receive forgiveness.
+Israelites can harden their hearts. But their hardness is willful apostasy, different from the inherent inability of other lineages to receive forgiveness.
 
 ---
 
@@ -139,13 +139,13 @@ Israelites can harden their hearts. But their hardness is willful apostasy — d
 
 The unforgivable sin proves:
 
-1. **Forgiveness has limits** — Not everyone can be forgiven
-2. **Context matters** — The Pharisees were children of the devil
-3. **Lineage is relevant** — Christ's enemies were of a different seed
-4. **Some face impossibility** — Hebrews says renewal is impossible for some
-5. **Israelites are different** — "All manner of sin" can be forgiven to men
+1. **Forgiveness has limits**: Not everyone can be forgiven
+2. **Context matters**: The Pharisees were children of the devil
+3. **Lineage is relevant**: Christ's enemies were of a different seed
+4. **Some face impossibility**: Hebrews says renewal is impossible for some
+5. **Israelites are different**: "All manner of sin" can be forgiven to men
 
-The existence of unforgivable sin demonstrates that salvation is not universal — it is specific to those for whom forgiveness is possible.
+The existence of unforgivable sin demonstrates that salvation is not universal, it is specific to those for whom forgiveness is possible.
 
 ---
 
@@ -159,9 +159,9 @@ The existence of unforgivable sin demonstrates that salvation is not universal �
 
 ## Cross-References
 
-- [[31 - Who Cannot Be Cleansed]] — Exclusions from salvation
-- [[39 - Christ Identified His Adversaries]] — Who Christ opposed
-- [[40 - Race Of Cain]] — The serpent's seed
+- [[31 - Who Cannot Be Cleansed]]: Exclusions from salvation
+- [[39 - Christ Identified His Adversaries]]: Who Christ opposed
+- [[40 - Race Of Cain]]: The serpent's seed
 
 ---
 

@@ -73,7 +73,7 @@ Egyptian records of campaigns in Canaan show the peoples as:
 - Subjects: Greco-Roman Egyptians
 - Features:
   - Mediterranean appearance
-  - Varied — some quite European in appearance
+  - Varied: some quite European in appearance
   - Contemporary with the apostolic era
 
 ### Roman Artwork
@@ -102,12 +102,12 @@ The earliest Christian art (2nd-4th century) in Roman catacombs depicts:
 - European features
 
 **Biblical Scenes:**
-- Jonah, Daniel, Moses — all depicted as Romans/Europeans
+- Jonah, Daniel, Moses: all depicted as Romans/Europeans
 - No attempt to make them look "Middle Eastern" in modern sense
 
 ### The Good Shepherd
 
-One of the earliest Christian images — Christ as the Good Shepherd:
+One of the earliest Christian images, Christ as the Good Shepherd:
 - Young man
 - European features
 - Roman pastoral dress
@@ -140,7 +140,7 @@ This tradition began in the 6th century and continued throughout the Byzantine p
 
 ### The Mandylion
 
-The Image of Edessa (Mandylion) — tradition of Christ's face on cloth:
+The Image of Edessa (Mandylion), tradition of Christ's face on cloth:
 - Bearded
 - Long hair
 - Solemn expression
@@ -162,13 +162,13 @@ Mary depicted in Byzantine icons:
 From the Book of Kells to the Lindisfarne Gospels:
 - Christ and apostles depicted as Europeans
 - No distinction made between "Semitic" and European
-- Artists depicted what they knew — themselves
+- Artists depicted what they knew: themselves
 
 ### Cathedral Art
 
 Romanesque and Gothic cathedrals across Europe:
-- Christ, Mary, apostles, prophets — all European in appearance
-- Stained glass, sculpture, paintings — consistent European depiction
+- Christ, Mary, apostles, prophets: all European in appearance
+- Stained glass, sculpture, paintings: consistent European depiction
 - Created by Europeans who understood these figures as their ancestors
 
 ---
@@ -184,11 +184,11 @@ The three Magi (wise men) were traditionally depicted as:
 
 ### Later Changes
 
-The tradition of making one Magus African developed in the 12th-15th centuries — **after** the original European-only tradition.
+The tradition of making one Magus African developed in the 12th-15th centuries, **after** the original European-only tradition.
 
 Original European depictions:
-- Ravenna mosaics (6th century) — all European
-- Early medieval art — all European
+- Ravenna mosaics (6th century): all European
+- Early medieval art: all European
 - Later added diversity for symbolic reasons
 
 ---
@@ -197,7 +197,7 @@ Original European depictions:
 
 ### Ancient Artists Had No Agenda
 
-1. **Egyptians** depicted peoples as they saw them — and showed Israelites as distinct from themselves and from Nubians
+1. **Egyptians** depicted peoples as they saw them: and showed Israelites as distinct from themselves and from Nubians
 2. **Early Christians** depicted Christ and the apostles as Europeans because they were Europeans depicting their own people
 3. **Byzantine artists** continued this tradition naturally
 4. **Medieval Europeans** understood biblical figures as their ancestors
@@ -215,11 +215,11 @@ The depiction of Israelites/Christ/apostles as dark "Middle Eastern" people is a
 
 Ancient artwork demonstrates:
 
-1. **Egyptian records** — Israelites were distinct from Nubians (African)
-2. **Assyrian records** — Israelites depicted as Semitic (similar to Assyrians, not African)
-3. **Early Christian art** — Christ and apostles depicted as European
-4. **Byzantine tradition** — Consistent European depiction
-5. **Medieval art** — Europeans depicted biblical figures as themselves
+1. **Egyptian records**: Israelites were distinct from Nubians (African)
+2. **Assyrian records**: Israelites depicted as Semitic (similar to Assyrians, not African)
+3. **Early Christian art**: Christ and apostles depicted as European
+4. **Byzantine tradition**: Consistent European depiction
+5. **Medieval art**: Europeans depicted biblical figures as themselves
 
 Ancient artists had no reason to falsify. They depicted what they knew. The consistent European appearance of biblical figures in pre-modern art reflects reality: these were the ancestors of the Europeans who painted them.
 
@@ -235,10 +235,10 @@ Ancient artists had no reason to falsify. They depicted what they knew. The cons
 
 ## Cross-References
 
-- [[75 - Ancient Art Depicts Europeans]] — More detailed art survey
-- [[76 - Magi Depicted European]] — Magi depictions specifically
-- [[77 - Christ And Apostles European]] — Christ's appearance
-- [[78 - Early Christian Art Confirms]] — Catacomb and early church art
+- [[75 - Ancient Art Depicts Europeans]]: More detailed art survey
+- [[76 - Magi Depicted European]]: Magi depictions specifically
+- [[77 - Christ And Apostles European]]: Christ's appearance
+- [[78 - Early Christian Art Confirms]]: Catacomb and early church art
 
 ---
 

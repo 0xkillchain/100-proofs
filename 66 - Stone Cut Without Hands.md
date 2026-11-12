@@ -1,9 +1,9 @@
 
-# Proof 66: Daniel's Vision — The Stone Cut Without Hands
+# Proof 66: Daniel's Vision The Stone Cut Without Hands
 
 ## The Claim
 
-Daniel interpreted Nebuchadnezzar's dream of a statue destroyed by a stone "cut without hands." This stone became a great mountain filling the earth. The stone is Christ and His kingdom — Christian Europe — which destroyed pagan Rome and filled the earth.
+Daniel interpreted Nebuchadnezzar's dream of a statue destroyed by a stone "cut without hands." This stone became a great mountain filling the earth. The stone is Christ and His kingdom, Christian Europe, which destroyed pagan Rome and filled the earth.
 
 ---
 
@@ -26,9 +26,9 @@ Daniel interpreted Nebuchadnezzar's dream of a statue destroyed by a stone "cut 
 | Belly/Thighs | Brass | Greece |
 | Legs | Iron | Rome |
 | Feet | Iron/Clay | Divided Rome |
-| Stone | — | God's Kingdom |
+| Stone |, | God's Kingdom |
 
-> **v.44** — "And in the days of these kings shall **the God of heaven set up a kingdom, which shall never be destroyed**: and the kingdom shall not be left to other people, but it shall **break in pieces and consume all these kingdoms**, and **it shall stand for ever**."
+> **v.44**: "And in the days of these kings shall **the God of heaven set up a kingdom, which shall never be destroyed**: and the kingdom shall not be left to other people, but it shall **break in pieces and consume all these kingdoms**, and **it shall stand for ever**."
 
 ---
 
@@ -41,13 +41,13 @@ The stone was "cut out without hands":
 - Divine origin
 - Supernatural establishment
 
-> **Daniel 2:45** — "The stone was cut out of the mountain **without hands**."
+> **Daniel 2:45**: "The stone was cut out of the mountain **without hands**."
 
 Christ's kingdom was established by God, not by human politics.
 
 ### The Strike
 
-The stone struck the image on its feet — the divided Roman Empire. It didn't strike the head (Babylon) or chest (Persia) — it struck at the time of Rome's division.
+The stone struck the image on its feet, the divided Roman Empire. It didn't strike the head (Babylon) or chest (Persia), it struck at the time of Rome's division.
 
 ---
 
@@ -67,7 +67,7 @@ These tribes:
 
 ### The Mountain Filling the Earth
 
-> **Daniel 2:35** — "The stone... became a **great mountain, and filled the whole earth**."
+> **Daniel 2:35**: "The stone... became a **great mountain, and filled the whole earth**."
 
 Christian Europe:
 - Spread across the globe
@@ -91,7 +91,7 @@ If the stone is Christ's kingdom, and the kingdom:
 ...then the people of this kingdom are:
 - The Germanic tribes who conquered Rome
 - The Europeans who colonized the world
-- Christians — those in Christ's kingdom
+- Christians: those in Christ's kingdom
 
 These are Israelites.
 
@@ -143,13 +143,13 @@ European Christendom matches. Modern Israel doesn't.
 
 Daniel's stone prophecy proves:
 
-1. **Sequence correct** — Babylon → Persia → Greece → Rome
-2. **Rome destroyed** — By Germanic (Israelite) tribes
-3. **Kingdom filled earth** — European colonization
-4. **Divine origin** — "Without hands" = not human effort
-5. **Stands forever** — Continues today
+1. **Sequence correct**: Babylon → Persia → Greece → Rome
+2. **Rome destroyed**: By Germanic (Israelite) tribes
+3. **Kingdom filled earth**: European colonization
+4. **Divine origin**: "Without hands" = not human effort
+5. **Stands forever**: Continues today
 
-The stone is Christ's kingdom, established through Christian Europe — the Israelites who conquered Rome and filled the earth.
+The stone is Christ's kingdom, established through Christian Europe, the Israelites who conquered Rome and filled the earth.
 
 ---
 
@@ -163,9 +163,9 @@ The stone is Christ's kingdom, established through Christian Europe — the Isra
 
 ## Cross-References
 
-- [[10 - Germanic Tribes Were Israelites]] — Who destroyed Rome
-- [[16 - Promises Only Europeans Fulfilled]] — Filling the earth
-- [[22 - Christianity Only Spread To Europeans]] — The kingdom's people
+- [[10 - Germanic Tribes Were Israelites]]: Who destroyed Rome
+- [[16 - Promises Only Europeans Fulfilled]]: Filling the earth
+- [[22 - Christianity Only Spread To Europeans]]: The kingdom's people
 
 ---
 

@@ -37,7 +37,7 @@ The Celts were the dominant people of Western Europe before Roman conquest:
 
 ### The Tuatha de Danann
 
-Irish mythology records the Tuatha de Danann — literally the "Tribe of Dana/Danu" — who:
+Irish mythology records the Tuatha de Danann, literally the "Tribe of Dana/Danu", who:
 - Arrived in Ireland from the east
 - Came by ship
 - Brought advanced knowledge and skills
@@ -47,7 +47,7 @@ Irish mythology records the Tuatha de Danann — literally the "Tribe of Dana/Da
 
 ### Dan's Seafaring Character
 
-> **Judges 5:17** — "Why did Dan remain in ships?"
+> **Judges 5:17**: "Why did Dan remain in ships?"
 
 Dan was a seafaring tribe. When the Assyrians invaded:
 - Inland tribes were captured
@@ -84,7 +84,7 @@ The Druids served functions identical to Levitical priests:
 
 ### The Arch-Druid
 
-The Druids had a chief priest — the Arch-Druid — who:
+The Druids had a chief priest, the Arch-Druid, who:
 - Wore white robes
 - Served as final arbiter
 - Led the most sacred ceremonies
@@ -172,7 +172,7 @@ The Culdees ("servants of God") were Celtic Christian monks who:
 - Kept alternative dating for Easter
 - May have preserved pre-Roman Christian connections
 
-Some suggest Christianity reached Britain very early — even before Paul's journeys — through Phoenician/Israelite connections.
+Some suggest Christianity reached Britain very early, even before Paul's journeys, through Phoenician/Israelite connections.
 
 ---
 
@@ -180,12 +180,12 @@ Some suggest Christianity reached Britain very early — even before Paul's jour
 
 The Celts were Israelites because:
 
-1. **Tribal names** — Tuatha de Danann = Tribe of Dan
-2. **Priestly parallel** — Druids functioned as Levites
-3. **Legal parallel** — Brehon law mirrors Mosaic law
-4. **Migration pattern** — From Egypt → Scythia → Iberia → Ireland (Milesian route)
-5. **Sacred objects** — Stone of Destiny = Jacob's pillow
-6. **Christianity** — Ready, deep conversion
+1. **Tribal names**: Tuatha de Danann = Tribe of Dan
+2. **Priestly parallel**: Druids functioned as Levites
+3. **Legal parallel**: Brehon law mirrors Mosaic law
+4. **Migration pattern**: From Egypt → Scythia → Iberia → Ireland (Milesian route)
+5. **Sacred objects**: Stone of Destiny = Jacob's pillow
+6. **Christianity**: Ready, deep conversion
 
 The Celts are the western branch of the Israelite migration, arriving via the Phoenician sea route and later land routes through Iberia and Gaul.
 
@@ -201,10 +201,10 @@ The Celts are the western branch of the Israelite migration, arriving via the Ph
 
 ## Cross-References
 
-- [[05 - Phoenicians Were Israelites]] — The sea route to Britain
-- [[12 - Iberians Were Israelites]] — The Spanish connection
-- [[20 - Dans Trail Through Europe]] — Dan's migration path
-- [[21 - Druids Were Levites]] — Detailed Druid-Levite parallel
+- [[05 - Phoenicians Were Israelites]]: The sea route to Britain
+- [[12 - Iberians Were Israelites]]: The Spanish connection
+- [[20 - Dans Trail Through Europe]]: Dan's migration path
+- [[21 - Druids Were Levites]]: Detailed Druid-Levite parallel
 
 ---
 

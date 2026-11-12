@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Europeans drove the technological revolution — printing, steam power, electricity, computing. This reflects Israel's calling to have dominion and subdue the earth.
+Europeans drove the technological revolution, printing, steam power, electricity, computing. This reflects Israel's calling to have dominion and subdue the earth.
 
 ---
 
@@ -23,7 +23,7 @@ Every major technological leap came from Europe or European-descended peoples.
 
 ## The Mandate
 
-> **Genesis 1:28** — "Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion."
+> **Genesis 1:28**: "Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion."
 
 Israel was given dominion. Europeans exercised it through technology.
 
@@ -31,7 +31,7 @@ Israel was given dominion. Europeans exercised it through technology.
 
 ## Synthesis
 
-Technological innovation reflects the dominion mandate — Israel subduing and improving creation.
+Technological innovation reflects the dominion mandate, Israel subduing and improving creation.
 
 ---
 

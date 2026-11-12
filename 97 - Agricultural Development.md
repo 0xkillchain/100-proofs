@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Europeans revolutionized agriculture — crop rotation, selective breeding, mechanization. This made the earth fruitful, fulfilling the blessing to make the "desert blossom."
+Europeans revolutionized agriculture, crop rotation, selective breeding, mechanization. This made the earth fruitful, fulfilling the blessing to make the "desert blossom."
 
 ---
 
@@ -21,9 +21,9 @@ Europeans fed the world.
 
 ## The Blessing
 
-> **Isaiah 35:1** — "The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose."
+> **Isaiah 35:1**: "The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose."
 
-> **Genesis 27:28** — "God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine."
+> **Genesis 27:28**: "God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine."
 
 ---
 
@@ -39,7 +39,7 @@ European agricultural knowledge:
 
 ## Synthesis
 
-Agricultural development fulfills the blessing on Israel — making the earth fruitful, feeding the nations.
+Agricultural development fulfills the blessing on Israel, making the earth fruitful, feeding the nations.
 
 ---
 

@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Yahweh divorced Israel but promised to remarry them. Christ's death made remarriage legally possible. The New Covenant is a marriage covenant between Christ and Israel — not a universal arrangement with all humanity.
+Yahweh divorced Israel but promised to remarry them. Christ's death made remarriage legally possible. The New Covenant is a marriage covenant between Christ and Israel, not a universal arrangement with all humanity.
 
 ---
 
@@ -11,13 +11,13 @@ Yahweh divorced Israel but promised to remarry them. Christ's death made remarri
 
 ### Yahweh Married Israel
 
-> **Jeremiah 31:32** — "Not according to the covenant that I made with their fathers... which my covenant they brake, although **I was an husband unto them**, saith the LORD."
+> **Jeremiah 31:32**: "Not according to the covenant that I made with their fathers... which my covenant they brake, although **I was an husband unto them**, saith the LORD."
 
-> **Isaiah 54:5** — "For thy Maker is thine **husband**; the LORD of hosts is his name."
+> **Isaiah 54:5**: "For thy Maker is thine **husband**; the LORD of hosts is his name."
 
-> **Ezekiel 16:8** — "I sware unto thee, and entered into a **covenant with thee**, saith the Lord GOD, and **thou becamest mine**."
+> **Ezekiel 16:8**: "I sware unto thee, and entered into a **covenant with thee**, saith the Lord GOD, and **thou becamest mine**."
 
-Israel was Yahweh's wife — bound by covenant.
+Israel was Yahweh's wife, bound by covenant.
 
 ---
 
@@ -25,9 +25,9 @@ Israel was Yahweh's wife — bound by covenant.
 
 ### Israel's Adultery
 
-> **Jeremiah 3:8** — "And I saw, when for all the causes whereby backsliding Israel committed adultery **I had put her away, and given her a bill of divorce**."
+> **Jeremiah 3:8**: "And I saw, when for all the causes whereby backsliding Israel committed adultery **I had put her away, and given her a bill of divorce**."
 
-> **Hosea 2:2** — "She is not my wife, neither am I her husband."
+> **Hosea 2:2**: "She is not my wife, neither am I her husband."
 
 Israel committed spiritual adultery (idolatry) and was divorced.
 
@@ -58,7 +58,7 @@ The solution:
 - Death dissolves the marriage
 - Christ died (as Yahweh in the flesh)
 - Israel is now free to remarry
-- Christ rose — a new husband, same God
+- Christ rose: a new husband, same God
 
 ---
 
@@ -66,9 +66,9 @@ The solution:
 
 ### The New Covenant = Marriage Covenant
 
-> **Hosea 2:19-20** — "And I will **betroth thee unto me for ever**; yea, I will betroth thee unto me in righteousness, and in judgment, and in lovingkindness, and in mercies. I will even betroth thee unto me in faithfulness: and thou shalt know the LORD."
+> **Hosea 2:19-20**: "And I will **betroth thee unto me for ever**; yea, I will betroth thee unto me in righteousness, and in judgment, and in lovingkindness, and in mercies. I will even betroth thee unto me in faithfulness: and thou shalt know the LORD."
 
-> **Jeremiah 31:31-33** — "I will make a **new covenant** with the house of Israel, and with the house of Judah... I will put my law in their inward parts, and write it in their hearts; and will be their God, and **they shall be my people**."
+> **Jeremiah 31:31-33**: "I will make a **new covenant** with the house of Israel, and with the house of Judah... I will put my law in their inward parts, and write it in their hearts; and will be their God, and **they shall be my people**."
 
 The New Covenant is:
 - A marriage covenant
@@ -102,7 +102,7 @@ The Lamb's wife:
 
 > "Husbands, love your wives, even as **Christ also loved the church, and gave himself for it**... This is a great mystery: but I speak concerning **Christ and the church**."
 
-The church (*ekklesia* = Israel's assembly) is Christ's bride — the same people He was married to before.
+The church (*ekklesia* = Israel's assembly) is Christ's bride, the same people He was married to before.
 
 ### Not Multiple Wives
 
@@ -117,13 +117,13 @@ Christ doesn't have multiple brides:
 
 Christ remarrying one people proves:
 
-1. **Original marriage** — Yahweh was Israel's husband
-2. **Divorce** — Israel was put away for adultery
-3. **Legal barrier** — Couldn't remarry under law
-4. **Death freed** — Christ's death dissolved the barrier
-5. **Remarriage** — New Covenant is marriage to same people
+1. **Original marriage**: Yahweh was Israel's husband
+2. **Divorce**: Israel was put away for adultery
+3. **Legal barrier**: Couldn't remarry under law
+4. **Death freed**: Christ's death dissolved the barrier
+5. **Remarriage**: New Covenant is marriage to same people
 
-Christ died to remarry Israel — not to marry a different people. The bride is Israel, now reconciled through Christ.
+Christ died to remarry Israel, not to marry a different people. The bride is Israel, now reconciled through Christ.
 
 ---
 
@@ -137,9 +137,9 @@ Christ died to remarry Israel — not to marry a different people. The bride is 
 
 ## Cross-References
 
-- [[23 - New Covenant]] — The covenant of remarriage
-- [[26 - Ministry Of Reconciliation]] — Reconciling the divorced wife
-- [[25 - Redemption Only For Israel]] — Kinsman-redeemer theme
+- [[23 - New Covenant]]: The covenant of remarriage
+- [[26 - Ministry Of Reconciliation]]: Reconciling the divorced wife
+- [[25 - Redemption Only For Israel]]: Kinsman-redeemer theme
 
 ---
 

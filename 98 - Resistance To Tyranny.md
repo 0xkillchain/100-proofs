@@ -3,16 +3,16 @@
 
 ## The Claim
 
-Europeans uniquely resisted tyranny — developing concepts of just rebellion, rights against the state, and limits on power. This reflects Israel's prophetic tradition of holding rulers accountable.
+Europeans uniquely resisted tyranny, developing concepts of just rebellion, rights against the state, and limits on power. This reflects Israel's prophetic tradition of holding rulers accountable.
 
 ---
 
 ## The Tradition
 
-- Magna Carta (1215) — King under law
-- Reformation — Resistance theory
-- English Civil War — Accountability of kings
-- American Revolution — Government by consent
+- Magna Carta (1215): King under law
+- Reformation: Resistance theory
+- English Civil War: Accountability of kings
+- American Revolution: Government by consent
 - Various uprisings against tyranny
 
 ---
@@ -40,7 +40,7 @@ Other civilizations:
 
 ## Synthesis
 
-Resistance to tyranny reflects Israel's prophetic tradition — rulers accountable to God's law, the people with rights against unjust power.
+Resistance to tyranny reflects Israel's prophetic tradition, rulers accountable to God's law, the people with rights against unjust power.
 
 ---
 

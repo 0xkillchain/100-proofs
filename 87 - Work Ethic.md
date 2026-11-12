@@ -3,7 +3,7 @@
 
 ## The Claim
 
-The "Protestant work ethic" — viewing work as calling, diligence as virtue — reflects Israel's understanding of labor as service to God, not mere survival.
+The "Protestant work ethic", viewing work as calling, diligence as virtue, reflects Israel's understanding of labor as service to God, not mere survival.
 
 ---
 
@@ -21,11 +21,11 @@ This fueled European economic development.
 
 ## The Biblical Foundation
 
-> **Colossians 3:23** — "And whatsoever ye do, do it heartily, as to the Lord, and not unto men."
+> **Colossians 3:23**: "And whatsoever ye do, do it heartily, as to the Lord, and not unto men."
 
-> **Proverbs 6:6** — "Go to the ant, thou sluggard; consider her ways, and be wise."
+> **Proverbs 6:6**: "Go to the ant, thou sluggard; consider her ways, and be wise."
 
-> **2 Thessalonians 3:10** — "If any would not work, neither should he eat."
+> **2 Thessalonians 3:10**: "If any would not work, neither should he eat."
 
 Israel's scriptures taught diligent labor.
 
@@ -44,7 +44,7 @@ Europeans uniquely dignified labor.
 
 ## Synthesis
 
-The work ethic reflects Israel's biblical values — labor as service to God, diligence as righteousness.
+The work ethic reflects Israel's biblical values, labor as service to God, diligence as righteousness.
 
 ---
 

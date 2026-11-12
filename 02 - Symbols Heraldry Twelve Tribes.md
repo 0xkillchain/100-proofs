@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Each of the twelve tribes of Israel had specific symbols assigned to them. These same symbols appear throughout European heraldry, national emblems, and royal coats of arms — carried by the migrating Israelites and preserved for millennia.
+Each of the twelve tribes of Israel had specific symbols assigned to them. These same symbols appear throughout European heraldry, national emblems, and royal coats of arms, carried by the migrating Israelites and preserved for millennia.
 
 ---
 
@@ -11,31 +11,31 @@ Each of the twelve tribes of Israel had specific symbols assigned to them. These
 
 ### Jacob's Blessings (Genesis 49)
 
-> **Judah** (49:9) — "Judah is a **lion's** whelp... he stooped down, he couched as a **lion**, and as an old lion; who shall rouse him up?"
+> **Judah** (49:9): "Judah is a **lion's** whelp... he stooped down, he couched as a **lion**, and as an old lion; who shall rouse him up?"
 
-> **Zebulun** (49:13) — "Zebulun shall dwell at the haven of the **sea**; and he shall be for an haven of **ships**."
+> **Zebulun** (49:13): "Zebulun shall dwell at the haven of the **sea**; and he shall be for an haven of **ships**."
 
-> **Issachar** (49:14) — "Issachar is a strong **ass** couching down between two burdens."
+> **Issachar** (49:14): "Issachar is a strong **ass** couching down between two burdens."
 
-> **Dan** (49:17) — "Dan shall be a **serpent** by the way, an **adder** in the path."
+> **Dan** (49:17): "Dan shall be a **serpent** by the way, an **adder** in the path."
 
-> **Naphtali** (49:21) — "Naphtali is a **hind** [deer] let loose: he giveth goodly words."
+> **Naphtali** (49:21): "Naphtali is a **hind** [deer] let loose: he giveth goodly words."
 
-> **Joseph/Ephraim** (49:22) — "Joseph is a fruitful bough... whose branches run over the wall." 
+> **Joseph/Ephraim** (49:22): "Joseph is a fruitful bough... whose branches run over the wall."
 
-> **Benjamin** (49:27) — "Benjamin shall ravin as a **wolf**: in the morning he shall devour the prey."
+> **Benjamin** (49:27): "Benjamin shall ravin as a **wolf**: in the morning he shall devour the prey."
 
 ### Moses' Blessings (Deuteronomy 33)
 
-> **Joseph** (33:17) — "His glory is like the firstling of his **bullock**, and his horns are like the horns of **unicorns**: with them he shall push the people together to the ends of the earth: they are the ten thousands of Ephraim, and they are the thousands of Manasseh."
+> **Joseph** (33:17): "His glory is like the firstling of his **bullock**, and his horns are like the horns of **unicorns**: with them he shall push the people together to the ends of the earth: they are the ten thousands of Ephraim, and they are the thousands of Manasseh."
 
-### Numbers 2 — Tribal Standards
+### Numbers 2 Tribal Standards
 
 The tribes camped under four main standards (banners):
-- **East**: Judah (with Issachar, Zebulun) — **Lion**
-- **South**: Reuben (with Simeon, Gad) — **Man**
-- **West**: Ephraim (with Manasseh, Benjamin) — **Ox/Bull**
-- **North**: Dan (with Asher, Naphtali) — **Eagle**
+- **East**: Judah (with Issachar, Zebulun): **Lion**
+- **South**: Reuben (with Simeon, Gad): **Man**
+- **West**: Ephraim (with Manasseh, Benjamin): **Ox/Bull**
+- **North**: Dan (with Asher, Naphtali): **Eagle**
 
 These four faces match Ezekiel's vision (Ezekiel 1:10) and Revelation 4:7.
 
@@ -63,9 +63,9 @@ These four faces match Ezekiel's vision (Ezekiel 1:10) and Revelation 4:7.
 ### The Lion of Judah in Britain
 
 The British Royal Coat of Arms features:
-- **Three lions passant** (England) — Judah's symbol
-- **Lion rampant** (Scotland) — Judah's symbol
-- **Unicorn** (Scotland) — Ephraim's symbol from Deuteronomy 33:17
+- **Three lions passant** (England): Judah's symbol
+- **Lion rampant** (Scotland): Judah's symbol
+- **Unicorn** (Scotland): Ephraim's symbol from Deuteronomy 33:17
 
 The phrase "the British Lion" is not coincidental.
 
@@ -76,19 +76,19 @@ Deuteronomy 33:17 describes Joseph's horns as "horns of unicorns" (Hebrew: *re'e
 - British Royal Arms (opposite the lion)
 - Various European noble houses
 
-England = "Anglos" = from "Engel" = "young bull" — matching Ephraim's symbol.
+England = "Anglos" = from "Engel" = "young bull", matching Ephraim's symbol.
 
 ### Dan's Serpent Trail
 
-Genesis 49:17 says Dan would be "a serpent by the way" — leaving a trail. Dan's name appears across Europe:
+Genesis 49:17 says Dan would be "a serpent by the way", leaving a trail. Dan's name appears across Europe:
 - **Denmark** (Dan's mark)
 - **Danube** River
 - **Dnieper** River (from Danapris)
 - **Don** River
-- **Tuatha de Danann** (Ireland — "Tribe of Dan")
-- **Sardinia** (Shar-Dan — "Remnant of Dan")
+- **Tuatha de Danann** (Ireland: "Tribe of Dan")
+- **Sardinia** (Shar-Dan: "Remnant of Dan")
 
-The Danish flag is the oldest national flag still in use — a Christian cross.
+The Danish flag is the oldest national flag still in use, a Christian cross.
 
 ### Benjamin's Wolf in Rome
 
@@ -111,10 +111,10 @@ The four main standards of Israel appear in Christian iconography across Europe:
 | Man | Reuben | Angels in Christian art |
 
 These four symbols also represent the four Gospels:
-- Matthew — Man
-- Mark — Lion
-- Luke — Ox
-- John — Eagle
+- Matthew: Man
+- Mark: Lion
+- Luke: Ox
+- John: Eagle
 
 ---
 
@@ -122,11 +122,11 @@ These four symbols also represent the four Gospels:
 
 ### How Symbols Survived
 
-1. **Tribal identity** — Each tribe maintained its symbols during the united monarchy
-2. **Deportation** — Tribes carried their symbols into exile (720 BC)
-3. **Migration** — Symbols traveled with the Scythians and Cimmerians
-4. **European settlement** — Symbols became national and noble emblems
-5. **Christian era** — Symbols were incorporated into Christian heraldry
+1. **Tribal identity**: Each tribe maintained its symbols during the united monarchy
+2. **Deportation**: Tribes carried their symbols into exile (720 BC)
+3. **Migration**: Symbols traveled with the Scythians and Cimmerians
+4. **European settlement**: Symbols became national and noble emblems
+5. **Christian era**: Symbols were incorporated into Christian heraldry
 
 ### The Continuity of Heraldry
 
@@ -141,12 +141,12 @@ The presence of Israelite tribal symbols in European heraldry indicates **blood 
 
 ## Synthesis
 
-The tribal symbols of Israel did not disappear — they migrated with the people and became the heraldic emblems of European nations. This is not coincidence:
+The tribal symbols of Israel did not disappear, they migrated with the people and became the heraldic emblems of European nations. This is not coincidence:
 
-1. **Specific match** — The symbols match the biblical descriptions exactly
-2. **Geographic distribution** — They appear where the tribes migrated
-3. **Bloodline transmission** — Heraldry follows ancestry, not adoption
-4. **Christian context** — The symbols appear in Christian nations
+1. **Specific match**: The symbols match the biblical descriptions exactly
+2. **Geographic distribution**: They appear where the tribes migrated
+3. **Bloodline transmission**: Heraldry follows ancestry, not adoption
+4. **Christian context**: The symbols appear in Christian nations
 
 If Europeans inherited the symbols of Israel, they inherited the blood of Israel.
 
@@ -162,10 +162,10 @@ If Europeans inherited the symbols of Israel, they inherited the blood of Israel
 
 ## Cross-References
 
-- [[01 - Nations Abraham Seed]] — The promises these symbols identify
-- [[18 - Jacobs Blessing Twelve Tribes]] — Full text of Genesis 49
-- [[19 - Moses Blessing Twelve Tribes]] — Full text of Deuteronomy 33
-- [[20 - Dans Trail Through Europe]] — Detailed tracking of Dan
+- [[01 - Nations Abraham Seed]]: The promises these symbols identify
+- [[18 - Jacobs Blessing Twelve Tribes]]: Full text of Genesis 49
+- [[19 - Moses Blessing Twelve Tribes]]: Full text of Deuteronomy 33
+- [[20 - Dans Trail Through Europe]]: Detailed tracking of Dan
 
 ---
 

@@ -31,7 +31,7 @@ Context determines which meaning applies.
 
 > "There went out a decree from Caesar Augustus, that **all the world** should be taxed."
 
-Did Caesar tax Australia? China? The Americas? No — "all the world" meant the Roman Empire.
+Did Caesar tax Australia? China? The Americas? No, "all the world" meant the Roman Empire.
 
 ### Acts 11:28
 
@@ -43,13 +43,13 @@ This famine affected the Roman world, not every place on earth.
 
 > "These that have **turned the world upside down** are come hither also."
 
-The Christians hadn't reached every continent — "the world" meant the known Roman world.
+The Christians hadn't reached every continent, "the world" meant the known Roman world.
 
 ### Romans 1:8
 
 > "Your faith is spoken of **throughout the whole world**."
 
-The Romans' faith was known throughout the Roman Empire — not in China or the Americas.
+The Romans' faith was known throughout the Roman Empire, not in China or the Americas.
 
 ---
 
@@ -59,13 +59,13 @@ The Romans' faith was known throughout the Roman Empire — not in China or the 
 
 > "The Pharisees therefore said among themselves... behold, **the world is gone after him**."
 
-The Pharisees weren't saying Chinese and Africans followed Christ — they meant the Israelite world, the crowds following Jesus.
+The Pharisees weren't saying Chinese and Africans followed Christ, they meant the Israelite world, the crowds following Jesus.
 
 ### John 18:20
 
 > "Jesus answered him, I spake openly **to the world**; I ever taught in the synagogue, and in the temple, whither the Jews always resort."
 
-Jesus spoke "to the world" — but in synagogues and the temple. His "world" was the Israelite world.
+Jesus spoke "to the world", but in synagogues and the temple. His "world" was the Israelite world.
 
 ---
 
@@ -85,13 +85,13 @@ Options:
 
 **Context clues:**
 
-> **John 3:17** — "For God sent not his Son into the **world** to condemn the world; but that **the world through him might be saved**."
+> **John 3:17**: "For God sent not his Son into the **world** to condemn the world; but that **the world through him might be saved**."
 
 If "world" meant every person, then every person would be saved. But we know not everyone is saved.
 
-> **John 3:18** — "He that believeth on him is not condemned: but he that believeth not is condemned already."
+> **John 3:18**: "He that believeth on him is not condemned: but he that believeth not is condemned already."
 
-The "world" Christ came to save is the world that can believe and be saved — the world of Israel, the lost sheep.
+The "world" Christ came to save is the world that can believe and be saved, the world of Israel, the lost sheep.
 
 ---
 
@@ -107,7 +107,7 @@ The "world" Christ came to save is the world that can believe and be saved — t
 
 > "God was in Christ, **reconciling the world** unto himself."
 
-"Reconciling" implies a prior relationship (see [[26 - Ministry Of Reconciliation]]). The "world" being reconciled is the world that had a prior relationship with God — Israel.
+"Reconciling" implies a prior relationship (see [[26 - Ministry Of Reconciliation]]). The "world" being reconciled is the world that had a prior relationship with God, Israel.
 
 ### 1 John 2:2
 
@@ -116,7 +116,7 @@ The "world" Christ came to save is the world that can believe and be saved — t
 "Our" = John's immediate audience (Judean Israelites)
 "Whole world" = The scattered Israelites throughout the known world
 
-Not every creature — but all Israel, wherever dispersed.
+Not every creature, but all Israel, wherever dispersed.
 
 ---
 
@@ -124,7 +124,7 @@ Not every creature — but all Israel, wherever dispersed.
 
 ### What Christ Opposed
 
-> **John 15:18-19** — "If **the world** hate you, ye know that it hated me before it hated you. If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you."
+> **John 15:18-19**: "If **the world** hate you, ye know that it hated me before it hated you. If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you."
 
 Here "world" = the system opposed to Christ:
 - The non-Israelite nations
@@ -133,11 +133,11 @@ Here "world" = the system opposed to Christ:
 
 ### Satan's World
 
-> **1 John 5:19** — "The whole **world** lieth in wickedness [or: in the wicked one]."
+> **1 John 5:19**: "The whole **world** lieth in wickedness [or: in the wicked one]."
 
-> **John 12:31** — "Now shall the prince of **this world** be cast out."
+> **John 12:31**: "Now shall the prince of **this world** be cast out."
 
-Satan is "prince of this world" — the world system opposed to God's people.
+Satan is "prince of this world", the world system opposed to God's people.
 
 ---
 
@@ -145,17 +145,17 @@ Satan is "prince of this world" — the world system opposed to God's people.
 
 ### Another Interpretation
 
-Some interpret "world" as Adam's race — the world that came from Adam:
+Some interpret "world" as Adam's race, the world that came from Adam:
 
-> **Romans 5:12** — "Wherefore, as by one man sin entered into **the world**, and death by sin; and so death passed upon all men, for that all have sinned."
+> **Romans 5:12**: "Wherefore, as by one man sin entered into **the world**, and death by sin; and so death passed upon all men, for that all have sinned."
 
-Sin entered "the world" through Adam — meaning Adam's descendants, not all creatures.
+Sin entered "the world" through Adam, meaning Adam's descendants, not all creatures.
 
-> **Romans 5:18** — "By the offence of one judgment came upon **all men** to condemnation."
+> **Romans 5:18**: "By the offence of one judgment came upon **all men** to condemnation."
 
 "All men" = Adam's race, who inherit Adam's sin.
 
-This "world" is the Adamic world — and Israel is the chosen portion of that world.
+This "world" is the Adamic world, and Israel is the chosen portion of that world.
 
 ---
 
@@ -182,13 +182,13 @@ Rarely does it mean every individual human being.
 
 Understanding "world" proves:
 
-1. **Multiple meanings** — *Kosmos* has various senses
-2. **Context determines meaning** — Not always universal
-3. **John 3:16's world** — The Israelite world, not every creature
-4. **Reconciliation's world** — Those with a prior relationship
-5. **The diaspora** — "Whole world" often means scattered Israel
+1. **Multiple meanings**: *Kosmos* has various senses
+2. **Context determines meaning**: Not always universal
+3. **John 3:16's world**: The Israelite world, not every creature
+4. **Reconciliation's world**: Those with a prior relationship
+5. **The diaspora**: "Whole world" often means scattered Israel
 
-Knowing what "world" means in context helps us understand that salvation is for Israel — the world Christ came to save.
+Knowing what "world" means in context helps us understand that salvation is for Israel, the world Christ came to save.
 
 ---
 
@@ -202,9 +202,9 @@ Knowing what "world" means in context helps us understand that salvation is for 
 
 ## Cross-References
 
-- [[33 - Separation From The World]] — The world Christians must leave
-- [[24 - Christ Died Only For Israel]] — The scope of salvation
-- [[04 - Christ Came Only For Lost Sheep]] — Christ's stated mission
+- [[33 - Separation From The World]]: The world Christians must leave
+- [[24 - Christ Died Only For Israel]]: The scope of salvation
+- [[04 - Christ Came Only For Lost Sheep]]: Christ's stated mission
 
 ---
 

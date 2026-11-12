@@ -86,9 +86,9 @@ The Virgin Mary:
 
 ### Options
 
-1. **Artists' imagination** — They depicted what they knew
-2. **Accurate tradition** — They depicted what was transmitted
-3. **Israelites were European** — No distinction to make
+1. **Artists' imagination**: They depicted what they knew
+2. **Accurate tradition**: They depicted what was transmitted
+3. **Israelites were European**: No distinction to make
 
 ### The Most Likely
 
@@ -159,11 +159,11 @@ This change:
 ### From Rome to Russia
 
 Christ's depiction was consistent:
-- Roman catacombs (~2nd-4th century) — European
-- Byzantine mosaics (~6th-15th century) — European
-- Medieval Europe (~5th-15th century) — European
-- Renaissance (~14th-17th century) — European
-- Orthodox icons (continuous) — European
+- Roman catacombs (~2nd-4th century): European
+- Byzantine mosaics (~6th-15th century): European
+- Medieval Europe (~5th-15th century): European
+- Renaissance (~14th-17th century): European
+- Orthodox icons (continuous): European
 
 Only in modern times did this change.
 
@@ -173,11 +173,11 @@ Only in modern times did this change.
 
 Christ's European depiction proves:
 
-1. **Earliest art** — European features
-2. **Continuous tradition** — Unchanged for 1,500+ years
-3. **No "dark" versions** — In ancient art
-4. **Modern invention** — "Middle Eastern Jesus" is recent
-5. **Israelite connection** — Europeans saw Christ as one of them
+1. **Earliest art**: European features
+2. **Continuous tradition**: Unchanged for 1,500+ years
+3. **No "dark" versions**: In ancient art
+4. **Modern invention**: "Middle Eastern Jesus" is recent
+5. **Israelite connection**: Europeans saw Christ as one of them
 
 Christ was depicted as European because Israelites looked European, and Europeans knew they were Israelites.
 
@@ -193,9 +193,9 @@ Christ was depicted as European because Israelites looked European, and European
 
 ## Cross-References
 
-- [[75 - Ancient Art Depicts Europeans]] — Broader art evidence
-- [[14 - Ancient Artwork Depictions]] — Art analysis
-- [[78 - Early Christian Art Confirms]] — Catacomb evidence
+- [[75 - Ancient Art Depicts Europeans]]: Broader art evidence
+- [[14 - Ancient Artwork Depictions]]: Art analysis
+- [[78 - Early Christian Art Confirms]]: Catacomb evidence
 
 ---
 

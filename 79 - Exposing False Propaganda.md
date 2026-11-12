@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Modern portrayals of biblical figures as dark-skinned "Middle Easterners" are propaganda — deliberate falsifications designed to separate Europeans from their Israelite identity. This propaganda contradicts all ancient evidence.
+Modern portrayals of biblical figures as dark-skinned "Middle Easterners" are propaganda, deliberate falsifications designed to separate Europeans from their Israelite identity. This propaganda contradicts all ancient evidence.
 
 ---
 
@@ -52,10 +52,10 @@ Those who want:
 ### Ancient Art
 
 As demonstrated in previous proofs:
-- Egyptian art — Israelites lighter than Egyptians
-- Assyrian art — Similar to other Semitic peoples
-- Early Christian art — European features
-- Medieval art — European features
+- Egyptian art: Israelites lighter than Egyptians
+- Assyrian art: Similar to other Semitic peoples
+- Early Christian art: European features
+- Medieval art: European features
 
 No ancient evidence supports the modern "dark" image.
 
@@ -194,11 +194,11 @@ If Europeans believe:
 
 False propaganda is exposed by:
 
-1. **Ancient evidence** — All shows European appearance
-2. **Modern invention** — "Dark Jesus" is 19th-20th century
-3. **Clear agenda** — Separate Europeans from Israel
-4. **Techniques identified** — "Science," Hollywood, academia
-5. **Truth available** — Historical evidence contradicts propaganda
+1. **Ancient evidence**: All shows European appearance
+2. **Modern invention**: "Dark Jesus" is 19th-20th century
+3. **Clear agenda**: Separate Europeans from Israel
+4. **Techniques identified**: "Science," Hollywood, academia
+5. **Truth available**: Historical evidence contradicts propaganda
 
 The modern "Middle Eastern" depiction of biblical figures is deliberate propaganda to hide European-Israelite identity.
 
@@ -214,9 +214,9 @@ The modern "Middle Eastern" depiction of biblical figures is deliberate propagan
 
 ## Cross-References
 
-- [[77 - Christ And Apostles European]] — True depictions
-- [[75 - Ancient Art Depicts Europeans]] — Ancient evidence
-- [[60 - European Blindness]] — The purpose of confusion
+- [[77 - Christ And Apostles European]]: True depictions
+- [[75 - Ancient Art Depicts Europeans]]: Ancient evidence
+- [[60 - European Blindness]]: The purpose of confusion
 
 ---
 

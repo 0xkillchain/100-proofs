@@ -1,5 +1,5 @@
 
-# Proof 35: Jacob and Esau — The Great Conflict
+# Proof 35: Jacob and Esau The Great Conflict
 
 ## The Claim
 
@@ -69,7 +69,7 @@ Paul quotes Malachi:
 
 > "As it is written, **Jacob have I loved, but Esau have I hated**."
 
-This is not about individual salvation — it's about two peoples, two nations, two destinies.
+This is not about individual salvation, it's about two peoples, two nations, two destinies.
 
 ---
 
@@ -82,9 +82,9 @@ Esau's descendants:
 - Called "Edomites" or "Idumeans"
 - Intermarried with Canaanites and Ishmaelites
 
-> **Genesis 36:2** — "Esau took his wives of the daughters of Canaan."
+> **Genesis 36:2**: "Esau took his wives of the daughters of Canaan."
 
-Esau mixed his line with Canaanites — corrupting his lineage.
+Esau mixed his line with Canaanites, corrupting his lineage.
 
 ### Historical Enmity
 
@@ -102,7 +102,7 @@ Edom consistently opposed Israel:
 
 The entire book of Obadiah is against Edom:
 
-> **Obadiah 1:18** — "And the house of Jacob shall be a fire, and the house of Joseph a flame, and **the house of Esau for stubble**, and they shall kindle in them, and devour them; and **there shall not be any remaining of the house of Esau**; for the LORD hath spoken it."
+> **Obadiah 1:18**: "And the house of Jacob shall be a fire, and the house of Joseph a flame, and **the house of Esau for stubble**, and they shall kindle in them, and devour them; and **there shall not be any remaining of the house of Esau**; for the LORD hath spoken it."
 
 Edom's fate:
 - Destroyed by Jacob/Joseph
@@ -139,13 +139,13 @@ The conflict between Jacob and Esau continues as the conflict between:
 
 The Jacob-Esau conflict proves:
 
-1. **Prophesied before birth** — Two nations, perpetual struggle
-2. **Divine election** — God loved Jacob, hated Esau
-3. **Continued enmity** — Throughout Scripture
-4. **Future destruction** — Esau will have no remnant
-5. **Modern application** — The conflict continues today
+1. **Prophesied before birth**: Two nations, perpetual struggle
+2. **Divine election**: God loved Jacob, hated Esau
+3. **Continued enmity**: Throughout Scripture
+4. **Future destruction**: Esau will have no remnant
+5. **Modern application**: The conflict continues today
 
-Understanding Jacob and Esau is essential to understanding identity — who is true Israel and who are their adversaries.
+Understanding Jacob and Esau is essential to understanding identity, who is true Israel and who are their adversaries.
 
 ---
 
@@ -159,10 +159,10 @@ Understanding Jacob and Esau is essential to understanding identity — who is t
 
 ## Cross-References
 
-- [[36 - Nature Of Esau]] — Esau's character
-- [[37 - Prophecies About Esaus Descendants]] — More prophecies
-- [[38 - Edomite Infiltration]] — How Edom infiltrated Judea
-- [[39 - Christ Identified His Adversaries]] — Christ and the Edomites
+- [[36 - Nature Of Esau]]: Esau's character
+- [[37 - Prophecies About Esaus Descendants]]: More prophecies
+- [[38 - Edomite Infiltration]]: How Edom infiltrated Judea
+- [[39 - Christ Identified His Adversaries]]: Christ and the Edomites
 
 ---
 

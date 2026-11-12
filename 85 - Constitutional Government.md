@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Europeans developed constitutional government — limited government under law, with protected rights. This reflects Israel's covenant structure where even kings were bound by God's law.
+Europeans developed constitutional government, limited government under law, with protected rights. This reflects Israel's covenant structure where even kings were bound by God's law.
 
 ---
 
@@ -41,7 +41,7 @@ Only Europeans developed limited, constitutional government.
 
 ## Synthesis
 
-Constitutional government reflects Israel's covenant structure — law above rulers, rights under God, accountable leadership.
+Constitutional government reflects Israel's covenant structure, law above rulers, rights under God, accountable leadership.
 
 ---
 

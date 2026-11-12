@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Scripture reveals a continuous plan from creation to consummation — a plan focused on Adam's race, Israel, and the ultimate victory of Christ over the serpent seed. Understanding this plan reveals why Europeans are Israel.
+Scripture reveals a continuous plan from creation to consummation, a plan focused on Adam's race, Israel, and the ultimate victory of Christ over the serpent seed. Understanding this plan reveals why Europeans are Israel.
 
 ---
 
@@ -11,7 +11,7 @@ Scripture reveals a continuous plan from creation to consummation — a plan foc
 
 ### 1. Creation
 
-> **Genesis 1:26-27** — God created Adam in His image.
+> **Genesis 1:26-27**: God created Adam in His image.
 
 Adam was uniquely formed:
 - Received the *neshamah* (breath of God)
@@ -21,7 +21,7 @@ Adam was uniquely formed:
 
 ### 2. The Fall
 
-> **Genesis 3:1-6** — The serpent deceived Eve.
+> **Genesis 3:1-6**: The serpent deceived Eve.
 
 The corruption began:
 - Eve seduced by the serpent
@@ -31,7 +31,7 @@ The corruption began:
 
 ### 3. The Flood
 
-> **Genesis 6:1-8** — All flesh corrupted.
+> **Genesis 6:1-8**: All flesh corrupted.
 
 Judgment came:
 - Nephilim corruption spread
@@ -41,7 +41,7 @@ Judgment came:
 
 ### 4. Babel and the Nations
 
-> **Genesis 11:1-9** — Languages confused.
+> **Genesis 11:1-9**: Languages confused.
 
 The nations scattered:
 - Humanity divided
@@ -50,7 +50,7 @@ The nations scattered:
 
 ### 5. Abraham's Call
 
-> **Genesis 12:1-3** — Yahweh chose Abraham.
+> **Genesis 12:1-3**: Yahweh chose Abraham.
 
 The covenant began:
 - A great nation promised
@@ -59,7 +59,7 @@ The covenant began:
 
 ### 6. Israel Formed
 
-> **Exodus 19:5-6** — Israel at Sinai.
+> **Exodus 19:5-6**: Israel at Sinai.
 
 The nation established:
 - Law given
@@ -69,7 +69,7 @@ The nation established:
 
 ### 7. Apostasy and Exile
 
-> **2 Kings 17:6** — Israel deported.
+> **2 Kings 17:6**: Israel deported.
 
 Judgment fell:
 - Northern Kingdom scattered (722 BC)
@@ -79,7 +79,7 @@ Judgment fell:
 
 ### 8. Christ Came
 
-> **Matthew 1:21** — "He shall save his people."
+> **Matthew 1:21**: "He shall save his people."
 
 Redemption arrived:
 - Born of Israel
@@ -89,7 +89,7 @@ Redemption arrived:
 
 ### 9. Christianity Spread
 
-> **Acts 1:8** — "Unto the uttermost part of the earth."
+> **Acts 1:8**: "Unto the uttermost part of the earth."
 
 The Gospel went forth:
 - To scattered Israel
@@ -107,7 +107,7 @@ The current era:
 
 ### 11. Christ Returns
 
-> **Revelation 19:11-16** — "King of Kings."
+> **Revelation 19:11-16**: "King of Kings."
 
 The culmination:
 - Destroys the enemy
@@ -117,7 +117,7 @@ The culmination:
 
 ### 12. New Creation
 
-> **Revelation 21:1-4** — "New heaven and new earth."
+> **Revelation 21:1-4**: "New heaven and new earth."
 
 The consummation:
 - Eden restored
@@ -166,7 +166,7 @@ This conflict runs through:
 ### The Resolution
 
 Christ crushes the serpent's head:
-> **Romans 16:20** — "The God of peace shall bruise Satan under your feet shortly."
+> **Romans 16:20**: "The God of peace shall bruise Satan under your feet shortly."
 
 The serpent seed is ultimately destroyed. Israel is ultimately victorious.
 
@@ -195,11 +195,11 @@ Europeans fulfill this:
 
 Yahweh's plan proves:
 
-1. **Consistent focus** — Always Israel
-2. **Two seedlines** — Ongoing conflict
-3. **Redemption** — Through Christ for Israel
-4. **Fulfillment** — Through European history
-5. **Consummation** — Israel victorious
+1. **Consistent focus**: Always Israel
+2. **Two seedlines**: Ongoing conflict
+3. **Redemption**: Through Christ for Israel
+4. **Fulfillment**: Through European history
+5. **Consummation**: Israel victorious
 
 The entire plan of redemption centers on Israel. Europeans are Israel, fulfilling this plan.
 
@@ -215,9 +215,9 @@ The entire plan of redemption centers on Israel. Europeans are Israel, fulfillin
 
 ## Cross-References
 
-- [[43 - Two Trees In The Garden]] — The beginning
-- [[35 - Jacob And Esau]] — The conflict
-- [[64 - Christ Will Remarry One People]] — The redemption
+- [[43 - Two Trees In The Garden]]: The beginning
+- [[35 - Jacob And Esau]]: The conflict
+- [[64 - Christ Will Remarry One People]]: The redemption
 
 ---
 

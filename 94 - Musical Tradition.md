@@ -3,7 +3,7 @@
 
 ## The Claim
 
-European sacred music — hymns, choral works, organ music — continues Israel's tradition of praising God through song. The Psalms commanded singing; Europeans obeyed.
+European sacred music, hymns, choral works, organ music, continues Israel's tradition of praising God through song. The Psalms commanded singing; Europeans obeyed.
 
 ---
 
@@ -19,9 +19,9 @@ European sacred music — hymns, choral works, organ music — continues Israel'
 
 ## The Biblical Command
 
-> **Psalm 96:1** — "O sing unto the LORD a new song: sing unto the LORD, all the earth."
+> **Psalm 96:1**: "O sing unto the LORD a new song: sing unto the LORD, all the earth."
 
-> **Colossians 3:16** — "Singing with grace in your hearts to the Lord."
+> **Colossians 3:16**: "Singing with grace in your hearts to the Lord."
 
 Israel was commanded to sing. Europeans developed the richest sacred music tradition in history.
 
@@ -39,7 +39,7 @@ No other civilization produced:
 
 ## Synthesis
 
-European sacred music fulfills Israel's calling to praise God through song — a continuous tradition from David's psalms.
+European sacred music fulfills Israel's calling to praise God through song, a continuous tradition from David's psalms.
 
 ---
 

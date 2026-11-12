@@ -9,7 +9,7 @@ In Deuteronomy 33, Moses blessed the twelve tribes before his death. These bless
 
 ## The Text
 
-> **Deuteronomy 33:1** — "And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death."
+> **Deuteronomy 33:1**: "And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death."
 
 Moses blessed the tribes before Israel entered the Promised Land. These blessings would extend through all generations.
 
@@ -26,7 +26,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 - Concern about diminishing numbers
 - Contrast with Jacob's "shall not excel"
 
-**Fulfillment:** France — survived many crises (Revolution, World Wars), population concerns at various points in history.
+**Fulfillment:** France, survived many crises (Revolution, World Wars), population concerns at various points in history.
 
 ---
 
@@ -83,7 +83,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 - Blessed land with abundant resources
 - Agricultural wealth
 - **Bullock (ox) and unicorn** symbolism
-- Would "push peoples to the ends of the earth" — global expansion
+- Would "push peoples to the ends of the earth": global expansion
 - Ephraim: ten thousands (greater)
 - Manasseh: thousands (great, but fewer)
 
@@ -102,12 +102,12 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 **Characteristics:**
 - Zebulun: going out (maritime, trade)
 - Issachar: staying home (agricultural)
-- "Abundance of the seas" — maritime wealth
-- "Treasures hid in the sand" — mineral wealth
+- "Abundance of the seas": maritime wealth
+- "Treasures hid in the sand": mineral wealth
 
 **Fulfillment:**
-- Netherlands (Zebulun) — maritime trade, "going out"
-- Switzerland (Issachar) — stable, "in thy tents"
+- Netherlands (Zebulun): maritime trade, "going out"
+- Switzerland (Issachar): stable, "in thy tents"
 - Both near each other geographically
 
 ---
@@ -121,7 +121,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 - Lion-like (fierce)
 - Associated with lawgiving
 
-**Fulfillment:** Germany — enlarged through history (Holy Roman Empire), fierce military tradition, important legal traditions (Roman-Germanic law).
+**Fulfillment:** Germany, enlarged through history (Holy Roman Empire), fierce military tradition, important legal traditions (Roman-Germanic law).
 
 ---
 
@@ -131,7 +131,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 
 **Characteristics:**
 - Young lion (aggressive, growing)
-- "Leap from Bashan" — migration from a specific location
+- "Leap from Bashan": migration from a specific location
 
 **Fulfillment:**
 - Bashan was in the Golan Heights region
@@ -149,7 +149,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 - Satisfied, blessed
 - Would possess west and south
 
-**Fulfillment:** Scandinavian peoples — possessed territories to the west (Iceland, Greenland, Vinland) and south (Norman conquests in Sicily, southern Italy).
+**Fulfillment:** Scandinavian peoples, possessed territories to the west (Iceland, Greenland, Vinland) and south (Norman conquests in Sicily, southern Italy).
 
 ---
 
@@ -160,15 +160,15 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 **Characteristics:**
 - Blessed with descendants
 - Acceptable/favored
-- "Dip foot in oil" — wealth, oil production?
-- Iron and brass shoes — industrial might
+- "Dip foot in oil": wealth, oil production?
+- Iron and brass shoes: industrial might
 - Strength enduring
 
-**Fulfillment:** Belgium/Netherlands region — wealthy, industrial (iron and steel), enduring despite small size.
+**Fulfillment:** Belgium/Netherlands region, wealthy, industrial (iron and steel), enduring despite small size.
 
 ---
 
-## Simeon — Missing?
+## Simeon Missing?
 
 Note: Simeon is not mentioned in Deuteronomy 33. This may confirm:
 - Simeon was absorbed into Judah (Joshua 19:1)
@@ -201,13 +201,13 @@ The prophecies complement each other, providing a fuller picture.
 
 Moses' blessings confirm and expand Jacob's prophecies:
 
-1. **Joseph's dominance** — Most detailed blessing, global expansion
-2. **Ephraim > Manasseh** — Ten thousands vs. thousands
-3. **Tribal characteristics** — Match European national traits
-4. **Geographic fulfillment** — West, south, seas, expansion
-5. **Missing Simeon** — Confirms early absorption
+1. **Joseph's dominance**: Most detailed blessing, global expansion
+2. **Ephraim > Manasseh**: Ten thousands vs. thousands
+3. **Tribal characteristics**: Match European national traits
+4. **Geographic fulfillment**: West, south, seas, expansion
+5. **Missing Simeon**: Confirms early absorption
 
-The blessings describe what the tribes would become — and only in Europe do we find nations matching these descriptions.
+The blessings describe what the tribes would become, and only in Europe do we find nations matching these descriptions.
 
 ---
 
@@ -221,9 +221,9 @@ The blessings describe what the tribes would become — and only in Europe do we
 
 ## Cross-References
 
-- [[18 - Jacobs Blessing Twelve Tribes]] — Jacob's parallel blessing
-- [[17 - Ephraim Manasseh]] — Joseph's sons in detail
-- [[02 - Symbols Heraldry Twelve Tribes]] — Symbolic connections
+- [[18 - Jacobs Blessing Twelve Tribes]]: Jacob's parallel blessing
+- [[17 - Ephraim Manasseh]]: Joseph's sons in detail
+- [[02 - Symbols Heraldry Twelve Tribes]]: Symbolic connections
 
 ---
 

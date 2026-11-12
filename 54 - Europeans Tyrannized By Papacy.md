@@ -3,7 +3,7 @@
 
 ## The Claim
 
-For over a thousand years, European Christians were oppressed by the Roman Catholic papacy — matching prophetic descriptions of a tyrannical religious power that would persecute the saints. This persecution was of Israel (Europeans) by a corrupted religious system.
+For over a thousand years, European Christians were oppressed by the Roman Catholic papacy, matching prophetic descriptions of a tyrannical religious power that would persecute the saints. This persecution was of Israel (Europeans) by a corrupted religious system.
 
 ---
 
@@ -13,7 +13,7 @@ For over a thousand years, European Christians were oppressed by the Roman Catho
 
 - 4th-5th century: Bishop of Rome gains prominence
 - 6th-8th century: Papal authority expands
-- 800 AD: Charlemagne crowned by Pope — church-state alliance
+- 800 AD: Charlemagne crowned by Pope: church-state alliance
 - Medieval era: Papal supremacy over European kings
 
 ### The "Holy Roman Empire"
@@ -31,7 +31,7 @@ A political-religious structure that:
 ### The Inquisition
 
 The Inquisition (beginning ~1184) targeted:
-- "Heretics" — those who disagreed with Rome
+- "Heretics": those who disagreed with Rome
 - Bible translators
 - Reformers
 - Common Christians who read Scripture
@@ -70,7 +70,7 @@ The "little horn":
 
 > "And it was given unto him to **make war with the saints**, and to overcome them."
 
-### Revelation 17 — The Harlot
+### Revelation 17 The Harlot
 
 > "And I saw the woman **drunken with the blood of the saints**, and with the blood of the martyrs of Jesus."
 
@@ -124,7 +124,7 @@ This was Israel throwing off papal tyranny.
 | Scandinavia | Lutheran |
 | Switzerland | Zwingli, Calvin |
 
-The Germanic/Celtic/Scandinavian peoples — the core Israelite nations — led the Reformation.
+The Germanic/Celtic/Scandinavian peoples, the core Israelite nations, led the Reformation.
 
 ---
 
@@ -170,11 +170,11 @@ The Reformation nations (Israelites) have:
 
 Papal tyranny over Europe proves:
 
-1. **Europeans are the saints** — They were persecuted
-2. **Prophecy fulfilled** — "Wear out the saints" matched
-3. **Reformation as liberation** — Israel threw off the yoke
-4. **Germanic/Celtic/Scandinavian core** — They led freedom
-5. **Israel's pattern** — Oppression, then deliverance
+1. **Europeans are the saints**: They were persecuted
+2. **Prophecy fulfilled**: "Wear out the saints" matched
+3. **Reformation as liberation**: Israel threw off the yoke
+4. **Germanic/Celtic/Scandinavian core**: They led freedom
+5. **Israel's pattern**: Oppression, then deliverance
 
 The persecution and liberation of European Christians matches Israel's prophetic pattern.
 
@@ -190,9 +190,9 @@ The persecution and liberation of European Christians matches Israel's prophetic
 
 ## Cross-References
 
-- [[55 - Islams Wars Against Israel]] — The other persecutor
-- [[56 - Mass Produced Bible]] — What the Reformation accomplished
-- [[57 - Two Witnesses]] — Prophetic interpretation
+- [[55 - Islams Wars Against Israel]]: The other persecutor
+- [[56 - Mass Produced Bible]]: What the Reformation accomplished
+- [[57 - Two Witnesses]]: Prophetic interpretation
 
 ---
 

@@ -22,9 +22,9 @@ No other people systematically explored the entire earth.
 
 ## The Prophecy
 
-> **Genesis 28:14** — "Thou shalt spread abroad to the west, and to the east, and to the north, and to the south."
+> **Genesis 28:14**: "Thou shalt spread abroad to the west, and to the east, and to the north, and to the south."
 
-> **Isaiah 54:3** — "Thy seed shall inherit the Gentiles [nations], and make the desolate cities to be inhabited."
+> **Isaiah 54:3**: "Thy seed shall inherit the Gentiles [nations], and make the desolate cities to be inhabited."
 
 ---
 
@@ -42,7 +42,7 @@ Often explicitly Christian in motivation.
 
 ## Synthesis
 
-European exploration fulfills Israel's prophetic destiny — spreading to all directions, filling the earth.
+European exploration fulfills Israel's prophetic destiny, spreading to all directions, filling the earth.
 
 ---
 

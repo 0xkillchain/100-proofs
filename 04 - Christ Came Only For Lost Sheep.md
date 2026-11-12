@@ -11,23 +11,23 @@ Christ explicitly stated His mission was exclusively to the lost sheep of the ho
 
 ### Christ's Own Words
 
-> **Matthew 15:24** — "But he answered and said, **I am not sent but unto the lost sheep of the house of Israel.**"
+> **Matthew 15:24**: "But he answered and said, **I am not sent but unto the lost sheep of the house of Israel.**"
 
 This is an absolute, exclusive statement:
-- "I am not sent" — His mission
-- "but unto" — exclusively to
-- "the lost sheep" — those who were scattered and lost
-- "of the house of Israel" — the twelve tribes
+- "I am not sent": His mission
+- "but unto": exclusively to
+- "the lost sheep": those who were scattered and lost
+- "of the house of Israel": the twelve tribes
 
 ### The Canaanite Woman (Matthew 15:21-28)
 
 Context: A Canaanite woman begged Christ to heal her daughter.
 
-> v.23 — "But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us."
+> v.23: "But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us."
 
-> v.24 — "But he answered and said, I am not sent but unto the lost sheep of the house of Israel."
+> v.24: "But he answered and said, I am not sent but unto the lost sheep of the house of Israel."
 
-> v.26 — "But he answered and said, It is not meet to take the **children's bread**, and to cast it to **dogs**."
+> v.26: "But he answered and said, It is not meet to take the **children's bread**, and to cast it to **dogs**."
 
 Christ made a clear distinction:
 - **Children** = Israel (entitled to the bread)
@@ -37,15 +37,15 @@ The woman acknowledged this: "Truth, Lord: yet the dogs eat of the crumbs which 
 
 ### Instructions to the Apostles
 
-> **Matthew 10:5-6** — "These twelve Jesus sent forth, and commanded them, saying, **Go not into the way of the Gentiles**, and into any city of the Samaritans enter ye not: But go rather to the **lost sheep of the house of Israel**."
+> **Matthew 10:5-6**: "These twelve Jesus sent forth, and commanded them, saying, **Go not into the way of the Gentiles**, and into any city of the Samaritans enter ye not: But go rather to the **lost sheep of the house of Israel**."
 
 The apostles were forbidden from going to non-Israelites. Their mission was exclusively to Israel.
 
 ### After the Resurrection
 
-> **Acts 1:6** — "When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time **restore again the kingdom to Israel**?"
+> **Acts 1:6**: "When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time **restore again the kingdom to Israel**?"
 
-Even after the resurrection, the apostles understood the mission was about Israel. Christ did not correct them — He simply said the timing was not for them to know (v.7).
+Even after the resurrection, the apostles understood the mission was about Israel. Christ did not correct them, He simply said the timing was not for them to know (v.7).
 
 ---
 
@@ -61,10 +61,10 @@ The "lost sheep" refers primarily to the Northern Kingdom of Israel:
 ### Why "Lost"?
 
 They were "lost" because:
-1. **Geographically scattered** — Removed from the land
-2. **Nationally dissolved** — No longer identified as "Israel"
-3. **Spiritually divorced** — Hosea 1:9: "ye are not my people"
-4. **Identity forgotten** — Blinded to their heritage
+1. **Geographically scattered**: Removed from the land
+2. **Nationally dissolved**: No longer identified as "Israel"
+3. **Spiritually divorced**: Hosea 1:9: "ye are not my people"
+4. **Identity forgotten**: Blinded to their heritage
 
 Christ came to find and restore these lost sheep.
 
@@ -74,21 +74,21 @@ Christ came to find and restore these lost sheep.
 
 ### Only for Israel
 
-> **Matthew 1:21** — "And she shall bring forth a son, and thou shalt call his name JESUS: for he shall **save his people** from their sins."
+> **Matthew 1:21**: "And she shall bring forth a son, and thou shalt call his name JESUS: for he shall **save his people** from their sins."
 
-"His people" — not all peoples, but His specific people: Israel.
+"His people", not all peoples, but His specific people: Israel.
 
-> **Luke 1:68** — "Blessed be the Lord God of Israel; for he hath **visited and redeemed his people**."
+> **Luke 1:68**: "Blessed be the Lord God of Israel; for he hath **visited and redeemed his people**."
 
-> **Luke 1:77** — "To give knowledge of salvation unto **his people** by the remission of their sins."
+> **Luke 1:77**: "To give knowledge of salvation unto **his people** by the remission of their sins."
 
 ### The New Covenant
 
-> **Jeremiah 31:31** — "Behold, the days come, saith the LORD, that I will make a new covenant with the **house of Israel**, and with the **house of Judah**."
+> **Jeremiah 31:31**: "Behold, the days come, saith the LORD, that I will make a new covenant with the **house of Israel**, and with the **house of Judah**."
 
-> **Hebrews 8:8** — "For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the **house of Israel** and with the **house of Judah**."
+> **Hebrews 8:8**: "For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the **house of Israel** and with the **house of Judah**."
 
-The New Covenant was promised to — and made with — Israel and Judah. No other peoples are named.
+The New Covenant was promised to, and made with, Israel and Judah. No other peoples are named.
 
 ---
 
@@ -144,9 +144,9 @@ None of these are acceptable conclusions.
 
 ## Cross-References
 
-- [[03 - Who Did Apostles Write To]] — Where the letters went
-- [[23 - New Covenant]] — The covenant made with Israel
-- [[25 - Redemption Only For Israel]] — Kinsman-redeemer concept
+- [[03 - Who Did Apostles Write To]]: Where the letters went
+- [[23 - New Covenant]]: The covenant made with Israel
+- [[25 - Redemption Only For Israel]]: Kinsman-redeemer concept
 
 ---
 

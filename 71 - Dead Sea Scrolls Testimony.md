@@ -174,11 +174,11 @@ Israel (Europeans) preserved, studied, and published these texts.
 
 The Dead Sea Scrolls prove:
 
-1. **Textual reliability** — Scripture preserved accurately
-2. **LXX validation** — Often supports Greek readings
-3. **Pre-Christian expectations** — Jews awaited Messiah
-4. **Isaiah 53 authentic** — Suffering Servant prophecy intact
-5. **European scholarship** — Israel (Europeans) studied and preserved
+1. **Textual reliability**: Scripture preserved accurately
+2. **LXX validation**: Often supports Greek readings
+3. **Pre-Christian expectations**: Jews awaited Messiah
+4. **Isaiah 53 authentic**: Suffering Servant prophecy intact
+5. **European scholarship**: Israel (Europeans) studied and preserved
 
 The DSS confirm the Christian Old Testament and validate the textual tradition preserved by European Christians.
 
@@ -194,9 +194,9 @@ The DSS confirm the Christian Old Testament and validate the textual tradition p
 
 ## Cross-References
 
-- [[70 - Septuagint Vs Masoretic]] — Textual traditions
-- [[56 - Mass Produced Bible]] — Scripture preservation
-- [[13 - Archaeological Evidence]] — Physical evidence
+- [[70 - Septuagint Vs Masoretic]]: Textual traditions
+- [[56 - Mass Produced Bible]]: Scripture preservation
+- [[13 - Archaeological Evidence]]: Physical evidence
 
 ---
 

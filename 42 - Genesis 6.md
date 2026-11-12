@@ -1,9 +1,9 @@
 
-# Proof 42: Genesis 6 — The Corruption of All Flesh
+# Proof 42: Genesis 6 The Corruption of All Flesh
 
 ## The Claim
 
-The Flood came because "all flesh had corrupted his way upon the earth." This corruption was genetic — the mixing of angelic and human seed produced Nephilim and tainted humanity. Noah was saved because his lineage was uncorrupted.
+The Flood came because "all flesh had corrupted his way upon the earth." This corruption was genetic, the mixing of angelic and human seed produced Nephilim and tainted humanity. Noah was saved because his lineage was uncorrupted.
 
 ---
 
@@ -33,7 +33,7 @@ It's used for physical destruction/corruption, not just moral failing.
 
 ### "All Flesh"
 
-"All flesh had corrupted **his way**" — the corruption was in the flesh itself, not just behavior.
+"All flesh had corrupted **his way**", the corruption was in the flesh itself, not just behavior.
 
 This suggests:
 - Genetic corruption
@@ -59,9 +59,9 @@ Used for:
 - Sacrificial animals (must be without blemish)
 - Physical perfection
 
-"In his generations" (*toledoth* — genealogy, lineage)
+"In his generations" (*toledoth*, genealogy, lineage)
 
-Noah was *tamim* in his *toledoth* — unblemished in his lineage. His genetics were uncorrupted.
+Noah was *tamim* in his *toledoth*, unblemished in his lineage. His genetics were uncorrupted.
 
 ### Why Noah Was Saved
 
@@ -75,15 +75,15 @@ Noah was *tamim* in his *toledoth* — unblemished in his lineage. His genetics 
 
 ### How Bad Was It?
 
-> **Genesis 6:5** — "Every imagination of the thoughts of his heart was **only evil continually**."
+> **Genesis 6:5**: "Every imagination of the thoughts of his heart was **only evil continually**."
 
-> **Genesis 6:12** — "**All flesh** had corrupted his way."
+> **Genesis 6:12**: "**All flesh** had corrupted his way."
 
 This was not merely human sinfulness (which continues after the Flood). This was corruption of the species itself through Nephilim mixing.
 
 ### Only Noah Left
 
-If the corruption was only moral, there would likely be other righteous people. But if the corruption was genetic, then only Noah's family remained uncorrupted — making them the only viable option.
+If the corruption was only moral, there would likely be other righteous people. But if the corruption was genetic, then only Noah's family remained uncorrupted, making them the only viable option.
 
 ---
 
@@ -109,7 +109,7 @@ The Flood destroyed:
 
 ### The Corruption Returned
 
-> **Genesis 6:4** — "There were giants in the earth in those days; **and also after that**."
+> **Genesis 6:4**: "There were giants in the earth in those days; **and also after that**."
 
 The Nephilim bloodline survived. How?
 
@@ -125,7 +125,7 @@ The post-Flood Nephilim descendants:
 - Rephaim (Genesis 14:5)
 - Various giant tribes
 
-God commanded Israel to destroy these peoples — continuing the cleansing the Flood began.
+God commanded Israel to destroy these peoples, continuing the cleansing the Flood began.
 
 ---
 
@@ -146,13 +146,13 @@ The end times will be like Noah's day:
 
 Genesis 6 proves:
 
-1. **Corruption was genetic** — "All flesh" corrupted, not just behavior
-2. **Noah was genetically pure** — *Tamim* in his generations
-3. **The Flood was cleansing** — Removing corrupted genetics
-4. **Some survived** — Giants after the Flood
-5. **Pattern continues** — End times like Noah's day
+1. **Corruption was genetic**: "All flesh" corrupted, not just behavior
+2. **Noah was genetically pure**: *Tamim* in his generations
+3. **The Flood was cleansing**: Removing corrupted genetics
+4. **Some survived**: Giants after the Flood
+5. **Pattern continues**: End times like Noah's day
 
-Understanding Genesis 6 reveals why lineage matters — why Israel must remain separate — why certain peoples cannot be saved.
+Understanding Genesis 6 reveals why lineage matters, why Israel must remain separate, why certain peoples cannot be saved.
 
 ---
 
@@ -166,9 +166,9 @@ Understanding Genesis 6 reveals why lineage matters — why Israel must remain s
 
 ## Cross-References
 
-- [[41 - Nephilim And Fallen Angels]] — The angelic sin
-- [[44 - Adam Created Separately]] — Adam's unique creation
-- [[43 - Two Trees In The Garden]] — The original corruption
+- [[41 - Nephilim And Fallen Angels]]: The angelic sin
+- [[44 - Adam Created Separately]]: Adam's unique creation
+- [[43 - Two Trees In The Garden]]: The original corruption
 
 ---
 

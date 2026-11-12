@@ -41,11 +41,11 @@ The pure woman of Revelation 12 (Israel/the Church) becomes corrupted and appear
 
 Throughout the Old Testament, Israel is portrayed as God's unfaithful wife:
 
-> **Ezekiel 16:15** — "But **thou didst trust in thine own beauty, and playedst the harlot** because of thy renown."
+> **Ezekiel 16:15**: "But **thou didst trust in thine own beauty, and playedst the harlot** because of thy renown."
 
-> **Hosea 4:12** — "My people ask counsel at their stocks, and their staff declareth unto them: for the **spirit of whoredoms** hath caused them to err."
+> **Hosea 4:12**: "My people ask counsel at their stocks, and their staff declareth unto them: for the **spirit of whoredoms** hath caused them to err."
 
-> **Jeremiah 3:6** — "Hast thou seen that which **backsliding Israel hath done? she is gone up upon every high mountain and under every green tree, and there hath played the harlot**."
+> **Jeremiah 3:6**: "Hast thou seen that which **backsliding Israel hath done? she is gone up upon every high mountain and under every green tree, and there hath played the harlot**."
 
 Israel's apostasy was always described as harlotry/adultery.
 
@@ -81,8 +81,8 @@ If Christianity is Israel's faith, then:
 ### Same Woman, Different Condition
 
 The woman of Revelation 12 and 17 may be the same woman in different states:
-- **Revelation 12** — Israel pure, persecuted
-- **Revelation 17** — Israel corrupted, persecuting
+- **Revelation 12**: Israel pure, persecuted
+- **Revelation 17**: Israel corrupted, persecuting
 
 This parallels Israel's history:
 - Faithful under persecution
@@ -91,11 +91,11 @@ This parallels Israel's history:
 
 ### The Remnant
 
-> **Revelation 12:17** — "The remnant of her seed, which keep the commandments of God."
+> **Revelation 12:17**: "The remnant of her seed, which keep the commandments of God."
 
-> **Revelation 18:4** — "**Come out of her, my people**, that ye be not partakers of her sins."
+> **Revelation 18:4**: "**Come out of her, my people**, that ye be not partakers of her sins."
 
-God's people (Israel) are called out of the corrupt system — proving they're inside it.
+God's people (Israel) are called out of the corrupt system, proving they're inside it.
 
 ---
 
@@ -143,13 +143,13 @@ True Israel:
 
 The woman becoming the whore proves:
 
-1. **Same entity** — Israel in different conditions
-2. **OT pattern** — Israel played the harlot before
-3. **Institutional corruption** — The church corrupted
-4. **Remnant preserved** — True Israel within
-5. **Call to come out** — God's people must separate
+1. **Same entity**: Israel in different conditions
+2. **OT pattern**: Israel played the harlot before
+3. **Institutional corruption**: The church corrupted
+4. **Remnant preserved**: True Israel within
+5. **Call to come out**: God's people must separate
 
-Israel (European Christianity) became corrupted in the institutional church, but the remnant remains — and is called to come out of the harlot system.
+Israel (European Christianity) became corrupted in the institutional church, but the remnant remains, and is called to come out of the harlot system.
 
 ---
 
@@ -163,9 +163,9 @@ Israel (European Christianity) became corrupted in the institutional church, but
 
 ## Cross-References
 
-- [[58 - Woman In The Wilderness]] — The pure woman
-- [[54 - Europeans Tyrannized By Papacy]] — Papal corruption
-- [[33 - Separation From The World]] — Call to separation
+- [[58 - Woman In The Wilderness]]: The pure woman
+- [[54 - Europeans Tyrannized By Papacy]]: Papal corruption
+- [[33 - Separation From The World]]: Call to separation
 
 ---
 

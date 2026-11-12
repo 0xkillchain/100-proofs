@@ -9,9 +9,9 @@ For 2,000 years, Christianity spread only to Europeans and their colonies. No ot
 
 ## The Scriptural Basis
 
-> **John 10:27** — "**My sheep hear my voice**, and I know them, and they follow me."
+> **John 10:27**: "**My sheep hear my voice**, and I know them, and they follow me."
 
-> **John 10:14** — "I am the good shepherd, and **know my sheep**, and am known of mine."
+> **John 10:14**: "I am the good shepherd, and **know my sheep**, and am known of mine."
 
 Christ's sheep recognize Him. Those who are not His sheep do not respond.
 
@@ -29,7 +29,7 @@ Christ's sheep recognize Him. Those who are not His sheep do not respond.
 | Eastern Europe | 9th-14th century | Byzantine and Roman missions |
 | Russia | 10th century | Byzantine mission |
 
-Europe became **entirely Christian** within 1,000 years of Christ — without military conquest (in most cases).
+Europe became **entirely Christian** within 1,000 years of Christ, without military conquest (in most cases).
 
 ### Outside Europe: Minimal Response
 
@@ -70,17 +70,17 @@ Europe became **entirely Christian** within 1,000 years of Christ — without mi
 
 ### The Sheep Hear His Voice
 
-Christianity spread to Europe because Europeans are Israelites — the "lost sheep" Christ came to find.
+Christianity spread to Europe because Europeans are Israelites, the "lost sheep" Christ came to find.
 
-> **Matthew 15:24** — "I am not sent but unto the lost sheep of the house of Israel."
+> **Matthew 15:24**: "I am not sent but unto the lost sheep of the house of Israel."
 
 The apostles went to Europe. Europe converted. Because Europe is Israel.
 
 ### The New Covenant Was With Israel
 
-> **Jeremiah 31:31** — "I will make a new covenant with the **house of Israel**, and with the **house of Judah**."
+> **Jeremiah 31:31**: "I will make a new covenant with the **house of Israel**, and with the **house of Judah**."
 
-> **Hebrews 8:8** — Same promise quoted in the New Testament.
+> **Hebrews 8:8**: Same promise quoted in the New Testament.
 
 The New Covenant was made with Israel. Europeans received the New Covenant. Europeans are Israel.
 
@@ -93,7 +93,7 @@ The New Covenant was made with Israel. Europeans received the New Covenant. Euro
 **Ethiopia:**
 - Ethiopian Christianity exists, but:
 - Ethiopia has significant Semitic (Israelite?) ancestry
-- The Ethiopian eunuch was reading Isaiah — already connected to Israel
+- The Ethiopian eunuch was reading Isaiah: already connected to Israel
 - May represent a branch of scattered Israel
 
 **India (Thomas Christians):**
@@ -102,7 +102,7 @@ The New Covenant was made with Israel. Europeans received the New Covenant. Euro
 - Did not spread organically
 - India as a whole did not convert
 
-These exceptions may prove the rule — Christianity took root where Israelites were present.
+These exceptions may prove the rule, Christianity took root where Israelites were present.
 
 ### "Christianity required force in Europe too"
 
@@ -124,17 +124,17 @@ These exceptions may prove the rule — Christianity took root where Israelites 
 
 ### Isaiah's Prophecy
 
-> **Isaiah 49:12** — "Behold, these shall come from far: and, lo, these from the **north** and from the **west**; and these from the land of Sinim."
+> **Isaiah 49:12**: "Behold, these shall come from far: and, lo, these from the **north** and from the **west**; and these from the land of Sinim."
 
-The regathered Israel comes from the north and west — Europe.
+The regathered Israel comes from the north and west, Europe.
 
 ### The Isles
 
-> **Isaiah 42:4** — "The **isles** shall wait for his law."
+> **Isaiah 42:4**: "The **isles** shall wait for his law."
 
-> **Isaiah 49:1** — "Listen, O **isles**, unto me."
+> **Isaiah 49:1**: "Listen, O **isles**, unto me."
 
-The "isles" (coastlands, maritime nations) received the law — Britain, Scandinavia, Mediterranean Europe.
+The "isles" (coastlands, maritime nations) received the law, Britain, Scandinavia, Mediterranean Europe.
 
 ---
 
@@ -160,11 +160,11 @@ No other people group produced this organically.
 
 Christianity spread only to Europeans because:
 
-1. **Christ came for Israel** — Europeans are Israel
-2. **The sheep hear His voice** — Europeans recognized Christ
-3. **The New Covenant was with Israel** — Europeans received it
-4. **Organic growth** — Christianity took root naturally in Europe
-5. **Christian civilization** — Only Europeans built it
+1. **Christ came for Israel**: Europeans are Israel
+2. **The sheep hear His voice**: Europeans recognized Christ
+3. **The New Covenant was with Israel**: Europeans received it
+4. **Organic growth**: Christianity took root naturally in Europe
+5. **Christian civilization**: Only Europeans built it
 
 The pattern of Christianity's spread identifies who Israel is. Israel is Europe.
 
@@ -180,9 +180,9 @@ The pattern of Christianity's spread identifies who Israel is. Israel is Europe.
 
 ## Cross-References
 
-- [[04 - Christ Came Only For Lost Sheep]] — Christ's stated mission
-- [[23 - New Covenant]] — The covenant with Israel
-- [[03 - Who Did Apostles Write To]] — Where the Gospel went
+- [[04 - Christ Came Only For Lost Sheep]]: Christ's stated mission
+- [[23 - New Covenant]]: The covenant with Israel
+- [[03 - Who Did Apostles Write To]]: Where the Gospel went
 
 ---
 

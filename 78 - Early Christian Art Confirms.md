@@ -3,7 +3,7 @@
 
 ## The Claim
 
-The earliest Christian art — from Roman catacombs, house churches, and early basilicas — consistently depicts biblical figures as Europeans. This art predates political motivations and reflects genuine early Christian understanding.
+The earliest Christian art, from Roman catacombs, house churches, and early basilicas, consistently depicts biblical figures as Europeans. This art predates political motivations and reflects genuine early Christian understanding.
 
 ---
 
@@ -96,7 +96,7 @@ Praying figures with raised hands:
 The story of Jonah:
 - Common in catacomb art
 - Jonah as European youth
-- Ship, whale, gourd — Greco-Roman style
+- Ship, whale, gourd: Greco-Roman style
 
 ### Daniel and Lions
 
@@ -132,17 +132,17 @@ One of the finest early Christian sarcophagi:
 ### Santa Maria Maggiore (~430s AD)
 
 Early basilica mosaics:
-- Abraham, Isaac, Jacob — European
-- Moses, Joshua — European
-- Christ — European
+- Abraham, Isaac, Jacob: European
+- Moses, Joshua: European
+- Christ: European
 - Consistent depiction
 
 ### Ravenna Mosaics (~5th-6th century)
 
 San Vitale, Sant'Apollinare:
-- Christ in glory — European
-- Apostles — European
-- Old Testament figures — European
+- Christ in glory: European
+- Apostles: European
+- Old Testament figures: European
 
 ---
 
@@ -187,13 +187,13 @@ Unbroken tradition of European depiction.
 
 Early Christian art confirms:
 
-1. **Earliest evidence** — ~2nd century, European depiction
-2. **Pre-Constantine** — No political motivation
-3. **Multiple locations** — Rome, Syria, everywhere
-4. **Consistent** — All European features
-5. **Continuous** — Unchanged for centuries
+1. **Earliest evidence**: ~2nd century, European depiction
+2. **Pre-Constantine**: No political motivation
+3. **Multiple locations**: Rome, Syria, everywhere
+4. **Consistent**: All European features
+5. **Continuous**: Unchanged for centuries
 
-The earliest Christians depicted biblical figures as European because they believed — and knew — they were.
+The earliest Christians depicted biblical figures as European because they believed, and knew, they were.
 
 ---
 
@@ -207,9 +207,9 @@ The earliest Christians depicted biblical figures as European because they belie
 
 ## Cross-References
 
-- [[75 - Ancient Art Depicts Europeans]] — Art evidence
-- [[77 - Christ And Apostles European]] — Christ specifically
-- [[14 - Ancient Artwork Depictions]] — Comprehensive art study
+- [[75 - Ancient Art Depicts Europeans]]: Art evidence
+- [[77 - Christ And Apostles European]]: Christ specifically
+- [[14 - Ancient Artwork Depictions]]: Comprehensive art study
 
 ---
 

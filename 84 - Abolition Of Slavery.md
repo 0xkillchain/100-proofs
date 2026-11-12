@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Europeans — uniquely among all peoples — abolished slavery based on Christian conscience. This moral achievement reflects Israel's experience of redemption from bondage and calling to justice.
+Europeans, uniquely among all peoples, abolished slavery based on Christian conscience. This moral achievement reflects Israel's experience of redemption from bondage and calling to justice.
 
 ---
 
@@ -14,7 +14,7 @@ Slavery existed everywhere. Only Europeans ended it:
 - American abolition (1865)
 - Pressure on other nations to abolish
 
-Europeans didn't just free their own slaves — they used naval power to suppress the slave trade globally.
+Europeans didn't just free their own slaves, they used naval power to suppress the slave trade globally.
 
 ---
 
@@ -33,9 +33,9 @@ Their argument: All humans made in God's image.
 ## Israel's Experience
 
 Israel was redeemed from slavery in Egypt:
-> **Exodus 20:2** — "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage."
+> **Exodus 20:2**: "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage."
 
-This shaped Israel's moral consciousness — and Europeans' conscience.
+This shaped Israel's moral consciousness, and Europeans' conscience.
 
 ---
 
@@ -52,7 +52,7 @@ Only Israel (Europeans) did this.
 
 ## Synthesis
 
-Abolition proves European-Israelite identity — a people shaped by redemption from bondage, extending that redemption to others.
+Abolition proves European-Israelite identity, a people shaped by redemption from bondage, extending that redemption to others.
 
 ---
 

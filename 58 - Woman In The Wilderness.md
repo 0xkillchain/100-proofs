@@ -28,9 +28,9 @@ The "woman" of Revelation 12 represents Israel, who fled into the wilderness to 
 The twelve stars = the twelve tribes of Israel.
 
 Compare Joseph's dream:
-> **Genesis 37:9** — "The sun and the moon and the **eleven stars** made obeisance to me."
+> **Genesis 37:9**: "The sun and the moon and the **eleven stars** made obeisance to me."
 
-Jacob (sun), Rachel (moon), and eleven brothers (stars) — the family of Israel.
+Jacob (sun), Rachel (moon), and eleven brothers (stars), the family of Israel.
 
 ### Sun and Moon
 
@@ -49,9 +49,9 @@ The woman is unmistakably Israel.
 > "A man child, who was to **rule all nations with a rod of iron**."
 
 This is Christ:
-> **Psalm 2:9** — "Thou shalt break them with a **rod of iron**."
+> **Psalm 2:9**: "Thou shalt break them with a **rod of iron**."
 
-> **Revelation 19:15** — "He shall rule them with a **rod of iron**."
+> **Revelation 19:15**: "He shall rule them with a **rod of iron**."
 
 Israel (the woman) gave birth to Christ (the man child).
 
@@ -79,7 +79,7 @@ After Christ's ascension:
 ### Geographic Interpretation
 
 The "wilderness" where Israel was preserved:
-- Europe — away from the Middle East
+- Europe: away from the Middle East
 - "Wild" lands from a Roman perspective
 - Where Christianity flourished
 
@@ -110,7 +110,7 @@ Interpretations:
 
 The eagle is a symbol of:
 - Dan (one of the camp standards)
-- Divine rescue (Exodus 19:4 — "I bare you on eagles' wings")
+- Divine rescue (Exodus 19:4: "I bare you on eagles' wings")
 
 ---
 
@@ -143,7 +143,7 @@ The remnant:
 - Keep God's commandments
 - Have the testimony of Jesus
 
-These are Israelite Christians — Europeans who maintained the faith.
+These are Israelite Christians, Europeans who maintained the faith.
 
 ---
 
@@ -151,11 +151,11 @@ These are Israelite Christians — Europeans who maintained the faith.
 
 The woman in the wilderness proves:
 
-1. **The woman is Israel** — Twelve stars, sun, moon
-2. **She bore Christ** — The man child
-3. **She fled to wilderness** — Europe
-4. **She was preserved** — 1,260 years
-5. **Her remnant** — European Christians today
+1. **The woman is Israel**: Twelve stars, sun, moon
+2. **She bore Christ**: The man child
+3. **She fled to wilderness**: Europe
+4. **She was preserved**: 1,260 years
+5. **Her remnant**: European Christians today
 
 The woman represents Israel scattered to Europe, preserved through the centuries, with a remnant maintaining the faith.
 
@@ -171,9 +171,9 @@ The woman represents Israel scattered to Europe, preserved through the centuries
 
 ## Cross-References
 
-- [[54 - Europeans Tyrannized By Papacy]] — The persecution
-- [[57 - Two Witnesses]] — Related symbolism
-- [[59 - Woman Becomes Whore]] — The corruption
+- [[54 - Europeans Tyrannized By Papacy]]: The persecution
+- [[57 - Two Witnesses]]: Related symbolism
+- [[59 - Woman Becomes Whore]]: The corruption
 
 ---
 

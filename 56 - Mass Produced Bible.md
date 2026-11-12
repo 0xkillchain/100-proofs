@@ -21,7 +21,7 @@ Significance:
 
 ### Why the Bible First?
 
-The first printed book was not philosophy, not science, not poetry — it was Scripture. Europeans prioritized God's Word above all else.
+The first printed book was not philosophy, not science, not poetry, it was Scripture. Europeans prioritized God's Word above all else.
 
 ---
 
@@ -70,7 +70,7 @@ All major Bible translations were:
 ### Martyrs for Translation
 
 Many died to translate Scripture:
-- William Tyndale — burned at stake
+- William Tyndale: burned at stake
 - Countless others persecuted
 
 Europeans sacrificed their lives for God's Word.
@@ -163,11 +163,11 @@ Europeans preserved and transmitted the text of Scripture.
 
 The mass-produced Bible proves:
 
-1. **European invention** — Gutenberg, printing press
-2. **European preservation** — Monasteries, copying
-3. **European translation** — Every major translation
-4. **European distribution** — Missionary effort, Bible societies
-5. **Oracles committed to Israel** — Europeans fulfilled this
+1. **European invention**: Gutenberg, printing press
+2. **European preservation**: Monasteries, copying
+3. **European translation**: Every major translation
+4. **European distribution**: Missionary effort, Bible societies
+5. **Oracles committed to Israel**: Europeans fulfilled this
 
 If Israel was given God's Word, and Europeans preserved and spread it, then Europeans are Israel.
 
@@ -183,9 +183,9 @@ If Israel was given God's Word, and Europeans preserved and spread it, then Euro
 
 ## Cross-References
 
-- [[54 - Europeans Tyrannized By Papacy]] — Why translation was suppressed
-- [[22 - Christianity Only Spread To Europeans]] — Who received the Word
-- [[70 - Septuagint Vs Masoretic]] — Textual issues
+- [[54 - Europeans Tyrannized By Papacy]]: Why translation was suppressed
+- [[22 - Christianity Only Spread To Europeans]]: Who received the Word
+- [[70 - Septuagint Vs Masoretic]]: Textual issues
 
 ---
 

@@ -9,7 +9,7 @@ Europeans uniquely carried the Gospel to all nations. This missionary impulse fu
 
 ## The Great Commission
 
-> **Matthew 28:19** — "Go ye therefore, and teach all nations."
+> **Matthew 28:19**: "Go ye therefore, and teach all nations."
 
 Europeans fulfilled this:
 - Missionaries to every continent
@@ -32,7 +32,7 @@ Only Europeans carried the Gospel globally.
 
 ## Israel's Calling
 
-> **Isaiah 49:6** — "I will also give thee for a light to the Gentiles [nations], that thou mayest be my salvation unto the end of the earth."
+> **Isaiah 49:6**: "I will also give thee for a light to the Gentiles [nations], that thou mayest be my salvation unto the end of the earth."
 
 Israel was called to be a light. Europeans became that light.
 
@@ -40,7 +40,7 @@ Israel was called to be a light. Europeans became that light.
 
 ## Synthesis
 
-The missionary impulse proves Europeans are Israel — the people called to bring God's light to the nations.
+The missionary impulse proves Europeans are Israel, the people called to bring God's light to the nations.
 
 ---
 

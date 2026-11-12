@@ -1,5 +1,5 @@
 
-# Proof 15: Language Connections — Hebrew and European Languages
+# Proof 15: Language Connections Hebrew and European Languages
 
 ## The Claim
 
@@ -50,7 +50,7 @@ Welsh and Irish show notable Hebrew parallels:
 | Tara | Torah | Law/Hill of law |
 | Abhainn | Ayin | Spring/River |
 
-The Hill of Tara — Ireland's sacred coronation site — may derive from Torah (law).
+The Hill of Tara, Ireland's sacred coronation site, may derive from Torah (law).
 
 ### Germanic-Hebrew Connections
 
@@ -80,12 +80,12 @@ The Hill of Tara — Ireland's sacred coronation site — may derive from Torah 
 ### The "Dan" Trail
 
 As prophesied (Genesis 49:17), Dan left a trail:
-- **Danube** — Major European river
-- **Dnieper** (Danapris) — Ukrainian river
-- **Don** — Russian river
-- **Denmark** — "Dan's mark"
-- **Danzig** — Baltic city (now Gdańsk)
-- **Dundee, Dunkirk, etc.** — "Dun" = fort in Celtic (from Dan?)
+- **Danube**: Major European river
+- **Dnieper** (Danapris): Ukrainian river
+- **Don**: Russian river
+- **Denmark**: "Dan's mark"
+- **Danzig**: Baltic city (now Gdańsk)
+- **Dundee, Dunkirk, etc.**: "Dun" = fort in Celtic (from Dan?)
 
 ---
 
@@ -100,7 +100,7 @@ Both Hebrew and many European languages (especially older forms):
 
 ### The Definite Article
 
-Celtic languages place the article after the noun in some constructions — unusual in Indo-European but paralleling Semitic patterns.
+Celtic languages place the article after the noun in some constructions, unusual in Indo-European but paralleling Semitic patterns.
 
 ### Consonantal Roots
 
@@ -110,7 +110,7 @@ Hebrew uses a system of three-consonant roots. Some European language families s
 
 ## The Gothic Language
 
-### Gothic — A Bridge Language
+### Gothic A Bridge Language
 
 Gothic (the oldest well-documented Germanic language) shows interesting features:
 
@@ -177,7 +177,7 @@ The Carthaginian (Punic) language was virtually identical to Hebrew:
 
 Punic inscriptions in Spain, North Africa, and the Mediterranean islands are almost readable as Hebrew.
 
-The Phoenicians colonized Iberia, Sardinia, and other regions — bringing their Semitic (Israelite) language.
+The Phoenicians colonized Iberia, Sardinia, and other regions, bringing their Semitic (Israelite) language.
 
 ---
 
@@ -185,11 +185,11 @@ The Phoenicians colonized Iberia, Sardinia, and other regions — bringing their
 
 Language connections demonstrate:
 
-1. **Direct religious vocabulary** — Hebrew religious terms in all European languages
-2. **Celtic parallels** — Significant Welsh/Irish-Hebrew vocabulary overlap
-3. **Place name evidence** — "Dan" and "Eber" names across Europe
-4. **Gothic bridge** — The Goths preserved transitional vocabulary
-5. **Punic presence** — Nearly-Hebrew spoken in Mediterranean colonies
+1. **Direct religious vocabulary**: Hebrew religious terms in all European languages
+2. **Celtic parallels**: Significant Welsh/Irish-Hebrew vocabulary overlap
+3. **Place name evidence**: "Dan" and "Eber" names across Europe
+4. **Gothic bridge**: The Goths preserved transitional vocabulary
+5. **Punic presence**: Nearly-Hebrew spoken in Mediterranean colonies
 
 These connections are too numerous and too deep for mere borrowing. They suggest:
 - Common ancestry (Adamic/Noahic language base)
@@ -208,10 +208,10 @@ These connections are too numerous and too deep for mere borrowing. They suggest
 
 ## Cross-References
 
-- [[05 - Phoenicians Were Israelites]] — Punic language connection
-- [[11 - Celts Were Israelites]] — Celtic-Hebrew parallels
-- [[20 - Dans Trail Through Europe]] — Dan place names
-- [[74 - Hebrew Words In European Languages]] — Expanded vocabulary list
+- [[05 - Phoenicians Were Israelites]]: Punic language connection
+- [[11 - Celts Were Israelites]]: Celtic-Hebrew parallels
+- [[20 - Dans Trail Through Europe]]: Dan place names
+- [[74 - Hebrew Words In European Languages]]: Expanded vocabulary list
 
 ---
 

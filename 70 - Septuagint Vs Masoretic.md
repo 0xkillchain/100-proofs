@@ -167,11 +167,11 @@ Post-Christian Jews:
 
 The Septuagint vs. Masoretic question proves:
 
-1. **LXX is older** — Predates Christ
-2. **Apostolic use** — NT quotes LXX
-3. **Possible corruption** — MT may be altered
-4. **European preservation** — Christians kept the LXX
-5. **Israel's Bible** — The diaspora used Greek Scripture
+1. **LXX is older**: Predates Christ
+2. **Apostolic use**: NT quotes LXX
+3. **Possible corruption**: MT may be altered
+4. **European preservation**: Christians kept the LXX
+5. **Israel's Bible**: The diaspora used Greek Scripture
 
 The Bible preserved by Europeans (Israel) includes the older Greek tradition.
 
@@ -187,9 +187,9 @@ The Bible preserved by Europeans (Israel) includes the older Greek tradition.
 
 ## Cross-References
 
-- [[56 - Mass Produced Bible]] — Scripture preservation
-- [[73 - New Testament In Greek]] — Why Greek?
-- [[71 - Dead Sea Scrolls Testimony]] — Textual evidence
+- [[56 - Mass Produced Bible]]: Scripture preservation
+- [[73 - New Testament In Greek]]: Why Greek?
+- [[71 - Dead Sea Scrolls Testimony]]: Textual evidence
 
 ---
 

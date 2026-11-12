@@ -76,7 +76,7 @@ Archaeological discoveries confirm the Israelite migrations to Europe. Artifacts
 
 ### The "Animal Style"
 
-Scythian art features a distinctive "animal style" — stylized representations of:
+Scythian art features a distinctive "animal style", stylized representations of:
 - Lions
 - Eagles
 - Deer
@@ -109,7 +109,7 @@ Scythian gold work shows:
 ### Assyrian Annals
 
 Assyrian royal inscriptions record:
-- **Bit-Khumri** (House of Omri) — Israel
+- **Bit-Khumri** (House of Omri): Israel
 - Deportation numbers and destinations
 - Later mentions of Gimirri in the same regions
 
@@ -175,7 +175,7 @@ Ancient writers described Scythians as:
 - Blue or light-eyed
 - Tall stature
 
-These match European characteristics and contrast with other Near Eastern populations — consistent with Israelite distinctiveness.
+These match European characteristics and contrast with other Near Eastern populations, consistent with Israelite distinctiveness.
 
 ---
 
@@ -208,12 +208,12 @@ This trade network established connections long before the main migrations.
 
 Archaeological evidence confirms:
 
-1. **Deportation sites** — Israelites placed where Scythians later emerged
-2. **Artifact continuity** — Material culture connects Near East → Scythia → Europe
-3. **Inscription evidence** — Assyrian and Persian records link names
-4. **Burial traditions** — Kurgan tradition traces the migration
-5. **Genetic evidence** — DNA studies support the migration pattern
-6. **Trade networks** — Established routes facilitated movement
+1. **Deportation sites**: Israelites placed where Scythians later emerged
+2. **Artifact continuity**: Material culture connects Near East → Scythia → Europe
+3. **Inscription evidence**: Assyrian and Persian records link names
+4. **Burial traditions**: Kurgan tradition traces the migration
+5. **Genetic evidence**: DNA studies support the migration pattern
+6. **Trade networks**: Established routes facilitated movement
 
 The physical evidence corroborates the historical and scriptural record.
 
@@ -229,9 +229,9 @@ The physical evidence corroborates the historical and scriptural record.
 
 ## Cross-References
 
-- [[07 - Assyrian Deportations]] — The deportation event
-- [[08 - Scythians Were Israelites]] — Scythian identity
-- [[14 - Ancient Artwork Depictions]] — Visual evidence
+- [[07 - Assyrian Deportations]]: The deportation event
+- [[08 - Scythians Were Israelites]]: Scythian identity
+- [[14 - Ancient Artwork Depictions]]: Visual evidence
 
 ---
 

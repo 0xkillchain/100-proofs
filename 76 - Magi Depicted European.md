@@ -35,7 +35,7 @@ The text says:
 ### Why They Knew
 
 Daniel had been chief of the wise men in Babylon:
-> **Daniel 2:48** — "The king made Daniel a great man... and made him ruler over all the wise men of Babylon."
+> **Daniel 2:48**: "The king made Daniel a great man... and made him ruler over all the wise men of Babylon."
 
 The Magi may have preserved Israelite prophecies through Daniel's influence.
 
@@ -149,11 +149,11 @@ Understanding the original depiction:
 
 The Magi depiction proves:
 
-1. **Earliest art** — All European/Persian
-2. **Later development** — African Magus added symbolically
-3. **Historical probability** — Persian Magi would have Israelite connection
-4. **Prophecy knowledge** — Knew Balaam's prediction
-5. **Israelite link** — Diaspora influence in the East
+1. **Earliest art**: All European/Persian
+2. **Later development**: African Magus added symbolically
+3. **Historical probability**: Persian Magi would have Israelite connection
+4. **Prophecy knowledge**: Knew Balaam's prediction
+5. **Israelite link**: Diaspora influence in the East
 
 The Magi were originally depicted as Europeans because they were connected to Israelites in the eastern diaspora.
 
@@ -169,9 +169,9 @@ The Magi were originally depicted as Europeans because they were connected to Is
 
 ## Cross-References
 
-- [[75 - Ancient Art Depicts Europeans]] — Art evidence
-- [[14 - Ancient Artwork Depictions]] — Broader art survey
-- [[08 - Scythians Were Israelites]] — Eastern diaspora
+- [[75 - Ancient Art Depicts Europeans]]: Art evidence
+- [[14 - Ancient Artwork Depictions]]: Broader art survey
+- [[08 - Scythians Were Israelites]]: Eastern diaspora
 
 ---
 

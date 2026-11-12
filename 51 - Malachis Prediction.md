@@ -30,10 +30,10 @@ The Levitical covenant was corrupted from within.
 
 ### How It Happened
 
-1. **Hasmonean conversions** (~125 BC) — Edomites forcibly converted
-2. **Edomites entered Judea** — Became legally "Jewish"
-3. **Herod's reign** — An Edomite as king
-4. **Priesthood corrupted** — Sadducees and compromised priests
+1. **Hasmonean conversions** (~125 BC): Edomites forcibly converted
+2. **Edomites entered Judea**: Became legally "Jewish"
+3. **Herod's reign**: An Edomite as king
+4. **Priesthood corrupted**: Sadducees and compromised priests
 
 By Christ's time:
 - The High Priesthood was politically appointed
@@ -46,7 +46,7 @@ The prophecy in Genesis 27:40 was fulfilled:
 
 > "Thou shalt have the dominion, that thou shalt break his yoke from off thy neck."
 
-Esau had gained dominion — even controlling Jacob's Temple.
+Esau had gained dominion, even controlling Jacob's Temple.
 
 ---
 
@@ -54,7 +54,7 @@ Esau had gained dominion — even controlling Jacob's Temple.
 
 ### Cleansing the Temple
 
-> **Matthew 21:12-13** — "And Jesus went into the temple of God, and cast out all them that sold and bought in the temple... And said unto them, It is written, My house shall be called the house of prayer; but **ye have made it a den of thieves**."
+> **Matthew 21:12-13**: "And Jesus went into the temple of God, and cast out all them that sold and bought in the temple... And said unto them, It is written, My house shall be called the house of prayer; but **ye have made it a den of thieves**."
 
 The Temple had become:
 - A commercial enterprise
@@ -63,9 +63,9 @@ The Temple had become:
 
 ### Confronting the Priests
 
-> **Matthew 23:13** — "But woe unto you, **scribes and Pharisees, hypocrites**! for ye shut up the kingdom of heaven against men."
+> **Matthew 23:13**: "But woe unto you, **scribes and Pharisees, hypocrites**! for ye shut up the kingdom of heaven against men."
 
-> **Matthew 23:33** — "Ye **serpents**, ye generation of **vipers**."
+> **Matthew 23:33**: "Ye **serpents**, ye generation of **vipers**."
 
 Christ identified the corrupted religious leaders as serpent seed.
 
@@ -75,21 +75,21 @@ Christ identified the corrupted religious leaders as serpent seed.
 
 ### Replacement Prophesied
 
-> **Malachi 3:1-3** — "The Lord, whom ye seek, shall suddenly come to his temple... And he shall sit as a refiner and purifier of silver: and he shall **purify the sons of Levi**, and purge them as gold and silver."
+> **Malachi 3:1-3**: "The Lord, whom ye seek, shall suddenly come to his temple... And he shall sit as a refiner and purifier of silver: and he shall **purify the sons of Levi**, and purge them as gold and silver."
 
-Christ came to purify — not the corrupted priesthood, but the true sons of Levi among His people.
+Christ came to purify, not the corrupted priesthood, but the true sons of Levi among His people.
 
 ### Priesthood of Believers
 
-> **1 Peter 2:5** — "Ye also, as lively stones, are built up a spiritual house, an **holy priesthood**, to offer up spiritual sacrifices, acceptable to God by Jesus Christ."
+> **1 Peter 2:5**: "Ye also, as lively stones, are built up a spiritual house, an **holy priesthood**, to offer up spiritual sacrifices, acceptable to God by Jesus Christ."
 
-> **1 Peter 2:9** — "But ye are a chosen generation, a **royal priesthood**, an holy nation."
+> **1 Peter 2:9**: "But ye are a chosen generation, a **royal priesthood**, an holy nation."
 
-The Levitical priesthood was replaced by the priesthood of all believers in Israel — those who accepted Christ.
+The Levitical priesthood was replaced by the priesthood of all believers in Israel, those who accepted Christ.
 
 ### Hebrews on the Change
 
-> **Hebrews 7:12** — "For **the priesthood being changed**, there is made of necessity a change also of the law."
+> **Hebrews 7:12**: "For **the priesthood being changed**, there is made of necessity a change also of the law."
 
 The corrupted Levitical system was replaced by Christ's Melchizedek priesthood.
 
@@ -113,13 +113,13 @@ This was judgment on the corrupted priesthood.
 
 Malachi's prediction proves:
 
-1. **Priesthood corruption prophesied** — Malachi foretold it
-2. **Edomite infiltration fulfilled it** — They corrupted the covenant
-3. **Christ identified them** — "Serpents, vipers"
-4. **New priesthood established** — All believers in Israel
-5. **Temple destroyed** — Judgment on corruption
+1. **Priesthood corruption prophesied**: Malachi foretold it
+2. **Edomite infiltration fulfilled it**: They corrupted the covenant
+3. **Christ identified them**: "Serpents, vipers"
+4. **New priesthood established**: All believers in Israel
+5. **Temple destroyed**: Judgment on corruption
 
-The corrupted priesthood was Esau/Edom in control of Jacob's Temple — but it was judged and replaced.
+The corrupted priesthood was Esau/Edom in control of Jacob's Temple, but it was judged and replaced.
 
 ---
 
@@ -133,9 +133,9 @@ The corrupted priesthood was Esau/Edom in control of Jacob's Temple — but it w
 
 ## Cross-References
 
-- [[38 - Edomite Infiltration]] — How Edom entered Judea
-- [[21 - Druids Were Levites]] — True Levites scattered
-- [[35 - Jacob And Esau]] — Esau gaining dominion
+- [[38 - Edomite Infiltration]]: How Edom entered Judea
+- [[21 - Druids Were Levites]]: True Levites scattered
+- [[35 - Jacob And Esau]]: Esau gaining dominion
 
 ---
 

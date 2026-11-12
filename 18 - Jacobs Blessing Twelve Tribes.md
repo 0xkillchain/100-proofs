@@ -9,9 +9,9 @@ In Genesis 49, Jacob prophesied over each of his twelve sons, describing what wo
 
 ## The Text
 
-> **Genesis 49:1** — "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you **in the last days**."
+> **Genesis 49:1**: "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you **in the last days**."
 
-This is prophecy — not just blessing, but prediction of future fulfillment.
+This is prophecy, not just blessing, but prediction of future fulfillment.
 
 ---
 
@@ -26,7 +26,7 @@ This is prophecy — not just blessing, but prediction of future fulfillment.
 - But unstable, would not excel
 - Lost preeminence due to sin
 
-**Possible fulfillment:** The French — first among the Franks, great potential, but historically unstable (revolutions, changing governments). France has "excellency" but has not maintained dominance.
+**Possible fulfillment:** The French, first among the Franks, great potential, but historically unstable (revolutions, changing governments). France has "excellency" but has not maintained dominance.
 
 ---
 
@@ -39,7 +39,7 @@ This is prophecy — not just blessing, but prediction of future fulfillment.
 - Would be divided and scattered
 - Not receive a unified territory
 
-**Fulfillment:** 
+**Fulfillment:**
 - Levi became the priestly tribe, scattered among all tribes
 - Simeon was absorbed into Judah's territory
 - Both scattered rather than unified
@@ -52,7 +52,7 @@ This is prophecy — not just blessing, but prediction of future fulfillment.
 
 **Characteristics:**
 - Leadership among brethren
-- The royal tribe — kings would come from Judah
+- The royal tribe: kings would come from Judah
 - Messiah (Shiloh) would come from Judah
 - **Lion** as symbol
 
@@ -72,7 +72,7 @@ This is prophecy — not just blessing, but prediction of future fulfillment.
 - Port cities, naval power
 - Commercial shipping
 
-**Possible fulfillment:** The Netherlands — historically a maritime trading nation, major ports (Rotterdam), seafaring tradition.
+**Possible fulfillment:** The Netherlands, historically a maritime trading nation, major ports (Rotterdam), seafaring tradition.
 
 ---
 
@@ -85,7 +85,7 @@ This is prophecy — not just blessing, but prediction of future fulfillment.
 - Agricultural, land-focused
 - Bears burdens for others
 
-**Possible fulfillment:** Switzerland or Finland — productive, hardworking, often neutral/serving between greater powers.
+**Possible fulfillment:** Switzerland or Finland, productive, hardworking, often neutral/serving between greater powers.
 
 ---
 
@@ -95,7 +95,7 @@ This is prophecy — not just blessing, but prediction of future fulfillment.
 
 **Characteristics:**
 - Would judge (have judicial role)
-- Serpent/adder — leaving a trail
+- Serpent/adder: leaving a trail
 - Would strike at enemies unexpectedly
 
 **Fulfillment:**
@@ -115,7 +115,7 @@ This is prophecy — not just blessing, but prediction of future fulfillment.
 - Would be attacked/overcome initially
 - But would ultimately triumph
 
-**Possible fulfillment:** Germany — repeatedly invaded and divided, but always resurging.
+**Possible fulfillment:** Germany, repeatedly invaded and divided, but always resurging.
 
 ---
 
@@ -128,7 +128,7 @@ This is prophecy — not just blessing, but prediction of future fulfillment.
 - Would produce luxury goods
 - Food for royalty
 
-**Possible fulfillment:** Belgium/Burgundy — historically wealthy, known for fine foods, served European courts.
+**Possible fulfillment:** Belgium/Burgundy, historically wealthy, known for fine foods, served European courts.
 
 ---
 
@@ -140,7 +140,7 @@ This is prophecy — not just blessing, but prediction of future fulfillment.
 - Swift, free (deer imagery)
 - Eloquent, literary
 
-**Possible fulfillment:** Norway/Sweden — known for literature (Nobel Prize), freedom-loving peoples.
+**Possible fulfillment:** Norway/Sweden, known for literature (Nobel Prize), freedom-loving peoples.
 
 ---
 
@@ -154,7 +154,7 @@ This is prophecy — not just blessing, but prediction of future fulfillment.
 - Wealth and military strength
 - Global reach
 
-**Fulfillment:** Britain and America (through Ephraim and Manasseh) — see [[17 - Ephraim Manasseh]] for detailed analysis.
+**Fulfillment:** Britain and America (through Ephraim and Manasseh), see [[17 - Ephraim Manasseh]] for detailed analysis.
 
 ---
 
@@ -170,7 +170,7 @@ This is prophecy — not just blessing, but prediction of future fulfillment.
 **Fulfillment:**
 - Rome (wolf of Romulus and Remus)
 - Paul was a Benjamite sent to Rome
-- Vikings (raiding in morning/evening — ravenous warriors)
+- Vikings (raiding in morning/evening: ravenous warriors)
 
 ---
 
@@ -210,11 +210,11 @@ The important point: the prophecies fit European nations far better than any oth
 
 Jacob's blessings:
 
-1. **Are prophetic** — "What shall befall you in the last days"
-2. **Are specific** — Each tribe has distinct characteristics
-3. **Match European nations** — The traits align with known history
-4. **Include symbolic elements** — Lion, serpent, wolf, etc., appear in European heraldry
-5. **Confirm Israelite identity** — Only in Europe do we find this pattern
+1. **Are prophetic**: "What shall befall you in the last days"
+2. **Are specific**: Each tribe has distinct characteristics
+3. **Match European nations**: The traits align with known history
+4. **Include symbolic elements**: Lion, serpent, wolf, etc., appear in European heraldry
+5. **Confirm Israelite identity**: Only in Europe do we find this pattern
 
 ---
 
@@ -228,10 +228,10 @@ Jacob's blessings:
 
 ## Cross-References
 
-- [[02 - Symbols Heraldry Twelve Tribes]] — The symbols in heraldry
-- [[17 - Ephraim Manasseh]] — Joseph's sons specifically
-- [[19 - Moses Blessing Twelve Tribes]] — Moses' parallel prophecy
-- [[20 - Dans Trail Through Europe]] — Dan's trail in detail
+- [[02 - Symbols Heraldry Twelve Tribes]]: The symbols in heraldry
+- [[17 - Ephraim Manasseh]]: Joseph's sons specifically
+- [[19 - Moses Blessing Twelve Tribes]]: Moses' parallel prophecy
+- [[20 - Dans Trail Through Europe]]: Dan's trail in detail
 
 ---
 

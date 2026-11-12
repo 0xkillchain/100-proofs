@@ -79,10 +79,10 @@ But genetics is consistent with the Israelite migration theory.
 ## Synthesis
 
 Genetic evidence supports:
-1. **Near Eastern origin** — European DNA traces East
-2. **Migration pattern** — Matches proposed routes
-3. **Timing** — Consistent with biblical chronology
-4. **R1b distribution** — Follows Israelite path
+1. **Near Eastern origin**: European DNA traces East
+2. **Migration pattern**: Matches proposed routes
+3. **Timing**: Consistent with biblical chronology
+4. **R1b distribution**: Follows Israelite path
 
 Genetics doesn't prove the case alone but is consistent with Europeans descending from Israelites.
 

@@ -9,11 +9,11 @@ Scripture prophesies that Israel's blindness will be lifted and they will recogn
 
 ## The Prophecy
 
-> **Romans 11:25-26** — "Blindness in part is happened to Israel, until the fulness of the Gentiles [nations] be come in. And so all Israel shall be saved."
+> **Romans 11:25-26**: "Blindness in part is happened to Israel, until the fulness of the Gentiles [nations] be come in. And so all Israel shall be saved."
 
-> **Hosea 2:23** — "I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God."
+> **Hosea 2:23**: "I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God."
 
-> **Ezekiel 37:11-14** — "These bones are the whole house of Israel... I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel. And ye shall know that I am the LORD."
+> **Ezekiel 37:11-14**: "These bones are the whole house of Israel... I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel. And ye shall know that I am the LORD."
 
 ---
 
@@ -24,7 +24,7 @@ Europeans today:
 - Scattered across nations
 - Losing their heritage
 - Under spiritual attack
-- "Dry bones" — seemingly dead
+- "Dry bones": seemingly dead
 
 ---
 
@@ -54,7 +54,7 @@ This study is part of that awakening.
 
 ## The Hope
 
-> **Isaiah 60:1-2** — "Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee. For, behold, the darkness shall cover the earth, and gross darkness the people: but the LORD shall arise upon thee, and his glory shall be seen upon thee."
+> **Isaiah 60:1-2**: "Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee. For, behold, the darkness shall cover the earth, and gross darkness the people: but the LORD shall arise upon thee, and his glory shall be seen upon thee."
 
 The darkness is deepest before dawn. The awakening is coming.
 
@@ -64,11 +64,11 @@ The darkness is deepest before dawn. The awakening is coming.
 
 The awakening proves:
 
-1. **Prophecy exists** — Blindness foretold
-2. **Blindness is real** — Europeans don't know who they are
-3. **Awakening promised** — "All Israel shall be saved"
-4. **Signs visible** — Some are waking up
-5. **Hope remains** — God keeps His promises
+1. **Prophecy exists**: Blindness foretold
+2. **Blindness is real**: Europeans don't know who they are
+3. **Awakening promised**: "All Israel shall be saved"
+4. **Signs visible**: Some are waking up
+5. **Hope remains**: God keeps His promises
 
 ---
 

@@ -56,7 +56,7 @@ Ancient writers explicitly connected the Goths to the Scythians:
 - Procopius mentioned their eastern origins
 - Gothic language shows connections to eastern tongues
 
-The Goths called themselves "Gut-thiuda" (Gothic people) — possibly from "Gad" (tribe of Israel).
+The Goths called themselves "Gut-thiuda" (Gothic people), possibly from "Gad" (tribe of Israel).
 
 ### Saxons as Sacae
 
@@ -73,28 +73,28 @@ The Saxons invaded Britain alongside the Angles, creating "Anglo-Saxon" England.
 
 ### The Stone Cut Without Hands
 
-> **Daniel 2:34-35** — "Thou sawest till that a **stone was cut out without hands**, which smote the image upon his feet that were of iron and clay, and brake them to pieces... and the **stone that smote the image became a great mountain, and filled the whole earth**."
+> **Daniel 2:34-35**: "Thou sawest till that a **stone was cut out without hands**, which smote the image upon his feet that were of iron and clay, and brake them to pieces... and the **stone that smote the image became a great mountain, and filled the whole earth**."
 
-> **Daniel 2:44** — "And in the days of these kings shall the God of heaven set up a **kingdom, which shall never be destroyed**... it shall break in pieces and consume all these kingdoms, and it shall stand for ever."
+> **Daniel 2:44**: "And in the days of these kings shall the God of heaven set up a **kingdom, which shall never be destroyed**... it shall break in pieces and consume all these kingdoms, and it shall stand for ever."
 
 ### Interpretation
 
 The statue represented successive empires:
-- Head of gold — Babylon
-- Chest of silver — Medo-Persia
-- Belly of brass — Greece
-- Legs of iron — Rome
-- Feet of iron/clay — Divided Rome
+- Head of gold: Babylon
+- Chest of silver: Medo-Persia
+- Belly of brass: Greece
+- Legs of iron: Rome
+- Feet of iron/clay: Divided Rome
 
-The stone "cut without hands" (not by human power, but by God) struck the statue's feet — destroying Rome — and became a mountain filling the earth.
+The stone "cut without hands" (not by human power, but by God) struck the statue's feet, destroying Rome, and became a mountain filling the earth.
 
 ### Fulfillment
 
 The Germanic tribes destroyed Rome (476 AD) and established Christian kingdoms that:
-1. **Filled the whole earth** — European colonization
-2. **Were not built by human hands** — Christian nations, established by Providence
-3. **Consumed the prior kingdoms** — All previous empires fell; Christendom endured
-4. **Spread to every continent** — Europeans brought Christianity globally
+1. **Filled the whole earth**: European colonization
+2. **Were not built by human hands**: Christian nations, established by Providence
+3. **Consumed the prior kingdoms**: All previous empires fell; Christendom endured
+4. **Spread to every continent**: Europeans brought Christianity globally
 
 Only the Germanic-descended peoples fit this prophecy.
 
@@ -117,7 +117,7 @@ The Germanic tribes converted to Christianity with remarkable speed:
 
 The lost sheep recognized their Shepherd:
 
-> **John 10:27** — "My sheep hear my voice, and I know them, and they follow me."
+> **John 10:27**: "My sheep hear my voice, and I know them, and they follow me."
 
 Contrast this with:
 - Jews largely rejected Christ
@@ -134,10 +134,10 @@ The Germanic peoples converted because they were Israelites hearing their Shephe
 ### Law and Order
 
 Germanic tribal law mirrored aspects of Mosaic law:
-- Wergild (man-price) — cf. Exodus 21 compensation laws
-- Thing (assembly) — cf. Israelite elders at the gate
-- Oath-taking — cf. Israelite covenants
-- Blood feud limitations — cf. cities of refuge
+- Wergild (man-price): cf. Exodus 21 compensation laws
+- Thing (assembly): cf. Israelite elders at the gate
+- Oath-taking: cf. Israelite covenants
+- Blood feud limitations: cf. cities of refuge
 
 ### Social Structure
 
@@ -152,10 +152,10 @@ Germanic tribal law mirrored aspects of Mosaic law:
 ### Religious Memory
 
 Before Christianity, Germanic religion retained echoes:
-- One supreme god (Odin/Wotan — "All-Father")
+- One supreme god (Odin/Wotan: "All-Father")
 - Memory of a great flood
-- Tree symbolism (Yggdrasil — cf. Tree of Life)
-- Coming judgment (Ragnarök — cf. Day of the Lord)
+- Tree symbolism (Yggdrasil: cf. Tree of Life)
+- Coming judgment (Ragnarök: cf. Day of the Lord)
 
 These are distorted memories of the truth their ancestors knew.
 
@@ -188,12 +188,12 @@ These nations became the heart of Christendom:
 
 The Germanic tribes were Israelites because:
 
-1. **Origin** — They came from Scythian territory (where Israel was deported)
-2. **Names** — Saxon = Sacae = Isaac; Goth possibly = Gad
-3. **Timing** — They appeared as Scythians declined
-4. **Prophecy** — They fulfilled Daniel 2 as the stone that crushed Rome
-5. **Conversion** — They became Christian nations
-6. **Mission** — They spread Christianity to the whole earth
+1. **Origin**: They came from Scythian territory (where Israel was deported)
+2. **Names**: Saxon = Sacae = Isaac; Goth possibly = Gad
+3. **Timing**: They appeared as Scythians declined
+4. **Prophecy**: They fulfilled Daniel 2 as the stone that crushed Rome
+5. **Conversion**: They became Christian nations
+6. **Mission**: They spread Christianity to the whole earth
 
 The Germanic peoples are the most visible fulfillment of the Israelite migration. From them came the nations of Christendom.
 
@@ -209,9 +209,9 @@ The Germanic peoples are the most visible fulfillment of the Israelite migration
 
 ## Cross-References
 
-- [[08 - Scythians Were Israelites]] — The Scythian origin
-- [[11 - Celts Were Israelites]] — The Celtic parallel
-- [[66 - Stone Cut Without Hands]] — Daniel's prophecy in detail
+- [[08 - Scythians Were Israelites]]: The Scythian origin
+- [[11 - Celts Were Israelites]]: The Celtic parallel
+- [[66 - Stone Cut Without Hands]]: Daniel's prophecy in detail
 
 ---
 

@@ -3,7 +3,7 @@
 
 ## The Claim
 
-The 144,000 sealed Israelites and the "great multitude which no man could number" are both Israel — the 144,000 as a select group (firstfruits), and the multitude as the broader saved population of Israel throughout history.
+The 144,000 sealed Israelites and the "great multitude which no man could number" are both Israel, the 144,000 as a select group (firstfruits), and the multitude as the broader saved population of Israel throughout history.
 
 ---
 
@@ -49,13 +49,13 @@ This sounds universal, but consider:
 - Israel was scattered among all nations
 - The Greek *ethnos* (nations) doesn't require every nation on earth
 
-The "great multitude" is from the **nations of Israel** — the scattered tribes.
+The "great multitude" is from the **nations of Israel**, the scattered tribes.
 
 ### Abraham's Promise
 
-> **Genesis 22:17** — "I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore."
+> **Genesis 22:17**: "I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore."
 
-An "innumerable multitude" was promised to Abraham's seed — Israel.
+An "innumerable multitude" was promised to Abraham's seed, Israel.
 
 ---
 
@@ -103,7 +103,7 @@ The great multitude:
 - Were purified through suffering
 - Now stand before God
 
-This describes Israel's experience — suffering, persecution, but ultimately preserved.
+This describes Israel's experience, suffering, persecution, but ultimately preserved.
 
 ---
 
@@ -131,7 +131,7 @@ The great multitude is not "everyone saved":
 - They are before the throne (after death/rapture)
 - They serve God in His temple (Revelation 7:15)
 
-They are the saved of Israel — those who accepted Christ.
+They are the saved of Israel, those who accepted Christ.
 
 ---
 
@@ -139,11 +139,11 @@ They are the saved of Israel — those who accepted Christ.
 
 The 144,000 and great multitude prove:
 
-1. **Both are Israel** — 12 tribes + nations of Israel
-2. **Firstfruits and harvest** — Two aspects of same people
-3. **Innumerable** — Fulfills promise to Abraham
-4. **From tribulation** — Israel's suffering
-5. **Redeemed by Christ** — Lamb's blood cleanses
+1. **Both are Israel**: 12 tribes + nations of Israel
+2. **Firstfruits and harvest**: Two aspects of same people
+3. **Innumerable**: Fulfills promise to Abraham
+4. **From tribulation**: Israel's suffering
+5. **Redeemed by Christ**: Lamb's blood cleanses
 
 The saved of Israel are both numbered (144,000 sealed) and innumerable (the great multitude).
 
@@ -159,9 +159,9 @@ The saved of Israel are both numbered (144,000 sealed) and innumerable (the grea
 
 ## Cross-References
 
-- [[61 - Sealing Of The Tribes]] — The 144,000 sealed
-- [[01 - Nations Abraham Seed]] — The innumerable seed
-- [[24 - Christ Died Only For Israel]] — Redemption for Israel
+- [[61 - Sealing Of The Tribes]]: The 144,000 sealed
+- [[01 - Nations Abraham Seed]]: The innumerable seed
+- [[24 - Christ Died Only For Israel]]: Redemption for Israel
 
 ---
 

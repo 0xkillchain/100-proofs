@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Genesis 1 and Genesis 2 describe different creation events. Genesis 1 describes the creation of humans in general on Day 6. Genesis 2 describes the specific formation of Adam — a separate, later event for a covenant purpose.
+Genesis 1 and Genesis 2 describe different creation events. Genesis 1 describes the creation of humans in general on Day 6. Genesis 2 describes the specific formation of Adam, a separate, later event for a covenant purpose.
 
 ---
 
@@ -46,8 +46,8 @@ Genesis 1 and Genesis 2 describe different creation events. Genesis 1 describes 
 - Like a potter with clay
 - Personal, hands-on crafting
 
-Genesis 1 uses *bara* — cosmic creation
-Genesis 2 uses *yatsar* — personal formation
+Genesis 1 uses *bara*, cosmic creation
+Genesis 2 uses *yatsar*, personal formation
 
 ---
 
@@ -56,19 +56,19 @@ Genesis 2 uses *yatsar* — personal formation
 ### Evidence
 
 **Cain's wife:**
-> **Genesis 4:17** — "And Cain knew his wife; and she conceived."
+> **Genesis 4:17**: "And Cain knew his wife; and she conceived."
 
 Where did Cain's wife come from if only Adam, Eve, and their children existed?
 
 **Cain's fear:**
-> **Genesis 4:14** — "And it shall come to pass, that **every one that findeth me shall slay me**."
+> **Genesis 4:14**: "And it shall come to pass, that **every one that findeth me shall slay me**."
 
 Who would find and slay Cain if only his family existed?
 
 **The land of Nod:**
-> **Genesis 4:16** — "And Cain... dwelt in the land of Nod."
+> **Genesis 4:16**: "And Cain... dwelt in the land of Nod."
 
-Nod had a population — who were they?
+Nod had a population, who were they?
 
 ### The Answer
 
@@ -96,7 +96,7 @@ Adam was formed specifically to:
 The promise (Genesis 3:15) runs through:
 > Adam → Seth → Noah → Shem → Abraham → Isaac → Jacob (Israel) → Judah → David → Christ
 
-This is a specific lineage from Adam — not all humanity.
+This is a specific lineage from Adam, not all humanity.
 
 ---
 
@@ -106,19 +106,19 @@ This is a specific lineage from Adam — not all humanity.
 
 > "The **first man Adam** was made a living soul; the **last Adam** was made a quickening spirit... The first man is of the earth, earthy: the second man is the Lord from heaven."
 
-Adam is "the first man" in a specific sense — the first of his line, the Adamic race.
+Adam is "the first man" in a specific sense, the first of his line, the Adamic race.
 
 ### Luke 3:38
 
 > "Which was the son of Enos, which was the son of Seth, which was the son of **Adam, which was the son of God**."
 
-Adam is uniquely called "son of God" — a special relationship.
+Adam is uniquely called "son of God", a special relationship.
 
 ### Acts 17:26
 
 > "And hath made of **one blood** all nations of men for to dwell on all the face of the earth."
 
-"One blood" may refer to Adam's race — the nations that came from Adam, not every human on earth.
+"One blood" may refer to Adam's race, the nations that came from Adam, not every human on earth.
 
 ---
 
@@ -162,11 +162,11 @@ This assumes what it seeks to prove. The text allows for (and some evidence sugg
 
 Two creations explains:
 
-1. **Textual differences** — Genesis 1 vs. 2 are distinct
-2. **Cain's world** — Other people existed
-3. **Adam's uniqueness** — *Neshamah*, covenant, lineage
-4. **Israel's distinctiveness** — From Adam specifically
-5. **Redemption's scope** — For Adam's race
+1. **Textual differences**: Genesis 1 vs. 2 are distinct
+2. **Cain's world**: Other people existed
+3. **Adam's uniqueness**: *Neshamah*, covenant, lineage
+4. **Israel's distinctiveness**: From Adam specifically
+5. **Redemption's scope**: For Adam's race
 
 Adam's special creation establishes Israel's unique identity as God's covenant people.
 
@@ -182,9 +182,9 @@ Adam's special creation establishes Israel's unique identity as God's covenant p
 
 ## Cross-References
 
-- [[44 - Adam Created Separately]] — Adam's unique formation
-- [[45 - Spirit Of God In Adam]] — The *neshamah* difference
-- [[40 - Race Of Cain]] — Where Cain found his wife
+- [[44 - Adam Created Separately]]: Adam's unique formation
+- [[45 - Spirit Of God In Adam]]: The *neshamah* difference
+- [[40 - Race Of Cain]]: Where Cain found his wife
 
 ---
 

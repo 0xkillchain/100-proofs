@@ -16,11 +16,11 @@ Some Hebrew words came through Christian influence:
 - Messiah, Satan, Cherub
 - Psalm, Rabbi, Pharisee
 
-This is expected — Christianity transmitted these.
+This is expected, Christianity transmitted these.
 
 ### Words Beyond Religion
 
-But other Hebrew words in European languages suggest deeper connection — words that predate or go beyond Christian transmission.
+But other Hebrew words in European languages suggest deeper connection, words that predate or go beyond Christian transmission.
 
 ---
 
@@ -155,9 +155,9 @@ This trail of "Dan" names follows the migration route.
 ### Parallel Expressions
 
 Some European idioms parallel Hebrew expressions:
-- "By the skin of my teeth" — Job 19:20
-- "A drop in the bucket" — Isaiah 40:15
-- "The apple of his eye" — Deuteronomy 32:10
+- "By the skin of my teeth": Job 19:20
+- "A drop in the bucket": Isaiah 40:15
+- "The apple of his eye": Deuteronomy 32:10
 
 While some came through Bible translation, cultural affinity may explain adoption.
 
@@ -186,11 +186,11 @@ Israelites migrating to Europe:
 
 Hebrew in European languages proves:
 
-1. **Religious terms** — Expected through Christianity
-2. **Non-religious terms** — Suggest deeper connection
-3. **Place names** — Predate Christianity
-4. **Celtic parallels** — Strong vocabulary overlap
-5. **Dan trail** — Consistent naming pattern
+1. **Religious terms**: Expected through Christianity
+2. **Non-religious terms**: Suggest deeper connection
+3. **Place names**: Predate Christianity
+4. **Celtic parallels**: Strong vocabulary overlap
+5. **Dan trail**: Consistent naming pattern
 
 Hebrew words in European languages indicate Israelite migration, not just Christian borrowing.
 
@@ -206,9 +206,9 @@ Hebrew words in European languages indicate Israelite migration, not just Christ
 
 ## Cross-References
 
-- [[15 - Language Connections]] — Detailed language study
-- [[20 - Dans Trail Through Europe]] — Dan place names
-- [[11 - Celts Were Israelites]] — Celtic connection
+- [[15 - Language Connections]]: Detailed language study
+- [[20 - Dans Trail Through Europe]]: Dan place names
+- [[11 - Celts Were Israelites]]: Celtic connection
 
 ---
 

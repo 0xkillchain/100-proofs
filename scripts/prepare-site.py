@@ -56,14 +56,13 @@ for source in numbered_notes:
     title = re.sub(r'^Proof\s+\d+:\s*', '', title)
     index_entries.append(f'{number}. [[{source.stem}|{title}]]')
 (content / 'index.md').write_text(
-    '# 100 Proofs — Index\n\n' + 
-    'This website lays out the scriptural, archaeological, and etymological evidence that the Israelites became the European nations\n\n' +
+    '# 100 Proofs Index\n\n' +
     '\n'.join(index_entries) + '\n' + footer
 )
 config_path = quartz / 'quartz.config.ts'
 config = config_path.read_text()
 for old, new in [
-    ('pageTitle: "Quartz 4"', 'pageTitle: "100 Proofs — Research Archive"'),
+    ('pageTitle: "Quartz 4"', 'pageTitle: "100 Proofs Research Archive"'),
     ('baseUrl: "quartz.jzhao.xyz"', 'baseUrl: "0xkillchain.github.io/100-proofs"'),
     ('analytics: {\n      provider: "plausible",\n    }', 'analytics: null'),
 ]:
@@ -71,6 +70,13 @@ for old, new in [
         raise SystemExit(f'Unexpected Quartz configuration: missing {old!r}')
     config = config.replace(old, new, 1)
 config_path.write_text(config)
+# Hide dates and estimated reading time on content pages.
+layout_path = quartz / 'quartz.layout.ts'
+layout = layout_path.read_text()
+layout, removed = re.subn(r'Component\.ContentMeta\(\s*\),?\s*', '', layout)
+if removed < 1:
+    raise SystemExit('Expected a Quartz ContentMeta component; review layout before publishing.')
+layout_path.write_text(layout)
 # Keep the page-level X link while suppressing Quartz's built-in attribution/footer.
 (quartz / 'quartz/components/Footer.tsx').write_text(
     'import { QuartzComponent, QuartzComponentConstructor } from "./types"\n\n'

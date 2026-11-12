@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Scripture prophesied that Israel would be blinded to their own identity. Europeans are the only people completely unaware they are Israelites — exactly as prophesied. This blindness itself is proof of their identity.
+Scripture prophesied that Israel would be blinded to their own identity. Europeans are the only people completely unaware they are Israelites, exactly as prophesied. This blindness itself is proof of their identity.
 
 ---
 
@@ -48,7 +48,7 @@ Europeans today:
 - Think "Israel" means Jews
 - Are unaware of the prophecies about themselves
 
-This is precisely what was prophesied — Israel blind to their own identity.
+This is precisely what was prophesied, Israel blind to their own identity.
 
 ### Jews
 
@@ -99,11 +99,11 @@ Europeans have been completely deceived about their own identity.
 
 ### How the Blindness Came
 
-1. **Scattering** — Lost national identity
-2. **Name changes** — Scythians, Celts, Germans, etc.
-3. **Edomite deception** — Others claimed the identity
-4. **Church teaching** — "Replacement theology" obscured truth
-5. **Modern propaganda** — "Jews are Israel" narrative
+1. **Scattering**: Lost national identity
+2. **Name changes**: Scythians, Celts, Germans, etc.
+3. **Edomite deception**: Others claimed the identity
+4. **Church teaching**: "Replacement theology" obscured truth
+5. **Modern propaganda**: "Jews are Israel" narrative
 
 ---
 
@@ -122,7 +122,7 @@ The blindness will end:
 
 > "And I will say to them which were **not my people, Thou art my people**; and they shall say, Thou art my God."
 
-Israel will be called "my people" again — the blindness removed.
+Israel will be called "my people" again, the blindness removed.
 
 ---
 
@@ -140,7 +140,7 @@ This may be the beginning of the blindness lifting.
 
 ### The Timing
 
-> **Romans 11:25** — "Until the fulness of the Gentiles be come in."
+> **Romans 11:25**: "Until the fulness of the Gentiles be come in."
 
 The blindness lasts until a certain fullness. When that's complete, eyes will open.
 
@@ -165,13 +165,13 @@ If they knew who they were, the prophecy of blindness wouldn't be fulfilled. The
 
 European blindness proves:
 
-1. **Prophesied blindness** — Isaiah, Paul predicted it
-2. **Europeans match** — Unaware of identity
-3. **Jews don't match** — Very aware of claimed identity
-4. **Purpose served** — Christianity spread
-5. **Will be lifted** — "All Israel shall be saved"
+1. **Prophesied blindness**: Isaiah, Paul predicted it
+2. **Europeans match**: Unaware of identity
+3. **Jews don't match**: Very aware of claimed identity
+4. **Purpose served**: Christianity spread
+5. **Will be lifted**: "All Israel shall be saved"
 
-The blindness of Europeans to their Israelite identity is the final proof — they are the blinded Israel of prophecy.
+The blindness of Europeans to their Israelite identity is the final proof, they are the blinded Israel of prophecy.
 
 ---
 
@@ -185,9 +185,9 @@ The blindness of Europeans to their Israelite identity is the final proof — th
 
 ## Cross-References
 
-- [[22 - Christianity Only Spread To Europeans]] — Blindness enabled spread
-- [[52 - Deuteronomy Blessings Curses]] — Curses during blindness
-- [[07 - Assyrian Deportations]] — How blindness began
+- [[22 - Christianity Only Spread To Europeans]]: Blindness enabled spread
+- [[52 - Deuteronomy Blessings Curses]]: Curses during blindness
+- [[07 - Assyrian Deportations]]: How blindness began
 
 ---
 

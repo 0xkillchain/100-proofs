@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Adam received the "breath of life" (*neshamah*) directly from Yahweh — a spiritual component that distinguished him from other creatures. This spirit passed to his descendants (Israel) and makes them uniquely capable of relationship with God.
+Adam received the "breath of life" (*neshamah*) directly from Yahweh, a spiritual component that distinguished him from other creatures. This spirit passed to his descendants (Israel) and makes them uniquely capable of relationship with God.
 
 ---
 
@@ -18,7 +18,7 @@ The Hebrew words:
 - *Chayah* (חַיָּה) = life, living
 - *Nephesh* (נֶפֶשׁ) = soul, being
 
-Adam received the *neshamah* — a spirit-breath directly from God.
+Adam received the *neshamah*, a spirit-breath directly from God.
 
 ---
 
@@ -40,13 +40,13 @@ Adam received the *neshamah* — a spirit-breath directly from God.
 
 > "But there is a spirit [*ruach*] in man: and the **inspiration [*neshamah*] of the Almighty** giveth them understanding."
 
-The *neshamah* from God gives understanding — a capacity for divine communion.
+The *neshamah* from God gives understanding, a capacity for divine communion.
 
 ### Job 33:4
 
 > "The Spirit [*ruach*] of God hath made me, and the **breath [*neshamah*] of the Almighty** hath given me life."
 
-Both terms used — the *neshamah* specifically gives life.
+Both terms used, the *neshamah* specifically gives life.
 
 ---
 
@@ -56,7 +56,7 @@ Both terms used — the *neshamah* specifically gives life.
 
 > "All in whose nostrils was the **breath of life** [*neshamah chayah*], of all that was in the dry land, died."
 
-This refers to the Flood destroying those with *neshamah* — but this is debated.
+This refers to the Flood destroying those with *neshamah*, but this is debated.
 
 ### The Distinction
 
@@ -75,7 +75,7 @@ This *neshamah* is what makes Adam's race capable of spiritual communion with Go
 
 > "This is the book of the generations of Adam. In the day that God created man, in the **likeness of God** made he him... And Adam lived an hundred and thirty years, and begat a son in **his own likeness, after his image**; and called his name Seth."
 
-Seth was born in Adam's likeness and image — carrying the same nature, including the *neshamah*.
+Seth was born in Adam's likeness and image, carrying the same nature, including the *neshamah*.
 
 ### The Adamic Line
 
@@ -94,7 +94,7 @@ The *neshamah* gives:
 - Understanding of divine things
 - Capacity for communion with God
 - Ability to receive God's Spirit
-- The "still small voice" — conscience
+- The "still small voice": conscience
 
 ### Those Without *Neshamah*
 
@@ -115,21 +115,21 @@ This explains why:
 
 ### The Holy Spirit
 
-> **John 20:22** — "He breathed on them, and saith unto them, **Receive ye the Holy Ghost**."
+> **John 20:22**: "He breathed on them, and saith unto them, **Receive ye the Holy Ghost**."
 
-Christ breathed on His disciples — echoing Genesis 2:7. He gave them the Spirit as Yahweh gave Adam the *neshamah*.
+Christ breathed on His disciples, echoing Genesis 2:7. He gave them the Spirit as Yahweh gave Adam the *neshamah*.
 
 ### Born of the Spirit
 
-> **John 3:6** — "That which is born of the flesh is flesh; and **that which is born of the Spirit is spirit**."
+> **John 3:6**: "That which is born of the flesh is flesh; and **that which is born of the Spirit is spirit**."
 
-Spiritual birth requires having the spiritual capacity — the *neshamah* — to receive the Spirit.
+Spiritual birth requires having the spiritual capacity, the *neshamah*, to receive the Spirit.
 
 ### Spirit Witnesses with Spirit
 
-> **Romans 8:16** — "**The Spirit itself beareth witness with our spirit**, that we are the children of God."
+> **Romans 8:16**: "**The Spirit itself beareth witness with our spirit**, that we are the children of God."
 
-God's Spirit witnesses with our spirit — the *neshamah* He placed in Adam's race. This witness requires having a spirit capable of communion.
+God's Spirit witnesses with our spirit, the *neshamah* He placed in Adam's race. This witness requires having a spirit capable of communion.
 
 ---
 
@@ -156,13 +156,13 @@ Redemption is for Adam's race because:
 
 The Spirit in Adam proves:
 
-1. **Unique endowment** — *Neshamah* directly from Yahweh
-2. **Spiritual capacity** — Understanding, communion
-3. **Inherited** — Passed to Adam's descendants
-4. **Israel's distinction** — They carry this spirit
-5. **Exclusivity explained** — Those without *neshamah* cannot commune with God
+1. **Unique endowment**: *Neshamah* directly from Yahweh
+2. **Spiritual capacity**: Understanding, communion
+3. **Inherited**: Passed to Adam's descendants
+4. **Israel's distinction**: They carry this spirit
+5. **Exclusivity explained**: Those without *neshamah* cannot commune with God
 
-The breath of God in Adam is why his race is uniquely capable of knowing God — and why salvation is for Israel.
+The breath of God in Adam is why his race is uniquely capable of knowing God, and why salvation is for Israel.
 
 ---
 
@@ -176,9 +176,9 @@ The breath of God in Adam is why his race is uniquely capable of knowing God —
 
 ## Cross-References
 
-- [[44 - Adam Created Separately]] — Adam's unique creation
-- [[46 - Two Different Creations]] — Genesis 1 vs. 2
-- [[27 - Children Of Israel Sons And Heirs]] — Israel as God's children
+- [[44 - Adam Created Separately]]: Adam's unique creation
+- [[46 - Two Different Creations]]: Genesis 1 vs. 2
+- [[27 - Children Of Israel Sons And Heirs]]: Israel as God's children
 
 ---
 

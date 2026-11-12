@@ -34,7 +34,7 @@ Books between the Testaments:
 
 ### The Ten Tribes
 
-> **2 Esdras 13:40-45** — "Those are the **ten tribes**, which were carried away prisoners out of their own land in the time of Osea [Hoshea] the king, whom Salmanasar [Shalmaneser] the king of Assyria led away captive, and he carried them over the waters, and so came they into another land. But **they took this counsel among themselves, that they would leave the multitude of the heathen, and go forth into a further country**, where never mankind dwelt, That they might there keep their statutes, which they never kept in their own land. And **they entered into Euphrates by the narrow passages of the river**. For the most High then shewed signs for them, and held still the flood, till they were passed over. For through that country there was a great way to go, namely, of a year and a half: and **the same region is called Arsareth**."
+> **2 Esdras 13:40-45**: "Those are the **ten tribes**, which were carried away prisoners out of their own land in the time of Osea [Hoshea] the king, whom Salmanasar [Shalmaneser] the king of Assyria led away captive, and he carried them over the waters, and so came they into another land. But **they took this counsel among themselves, that they would leave the multitude of the heathen, and go forth into a further country**, where never mankind dwelt, That they might there keep their statutes, which they never kept in their own land. And **they entered into Euphrates by the narrow passages of the river**. For the most High then shewed signs for them, and held still the flood, till they were passed over. For through that country there was a great way to go, namely, of a year and a half: and **the same region is called Arsareth**."
 
 Key points:
 - Ten tribes taken captive
@@ -42,7 +42,7 @@ Key points:
 - Traveled a year and a half
 - Went to "Arsareth" (another land)
 
-"Arsareth" may mean "another land" in Hebrew, or it may be a specific location — possibly Europe.
+"Arsareth" may mean "another land" in Hebrew, or it may be a specific location, possibly Europe.
 
 ---
 
@@ -63,9 +63,9 @@ This shows Israel existed as an identifiable people before Christ.
 
 ### On God's People
 
-> **Wisdom 18:1** — "Nevertheless thy saints had a very great light, whose voice they hearing, and not seeing their shape, counted them happy."
+> **Wisdom 18:1**: "Nevertheless thy saints had a very great light, whose voice they hearing, and not seeing their shape, counted them happy."
 
-References to "saints" (holy ones) — Israel as God's set-apart people.
+References to "saints" (holy ones), Israel as God's set-apart people.
 
 ---
 
@@ -87,7 +87,7 @@ This "praise of famous men" shows how Israelites understood their heritage.
 
 ### On Israel's Scattering
 
-> **Baruch 2:29-35** — "If ye will not hear my voice, surely this very great multitude shall be turned into a small number among the nations, where I will scatter them... And I will bring them again into the land which I promised with an oath unto their fathers."
+> **Baruch 2:29-35**: "If ye will not hear my voice, surely this very great multitude shall be turned into a small number among the nations, where I will scatter them... And I will bring them again into the land which I promised with an oath unto their fathers."
 
 Confirms:
 - Scattering prophecy
@@ -130,7 +130,7 @@ This matches the proposed migration route from Assyria through the Caucasus to E
 
 ### A Year and a Half Journey
 
-The journey took "a year and a half" — indicating a distant destination, not nearby territory.
+The journey took "a year and a half", indicating a distant destination, not nearby territory.
 
 ---
 
@@ -138,11 +138,11 @@ The journey took "a year and a half" — indicating a distant destination, not n
 
 The Apocrypha's testimony confirms:
 
-1. **Ten tribes existed** — Not lost, but migrated
-2. **Voluntary departure** — Chose to leave heathen lands
-3. **Distant land** — Traveled far ("Arsareth")
-4. **Scattering and regathering** — Prophesied pattern
-5. **Historical continuity** — Israelite self-understanding
+1. **Ten tribes existed**: Not lost, but migrated
+2. **Voluntary departure**: Chose to leave heathen lands
+3. **Distant land**: Traveled far ("Arsareth")
+4. **Scattering and regathering**: Prophesied pattern
+5. **Historical continuity**: Israelite self-understanding
 
 The Apocrypha provides additional evidence for Israelite migrations to Europe.
 
@@ -158,9 +158,9 @@ The Apocrypha provides additional evidence for Israelite migrations to Europe.
 
 ## Cross-References
 
-- [[07 - Assyrian Deportations]] — The deportation
-- [[06 - Ancient Historians Israelite Migrations]] — Secular testimony
-- [[69 - Book Of Enoch Testimony]] — Another extra-canonical witness
+- [[07 - Assyrian Deportations]]: The deportation
+- [[06 - Ancient Historians Israelite Migrations]]: Secular testimony
+- [[69 - Book Of Enoch Testimony]]: Another extra-canonical witness
 
 ---
 

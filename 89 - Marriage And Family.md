@@ -20,9 +20,9 @@ European marriage:
 
 ## The Biblical Pattern
 
-> **Genesis 2:24** — "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh."
+> **Genesis 2:24**: "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh."
 
-> **Malachi 2:14** — "The LORD hath been witness between thee and the wife of thy youth."
+> **Malachi 2:14**: "The LORD hath been witness between thee and the wife of thy youth."
 
 Marriage as covenant, not contract.
 
@@ -42,7 +42,7 @@ Europeans upheld a higher standard.
 
 ## Synthesis
 
-European marriage norms reflect Israel's covenant understanding — one flesh, lifelong, sacred.
+European marriage norms reflect Israel's covenant understanding, one flesh, lifelong, sacred.
 
 ---
 

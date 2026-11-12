@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Scripture consistently commands Israel to be separate from the world — from other peoples and nations. This separation was commanded in the Old Testament and continues in the New Testament. The "world" from which Christians must separate is the world of non-Israelite peoples.
+Scripture consistently commands Israel to be separate from the world, from other peoples and nations. This separation was commanded in the Old Testament and continues in the New Testament. The "world" from which Christians must separate is the world of non-Israelite peoples.
 
 ---
 
@@ -11,15 +11,15 @@ Scripture consistently commands Israel to be separate from the world — from ot
 
 ### The Command
 
-> **Leviticus 20:24-26** — "I am the LORD your God, which have **separated you from other people**... And ye shall be **holy** unto me: for I the LORD am holy, and have **severed you from other people**, that ye should be mine."
+> **Leviticus 20:24-26**: "I am the LORD your God, which have **separated you from other people**... And ye shall be **holy** unto me: for I the LORD am holy, and have **severed you from other people**, that ye should be mine."
 
-> **Deuteronomy 7:2-3** — "Thou shalt make no covenant with them, nor shew mercy unto them: Neither shalt thou **make marriages with them**; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son."
+> **Deuteronomy 7:2-3**: "Thou shalt make no covenant with them, nor shew mercy unto them: Neither shalt thou **make marriages with them**; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son."
 
-> **Ezra 9:12** — "Now therefore **give not your daughters unto their sons, neither take their daughters unto your sons**, nor seek their peace or their wealth for ever."
+> **Ezra 9:12**: "Now therefore **give not your daughters unto their sons, neither take their daughters unto your sons**, nor seek their peace or their wealth for ever."
 
 ### The Reason
 
-> **Deuteronomy 7:6** — "For thou art an **holy people** unto the LORD thy God: the LORD thy God hath chosen thee to be a **special people** unto himself, above all people that are upon the face of the earth."
+> **Deuteronomy 7:6**: "For thou art an **holy people** unto the LORD thy God: the LORD thy God hath chosen thee to be a **special people** unto himself, above all people that are upon the face of the earth."
 
 Israel was:
 - Holy (separated)
@@ -35,13 +35,13 @@ Israel was:
 
 > "Be ye **not unequally yoked** together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?... Wherefore **come out from among them, and be ye separate**, saith the Lord, and touch not the unclean thing; and I will receive you."
 
-Paul quotes Isaiah 52:11 — the same call to separation given to Israel.
+Paul quotes Isaiah 52:11, the same call to separation given to Israel.
 
 ### 1 Peter 2:9
 
 > "But ye are a **chosen generation**, a **royal priesthood**, an **holy nation**, a **peculiar people**; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light."
 
-Peter uses Exodus 19:5-6 language — applying Israel's identity to his European audience.
+Peter uses Exodus 19:5-6 language, applying Israel's identity to his European audience.
 
 ### James 4:4
 
@@ -81,7 +81,7 @@ When Scripture commands separation from "the world," it means:
 | Don't intermarry | Don't be unequally yoked |
 | Come out of Babylon | Come out from among them |
 
-The commands are the same — separation from non-Israelite peoples.
+The commands are the same, separation from non-Israelite peoples.
 
 ---
 
@@ -118,13 +118,13 @@ When Israel mixed with the nations:
 - They were judged
 - They were scattered
 
-> **Psalm 106:35-41** — "But were **mingled among the heathen**, and learned their works. And they served their idols: which were a snare unto them... Therefore was the wrath of the LORD kindled against his people."
+> **Psalm 106:35-41**: "But were **mingled among the heathen**, and learned their works. And they served their idols: which were a snare unto them... Therefore was the wrath of the LORD kindled against his people."
 
 ### The Restoration
 
 Restoration requires returning to separation:
 
-> **Ezra 10:10-11** — "Ye have transgressed, and have taken strange wives, to increase the trespass of Israel. Now therefore make confession unto the LORD God of your fathers, and do his pleasure: and **separate yourselves** from the people of the land, and from the strange wives."
+> **Ezra 10:10-11**: "Ye have transgressed, and have taken strange wives, to increase the trespass of Israel. Now therefore make confession unto the LORD God of your fathers, and do his pleasure: and **separate yourselves** from the people of the land, and from the strange wives."
 
 ---
 
@@ -145,7 +145,7 @@ Separation means:
 
 ### In the World, Not Of It
 
-> **John 17:15-16** — "I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil. They are **not of the world**, even as I am not of the world."
+> **John 17:15-16**: "I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil. They are **not of the world**, even as I am not of the world."
 
 Christians live in the world but maintain separation from it.
 
@@ -175,13 +175,13 @@ For Christian Israelites today:
 
 Separation from the world proves:
 
-1. **Continuity** — Same commands Old and New Testament
-2. **Holiness = Separation** — The very meaning of the word
-3. **Israel vs. World** — A fundamental distinction
-4. **Called out** — Ekklesia implies separation
-5. **Mixing brings judgment** — Israel's history proves this
+1. **Continuity**: Same commands Old and New Testament
+2. **Holiness = Separation**: The very meaning of the word
+3. **Israel vs. World**: A fundamental distinction
+4. **Called out**: Ekklesia implies separation
+5. **Mixing brings judgment**: Israel's history proves this
 
-The command to separate from "the world" is the command to remain distinct as Israel — not to mix with non-Israelite peoples.
+The command to separate from "the world" is the command to remain distinct as Israel, not to mix with non-Israelite peoples.
 
 ---
 
@@ -195,9 +195,9 @@ The command to separate from "the world" is the command to remain distinct as Is
 
 ## Cross-References
 
-- [[29 - What Saint Really Means]] — Holiness and separation
-- [[34 - The World According To Scripture]] — Defining "the world"
-- [[31 - Who Cannot Be Cleansed]] — Why separation matters
+- [[29 - What Saint Really Means]]: Holiness and separation
+- [[34 - The World According To Scripture]]: Defining "the world"
+- [[31 - Who Cannot Be Cleansed]]: Why separation matters
 
 ---
 

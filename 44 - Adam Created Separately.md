@@ -3,7 +3,7 @@
 
 ## The Claim
 
-Adam was a unique creation — formed directly by Yahweh, given the breath of life, and placed in Eden. He was not part of a general creation of "mankind" but was specially created for a specific purpose.
+Adam was a unique creation, formed directly by Yahweh, given the breath of life, and placed in Eden. He was not part of a general creation of "mankind" but was specially created for a specific purpose.
 
 ---
 
@@ -37,20 +37,20 @@ Some see two different events:
 
 ### Special Creation
 
-*Yatsar* means to form, shape, fashion — like a potter forming clay.
+*Yatsar* means to form, shape, fashion, like a potter forming clay.
 
-> **Isaiah 64:8** — "We are the clay, and thou our **potter**; and we all are the work of thy hand."
+> **Isaiah 64:8**: "We are the clay, and thou our **potter**; and we all are the work of thy hand."
 
-> **Jeremiah 18:6** — "As the clay is in the **potter's** hand, so are ye in mine hand."
+> **Jeremiah 18:6**: "As the clay is in the **potter's** hand, so are ye in mine hand."
 
-Adam was personally crafted by Yahweh — hands-on creation, not mere command.
+Adam was personally crafted by Yahweh, hands-on creation, not mere command.
 
 ### Different from "Created"
 
 *Bara* (create) = call into existence
 *Yatsar* (form) = shape from existing material
 
-Adam was formed from the dust — a separate, artisan act.
+Adam was formed from the dust, a separate, artisan act.
 
 ---
 
@@ -71,7 +71,7 @@ Animals have *nephesh* (soul/life) but not the *neshamah* (breath) directly from
 
 If other humans existed (Genesis 1), they may have had *nephesh* but not the *neshamah* that Adam received.
 
-This breath made Adam different — he carried God's Spirit.
+This breath made Adam different, he carried God's Spirit.
 
 ---
 
@@ -79,7 +79,7 @@ This breath made Adam different — he carried God's Spirit.
 
 ### A Specific Location
 
-> **Genesis 2:8** — "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed."
+> **Genesis 2:8**: "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed."
 
 Adam was:
 - Placed in Eden specifically
@@ -127,11 +127,11 @@ This view holds that:
 
 > "And so it is written, The **first man Adam** was made a living soul; the **last Adam** was made a quickening spirit."
 
-Christ is the "last Adam" — from the same lineage, completing what Adam began.
+Christ is the "last Adam", from the same lineage, completing what Adam began.
 
-> **1 Corinthians 15:47** — "The first man is of the earth, earthy: the second man is the Lord from heaven."
+> **1 Corinthians 15:47**: "The first man is of the earth, earthy: the second man is the Lord from heaven."
 
-Adam and Christ are uniquely connected — both special creations with specific purposes.
+Adam and Christ are uniquely connected, both special creations with specific purposes.
 
 ---
 
@@ -139,13 +139,13 @@ Adam and Christ are uniquely connected — both special creations with specific 
 
 Adam's separate creation proves:
 
-1. **Unique formation** — *Yatsar* = personal crafting
-2. **Direct breath** — *Neshamah* from Yahweh's own breath
-3. **Specific placement** — In Eden, set apart
-4. **Distinct lineage** — The Adamic race
-5. **Connected to Christ** — The "first Adam" to the "last Adam"
+1. **Unique formation**: *Yatsar* = personal crafting
+2. **Direct breath**: *Neshamah* from Yahweh's own breath
+3. **Specific placement**: In Eden, set apart
+4. **Distinct lineage**: The Adamic race
+5. **Connected to Christ**: The "first Adam" to the "last Adam"
 
-Adam was not merely one of many humans but a unique creation for a covenant purpose — the founder of the Israelite race.
+Adam was not merely one of many humans but a unique creation for a covenant purpose, the founder of the Israelite race.
 
 ---
 
@@ -159,9 +159,9 @@ Adam was not merely one of many humans but a unique creation for a covenant purp
 
 ## Cross-References
 
-- [[45 - Spirit Of God In Adam]] — The significance of the breath
-- [[46 - Two Different Creations]] — Interpreting Genesis 1-2
-- [[42 - Genesis 6]] — Why Noah's lineage mattered
+- [[45 - Spirit Of God In Adam]]: The significance of the breath
+- [[46 - Two Different Creations]]: Interpreting Genesis 1-2
+- [[42 - Genesis 6]]: Why Noah's lineage mattered
 
 ---
 

@@ -3,20 +3,20 @@
 
 ## The Claim
 
-The ancient nations descended from Adam — Egypt, Babylon, Assyria, Persia, Greece, Rome — have all ceased to exist as ethnic/national entities. Only the Israelites survived (as Europeans), preserved by God for His purposes.
+The ancient nations descended from Adam, Egypt, Babylon, Assyria, Persia, Greece, Rome, have all ceased to exist as ethnic/national entities. Only the Israelites survived (as Europeans), preserved by God for His purposes.
 
 ---
 
 ## The Ancient Nations
 
-### Genesis 10 — The Table of Nations
+### Genesis 10 The Table of Nations
 
 Genesis 10 lists the descendants of Noah's three sons:
-- **Shem** — Semites (including Israel)
-- **Ham** — Egyptians, Canaanites, Cushites
-- **Japheth** — Greeks, Medes, various European groups
+- **Shem**: Semites (including Israel)
+- **Ham**: Egyptians, Canaanites, Cushites
+- **Japheth**: Greeks, Medes, various European groups
 
-These were all Adamic nations — descended from Noah, from Adam.
+These were all Adamic nations, descended from Noah, from Adam.
 
 ---
 
@@ -26,7 +26,7 @@ These were all Adamic nations — descended from Noah, from Adam.
 
 - Ancient Egyptians were a distinct people
 - Conquered by Persia, Greece, Rome
-- Arab invasion (7th century AD) — different population
+- Arab invasion (7th century AD): different population
 - Modern Egyptians are largely Arab, not ancient Egyptian
 - The ancient Egyptian race has ceased
 
@@ -117,7 +117,7 @@ God's covenant with creation guarantees Israel's continuation.
 | Rome | Transformed → Europeans |
 | Israel | Continues as Europeans |
 
-Only Israel was promised perpetual existence — and only one people continues to bear Israel's marks.
+Only Israel was promised perpetual existence, and only one people continues to bear Israel's marks.
 
 ---
 
@@ -125,19 +125,19 @@ Only Israel was promised perpetual existence — and only one people continues t
 
 ### Israel's Unique Preservation
 
-1. **Scattered** — Not concentrated, hard to destroy
-2. **Multiplied** — Became many nations
-3. **Christian** — Protected under God's new covenant
-4. **Civilizing** — Spread globally while maintaining core populations
-5. **Identified** — Bears prophetic marks
+1. **Scattered**: Not concentrated, hard to destroy
+2. **Multiplied**: Became many nations
+3. **Christian**: Protected under God's new covenant
+4. **Civilizing**: Spread globally while maintaining core populations
+5. **Identified**: Bears prophetic marks
 
 ### Others' Dissolution
 
-1. **Conquered** — Absorbed by conquerors
-2. **Mixed** — Lost distinct identity
-3. **Converted** — Changed religion and culture
-4. **Diminished** — Numbers declined
-5. **Unidentified** — No continuing identity
+1. **Conquered**: Absorbed by conquerors
+2. **Mixed**: Lost distinct identity
+3. **Converted**: Changed religion and culture
+4. **Diminished**: Numbers declined
+5. **Unidentified**: No continuing identity
 
 ---
 
@@ -164,11 +164,11 @@ Modern Jews claim to be Israel, but:
 
 The cessation of Adamic nations proves:
 
-1. **Ancient nations dissolved** — Egypt, Babylon, etc. gone
-2. **Israel promised perpetuity** — As long as sun and moon
-3. **Israel survives** — As the European peoples
-4. **Unique preservation** — Scattered but not destroyed
-5. **Prophecy fulfilled** — Only Israel continues
+1. **Ancient nations dissolved**: Egypt, Babylon, etc. gone
+2. **Israel promised perpetuity**: As long as sun and moon
+3. **Israel survives**: As the European peoples
+4. **Unique preservation**: Scattered but not destroyed
+5. **Prophecy fulfilled**: Only Israel continues
 
 The survival of Israel (Europeans) amid the disappearance of other Adamic nations confirms divine preservation.
 
@@ -184,9 +184,9 @@ The survival of Israel (Europeans) amid the disappearance of other Adamic nation
 
 ## Cross-References
 
-- [[07 - Assyrian Deportations]] — Israel's scattering
-- [[10 - Germanic Tribes Were Israelites]] — Where Israel went
-- [[16 - Promises Only Europeans Fulfilled]] — Survival and blessing
+- [[07 - Assyrian Deportations]]: Israel's scattering
+- [[10 - Germanic Tribes Were Israelites]]: Where Israel went
+- [[16 - Promises Only Europeans Fulfilled]]: Survival and blessing
 
 ---
 
