@@ -10,10 +10,7 @@ content = quartz / 'content'
 if content.exists():
     shutil.rmtree(content)
 content.mkdir()
-notice = ('> [!warning] Research archive — claims under examination\n'
-          '> This page preserves extremist source material for critical analysis and refutation. '
-          'Its racial and religious claims are not endorsed. Rebuttals are being developed; '
-          'the presence of a claim here does not establish its accuracy.\n\n')
+footer = '\n\n<footer><a href="https://x.com/0xkillchain">@0xkillchain on X</a></footer>\n'
 aliases = {
     '74-Hebrew-Words-European-Languages': '74-Hebrew-Words-In-European-Languages',
     '75-Ancient-Art': '75-Ancient-Art-Depicts-Europeans',
@@ -46,11 +43,23 @@ for source in notes:
     destination = 'source-index.md' if source.name == 'INDEX.md' else source.name
     legacy_name = source.stem.replace(' - ', '-').replace(' ', '-')
     redirect = f'---\naliases:\n  - {legacy_name}\n---\n\n' if source.name != 'INDEX.md' else ''
-    (content / destination).write_text(redirect + notice + text.lstrip())
-(content / 'index.md').write_text('# 100 Proofs — Research Archive\n\n' + notice +
-    'This archive documents a collection of extremist claims for analysis and evidence-based refutation. '
-    'Source documents retain their original wording; critical responses are a work in progress.\n\n'
-    'Start with [[source-index|the source claim index]]. Use search or backlinks to explore related pages.\n')
+    (content / destination).write_text(redirect + text.lstrip().rstrip() + footer)
+index_entries = []
+numbered_notes = sorted(
+    (p for p in notes if p.name != 'INDEX.md'),
+    key=lambda p: int(p.name.split('-')[0]),
+)
+for source in numbered_notes:
+    number = int(source.name.split('-')[0])
+    heading = re.search(r'^#\s+(.+)$', source.read_text(), re.MULTILINE)
+    title = heading.group(1).strip() if heading else source.stem.split('-', 1)[1].strip()
+    title = re.sub(r'^Proof\s+\d+:\s*', '', title)
+    index_entries.append(f'{number}. [[{source.stem}|{title}]]')
+(content / 'index.md').write_text(
+    '# 100 Proofs — Index\n\n' + 
+    'This website lays out the scriptural, archaeological, and etymological evidence that the Israelites became the European nations\n\n' +
+    '\n'.join(index_entries) + '\n' + footer
+)
 config_path = quartz / 'quartz.config.ts'
 config = config_path.read_text()
 for old, new in [
@@ -62,4 +71,12 @@ for old, new in [
         raise SystemExit(f'Unexpected Quartz configuration: missing {old!r}')
     config = config.replace(old, new, 1)
 config_path.write_text(config)
+# Keep the page-level X link while suppressing Quartz's built-in attribution/footer.
+(quartz / 'quartz/components/Footer.tsx').write_text(
+    'import { QuartzComponent, QuartzComponentConstructor } from "./types"\n\n'
+    'export default (() => {\n'
+    '  const Footer: QuartzComponent = () => <></>\n'
+    '  return Footer\n'
+    '}) satisfies QuartzComponentConstructor\n'
+)
 print(f'Staged {len(notes)} source documents plus homepage; all wikilinks resolve.')
