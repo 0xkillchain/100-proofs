@@ -22,14 +22,14 @@ aliases = {
     '78-Early-Christian-Art': '78-Early-Christian-Art-Confirms',
     '81-Additional-Proofs': '81-European-Civilization',
 }
-notes = [p for p in ROOT.glob('*.md') if re.match(r'^\d+-', p.name) or p.name == 'INDEX.md']
-numbers = {int(p.name.split('-')[0]) for p in notes if re.match(r'^\d+-', p.name)}
+notes = [p for p in ROOT.glob('*.md') if re.match(r'^\d+\s*-', p.name) or p.name == 'INDEX.md']
+numbers = {int(p.name.split('-')[0]) for p in notes if re.match(r'^\d+\s*-', p.name)}
 if numbers != set(range(1, 101)) or not (ROOT / 'INDEX.md').is_file():
     raise SystemExit('Expected source documents 1–100 and INDEX.md; refusing to publish incomplete content.')
 names = {p.stem for p in notes}
 # Match legacy shorthand links to the actual numbered document, without changing source text.
 for old, target in list(aliases.items()):
-    matches = [n for n in names if n.split('-')[0] == old.split('-')[0]]
+    matches = [n for n in names if n.split('-')[0].strip().isdigit() and int(n.split('-')[0]) == int(old.split('-')[0])]
     if target not in names and len(matches) == 1:
         aliases[old] = matches[0]
 for source in notes:
@@ -44,7 +44,9 @@ for source in notes:
     if missing:
         raise SystemExit(f'{source.name}: unresolved links: {sorted(missing)}')
     destination = 'source-index.md' if source.name == 'INDEX.md' else source.name
-    (content / destination).write_text(notice + text.lstrip())
+    legacy_name = source.stem.replace(' - ', '-').replace(' ', '-')
+    redirect = f'---\naliases:\n  - {legacy_name}\n---\n\n' if source.name != 'INDEX.md' else ''
+    (content / destination).write_text(redirect + notice + text.lstrip())
 (content / 'index.md').write_text('# 100 Proofs — Research Archive\n\n' + notice +
     'This archive documents a collection of extremist claims for analysis and evidence-based refutation. '
     'Source documents retain their original wording; critical responses are a work in progress.\n\n'
