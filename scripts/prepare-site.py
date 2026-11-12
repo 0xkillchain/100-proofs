@@ -23,6 +23,9 @@ aliases = {
     '81-Additional-Proofs': '81-European-Civilization',
 }
 notes = [p for p in ROOT.glob('*.md') if re.match(r'^\d+-', p.name) or p.name == 'INDEX.md']
+numbers = {int(p.name.split('-')[0]) for p in notes if re.match(r'^\d+-', p.name)}
+if numbers != set(range(1, 101)) or not (ROOT / 'INDEX.md').is_file():
+    raise SystemExit('Expected source documents 1–100 and INDEX.md; refusing to publish incomplete content.')
 names = {p.stem for p in notes}
 # Match legacy shorthand links to the actual numbered document, without changing source text.
 for old, target in list(aliases.items()):
