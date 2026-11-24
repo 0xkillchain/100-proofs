@@ -36,7 +36,10 @@ for source in notes:
         index_entries.append(f'{number}. [[{source.stem}|{title}]]')
 (content / 'index.md').write_text(
     '---\ntitle: 100 Proofs Index\n---\n\n' +
-    '\n'.join(index_entries) + '\n' + footer
+    '\n'.join(index_entries) + '\n' + footer.replace(
+        '</footer>',
+        '<p><a href="https://github.com/0xkillchain/100-proofs">View on GitHub</a></p></footer>',
+    )
 )
 config_path = quartz / 'quartz.config.ts'
 config = config_path.read_text()
