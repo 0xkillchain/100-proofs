@@ -11,7 +11,7 @@ Scripture reveals a continuous plan from creation to consummation, a plan focuse
 
 ### 1. Creation
 
-> **Genesis 1:26-27**: God created Adam in His image.
+> **[[Scripture/Genesis/1#Verse 26|Genesis 1:26-27]]**: God created Adam in His image.
 
 Adam was uniquely formed:
 - Received the *neshamah* (breath of God)
@@ -21,17 +21,17 @@ Adam was uniquely formed:
 
 ### 2. The Fall
 
-> **Genesis 3:1-6**: The serpent deceived Eve.
+> **[[Scripture/Genesis/3#Verse 1|Genesis 3:1-6]]**: The serpent deceived Eve.
 
 The corruption began:
 - Eve seduced by the serpent
 - Cain born "of that wicked one"
 - Two seedlines established
-- Enmity prophesied (Genesis 3:15)
+- Enmity prophesied ([[Scripture/Genesis/3#Verse 15|Genesis 3:15]])
 
 ### 3. The Flood
 
-> **Genesis 6:1-8**: All flesh corrupted.
+> **[[Scripture/Genesis/6#Verse 1|Genesis 6:1-8]]**: All flesh corrupted.
 
 Judgment came:
 - Nephilim corruption spread
@@ -41,7 +41,7 @@ Judgment came:
 
 ### 4. Babel and the Nations
 
-> **Genesis 11:1-9**: Languages confused.
+> **[[Scripture/Genesis/11#Verse 1|Genesis 11:1-9]]**: Languages confused.
 
 The nations scattered:
 - Humanity divided
@@ -50,7 +50,7 @@ The nations scattered:
 
 ### 5. Abraham's Call
 
-> **Genesis 12:1-3**: Yahweh chose Abraham.
+> **[[Scripture/Genesis/12#Verse 1|Genesis 12:1-3]]**: Yahweh chose Abraham.
 
 The covenant began:
 - A great nation promised
@@ -59,7 +59,7 @@ The covenant began:
 
 ### 6. Israel Formed
 
-> **Exodus 19:5-6**: Israel at Sinai.
+> **[[Scripture/Exodus/19#Verse 5|Exodus 19:5-6]]**: Israel at Sinai.
 
 The nation established:
 - Law given
@@ -69,7 +69,7 @@ The nation established:
 
 ### 7. Apostasy and Exile
 
-> **2 Kings 17:6**: Israel deported.
+> **[[Scripture/2-Kings/17#Verse 6|2 Kings 17:6]]**: Israel deported.
 
 Judgment fell:
 - Northern Kingdom scattered (722 BC)
@@ -79,7 +79,7 @@ Judgment fell:
 
 ### 8. Christ Came
 
-> **Matthew 1:21**: "He shall save his people."
+> **[[Scripture/Matthew/1#Verse 21|Matthew 1:21]]**: "He shall save his people."
 
 Redemption arrived:
 - Born of Israel
@@ -89,7 +89,7 @@ Redemption arrived:
 
 ### 9. Christianity Spread
 
-> **Acts 1:8**: "Unto the uttermost part of the earth."
+> **[[Scripture/Acts/1#Verse 8|Acts 1:8]]**: "Unto the uttermost part of the earth."
 
 The Gospel went forth:
 - To scattered Israel
@@ -107,7 +107,7 @@ The current era:
 
 ### 11. Christ Returns
 
-> **Revelation 19:11-16**: "King of Kings."
+> **[[Scripture/Revelation/19#Verse 11|Revelation 19:11-16]]**: "King of Kings."
 
 The culmination:
 - Destroys the enemy
@@ -117,7 +117,7 @@ The culmination:
 
 ### 12. New Creation
 
-> **Revelation 21:1-4**: "New heaven and new earth."
+> **[[Scripture/Revelation/21#Verse 1|Revelation 21:1-4]]**: "New heaven and new earth."
 
 The consummation:
 - Eden restored
@@ -152,7 +152,7 @@ The plan is always about Israel.
 
 ### The Conflict
 
-From Genesis 3:15:
+From [[Scripture/Genesis/3#Verse 15|Genesis 3:15]]:
 > "I will put enmity between thy seed and her seed."
 
 This conflict runs through:
@@ -166,7 +166,7 @@ This conflict runs through:
 ### The Resolution
 
 Christ crushes the serpent's head:
-> **Romans 16:20**: "The God of peace shall bruise Satan under your feet shortly."
+> **[[Scripture/Romans/16#Verse 20|Romans 16:20]]**: "The God of peace shall bruise Satan under your feet shortly."
 
 The serpent seed is ultimately destroyed. Israel is ultimately victorious.
 

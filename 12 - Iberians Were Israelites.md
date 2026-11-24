@@ -11,9 +11,9 @@ Spain and Portugal (Iberia) were settled by Israelites. Phoenician colonies spre
 
 ### Eber Father of the Hebrews
 
-> **Genesis 10:21**: "Unto Shem also, the father of all the children of **Eber**, the brother of Japheth the elder, even to him were children born."
+> **[[Scripture/Genesis/10#Verse 21|Genesis 10:21]]**: "Unto Shem also, the father of all the children of **Eber**, the brother of Japheth the elder, even to him were children born."
 
-> **Genesis 11:14-17**: The lineage from Shem to **Eber** to Peleg to Abraham.
+> **[[Scripture/Genesis/11#Verse 14|Genesis 11:14-17]]**: The lineage from Shem to **Eber** to Peleg to Abraham.
 
 "Hebrew" (*Ivri*) comes from "Eber", the ancestor of Abraham. The Hebrews were the "children of Eber."
 
@@ -35,9 +35,9 @@ Note: There is also an "Iberia" in the Caucasus (modern Georgia). Both regions w
 
 ### Tarshish
 
-> **1 Kings 10:22**: "For the king had at sea a navy of **Tarshish** with the navy of Hiram: once in three years came the navy of Tarshish, bringing gold, and silver, ivory, and apes, and peacocks."
+> **[[Scripture/1-Kings/10#Verse 22|1 Kings 10:22]]**: "For the king had at sea a navy of **Tarshish** with the navy of Hiram: once in three years came the navy of Tarshish, bringing gold, and silver, ivory, and apes, and peacocks."
 
-> **Ezekiel 27:12**: "**Tarshish** was thy merchant by reason of the multitude of all kind of riches; with silver, iron, **tin**, and lead, they traded in thy fairs."
+> **[[Scripture/Ezekiel/27#Verse 12|Ezekiel 27:12]]**: "**Tarshish** was thy merchant by reason of the multitude of all kind of riches; with silver, iron, **tin**, and lead, they traded in thy fairs."
 
 Tarshish was a major trading destination, supplying:
 - Silver: Spain was the ancient world's silver source
@@ -119,9 +119,9 @@ Northwestern Spain is called **Galicia**, sharing its name with:
 
 ### Paul's Intention
 
-> **Romans 15:24**: "Whensoever I take my journey into **Spain**, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you."
+> **[[Scripture/Romans/15#Verse 24|Romans 15:24]]**: "Whensoever I take my journey into **Spain**, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you."
 
-> **Romans 15:28**: "When therefore I have performed this... I will come by you into **Spain**."
+> **[[Scripture/Romans/15#Verse 28|Romans 15:28]]**: "When therefore I have performed this... I will come by you into **Spain**."
 
 Paul planned to visit Spain. Why? Because Israelites were there, the lost sheep he was sent to find.
 
@@ -142,7 +142,7 @@ Spain's deep Christian identity suggests an Israelite population recognizing the
 
 ### Jews in Spain
 
-A large Jewish population lived in Spain from ancient times until 1492. They were called "Sephardim" (from "Sepharad," the Hebrew name for Spain, Obadiah 1:20).
+A large Jewish population lived in Spain from ancient times until 1492. They were called "Sephardim" (from "Sepharad," the Hebrew name for Spain, [[Scripture/Obadiah/1#Verse 20|Obadiah 1:20]]).
 
 **Important distinction:**
 - Some Sephardim were true Israelites (from Judah and Benjamin)

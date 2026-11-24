@@ -67,7 +67,7 @@ Roman naturalist whose *Natural History* documented peoples and places.
 
 | Event | Date | Historical Record |
 |-------|------|-------------------|
-| Assyrian deportation of Israel | 722-720 BC | Biblical (2 Kings 17) |
+| Assyrian deportation of Israel | 722-720 BC | Biblical ([[Scripture/2-Kings/17|2 Kings 17]]) |
 | Scythians appear in Black Sea region | ~700 BC | Herodotus |
 | Cimmerians appear in same region | ~700 BC | Assyrian records |
 | Scythians push into Europe | 600-300 BC | Multiple sources |
@@ -78,7 +78,7 @@ The Scythians appeared exactly when and where the deported Israelites would have
 ### Geographic Alignment
 
 **Where the Assyrians placed Israel:**
-> **2 Kings 17:6**: "In Halah and in Habor by the river of Gozan, and in the cities of the Medes."
+> **[[Scripture/2-Kings/17#Verse 6|2 Kings 17:6]]**: "In Halah and in Habor by the river of Gozan, and in the cities of the Medes."
 
 - Halah: Upper Mesopotamia
 - Habor: The Khabur River region

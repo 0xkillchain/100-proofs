@@ -56,7 +56,7 @@ Millions of Europeans were:
 
 ## Prophetic Fulfillment
 
-### Daniel 7:25
+### [[Scripture/Daniel/7#Verse 25|Daniel 7:25]]
 
 > "And he shall speak great words against the most High, and shall **wear out the saints of the most High**, and think to change times and laws: and they shall be given into his hand until a **time and times and the dividing of time**."
 
@@ -66,11 +66,11 @@ The "little horn":
 - Changes times and laws
 - Rules for 3.5 prophetic times (interpreted as 1,260 years)
 
-### Revelation 13:7
+### [[Scripture/Revelation/13#Verse 7|Revelation 13:7]]
 
 > "And it was given unto him to **make war with the saints**, and to overcome them."
 
-### Revelation 17 The Harlot
+### [[Scripture/Revelation/17|Revelation 17]] The Harlot
 
 > "And I saw the woman **drunken with the blood of the saints**, and with the blood of the martyrs of Jesus."
 

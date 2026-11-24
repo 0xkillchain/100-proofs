@@ -90,7 +90,7 @@ The conflict is:
 
 ### Scripture on Ishmael
 
-> **Genesis 16:12**: "And he will be a **wild man**; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren."
+> **[[Scripture/Genesis/16#Verse 12|Genesis 16:12]]**: "And he will be a **wild man**; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren."
 
 Ishmael's nature: wild, conflictual, hand against every man.
 
@@ -146,7 +146,7 @@ Islam denies:
 - The Trinity
 - The crucifixion's purpose
 
-Islam carries an antichrist spirit (1 John 4:3).
+Islam carries an antichrist spirit ([[Scripture/1-John/4#Verse 3|1 John 4:3]]).
 
 ---
 

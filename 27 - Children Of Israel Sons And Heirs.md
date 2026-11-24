@@ -11,15 +11,15 @@ Scripture consistently identifies Israel as Yahweh's children, sons, and heirs. 
 
 ### Old Testament Foundation
 
-> **Exodus 4:22-23**: "Thus saith the LORD, **Israel is my son, even my firstborn**: And I say unto thee, Let my son go, that he may serve me."
+> **[[Scripture/Exodus/4#Verse 22|Exodus 4:22-23]]**: "Thus saith the LORD, **Israel is my son, even my firstborn**: And I say unto thee, Let my son go, that he may serve me."
 
-> **Deuteronomy 14:1**: "**Ye are the children of the LORD your God**."
+> **[[Scripture/Deuteronomy/14#Verse 1|Deuteronomy 14:1]]**: "**Ye are the children of the LORD your God**."
 
-> **Isaiah 63:16**: "Doubtless **thou art our father**, though Abraham be ignorant of us, and Israel acknowledge us not: **thou, O LORD, art our father**, our redeemer."
+> **[[Scripture/Isaiah/63#Verse 16|Isaiah 63:16]]**: "Doubtless **thou art our father**, though Abraham be ignorant of us, and Israel acknowledge us not: **thou, O LORD, art our father**, our redeemer."
 
-> **Hosea 11:1**: "When Israel was a child, then I loved him, and **called my son out of Egypt**."
+> **[[Scripture/Hosea/11#Verse 1|Hosea 11:1]]**: "When Israel was a child, then I loved him, and **called my son out of Egypt**."
 
-> **Jeremiah 31:9**: "For **I am a father to Israel**, and **Ephraim is my firstborn**."
+> **[[Scripture/Jeremiah/31#Verse 9|Jeremiah 31:9]]**: "For **I am a father to Israel**, and **Ephraim is my firstborn**."
 
 Israel, uniquely among all nations, was called Yahweh's son/children.
 
@@ -27,7 +27,7 @@ Israel, uniquely among all nations, was called Yahweh's son/children.
 
 ## New Testament: Same Language
 
-### Galatians 4:4-7
+### [[Scripture/Galatians/4#Verse 4|Galatians 4:4-7]]
 
 > "But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, To **redeem them that were under the law**, that we might receive **the adoption of sons**. And because **ye are sons**, God hath sent forth the Spirit of his Son into your hearts, crying, **Abba, Father**. Wherefore thou art no more a servant, but **a son; and if a son, then an heir of God** through Christ."
 
@@ -37,7 +37,7 @@ Note:
 - "Ye are sons": The Galatians (Europeans) are sons
 - "Heirs of God": Inheriting the promises to Israel
 
-### Romans 8:14-17
+### [[Scripture/Romans/8#Verse 14|Romans 8:14-17]]
 
 > "For as many as are led by the Spirit of God, they are **the sons of God**... ye have received the Spirit of **adoption**, whereby we cry, **Abba, Father**. The Spirit itself beareth witness with our spirit, that we are **the children of God**: And if children, then **heirs; heirs of God, and joint-heirs with Christ**."
 
@@ -62,13 +62,13 @@ In Roman law, adoption meant:
 - The family name
 
 In biblical context:
-- Israel was already Yahweh's son (Exodus 4:22)
+- Israel was already Yahweh's son ([[Scripture/Exodus/4#Verse 22|Exodus 4:22]])
 - The "adoption" is the formal recognition/restoration of that status
 - Scattered Israelites regain their sonship through Christ
 
 ### Restoration, Not New Relationship
 
-> **Romans 9:4**: "Who are **Israelites**; to whom pertaineth **the adoption**, and the glory, and the covenants."
+> **[[Scripture/Romans/9#Verse 4|Romans 9:4]]**: "Who are **Israelites**; to whom pertaineth **the adoption**, and the glory, and the covenants."
 
 The adoption "pertains to" (belongs to) Israelites. The New Testament adoption is the fulfillment of Israel's sonship, not a replacement.
 
@@ -76,13 +76,13 @@ The adoption "pertains to" (belongs to) Israelites. The New Testament adoption i
 
 ## Heirs of the Promise
 
-### Galatians 3:29
+### [[Scripture/Galatians/3#Verse 29|Galatians 3:29]]
 
 > "And if ye be Christ's, then are ye **Abraham's seed, and heirs according to the promise**."
 
 To be an heir of Abraham's promise, you must be Abraham's seed. The Galatians (Europeans) are heirs because they are Abraham's descendants, Israelites.
 
-### Hebrews 6:17
+### [[Scripture/Hebrews/6#Verse 17|Hebrews 6:17]]
 
 > "Wherein God, willing more abundantly to shew unto **the heirs of promise** the immutability of his counsel, confirmed it by an oath."
 
@@ -94,9 +94,9 @@ The "heirs of promise" are those to whom the promise was made, Abraham's seed, I
 
 ### Israel as Firstborn
 
-> **Exodus 4:22**: "Israel is my son, even **my firstborn**."
+> **[[Scripture/Exodus/4#Verse 22|Exodus 4:22]]**: "Israel is my son, even **my firstborn**."
 
-> **Jeremiah 31:9**: "**Ephraim is my firstborn**."
+> **[[Scripture/Jeremiah/31#Verse 9|Jeremiah 31:9]]**: "**Ephraim is my firstborn**."
 
 The firstborn has:
 - Preeminence among siblings
@@ -105,9 +105,9 @@ The firstborn has:
 
 ### Christ and the Firstborn
 
-> **Romans 8:29**: "For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be **the firstborn among many brethren**."
+> **[[Scripture/Romans/8#Verse 29|Romans 8:29]]**: "For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be **the firstborn among many brethren**."
 
-> **Hebrews 12:23**: "To the general assembly and **church of the firstborn**, which are written in heaven."
+> **[[Scripture/Hebrews/12#Verse 23|Hebrews 12:23]]**: "To the general assembly and **church of the firstborn**, which are written in heaven."
 
 Christ is firstborn among His brethren, the children of Israel. The church is the "church of the firstborn", Israel's assembly.
 
@@ -115,7 +115,7 @@ Christ is firstborn among His brethren, the children of Israel. The church is th
 
 ## Not All Are Children
 
-### John 8:39-44
+### [[Scripture/John/8#Verse 39|John 8:39-44]]
 
 Christ speaking to certain Jews:
 
@@ -126,14 +126,14 @@ Not everyone claiming descent from Abraham is a child of God. Christ identified 
 ### The Distinction
 
 The true children of Israel:
-- Hear Christ's voice (John 10:27)
-- Do the works of Abraham (John 8:39)
-- Receive the Spirit of adoption (Romans 8:15)
+- Hear Christ's voice ([[Scripture/John/10#Verse 27|John 10:27]])
+- Do the works of Abraham ([[Scripture/John/8#Verse 39|John 8:39]])
+- Receive the Spirit of adoption ([[Scripture/Romans/8#Verse 15|Romans 8:15]])
 
 Impostors:
-- Claim Abraham but are not his children (John 8:39)
-- Are children of the devil (John 8:44)
-- Do not hear Christ's voice (John 8:47)
+- Claim Abraham but are not his children ([[Scripture/John/8#Verse 39|John 8:39]])
+- Are children of the devil ([[Scripture/John/8#Verse 44|John 8:44]])
+- Do not hear Christ's voice ([[Scripture/John/8#Verse 47|John 8:47]])
 
 ---
 
@@ -155,7 +155,7 @@ Europeans are called sons, children, and heirs because they are Israelites, the 
 
 1. How does "adoption" in Roman law illuminate the biblical concept?
 2. What is the relationship between Israel's sonship and Christ's sonship?
-3. Who are the "children of the devil" in John 8?
+3. Who are the "children of the devil" in [[Scripture/John/8|John 8]]?
 
 ---
 

@@ -11,19 +11,19 @@ The apostles wrote their epistles to people in Europe and Anatolia (modern Turke
 
 ### Peter's Epistles
 
-> **1 Peter 1:1**: "Peter, an apostle of Jesus Christ, to the **strangers scattered** throughout **Pontus, Galatia, Cappadocia, Asia, and Bithynia**."
+> **[[Scripture/1-Peter/1#Verse 1|1 Peter 1:1]]**: "Peter, an apostle of Jesus Christ, to the **strangers scattered** throughout **Pontus, Galatia, Cappadocia, Asia, and Bithynia**."
 
 All five regions are in Anatolia (modern Turkey), Greek-speaking, European-settled territories.
 
 The Greek word for "strangers scattered" is *parepidemos* (sojourners) combined with *diaspora* (dispersion). This is the same word used for the dispersion of Israel.
 
-> **1 Peter 2:9-10**: "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people... Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy."
+> **[[Scripture/1-Peter/2#Verse 9|1 Peter 2:9-10]]**: "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people... Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy."
 
-This directly quotes Hosea 1:9-10, which was written specifically about the Northern Kingdom of Israel being divorced and scattered, then later restored.
+This directly quotes [[Scripture/Hosea/1#Verse 9|Hosea 1:9-10]], which was written specifically about the Northern Kingdom of Israel being divorced and scattered, then later restored.
 
 ### James' Epistle
 
-> **James 1:1**: "James, a servant of God and of the Lord Jesus Christ, to the **twelve tribes which are scattered abroad**, greeting."
+> **[[Scripture/James/1#Verse 1|James 1:1]]**: "James, a servant of God and of the Lord Jesus Christ, to the **twelve tribes which are scattered abroad**, greeting."
 
 James explicitly states he is writing to the twelve tribes in dispersion. He was not writing to Jews in Judea, he was writing to scattered Israelites, who were in Europe.
 
@@ -48,17 +48,17 @@ Paul also wrote to individuals:
 
 ### Paul Confirms He Writes to Israel
 
-> **Romans 9:3-4**: "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh: Who are **Israelites**; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises."
+> **[[Scripture/Romans/9#Verse 3|Romans 9:3-4]]**: "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh: Who are **Israelites**; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises."
 
 Paul calls the Romans his "kinsmen" and "Israelites."
 
-> **Romans 11:1**: "I say then, Hath God cast away his people? God forbid. For I also am an **Israelite**, of the seed of Abraham, of the tribe of Benjamin."
+> **[[Scripture/Romans/11#Verse 1|Romans 11:1]]**: "I say then, Hath God cast away his people? God forbid. For I also am an **Israelite**, of the seed of Abraham, of the tribe of Benjamin."
 
 Paul identifies himself as an Israelite writing to fellow Israelites.
 
 ### John's Letters
 
-> **Revelation 1:4**: "John to the **seven churches which are in Asia**."
+> **[[Scripture/Revelation/1#Verse 4|Revelation 1:4]]**: "John to the **seven churches which are in Asia**."
 
 The seven churches (Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia, Laodicea) were all in Anatolia, Greek cities.
 
@@ -81,7 +81,7 @@ The apostles went where the Israelites had scattered, **not** to Africa, **not**
 
 ### Christ's Command
 
-> **Matthew 10:5-6**: "These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not: But go rather to the **lost sheep of the house of Israel**."
+> **[[Scripture/Matthew/10#Verse 5|Matthew 10:5-6]]**: "These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not: But go rather to the **lost sheep of the house of Israel**."
 
 The apostles obeyed. They went to Europe. Therefore, Europe contained the lost sheep of Israel.
 
@@ -96,7 +96,7 @@ The Greek word *ethnos* (often translated "Gentiles") simply means "nations." In
 
 Paul's mission to the "Gentiles" was a mission to the **nations of Israel** scattered abroad, not to non-Israelites.
 
-> **Romans 11:13**: "For I speak to you Gentiles [*ethnos*: nations], inasmuch as I am the apostle of the Gentiles [nations]."
+> **[[Scripture/Romans/11#Verse 13|Romans 11:13]]**: "For I speak to you Gentiles [*ethnos*: nations], inasmuch as I am the apostle of the Gentiles [nations]."
 
 Paul was the apostle to the nations of scattered Israel in Europe.
 

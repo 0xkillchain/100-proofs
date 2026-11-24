@@ -34,11 +34,11 @@ Both concepts require:
 
 ### The Foundational Act
 
-> **Exodus 6:6**: "I am the LORD, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will **redeem you** with a stretched out arm."
+> **[[Scripture/Exodus/6#Verse 6|Exodus 6:6]]**: "I am the LORD, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will **redeem you** with a stretched out arm."
 
-> **Exodus 15:13**: "Thou in thy mercy hast led forth the people which thou hast **redeemed**."
+> **[[Scripture/Exodus/15#Verse 13|Exodus 15:13]]**: "Thou in thy mercy hast led forth the people which thou hast **redeemed**."
 
-> **Deuteronomy 7:8**: "Because the LORD loved you... hath the LORD brought you out with a mighty hand, and **redeemed you** out of the house of bondmen."
+> **[[Scripture/Deuteronomy/7#Verse 8|Deuteronomy 7:8]]**: "Because the LORD loved you... hath the LORD brought you out with a mighty hand, and **redeemed you** out of the house of bondmen."
 
 Yahweh redeemed Israel, and only Israel, from Egypt.
 
@@ -48,11 +48,11 @@ Yahweh redeemed Israel, and only Israel, from Egypt.
 
 ### Prophecies of Future Redemption
 
-> **Isaiah 43:1**: "Fear not: for I have **redeemed thee**, I have called thee by thy name; thou art mine."
+> **[[Scripture/Isaiah/43#Verse 1|Isaiah 43:1]]**: "Fear not: for I have **redeemed thee**, I have called thee by thy name; thou art mine."
 
-> **Isaiah 44:22-23**: "I have blotted out, as a thick cloud, thy transgressions... return unto me; for I have **redeemed thee**. Sing, O ye heavens; for the LORD hath done it... for the LORD hath **redeemed Jacob**."
+> **[[Scripture/Isaiah/44#Verse 22|Isaiah 44:22-23]]**: "I have blotted out, as a thick cloud, thy transgressions... return unto me; for I have **redeemed thee**. Sing, O ye heavens; for the LORD hath done it... for the LORD hath **redeemed Jacob**."
 
-> **Isaiah 52:3**: "For thus saith the LORD, Ye have sold yourselves for nought; and ye shall be **redeemed** without money."
+> **[[Scripture/Isaiah/52#Verse 3|Isaiah 52:3]]**: "For thus saith the LORD, Ye have sold yourselves for nought; and ye shall be **redeemed** without money."
 
 These prophecies are to Israel, not to all nations.
 
@@ -69,11 +69,11 @@ Redemption requires something to redeem **back to**:
 
 **Who had this with Yahweh?**
 - Israel: chosen, covenanted, owned
-- "You only have I known of all the families of the earth" (Amos 3:2)
+- "You only have I known of all the families of the earth" ([[Scripture/Amos/3#Verse 2|Amos 3:2]])
 
 **Who did not?**
 - Other nations: never in covenant
-- "Strangers from the covenants of promise" (Ephesians 2:12)
+- "Strangers from the covenants of promise" ([[Scripture/Ephesians/2#Verse 12|Ephesians 2:12]])
 
 You cannot redeem what was never yours.
 
@@ -83,17 +83,17 @@ You cannot redeem what was never yours.
 
 ### Same Concept Applied
 
-> **Luke 1:68**: "Blessed be the Lord God of Israel; for he hath visited and **redeemed his people**."
+> **[[Scripture/Luke/1#Verse 68|Luke 1:68]]**: "Blessed be the Lord God of Israel; for he hath visited and **redeemed his people**."
 
-> **Luke 2:38**: Anna "gave thanks likewise unto the Lord, and spake of him to all them that looked for **redemption in Jerusalem**."
+> **[[Scripture/Luke/2#Verse 38|Luke 2:38]]**: Anna "gave thanks likewise unto the Lord, and spake of him to all them that looked for **redemption in Jerusalem**."
 
-> **Luke 24:21**: "We trusted that it had been he which should have **redeemed Israel**."
+> **[[Scripture/Luke/24#Verse 21|Luke 24:21]]**: "We trusted that it had been he which should have **redeemed Israel**."
 
-> **Galatians 3:13**: "Christ hath **redeemed us** from the curse of the law."
+> **[[Scripture/Galatians/3#Verse 13|Galatians 3:13]]**: "Christ hath **redeemed us** from the curse of the law."
 
 Who was under the curse of the law? Israel, who received the law.
 
-> **Galatians 4:5**: "To **redeem them that were under the law**, that we might receive the adoption of sons."
+> **[[Scripture/Galatians/4#Verse 5|Galatians 4:5]]**: "To **redeem them that were under the law**, that we might receive the adoption of sons."
 
 Same point: redemption is for those under the law, Israel.
 
@@ -103,11 +103,11 @@ Same point: redemption is for those under the law, Israel.
 
 ### Blood Redemption
 
-> **1 Peter 1:18-19**: "Forasmuch as ye know that ye were not **redeemed** with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; But with the precious **blood of Christ**, as of a lamb without blemish."
+> **[[Scripture/1-Peter/1#Verse 18|1 Peter 1:18-19]]**: "Forasmuch as ye know that ye were not **redeemed** with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; But with the precious **blood of Christ**, as of a lamb without blemish."
 
-Peter writes to "the strangers scattered" (1 Peter 1:1), the dispersed Israelites. They were redeemed by Christ's blood from the "tradition of the fathers", the Old Covenant practices.
+Peter writes to "the strangers scattered" ([[Scripture/1-Peter/1#Verse 1|1 Peter 1:1]]), the dispersed Israelites. They were redeemed by Christ's blood from the "tradition of the fathers", the Old Covenant practices.
 
-> **Ephesians 1:7**: "In whom we have **redemption through his blood**, the forgiveness of sins."
+> **[[Scripture/Ephesians/1#Verse 7|Ephesians 1:7]]**: "In whom we have **redemption through his blood**, the forgiveness of sins."
 
 Paul writes to Ephesians, Europeans who are redeemed because they are Israelites.
 
@@ -117,7 +117,7 @@ Paul writes to Ephesians, Europeans who are redeemed because they are Israelites
 
 ### Reconciliation Requires Prior Relationship
 
-> **Romans 5:10**: "For if, when we were enemies, we were **reconciled** to God by the death of his Son, much more, being reconciled, we shall be saved by his life."
+> **[[Scripture/Romans/5#Verse 10|Romans 5:10]]**: "For if, when we were enemies, we were **reconciled** to God by the death of his Son, much more, being reconciled, we shall be saved by his life."
 
 Reconciliation means restoring a broken relationship. You cannot reconcile parties who never had a relationship.
 
@@ -129,9 +129,9 @@ Israel had a relationship with Yahweh, then broke it through sin. Christ reconci
 
 ### Isaiah's Vision
 
-> **Isaiah 35:9-10**: "No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the **redeemed shall walk there**: And the **ransomed of the LORD** shall return, and come to Zion with songs and everlasting joy."
+> **[[Scripture/Isaiah/35#Verse 9|Isaiah 35:9-10]]**: "No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the **redeemed shall walk there**: And the **ransomed of the LORD** shall return, and come to Zion with songs and everlasting joy."
 
-> **Isaiah 51:11**: "Therefore the **redeemed of the LORD** shall return, and come with singing unto Zion."
+> **[[Scripture/Isaiah/51#Verse 11|Isaiah 51:11]]**: "Therefore the **redeemed of the LORD** shall return, and come with singing unto Zion."
 
 The "redeemed of the LORD" are those who return to Zion, Israel.
 
@@ -144,7 +144,7 @@ The "redeemed of the LORD" are those who return to Zion, Israel.
 God may love His creation in a general sense, but:
 - **Covenant love** is specific to Israel
 - **Redemption** is for those in covenant
-- "Jacob have I loved, but Esau have I hated" (Romans 9:13)
+- "Jacob have I loved, but Esau have I hated" ([[Scripture/Romans/9#Verse 13|Romans 9:13]])
 
 ### "Redemption is universal in the New Testament"
 

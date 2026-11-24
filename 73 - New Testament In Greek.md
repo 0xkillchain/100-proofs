@@ -78,7 +78,7 @@ The audience was Greek-speaking, the scattered Israelites.
 
 ### Logos
 
-> **John 1:1**: "In the beginning was the **Logos**, and the Logos was with God, and the Logos was God."
+> **[[Scripture/John/1#Verse 1|John 1:1]]**: "In the beginning was the **Logos**, and the Logos was with God, and the Logos was God."
 
 John used the Greek concept of "Logos" (Word/Reason) to describe Christ. This communicated to Greek-speaking, philosophically-trained Israelites.
 

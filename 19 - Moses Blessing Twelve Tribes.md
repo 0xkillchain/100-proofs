@@ -3,13 +3,13 @@
 
 ## The Claim
 
-In Deuteronomy 33, Moses blessed the twelve tribes before his death. These blessings complement and expand Jacob's prophecies, further identifying the European nations as Israel.
+In [[Scripture/Deuteronomy/33|Deuteronomy 33]], Moses blessed the twelve tribes before his death. These blessings complement and expand Jacob's prophecies, further identifying the European nations as Israel.
 
 ---
 
 ## The Text
 
-> **Deuteronomy 33:1**: "And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death."
+> **[[Scripture/Deuteronomy/33#Verse 1|Deuteronomy 33:1]]**: "And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death."
 
 Moses blessed the tribes before Israel entered the Promised Land. These blessings would extend through all generations.
 
@@ -17,7 +17,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 
 ## The Twelve Blessings
 
-### Reuben (33:6)
+### Reuben ([[Scripture/Deuteronomy/33#Verse 6|33:6]])
 
 > "Let Reuben live, and not die; and let not his men be few."
 
@@ -30,7 +30,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 
 ---
 
-### Judah (33:7)
+### Judah ([[Scripture/Deuteronomy/33#Verse 7|33:7]])
 
 > "Hear, LORD, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help to him from his enemies."
 
@@ -43,7 +43,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 
 ---
 
-### Levi (33:8-11)
+### Levi ([[Scripture/Deuteronomy/33#Verse 8|33:8-11]])
 
 > "Let thy Thummim and thy Urim be with thy holy one... They shall teach Jacob thy judgments, and Israel thy law: they shall put incense before thee, and whole burnt sacrifice upon thine altar."
 
@@ -59,7 +59,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 
 ---
 
-### Benjamin (33:12)
+### Benjamin ([[Scripture/Deuteronomy/33#Verse 12|33:12]])
 
 > "The beloved of the LORD shall dwell in safety by him; and the LORD shall cover him all the day long, and he shall dwell between his shoulders."
 
@@ -75,7 +75,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 
 ---
 
-### Joseph (33:13-17)
+### Joseph ([[Scripture/Deuteronomy/33#Verse 13|33:13-17]])
 
 > "Blessed of the LORD be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath, And for the precious fruits brought forth by the sun... **His glory is like the firstling of his bullock, and his horns are like the horns of unicorns: with them he shall push the people together to the ends of the earth**: they are the ten thousands of Ephraim, and they are the thousands of Manasseh."
 
@@ -95,7 +95,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 
 ---
 
-### Zebulun and Issachar (33:18-19)
+### Zebulun and Issachar ([[Scripture/Deuteronomy/33#Verse 18|33:18-19]])
 
 > "Rejoice, Zebulun, in thy going out; and, Issachar, in thy tents. They shall call the people unto the mountain; there they shall offer sacrifices of righteousness: for they shall suck of the abundance of the seas, and of treasures hid in the sand."
 
@@ -112,7 +112,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 
 ---
 
-### Gad (33:20-21)
+### Gad ([[Scripture/Deuteronomy/33#Verse 20|33:20-21]])
 
 > "Blessed be he that enlargeth Gad: he dwelleth as a lion, and teareth the arm with the crown of the head. And he provided the first part for himself, because there, in a portion of the lawgiver, was he seated."
 
@@ -125,7 +125,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 
 ---
 
-### Dan (33:22)
+### Dan ([[Scripture/Deuteronomy/33#Verse 22|33:22]])
 
 > "Dan is a lion's whelp: he shall leap from Bashan."
 
@@ -141,7 +141,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 
 ---
 
-### Naphtali (33:23)
+### Naphtali ([[Scripture/Deuteronomy/33#Verse 23|33:23]])
 
 > "O Naphtali, satisfied with favour, and full with the blessing of the LORD: possess thou the west and the south."
 
@@ -153,7 +153,7 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 
 ---
 
-### Asher (33:24-25)
+### Asher ([[Scripture/Deuteronomy/33#Verse 24|33:24-25]])
 
 > "Let Asher be blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil. Thy shoes shall be iron and brass; and as thy days, so shall thy strength be."
 
@@ -170,10 +170,10 @@ Moses blessed the tribes before Israel entered the Promised Land. These blessing
 
 ## Simeon Missing?
 
-Note: Simeon is not mentioned in Deuteronomy 33. This may confirm:
-- Simeon was absorbed into Judah (Joshua 19:1)
+Note: Simeon is not mentioned in [[Scripture/Deuteronomy/33|Deuteronomy 33]]. This may confirm:
+- Simeon was absorbed into Judah ([[Scripture/Joshua/19#Verse 1|Joshua 19:1]])
 - Simeon's tribal identity was lost earlier than others
-- The prophecy of being "scattered" (Genesis 49:7) was already in effect
+- The prophecy of being "scattered" ([[Scripture/Genesis/49#Verse 7|Genesis 49:7]]) was already in effect
 
 ---
 

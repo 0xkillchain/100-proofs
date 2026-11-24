@@ -34,7 +34,7 @@ Books between the Testaments:
 
 ### The Ten Tribes
 
-> **2 Esdras 13:40-45**: "Those are the **ten tribes**, which were carried away prisoners out of their own land in the time of Osea [Hoshea] the king, whom Salmanasar [Shalmaneser] the king of Assyria led away captive, and he carried them over the waters, and so came they into another land. But **they took this counsel among themselves, that they would leave the multitude of the heathen, and go forth into a further country**, where never mankind dwelt, That they might there keep their statutes, which they never kept in their own land. And **they entered into Euphrates by the narrow passages of the river**. For the most High then shewed signs for them, and held still the flood, till they were passed over. For through that country there was a great way to go, namely, of a year and a half: and **the same region is called Arsareth**."
+> **[[Scripture/2-Esdras/13#Verse 40|2 Esdras 13:40-45]]**: "Those are the **ten tribes**, which were carried away prisoners out of their own land in the time of Osea [Hoshea] the king, whom Salmanasar [Shalmaneser] the king of Assyria led away captive, and he carried them over the waters, and so came they into another land. But **they took this counsel among themselves, that they would leave the multitude of the heathen, and go forth into a further country**, where never mankind dwelt, That they might there keep their statutes, which they never kept in their own land. And **they entered into Euphrates by the narrow passages of the river**. For the most High then shewed signs for them, and held still the flood, till they were passed over. For through that country there was a great way to go, namely, of a year and a half: and **the same region is called Arsareth**."
 
 Key points:
 - Ten tribes taken captive
@@ -63,7 +63,7 @@ This shows Israel existed as an identifiable people before Christ.
 
 ### On God's People
 
-> **Wisdom 18:1**: "Nevertheless thy saints had a very great light, whose voice they hearing, and not seeing their shape, counted them happy."
+> **[[Scripture/Wisdom/18#Verse 1|Wisdom 18:1]]**: "Nevertheless thy saints had a very great light, whose voice they hearing, and not seeing their shape, counted them happy."
 
 References to "saints" (holy ones), Israel as God's set-apart people.
 
@@ -73,7 +73,7 @@ References to "saints" (holy ones), Israel as God's set-apart people.
 
 ### On Israel's History
 
-Sirach 44-50 reviews Israel's history:
+[[Scripture/Sirach/44|Sirach 44-50]] reviews Israel's history:
 - The patriarchs
 - Moses and the law
 - The prophets
@@ -87,7 +87,7 @@ This "praise of famous men" shows how Israelites understood their heritage.
 
 ### On Israel's Scattering
 
-> **Baruch 2:29-35**: "If ye will not hear my voice, surely this very great multitude shall be turned into a small number among the nations, where I will scatter them... And I will bring them again into the land which I promised with an oath unto their fathers."
+> **[[Scripture/Baruch/2#Verse 29|Baruch 2:29-35]]**: "If ye will not hear my voice, surely this very great multitude shall be turned into a small number among the nations, where I will scatter them... And I will bring them again into the land which I promised with an oath unto their fathers."
 
 Confirms:
 - Scattering prophecy

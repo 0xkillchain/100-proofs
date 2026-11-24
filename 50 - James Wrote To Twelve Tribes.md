@@ -9,7 +9,7 @@ James explicitly addressed his epistle to "the twelve tribes scattered abroad." 
 
 ## The Address
 
-### James 1:1
+### [[Scripture/James/1#Verse 1|James 1:1]]
 
 > "James, a servant of God and of the Lord Jesus Christ, **to the twelve tribes which are scattered abroad**, greeting."
 
@@ -25,8 +25,8 @@ This is unmistakably clear:
 ### James the Just
 
 James was:
-- The brother of Jesus (Matthew 13:55)
-- Leader of the Jerusalem church (Acts 15:13)
+- The brother of Jesus ([[Scripture/Matthew/13#Verse 55|Matthew 13:55]])
+- Leader of the Jerusalem church ([[Scripture/Acts/15#Verse 13|Acts 15:13]])
 - Respected by all (even non-Christian Jews)
 - Martyred ~62 AD
 
@@ -82,9 +82,9 @@ All addressed to Israelites in specific locations.
 ### Jewish Themes
 
 James's letter contains:
-- References to the law (1:25, 2:8-12)
-- Synagogue mentioned (2:2: "assembly" is *sunagoge*)
-- Abraham as "our father" (2:21)
+- References to the law ([[Scripture/James/1#Verse 25|1:25]], [[Scripture/James/2#Verse 8|2:8-12]])
+- Synagogue mentioned ([[Scripture/James/2#Verse 2|2:2]]: "assembly" is *sunagoge*)
+- Abraham as "our father" ([[Scripture/James/2#Verse 21|2:21]])
 - Old Testament examples (Elijah, Rahab, Job)
 - Prophetic language
 
@@ -92,7 +92,7 @@ This is a letter to Israelites by an Israelite.
 
 ### Rich Oppressing Poor
 
-> **James 5:1-6**: Warnings to the rich who exploit workers
+> **[[Scripture/James/5#Verse 1|James 5:1-6]]**: Warnings to the rich who exploit workers
 
 This fits the context of wealthy Edomite/Sadducean classes exploiting common Israelites.
 
@@ -103,8 +103,8 @@ This fits the context of wealthy Edomite/Sadducean classes exploiting common Isr
 ### They Weren't Lost
 
 The twelve tribes weren't extinct:
-- Anna the prophetess was "of the tribe of Asher" (Luke 2:36)
-- Paul was "of the tribe of Benjamin" (Philippians 3:5)
+- Anna the prophetess was "of the tribe of Asher" ([[Scripture/Luke/2#Verse 36|Luke 2:36]])
+- Paul was "of the tribe of Benjamin" ([[Scripture/Philippians/3#Verse 5|Philippians 3:5]])
 - James addresses all twelve tribes
 
 The tribes continued but were scattered.
@@ -151,7 +151,7 @@ If the twelve tribes received the Gospel and became Christians, then:
 
 ## Synthesis
 
-James 1:1 proves:
+[[Scripture/James/1#Verse 1|James 1:1]] proves:
 
 1. **Explicit address**: "Twelve tribes scattered abroad"
 2. **All twelve**: Not just Judah, but all Israel

@@ -22,9 +22,9 @@ No other people systematically explored the entire earth.
 
 ## The Prophecy
 
-> **Genesis 28:14**: "Thou shalt spread abroad to the west, and to the east, and to the north, and to the south."
+> **[[Scripture/Genesis/28#Verse 14|Genesis 28:14]]**: "Thou shalt spread abroad to the west, and to the east, and to the north, and to the south."
 
-> **Isaiah 54:3**: "Thy seed shall inherit the Gentiles [nations], and make the desolate cities to be inhabited."
+> **[[Scripture/Isaiah/54#Verse 3|Isaiah 54:3]]**: "Thy seed shall inherit the Gentiles [nations], and make the desolate cities to be inhabited."
 
 ---
 

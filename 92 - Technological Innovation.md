@@ -23,7 +23,7 @@ Every major technological leap came from Europe or European-descended peoples.
 
 ## The Mandate
 
-> **Genesis 1:28**: "Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion."
+> **[[Scripture/Genesis/1#Verse 28|Genesis 1:28]]**: "Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion."
 
 Israel was given dominion. Europeans exercised it through technology.
 

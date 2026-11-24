@@ -9,7 +9,7 @@ Paul's "ministry of reconciliation" was to reconcile the scattered Israelites ba
 
 ## The Key Passage
 
-### 2 Corinthians 5:18-20
+### [[Scripture/2-Corinthians/5#Verse 18|2 Corinthians 5:18-20]]
 
 > "And all things are of God, who hath **reconciled us to himself** by Jesus Christ, and hath given to us the **ministry of reconciliation**; To wit, that God was in Christ, **reconciling the world unto himself**, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation. Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's stead, **be ye reconciled to God**."
 
@@ -28,9 +28,9 @@ Reconciliation requires:
 
 ### Who Had a Prior Relationship with God?
 
-> **Amos 3:2**: "**You only have I known** of all the families of the earth."
+> **[[Scripture/Amos/3#Verse 2|Amos 3:2]]**: "**You only have I known** of all the families of the earth."
 
-> **Deuteronomy 7:6**: "For thou art an holy people unto the LORD thy God: the LORD thy God hath **chosen thee** to be a special people unto himself, above all people that are upon the face of the earth."
+> **[[Scripture/Deuteronomy/7#Verse 6|Deuteronomy 7:6]]**: "For thou art an holy people unto the LORD thy God: the LORD thy God hath **chosen thee** to be a special people unto himself, above all people that are upon the face of the earth."
 
 Only Israel had a covenant relationship with Yahweh. Only Israel could be reconciled.
 
@@ -42,11 +42,11 @@ Only Israel had a covenant relationship with Yahweh. Only Israel could be reconc
 
 The relationship was broken by Israel's sin:
 
-> **Isaiah 59:2**: "But your iniquities have **separated** between you and your God, and your sins have hid his face from you."
+> **[[Scripture/Isaiah/59#Verse 2|Isaiah 59:2]]**: "But your iniquities have **separated** between you and your God, and your sins have hid his face from you."
 
-> **Jeremiah 3:8**: "I had **put her away, and given her a bill of divorce**."
+> **[[Scripture/Jeremiah/3#Verse 8|Jeremiah 3:8]]**: "I had **put her away, and given her a bill of divorce**."
 
-> **Hosea 1:9**: "Call his name Loammi: for ye are **not my people**, and I will not be your God."
+> **[[Scripture/Hosea/1#Verse 9|Hosea 1:9]]**: "Call his name Loammi: for ye are **not my people**, and I will not be your God."
 
 Israel was:
 - Separated by sin
@@ -61,11 +61,11 @@ This created the need for reconciliation.
 
 ### Christ Reconciled Israel
 
-> **Romans 5:10**: "For if, when we were **enemies**, we were **reconciled to God** by the death of his Son."
+> **[[Scripture/Romans/5#Verse 10|Romans 5:10]]**: "For if, when we were **enemies**, we were **reconciled to God** by the death of his Son."
 
 Paul writes to Romans, Europeans who were previously "enemies" (estranged from Yahweh) but are now reconciled.
 
-> **Colossians 1:21-22**: "And you, that were sometime **alienated and enemies** in your mind by wicked works, yet now hath he **reconciled** in the body of his flesh through death."
+> **[[Scripture/Colossians/1#Verse 21|Colossians 1:21-22]]**: "And you, that were sometime **alienated and enemies** in your mind by wicked works, yet now hath he **reconciled** in the body of his flesh through death."
 
 The Colossians were "alienated", but from what? From their God, with whom they once had a relationship.
 
@@ -77,13 +77,13 @@ The Colossians were "alienated", but from what? From their God, with whom they o
 
 Paul saw his mission as reconciling the scattered Israelites:
 
-> **2 Corinthians 5:20**: "Now then we are **ambassadors for Christ**, as though God did beseech you by us: we pray you in Christ's stead, **be ye reconciled to God**."
+> **[[Scripture/2-Corinthians/5#Verse 20|2 Corinthians 5:20]]**: "Now then we are **ambassadors for Christ**, as though God did beseech you by us: we pray you in Christ's stead, **be ye reconciled to God**."
 
 An ambassador represents his king to his king's people. Paul represented Christ to Christ's people, scattered Israel in Europe.
 
 ### To the Nations (of Israel)
 
-> **Romans 11:13**: "For I speak to you **Gentiles** [*ethnos*: nations], inasmuch as I am the **apostle of the Gentiles** [nations], I magnify mine office."
+> **[[Scripture/Romans/11#Verse 13|Romans 11:13]]**: "For I speak to you **Gentiles** [*ethnos*: nations], inasmuch as I am the **apostle of the Gentiles** [nations], I magnify mine office."
 
 Paul was apostle to the "nations", the nations of scattered Israel. His ministry was reconciling them to Yahweh.
 
@@ -91,7 +91,7 @@ Paul was apostle to the "nations", the nations of scattered Israel. His ministry
 
 ## The Two Reconciled
 
-### Ephesians 2:11-16
+### [[Scripture/Ephesians/2#Verse 11|Ephesians 2:11-16]]
 
 > "Wherefore remember, that ye being in time past **Gentiles** [nations] in the flesh... That at that time ye were **without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise**... But now in Christ Jesus ye who sometimes were **far off** are made nigh by the blood of Christ. For he is our peace, who hath **made both one**, and hath broken down the middle wall of partition between us... for to make in himself of twain **one new man**, so making peace; And that he might **reconcile both unto God** in one body by the cross."
 
@@ -107,7 +107,7 @@ Christ reconciled **both**, reuniting the divided house of Israel.
 
 ### What World?
 
-> **2 Corinthians 5:19**: "God was in Christ, **reconciling the world** unto himself."
+> **[[Scripture/2-Corinthians/5#Verse 19|2 Corinthians 5:19]]**: "God was in Christ, **reconciling the world** unto himself."
 
 "The world" (*kosmos*) here means:
 - The world of the scattered Israelites
@@ -135,7 +135,7 @@ The Europeans receiving Paul's letters could be reconciled because they were Isr
 ## Questions for Further Study
 
 1. How does reconciliation differ from initial salvation?
-2. What is the "middle wall of partition" in Ephesians 2?
+2. What is the "middle wall of partition" in [[Scripture/Ephesians/2|Ephesians 2]]?
 3. How did the early church understand the scope of reconciliation?
 
 ---

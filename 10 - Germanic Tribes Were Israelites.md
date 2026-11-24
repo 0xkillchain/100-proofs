@@ -73,9 +73,9 @@ The Saxons invaded Britain alongside the Angles, creating "Anglo-Saxon" England.
 
 ### The Stone Cut Without Hands
 
-> **Daniel 2:34-35**: "Thou sawest till that a **stone was cut out without hands**, which smote the image upon his feet that were of iron and clay, and brake them to pieces... and the **stone that smote the image became a great mountain, and filled the whole earth**."
+> **[[Scripture/Daniel/2#Verse 34|Daniel 2:34-35]]**: "Thou sawest till that a **stone was cut out without hands**, which smote the image upon his feet that were of iron and clay, and brake them to pieces... and the **stone that smote the image became a great mountain, and filled the whole earth**."
 
-> **Daniel 2:44**: "And in the days of these kings shall the God of heaven set up a **kingdom, which shall never be destroyed**... it shall break in pieces and consume all these kingdoms, and it shall stand for ever."
+> **[[Scripture/Daniel/2#Verse 44|Daniel 2:44]]**: "And in the days of these kings shall the God of heaven set up a **kingdom, which shall never be destroyed**... it shall break in pieces and consume all these kingdoms, and it shall stand for ever."
 
 ### Interpretation
 
@@ -117,7 +117,7 @@ The Germanic tribes converted to Christianity with remarkable speed:
 
 The lost sheep recognized their Shepherd:
 
-> **John 10:27**: "My sheep hear my voice, and I know them, and they follow me."
+> **[[Scripture/John/10#Verse 27|John 10:27]]**: "My sheep hear my voice, and I know them, and they follow me."
 
 Contrast this with:
 - Jews largely rejected Christ
@@ -134,7 +134,7 @@ The Germanic peoples converted because they were Israelites hearing their Shephe
 ### Law and Order
 
 Germanic tribal law mirrored aspects of Mosaic law:
-- Wergild (man-price): cf. Exodus 21 compensation laws
+- Wergild (man-price): cf. [[Scripture/Exodus/21|Exodus 21]] compensation laws
 - Thing (assembly): cf. Israelite elders at the gate
 - Oath-taking: cf. Israelite covenants
 - Blood feud limitations: cf. cities of refuge
@@ -191,7 +191,7 @@ The Germanic tribes were Israelites because:
 1. **Origin**: They came from Scythian territory (where Israel was deported)
 2. **Names**: Saxon = Sacae = Isaac; Goth possibly = Gad
 3. **Timing**: They appeared as Scythians declined
-4. **Prophecy**: They fulfilled Daniel 2 as the stone that crushed Rome
+4. **Prophecy**: They fulfilled [[Scripture/Daniel/2|Daniel 2]] as the stone that crushed Rome
 5. **Conversion**: They became Christian nations
 6. **Mission**: They spread Christianity to the whole earth
 

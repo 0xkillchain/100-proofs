@@ -9,7 +9,7 @@ The Magi (wise men) who visited Christ were traditionally depicted as Europeans 
 
 ## The Biblical Account
 
-### Matthew 2:1-2
+### [[Scripture/Matthew/2#Verse 1|Matthew 2:1-2]]
 
 > "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came **wise men** from the east to Jerusalem, Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him."
 
@@ -35,7 +35,7 @@ The text says:
 ### Why They Knew
 
 Daniel had been chief of the wise men in Babylon:
-> **Daniel 2:48**: "The king made Daniel a great man... and made him ruler over all the wise men of Babylon."
+> **[[Scripture/Daniel/2#Verse 48|Daniel 2:48]]**: "The king made Daniel a great man... and made him ruler over all the wise men of Babylon."
 
 The Magi may have preserved Israelite prophecies through Daniel's influence.
 
@@ -113,7 +113,7 @@ If the Magi came from Parthia/Persia:
 
 ## The Numbers Prophecy
 
-### Numbers 24:17
+### [[Scripture/Numbers/24#Verse 17|Numbers 24:17]]
 
 > "There shall come a **Star out of Jacob**, and a **Sceptre shall rise out of Israel**."
 

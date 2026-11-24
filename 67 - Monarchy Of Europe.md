@@ -9,7 +9,7 @@ European monarchies claim descent from ancient Israel, particularly through the 
 
 ## Jacob's Prophecy
 
-### Genesis 49:10
+### [[Scripture/Genesis/49#Verse 10|Genesis 49:10]]
 
 > "The **sceptre shall not depart from Judah**, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be."
 
@@ -22,13 +22,13 @@ Judah was promised:
 
 ## The Line of David
 
-### 2 Samuel 7:12-16
+### [[Scripture/2-Samuel/7#Verse 12|2 Samuel 7:12-16]]
 
 > "When thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee... I will establish the throne of his kingdom for ever... **thy throne shall be established for ever**."
 
 David's throne was promised perpetuity, forever.
 
-### Jeremiah 33:17
+### [[Scripture/Jeremiah/33#Verse 17|Jeremiah 33:17]]
 
 > "For thus saith the LORD; **David shall never want [lack] a man to sit upon the throne** of the house of Israel."
 
@@ -52,7 +52,7 @@ This transferred the Davidic line to Ireland, then to Scotland, then to England.
 ### The Stone of Scone
 
 The Stone of Destiny (Stone of Scone):
-- Traditionally Jacob's pillow (Genesis 28:18)
+- Traditionally Jacob's pillow ([[Scripture/Genesis/28#Verse 18|Genesis 28:18]])
 - Brought to Ireland, then Scotland
 - Used in coronations of Scottish/British monarchs
 - British monarchs crowned on it until recently
@@ -94,9 +94,9 @@ European coronations included:
 - Oaths on Scripture
 - The Stone of Destiny (British)
 
-### Psalm 72 at Coronations
+### [[Scripture/Psalms/72|Psalm 72]] at Coronations
 
-British coronations traditionally include Psalm 72, a psalm about the ideal Davidic king.
+British coronations traditionally include [[Scripture/Psalms/72|Psalm 72]], a psalm about the ideal Davidic king.
 
 ---
 
@@ -119,7 +119,7 @@ If Christ came and the sceptre had departed, the prophecy failed.
 
 ### Forever Means Forever
 
-> **Psalm 89:34-37**: "My covenant will I not break, nor alter the thing that is gone out of my lips. Once have I sworn by my holiness that I will not lie unto David. **His seed shall endure for ever**, and **his throne as the sun before me**."
+> **[[Scripture/Psalms/89#Verse 34|Psalm 89:34-37]]**: "My covenant will I not break, nor alter the thing that is gone out of my lips. Once have I sworn by my holiness that I will not lie unto David. **His seed shall endure for ever**, and **his throne as the sun before me**."
 
 The covenant is:
 - Unbreakable

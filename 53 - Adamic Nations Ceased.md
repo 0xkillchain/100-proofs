@@ -9,9 +9,9 @@ The ancient nations descended from Adam, Egypt, Babylon, Assyria, Persia, Greece
 
 ## The Ancient Nations
 
-### Genesis 10 The Table of Nations
+### [[Scripture/Genesis/10|Genesis 10]] The Table of Nations
 
-Genesis 10 lists the descendants of Noah's three sons:
+[[Scripture/Genesis/10|Genesis 10]] lists the descendants of Noah's three sons:
 - **Shem**: Semites (including Israel)
 - **Ham**: Egyptians, Canaanites, Cushites
 - **Japheth**: Greeks, Medes, various European groups
@@ -88,13 +88,13 @@ Israel:
 
 ## Scriptural Promises
 
-### Jeremiah 31:35-36
+### [[Scripture/Jeremiah/31#Verse 35|Jeremiah 31:35-36]]
 
 > "Thus saith the LORD, which giveth the sun for a light by day... If those ordinances depart from before me, saith the LORD, then **the seed of Israel also shall cease from being a nation before me for ever**."
 
 As long as the sun and moon exist, Israel will exist as a nation.
 
-### Jeremiah 33:25-26
+### [[Scripture/Jeremiah/33#Verse 25|Jeremiah 33:25-26]]
 
 > "If my covenant be not with day and night... Then will I cast away the seed of Jacob... for I will cause their captivity to return."
 

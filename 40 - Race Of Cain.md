@@ -3,13 +3,13 @@
 
 ## The Claim
 
-Cain was not Adam's son but the offspring of Eve and the serpent (Satan or a fallen angel). Cain's descendants are a distinct race, the "seed of the serpent" prophesied in Genesis 3:15, and they continue to the present day.
+Cain was not Adam's son but the offspring of Eve and the serpent (Satan or a fallen angel). Cain's descendants are a distinct race, the "seed of the serpent" prophesied in [[Scripture/Genesis/3#Verse 15|Genesis 3:15]], and they continue to the present day.
 
 ---
 
 ## Cain's Parentage
 
-### 1 John 3:12
+### [[Scripture/1-John/3#Verse 12|1 John 3:12]]
 
 > "Not as **Cain, who was of that wicked one**, and slew his brother."
 
@@ -21,15 +21,15 @@ This is not figurative, John uses *ek* to indicate origin. Cain's father was the
 
 ### Comparison with Abel
 
-> **Genesis 4:1**: "And Adam knew Eve his wife; and she conceived, and bare Cain."
+> **[[Scripture/Genesis/4#Verse 1|Genesis 4:1]]**: "And Adam knew Eve his wife; and she conceived, and bare Cain."
 
 The text says Adam "knew" Eve and she conceived and bore Cain. But:
 
-> **Genesis 4:2**: "And she **again** bare his brother Abel."
+> **[[Scripture/Genesis/4#Verse 2|Genesis 4:2]]**: "And she **again** bare his brother Abel."
 
 "Again" (Hebrew: *yasaph*) can mean "continued", suggesting a single conception event producing two sons (twins from different fathers, heteropaternal superfecundation).
 
-> **Genesis 4:25**: "And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me **another seed instead of Abel**."
+> **[[Scripture/Genesis/4#Verse 25|Genesis 4:25]]**: "And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me **another seed instead of Abel**."
 
 Eve said Seth was appointed "instead of Abel", not "instead of Cain." Cain was not counted as Adam's seed.
 
@@ -37,17 +37,17 @@ Eve said Seth was appointed "instead of Abel", not "instead of Cain." Cain was n
 
 ## The Genealogies
 
-### Adam's Line (Genesis 5)
+### Adam's Line ([[Scripture/Genesis/5|Genesis 5]])
 
-Genesis 5 gives Adam's genealogy:
+[[Scripture/Genesis/5|Genesis 5]] gives Adam's genealogy:
 > "Adam... begat Seth... begat Enos..." etc.
 
 **Cain is not mentioned.** The line goes Adam → Seth, skipping Cain entirely.
 
-### Cain's Line (Genesis 4)
+### Cain's Line ([[Scripture/Genesis/4|Genesis 4]])
 
 Cain's genealogy is separate:
-> "Cain... knew his wife; and she conceived, and bare Enoch" (4:17)
+> "Cain... knew his wife; and she conceived, and bare Enoch" ([[Scripture/Genesis/4#Verse 17|4:17]])
 
 Cain's line includes:
 - Enoch (different from Seth's Enoch)
@@ -61,27 +61,27 @@ Two distinct genealogies, two distinct races.
 
 ### Who Was the Serpent?
 
-> **Revelation 12:9**: "And the great dragon was cast out, that **old serpent, called the Devil, and Satan**, which deceiveth the whole world."
+> **[[Scripture/Revelation/12#Verse 9|Revelation 12:9]]**: "And the great dragon was cast out, that **old serpent, called the Devil, and Satan**, which deceiveth the whole world."
 
 The serpent in Eden was Satan, a spiritual being who took physical form.
 
 ### What Happened?
 
-> **Genesis 3:13**: "And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The **serpent beguiled me**, and I did eat."
+> **[[Scripture/Genesis/3#Verse 13|Genesis 3:13]]**: "And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The **serpent beguiled me**, and I did eat."
 
 "Beguiled" (Hebrew: *nasha*) = seduced, deceived
 
-In 2 Corinthians 11:3, Paul uses *exapatao* for the same event, a word used for seduction.
+In [[Scripture/2-Corinthians/11#Verse 3|2 Corinthians 11:3]], Paul uses *exapatao* for the same event, a word used for seduction.
 
-> **Genesis 3:6**: "She took of the fruit thereof, and did eat, and gave also unto her husband."
+> **[[Scripture/Genesis/3#Verse 6|Genesis 3:6]]**: "She took of the fruit thereof, and did eat, and gave also unto her husband."
 
-"Eat" (*akal*) is used elsewhere for sexual relations (Proverbs 30:20). The "fruit" was not literal fruit but carnal knowledge with the serpent.
+"Eat" (*akal*) is used elsewhere for sexual relations ([[Scripture/Proverbs/30#Verse 20|Proverbs 30:20]]). The "fruit" was not literal fruit but carnal knowledge with the serpent.
 
 ---
 
 ## Two Seedlines
 
-### Genesis 3:15
+### [[Scripture/Genesis/3#Verse 15|Genesis 3:15]]
 
 > "And I will put **enmity between thee and the woman, and between thy seed and her seed**; it shall bruise thy head, and thou shalt bruise his heel."
 
@@ -116,7 +116,7 @@ Cain's line is characterized by:
 
 ### Where Did They Go?
 
-> **Genesis 4:16**: "And Cain went out from the presence of the LORD, and dwelt in the **land of Nod**, on the east of Eden."
+> **[[Scripture/Genesis/4#Verse 16|Genesis 4:16]]**: "And Cain went out from the presence of the LORD, and dwelt in the **land of Nod**, on the east of Eden."
 
 Cain settled separately from Adam's line. His descendants:
 - Multiplied
@@ -129,7 +129,7 @@ Cain settled separately from Adam's line. His descendants:
 
 ### Canaan's Curse
 
-> **Genesis 9:25**: "Cursed be **Canaan**; a servant of servants shall he be unto his brethren."
+> **[[Scripture/Genesis/9#Verse 25|Genesis 9:25]]**: "Cursed be **Canaan**; a servant of servants shall he be unto his brethren."
 
 Why was Canaan cursed for Ham's sin? Possibly because Canaan's mother was of Cain's line, the curse recognized existing corruption.
 
@@ -137,7 +137,7 @@ Why was Canaan cursed for Ham's sin? Possibly because Canaan's mother was of Cai
 
 The Kenites were descendants of Cain (*Qayin* → Kenite). They lived among the Canaanites and later infiltrated Israel.
 
-> **1 Chronicles 2:55**: "The families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, and Suchathites. These are the **Kenites** that came of Hemath, the father of the house of Rechab."
+> **[[Scripture/1-Chronicles/2#Verse 55|1 Chronicles 2:55]]**: "The families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, and Suchathites. These are the **Kenites** that came of Hemath, the father of the house of Rechab."
 
 Kenites (Cain's descendants) became scribes in Israel, influencing the copying and interpretation of Scripture.
 
@@ -145,13 +145,13 @@ Kenites (Cain's descendants) became scribes in Israel, influencing the copying a
 
 ## Christ's Identification
 
-### John 8:44
+### [[Scripture/John/8#Verse 44|John 8:44]]
 
 > "Ye are of **your father the devil**, and the lusts of your father ye will do. He was a **murderer from the beginning**."
 
 The devil was a "murderer from the beginning", Cain was the first murderer. Christ identified His enemies as descendants of Cain/the serpent.
 
-### Matthew 23:35
+### [[Scripture/Matthew/23#Verse 35|Matthew 23:35]]
 
 > "That upon you may come all the righteous blood shed upon the earth, **from the blood of righteous Abel**."
 
@@ -163,9 +163,9 @@ Why would they be responsible for Abel's blood? Because they descended from his 
 
 The race of Cain explains:
 
-1. **Cain's origin**: "Of that wicked one" (1 John 3:12)
+1. **Cain's origin**: "Of that wicked one" ([[Scripture/1-John/3#Verse 12|1 John 3:12]])
 2. **Two genealogies**: Adam's line vs. Cain's line
-3. **Two seeds**: Genesis 3:15 prophecy
+3. **Two seeds**: [[Scripture/Genesis/3#Verse 15|Genesis 3:15]] prophecy
 4. **Perpetual enmity**: Between the seedlines
 5. **Christ's enemies**: Children of the devil, from a "murderer from the beginning"
 

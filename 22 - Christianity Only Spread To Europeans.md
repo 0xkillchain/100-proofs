@@ -9,9 +9,9 @@ For 2,000 years, Christianity spread only to Europeans and their colonies. No ot
 
 ## The Scriptural Basis
 
-> **John 10:27**: "**My sheep hear my voice**, and I know them, and they follow me."
+> **[[Scripture/John/10#Verse 27|John 10:27]]**: "**My sheep hear my voice**, and I know them, and they follow me."
 
-> **John 10:14**: "I am the good shepherd, and **know my sheep**, and am known of mine."
+> **[[Scripture/John/10#Verse 14|John 10:14]]**: "I am the good shepherd, and **know my sheep**, and am known of mine."
 
 Christ's sheep recognize Him. Those who are not His sheep do not respond.
 
@@ -72,15 +72,15 @@ Europe became **entirely Christian** within 1,000 years of Christ, without milit
 
 Christianity spread to Europe because Europeans are Israelites, the "lost sheep" Christ came to find.
 
-> **Matthew 15:24**: "I am not sent but unto the lost sheep of the house of Israel."
+> **[[Scripture/Matthew/15#Verse 24|Matthew 15:24]]**: "I am not sent but unto the lost sheep of the house of Israel."
 
 The apostles went to Europe. Europe converted. Because Europe is Israel.
 
 ### The New Covenant Was With Israel
 
-> **Jeremiah 31:31**: "I will make a new covenant with the **house of Israel**, and with the **house of Judah**."
+> **[[Scripture/Jeremiah/31#Verse 31|Jeremiah 31:31]]**: "I will make a new covenant with the **house of Israel**, and with the **house of Judah**."
 
-> **Hebrews 8:8**: Same promise quoted in the New Testament.
+> **[[Scripture/Hebrews/8#Verse 8|Hebrews 8:8]]**: Same promise quoted in the New Testament.
 
 The New Covenant was made with Israel. Europeans received the New Covenant. Europeans are Israel.
 
@@ -124,15 +124,15 @@ These exceptions may prove the rule, Christianity took root where Israelites wer
 
 ### Isaiah's Prophecy
 
-> **Isaiah 49:12**: "Behold, these shall come from far: and, lo, these from the **north** and from the **west**; and these from the land of Sinim."
+> **[[Scripture/Isaiah/49#Verse 12|Isaiah 49:12]]**: "Behold, these shall come from far: and, lo, these from the **north** and from the **west**; and these from the land of Sinim."
 
 The regathered Israel comes from the north and west, Europe.
 
 ### The Isles
 
-> **Isaiah 42:4**: "The **isles** shall wait for his law."
+> **[[Scripture/Isaiah/42#Verse 4|Isaiah 42:4]]**: "The **isles** shall wait for his law."
 
-> **Isaiah 49:1**: "Listen, O **isles**, unto me."
+> **[[Scripture/Isaiah/49#Verse 1|Isaiah 49:1]]**: "Listen, O **isles**, unto me."
 
 The "isles" (coastlands, maritime nations) received the law, Britain, Scandinavia, Mediterranean Europe.
 

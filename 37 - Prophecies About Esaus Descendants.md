@@ -50,7 +50,7 @@ Edom's fate:
 
 ### Eternal Hatred
 
-> **Malachi 1:3-4**: "And **I hated Esau**, and laid his mountains and his heritage waste... they shall call them, **The border of wickedness**, and, **The people against whom the LORD hath indignation for ever**."
+> **[[Scripture/Malachi/1#Verse 3|Malachi 1:3-4]]**: "And **I hated Esau**, and laid his mountains and his heritage waste... they shall call them, **The border of wickedness**, and, **The people against whom the LORD hath indignation for ever**."
 
 Edom is:
 - Hated by Yahweh
@@ -65,7 +65,7 @@ Whatever Edom constructs, Yahweh will destroy. Their efforts are futile.
 
 ---
 
-## Ezekiel 35
+## [[Scripture/Ezekiel/35|Ezekiel 35]]
 
 ### "Mount Seir" = Edom
 
@@ -95,15 +95,15 @@ Edom claims Israel and Judah's inheritance. They seek to possess what belongs to
 
 ### Judgment on Edom
 
-> **Isaiah 34:5-6**: "For my sword shall be bathed in heaven: behold, it shall come down upon **Idumea** [Edom], and upon the people of my curse, to judgment. The sword of the LORD is filled with blood."
+> **[[Scripture/Isaiah/34#Verse 5|Isaiah 34:5-6]]**: "For my sword shall be bathed in heaven: behold, it shall come down upon **Idumea** [Edom], and upon the people of my curse, to judgment. The sword of the LORD is filled with blood."
 
-> **Isaiah 34:8**: "For it is the **day of the LORD's vengeance**, and the year of recompences for **the controversy of Zion**."
+> **[[Scripture/Isaiah/34#Verse 8|Isaiah 34:8]]**: "For it is the **day of the LORD's vengeance**, and the year of recompences for **the controversy of Zion**."
 
 Edom is connected to "the controversy of Zion", the conflict over who possesses Zion.
 
 ### Edom = Bozrah
 
-> **Isaiah 63:1**: "Who is this that cometh from **Edom**, with dyed garments from **Bozrah**? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save."
+> **[[Scripture/Isaiah/63#Verse 1|Isaiah 63:1]]**: "Who is this that cometh from **Edom**, with dyed garments from **Bozrah**? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save."
 
 Christ returns from judgment on Edom, His garments stained with their blood.
 
@@ -113,13 +113,13 @@ Christ returns from judgment on Edom, His garments stained with their blood.
 
 ### Desolation
 
-> **Jeremiah 49:17-18**: "Also **Edom shall be a desolation**: every one that goeth by it shall be astonished... As in the overthrow of Sodom and Gomorrah and the neighbour cities thereof, saith the LORD, no man shall abide there."
+> **[[Scripture/Jeremiah/49#Verse 17|Jeremiah 49:17-18]]**: "Also **Edom shall be a desolation**: every one that goeth by it shall be astonished... As in the overthrow of Sodom and Gomorrah and the neighbour cities thereof, saith the LORD, no man shall abide there."
 
 Edom's destruction compared to Sodom, complete, permanent.
 
 ### Uncovering Esau
 
-> **Jeremiah 49:10**: "But **I have made Esau bare, I have uncovered his secret places**, and he shall not be able to hide himself: his seed is spoiled, and his brethren, and his neighbours, and he is not."
+> **[[Scripture/Jeremiah/49#Verse 10|Jeremiah 49:10]]**: "But **I have made Esau bare, I have uncovered his secret places**, and he shall not be able to hide himself: his seed is spoiled, and his brethren, and his neighbours, and he is not."
 
 Esau's hiding places will be uncovered, he cannot remain hidden forever.
 
@@ -129,7 +129,7 @@ Esau's hiding places will be uncovered, he cannot remain hidden forever.
 
 ### Edom's Crimes
 
-> **Amos 1:11**: "Thus saith the LORD; For three transgressions of **Edom**, and for four, I will not turn away the punishment thereof; because he did **pursue his brother with the sword**, and did cast off all pity, and **his anger did tear perpetually**, and he **kept his wrath for ever**."
+> **[[Scripture/Amos/1#Verse 11|Amos 1:11]]**: "Thus saith the LORD; For three transgressions of **Edom**, and for four, I will not turn away the punishment thereof; because he did **pursue his brother with the sword**, and did cast off all pity, and **his anger did tear perpetually**, and he **kept his wrath for ever**."
 
 Edom's sins:
 - Violence against brother Jacob
@@ -145,13 +145,13 @@ Edom's sins:
 
 | Theme | Passages |
 |-------|----------|
-| Pride/arrogance | Obadiah 3, Jeremiah 49:16 |
-| Perpetual hatred | Ezekiel 35:5, Amos 1:11 |
-| Violence against Israel | Obadiah 10, Ezekiel 35:5 |
-| Rejoicing at Israel's fall | Obadiah 12 |
-| Claiming Israel's inheritance | Ezekiel 35:10 |
-| Complete destruction | Obadiah 18, Jeremiah 49:17-18 |
-| No remnant | Obadiah 18 |
+| Pride/arrogance | [[Scripture/Obadiah/1#Verse 3|Obadiah 3]], [[Scripture/Jeremiah/49#Verse 16|Jeremiah 49:16]] |
+| Perpetual hatred | [[Scripture/Ezekiel/35#Verse 5|Ezekiel 35:5]], [[Scripture/Amos/1#Verse 11|Amos 1:11]] |
+| Violence against Israel | [[Scripture/Obadiah/1#Verse 10|Obadiah 10]], [[Scripture/Ezekiel/35#Verse 5|Ezekiel 35:5]] |
+| Rejoicing at Israel's fall | [[Scripture/Obadiah/1#Verse 12|Obadiah 12]] |
+| Claiming Israel's inheritance | [[Scripture/Ezekiel/35#Verse 10|Ezekiel 35:10]] |
+| Complete destruction | [[Scripture/Obadiah/1#Verse 18|Obadiah 18]], [[Scripture/Jeremiah/49#Verse 17|Jeremiah 49:17-18]] |
+| No remnant | [[Scripture/Obadiah/1#Verse 18|Obadiah 18]] |
 
 ---
 

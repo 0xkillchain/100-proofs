@@ -26,7 +26,7 @@ This forced conversion:
 - Made Edomites into "Jews" by religion
 - Did not change their ancestry
 - Introduced Esau's seed into Judah
-- Fulfilled the prophecy: Esau would "break his yoke" (Genesis 27:40)
+- Fulfilled the prophecy: Esau would "break his yoke" ([[Scripture/Genesis/27#Verse 40|Genesis 27:40]])
 
 ---
 
@@ -77,17 +77,17 @@ By Christ's time, the religious leadership was corrupted:
 
 ### Not Abraham's True Children
 
-> **John 8:37**: "I know that ye are Abraham's seed; but ye seek to kill me, because my word hath no place in you."
+> **[[Scripture/John/8#Verse 37|John 8:37]]**: "I know that ye are Abraham's seed; but ye seek to kill me, because my word hath no place in you."
 
 Christ acknowledged they were "Abraham's seed", but through Esau (who was also Abraham's descendant), not through Jacob.
 
-> **John 8:39**: "They answered and said unto him, Abraham is our father. Jesus saith unto them, **If ye were Abraham's children, ye would do the works of Abraham**."
+> **[[Scripture/John/8#Verse 39|John 8:39]]**: "They answered and said unto him, Abraham is our father. Jesus saith unto them, **If ye were Abraham's children, ye would do the works of Abraham**."
 
 Being Abraham's "seed" (physical descent through Esau) is different from being Abraham's "children" (spiritual heirs through Jacob).
 
 ### Children of the Devil
 
-> **John 8:44**: "**Ye are of your father the devil**, and the lusts of your father ye will do. He was a **murderer from the beginning**."
+> **[[Scripture/John/8#Verse 44|John 8:44]]**: "**Ye are of your father the devil**, and the lusts of your father ye will do. He was a **murderer from the beginning**."
 
 Christ identified these particular religious leaders as:
 - Children of the devil
@@ -100,9 +100,9 @@ Christ identified these particular religious leaders as:
 
 ### Revelation's Warning
 
-> **Revelation 2:9**: "I know the blasphemy of them which **say they are Jews, and are not**, but are the **synagogue of Satan**."
+> **[[Scripture/Revelation/2#Verse 9|Revelation 2:9]]**: "I know the blasphemy of them which **say they are Jews, and are not**, but are the **synagogue of Satan**."
 
-> **Revelation 3:9**: "Behold, I will make them of the **synagogue of Satan, which say they are Jews, and are not, but do lie**; behold, I will make them to come and worship before thy feet."
+> **[[Scripture/Revelation/3#Verse 9|Revelation 3:9]]**: "Behold, I will make them of the **synagogue of Satan, which say they are Jews, and are not, but do lie**; behold, I will make them to come and worship before thy feet."
 
 Some claimed to be "Jews" (Judeans) but were not:
 - They were lying
@@ -150,7 +150,7 @@ True Israel:
 - Was scattered to Europe
 - Became the Christian nations
 - Lost awareness of their identity
-- Are "blind" to who they are (Isaiah 29:10)
+- Are "blind" to who they are ([[Scripture/Isaiah/29#Verse 10|Isaiah 29:10]])
 
 ---
 

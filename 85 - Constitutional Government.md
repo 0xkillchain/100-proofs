@@ -20,7 +20,7 @@ European constitutional tradition:
 ## The Biblical Model
 
 Israel's government was constitutional:
-- Kings bound by Torah (Deuteronomy 17:18-20)
+- Kings bound by Torah ([[Scripture/Deuteronomy/17#Verse 18|Deuteronomy 17:18-20]])
 - Prophets held kings accountable
 - Law above the ruler
 - Covenant between God, king, and people

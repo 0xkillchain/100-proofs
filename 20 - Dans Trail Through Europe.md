@@ -9,11 +9,11 @@ Jacob prophesied Dan would be "a serpent by the way", leaving a trail like a ser
 
 ## The Prophecy
 
-> **Genesis 49:17**: "Dan shall be a **serpent by the way**, an adder in the path, that biteth the horse heels, so that his rider shall fall backward."
+> **[[Scripture/Genesis/49#Verse 17|Genesis 49:17]]**: "Dan shall be a **serpent by the way**, an adder in the path, that biteth the horse heels, so that his rider shall fall backward."
 
 A serpent leaves a visible trail as it moves. Jacob prophesied that Dan would leave a traceable path, place names marking their migration.
 
-> **Genesis 49:16**: "Dan shall **judge** his people, as one of the tribes of Israel."
+> **[[Scripture/Genesis/49#Verse 16|Genesis 49:16]]**: "Dan shall **judge** his people, as one of the tribes of Israel."
 
 The name "Dan" (דָּן) means "judge." Wherever Dan settled, they named places after themselves, and left a trail of "Dan" place names.
 
@@ -25,7 +25,7 @@ The name "Dan" (דָּן) means "judge." Wherever Dan settled, they named places
 
 **Original territory:** Northern Israel, near the sources of the Jordan River
 
-**Judges 18:29**, "And they called the name of the city **Dan**, after the name of Dan their father."
+**[[Scripture/Judges/18#Verse 29|Judges 18:29]]**, "And they called the name of the city **Dan**, after the name of Dan their father."
 
 The tribe of Dan named their conquered city after themselves, establishing the pattern.
 
@@ -33,7 +33,7 @@ The tribe of Dan named their conquered city after themselves, establishing the p
 
 Dan was a seafaring tribe:
 
-> **Judges 5:17**: "Why did **Dan remain in ships**?"
+> **[[Scripture/Judges/5#Verse 17|Judges 5:17]]**: "Why did **Dan remain in ships**?"
 
 When the Assyrians came, inland tribes were captured. But Dan's seafarers could escape by ship, following Phoenician trade routes westward.
 
@@ -127,13 +127,13 @@ The trail moves from east to west, from the ancient homeland to the far reaches 
 
 ### Moses' Blessing
 
-> **Deuteronomy 33:22**: "Dan is a **lion's whelp**: he shall leap from Bashan."
+> **[[Scripture/Deuteronomy/33#Verse 22|Deuteronomy 33:22]]**: "Dan is a **lion's whelp**: he shall leap from Bashan."
 
 Dan is called a "lion's whelp", young, aggressive, ready to leap.
 
 ### The Eagle Standard
 
-According to rabbinic tradition and Numbers 2, Dan's camp standard was the **eagle** (leading the northern camp).
+According to rabbinic tradition and [[Scripture/Numbers/2|Numbers 2]], Dan's camp standard was the **eagle** (leading the northern camp).
 
 The eagle appears in:
 - Denmark's heraldry
@@ -161,7 +161,7 @@ The name means "judge." Danites may have been:
 ### The "Serpent" Aspect
 
 The serpent in Jacob's prophecy may also indicate:
-- Cunning, wisdom (serpents were wise: Matthew 10:16)
+- Cunning, wisdom (serpents were wise: [[Scripture/Matthew/10#Verse 16|Matthew 10:16]])
 - Striking unexpectedly (Viking raids)
 - Hidden movement (maritime stealth)
 
@@ -179,7 +179,7 @@ The concentration of "Dan" names:
 
 ### "Dan might have died out"
 
-- Dan is listed in Revelation 7's sealing (some manuscripts)
+- Dan is listed in [[Scripture/Revelation/7|Revelation 7]]'s sealing (some manuscripts)
 - The "serpent trail" shows survival, not extinction
 - Danites simply merged with other Israelites in Europe
 

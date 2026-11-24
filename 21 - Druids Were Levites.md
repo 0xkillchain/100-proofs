@@ -13,13 +13,13 @@ The Druids of Britain and Gaul functioned exactly like Levitical priests: teachi
 
 | Function | Scripture |
 |----------|-----------|
-| Teach the law | Deuteronomy 33:10, Malachi 2:7 |
-| Judge disputes | Deuteronomy 17:8-9 |
-| Keep genealogies | 1 Chronicles 9:1, Ezra 2:62 |
-| Perform sacrifices | Leviticus 1-7 |
-| No land inheritance | Numbers 18:20-24 |
-| Scattered among tribes | Joshua 21 |
-| Educate the people | 2 Chronicles 17:7-9 |
+| Teach the law | [[Scripture/Deuteronomy/33#Verse 10|Deuteronomy 33:10]], [[Scripture/Malachi/2#Verse 7|Malachi 2:7]] |
+| Judge disputes | [[Scripture/Deuteronomy/17#Verse 8|Deuteronomy 17:8-9]] |
+| Keep genealogies | [[Scripture/1-Chronicles/9#Verse 1|1 Chronicles 9:1]], [[Scripture/Ezra/2#Verse 62|Ezra 2:62]] |
+| Perform sacrifices | [[Scripture/Leviticus/1|Leviticus 1-7]] |
+| No land inheritance | [[Scripture/Numbers/18#Verse 20|Numbers 18:20-24]] |
+| Scattered among tribes | [[Scripture/Joshua/21|Joshua 21]] |
+| Educate the people | [[Scripture/2-Chronicles/17#Verse 7|2 Chronicles 17:7-9]] |
 
 ---
 
@@ -146,7 +146,7 @@ The Culdees ("servants of God") were Celtic Christian monks who:
 
 ### "Druids practiced human sacrifice"
 
-- Human sacrifice was practiced in Israel during apostasy (2 Kings 16:3)
+- Human sacrifice was practiced in Israel during apostasy ([[Scripture/2-Kings/16#Verse 3|2 Kings 16:3]])
 - The Druids may have fallen into similar apostasy
 - This doesn't negate their Levitical origin: it confirms they followed Israel's pattern of faithfulness and apostasy
 

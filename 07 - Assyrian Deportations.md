@@ -11,11 +11,11 @@ The Assyrians deported the Northern Kingdom of Israel (10 tribes) around 722-720
 
 ### The Deportation
 
-> **2 Kings 17:6**: "In the ninth year of Hoshea the king of Assyria took Samaria, and **carried Israel away into Assyria**, and placed them in **Halah** and in **Habor** by the river of **Gozan**, and in the cities of the **Medes**."
+> **[[Scripture/2-Kings/17#Verse 6|2 Kings 17:6]]**: "In the ninth year of Hoshea the king of Assyria took Samaria, and **carried Israel away into Assyria**, and placed them in **Halah** and in **Habor** by the river of **Gozan**, and in the cities of the **Medes**."
 
-> **2 Kings 17:23**: "Until the LORD removed Israel out of his sight, as he had said by all his servants the prophets. So was **Israel carried away out of their own land to Assyria unto this day**."
+> **[[Scripture/2-Kings/17#Verse 23|2 Kings 17:23]]**: "Until the LORD removed Israel out of his sight, as he had said by all his servants the prophets. So was **Israel carried away out of their own land to Assyria unto this day**."
 
-> **2 Kings 18:11**: "And the king of Assyria did carry away Israel unto Assyria, and put them in Halah and in Habor by the river of Gozan, and in the cities of the Medes."
+> **[[Scripture/2-Kings/18#Verse 11|2 Kings 18:11]]**: "And the king of Assyria did carry away Israel unto Assyria, and put them in Halah and in Habor by the river of Gozan, and in the cities of the Medes."
 
 ### The Scale
 
@@ -27,7 +27,7 @@ Population estimates for the Northern Kingdom at the time of deportation: **2-4 
 
 ### They Never Returned
 
-> **2 Kings 17:23**: "So was Israel carried away out of their own land to Assyria **unto this day**."
+> **[[Scripture/2-Kings/17#Verse 23|2 Kings 17:23]]**: "So was Israel carried away out of their own land to Assyria **unto this day**."
 
 Unlike Judah (which returned from Babylon 70 years later), the Northern Kingdom never returned to the land. The writer of 2 Kings, writing centuries later, confirms they were still gone.
 
@@ -113,15 +113,15 @@ These peoples formed the nations of Christendom and readily converted to Christi
 
 ### Why the Deportation Happened
 
-> **2 Kings 17:7-18**: Israel sinned against Yahweh, worshipped other gods, and rejected His covenant. Therefore He "removed them out of his sight."
+> **[[Scripture/2-Kings/17#Verse 7|2 Kings 17:7-18]]**: Israel sinned against Yahweh, worshipped other gods, and rejected His covenant. Therefore He "removed them out of his sight."
 
 ### The Promise of Restoration
 
 Despite the deportation, Yahweh promised to regather Israel:
 
-> **Jeremiah 31:10**: "Hear the word of the LORD, O ye nations, and declare it in the isles afar off, and say, He that scattered Israel will gather him, and keep him, as a shepherd doth his flock."
+> **[[Scripture/Jeremiah/31#Verse 10|Jeremiah 31:10]]**: "Hear the word of the LORD, O ye nations, and declare it in the isles afar off, and say, He that scattered Israel will gather him, and keep him, as a shepherd doth his flock."
 
-> **Ezekiel 37:21-22**: "Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land: And I will make them one nation."
+> **[[Scripture/Ezekiel/37#Verse 21|Ezekiel 37:21-22]]**: "Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land: And I will make them one nation."
 
 This regathering happened spiritually through Christ and the spread of Christianity to the European nations, the scattered Israelites.
 

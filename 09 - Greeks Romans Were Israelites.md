@@ -25,13 +25,13 @@ Homer's *Iliad* calls the Greeks "Danaans" (Δαναοί). This name appears rep
 - Danaans = Greeks (in Homer)
 - Dana = Tribe of Dan
 
-The connection: Danites were seafarers (Judges 5:17: "why did Dan remain in ships?"). Dan had contact with the Mediterranean world through Phoenician trade. Danite settlements could have predated the main Dorian invasion.
+The connection: Danites were seafarers ([[Scripture/Judges/5#Verse 17|Judges 5:17]]: "why did Dan remain in ships?"). Dan had contact with the Mediterranean world through Phoenician trade. Danite settlements could have predated the main Dorian invasion.
 
 **Note:** The Tuatha de Danann (Ireland), Danaans (Greece), and Danes (Denmark) all share the "Dan" root.
 
 ### Javan The Biblical Greeks
 
-> **Genesis 10:2-4**: "The sons of Japheth; Gomer, and Magog, and Madai, and **Javan**... And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim."
+> **[[Scripture/Genesis/10#Verse 2|Genesis 10:2-4]]**: "The sons of Japheth; Gomer, and Magog, and Madai, and **Javan**... And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim."
 
 "Javan" is the Hebrew name for Greece (still used in modern Hebrew: יָוָן). The sons of Javan represent:
 - Elishah: Possibly Aeolian Greeks
@@ -60,7 +60,7 @@ The connection: Danites were seafarers (Judges 5:17: "why did Dan remain in ship
 
 **The Wolf of Benjamin:**
 
-> **Genesis 49:27**: "Benjamin shall ravin as a **wolf**: in the morning he shall devour the prey, and at night he shall divide the spoil."
+> **[[Scripture/Genesis/49#Verse 27|Genesis 49:27]]**: "Benjamin shall ravin as a **wolf**: in the morning he shall devour the prey, and at night he shall divide the spoil."
 
 Rome's founding legend: Romulus and Remus were suckled by a **wolf**. The wolf became Rome's symbol.
 
@@ -75,9 +75,9 @@ Roman tradition claimed descent from Trojan refugees (Aeneas). Troy was in Anato
 
 ### The Apostle Paul A Benjamite to Rome
 
-> **Romans 11:1**: "For I also am an Israelite, of the seed of Abraham, of the **tribe of Benjamin**."
+> **[[Scripture/Romans/11#Verse 1|Romans 11:1]]**: "For I also am an Israelite, of the seed of Abraham, of the **tribe of Benjamin**."
 
-> **Philippians 3:5**: "Of the stock of Israel, of the **tribe of Benjamin**, an Hebrew of the Hebrews."
+> **[[Scripture/Philippians/3#Verse 5|Philippians 3:5]]**: "Of the stock of Israel, of the **tribe of Benjamin**, an Hebrew of the Hebrews."
 
 Paul, a Benjamite, was called to minister to Rome. This makes sense if Romans had Benjamite ancestry, Paul was ministering to his own tribe.
 
@@ -103,11 +103,11 @@ This doesn't require direct copying, it suggests a common origin in the moral la
 
 The New Testament frequently mentions "Greeks" who believed:
 
-> **John 12:20-21**: "And there were certain **Greeks** among them that came up to worship at the feast... Sir, we would see Jesus."
+> **[[Scripture/John/12#Verse 20|John 12:20-21]]**: "And there were certain **Greeks** among them that came up to worship at the feast... Sir, we would see Jesus."
 
-> **Acts 17:4**: "And some of them believed... and of the devout **Greeks** a great multitude."
+> **[[Scripture/Acts/17#Verse 4|Acts 17:4]]**: "And some of them believed... and of the devout **Greeks** a great multitude."
 
-> **Acts 18:4**: "And he reasoned in the synagogue every sabbath, and persuaded the **Jews and the Greeks**."
+> **[[Scripture/Acts/18#Verse 4|Acts 18:4]]**: "And he reasoned in the synagogue every sabbath, and persuaded the **Jews and the Greeks**."
 
 These Greeks were drawn to the God of Israel before Christ came. Why? Because they were Israelites who had lost their national identity but retained a spiritual connection.
 
@@ -118,7 +118,7 @@ Paul spent most of his ministry in Greek cities:
 
 He wrote to them as fellow Israelites:
 
-> **Romans 9:24**: "Even us, whom he hath called, not of the Jews only, but also of the **Gentiles** [nations]."
+> **[[Scripture/Romans/9#Verse 24|Romans 9:24]]**: "Even us, whom he hath called, not of the Jews only, but also of the **Gentiles** [nations]."
 
 The Greek "ethnos" means "nations", the nations of scattered Israel.
 
@@ -130,9 +130,9 @@ The Greek "ethnos" means "nations", the nations of scattered Israel.
 
 Christianity spread rapidly through the Greek and Roman world because:
 
-1. **They recognized the Shepherd**: "My sheep hear my voice" (John 10:27)
+1. **They recognized the Shepherd**: "My sheep hear my voice" ([[Scripture/John/10#Verse 27|John 10:27]])
 2. **They had been prepared**: Greek philosophy sought the Logos; Rome sought justice
-3. **They were Israelites**: The New Covenant was for Israel (Jeremiah 31:31)
+3. **They were Israelites**: The New Covenant was for Israel ([[Scripture/Jeremiah/31#Verse 31|Jeremiah 31:31]])
 4. **The apostles came to them**: Fulfilling Christ's command to find the lost sheep
 
 ### The Contrast

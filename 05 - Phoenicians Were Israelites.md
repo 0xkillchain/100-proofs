@@ -11,27 +11,27 @@ The Phoenicians who colonized the Mediterranean were Israelites. Tyre belonged t
 
 ### Tyre Belonged to Israel
 
-> **Joshua 19:29 (Septuagint)**: The inheritance of Naphtali extended to "the fortified city of Tyre."
+> **[[Scripture/Joshua/19#Verse 29|Joshua 19:29]] (Septuagint)**: The inheritance of Naphtali extended to "the fortified city of Tyre."
 
 The Masoretic text obscures this, but the Septuagint (the Greek Old Testament used by Christ and the apostles) clearly places Tyre within Naphtali's territory.
 
-> **2 Samuel 24:7**: "And came to the strong hold of **Tyre**, and to all the cities of the Hivites, and of the Canaanites: and they went out to the south of Judah, even to Beersheba."
+> **[[Scripture/2-Samuel/24#Verse 7|2 Samuel 24:7]]**: "And came to the strong hold of **Tyre**, and to all the cities of the Hivites, and of the Canaanites: and they went out to the south of Judah, even to Beersheba."
 
 David's census included Tyre as part of Israel's territory.
 
 ### Israelites in Tyre
 
-> **Ezekiel 27:8-9**: "The inhabitants of Zidon and Arvad were thy mariners: thy wise men, O Tyrus, that were in thee, were thy pilots. The ancients of Gebal and the wise men thereof were in thee thy calkers."
+> **[[Scripture/Ezekiel/27#Verse 8|Ezekiel 27:8-9]]**: "The inhabitants of Zidon and Arvad were thy mariners: thy wise men, O Tyrus, that were in thee, were thy pilots. The ancients of Gebal and the wise men thereof were in thee thy calkers."
 
-> **Ezekiel 27:19**: "**Dan** also and **Javan** going to and fro occupied in thy fairs."
+> **[[Scripture/Ezekiel/27#Verse 19|Ezekiel 27:19]]**: "**Dan** also and **Javan** going to and fro occupied in thy fairs."
 
 Dan and Javan (Ionians/Greeks) traded with Tyre. The tribe of Dan was actively involved in Phoenician commerce.
 
 ### Solomon and Tyre
 
-> **1 Kings 5:1-12**: Solomon and Hiram of Tyre were allies. Hiram provided materials for the Temple, and Solomon gave Hiram cities in Galilee.
+> **[[Scripture/1-Kings/5#Verse 1|1 Kings 5:1-12]]**: Solomon and Hiram of Tyre were allies. Hiram provided materials for the Temple, and Solomon gave Hiram cities in Galilee.
 
-> **1 Kings 9:26-28**: "And king Solomon made a navy of ships... And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon."
+> **[[Scripture/1-Kings/9#Verse 26|1 Kings 9:26-28]]**: "And king Solomon made a navy of ships... And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon."
 
 Israelites and "Phoenicians" sailed together as one fleet. This was a joint Israelite venture, not a foreign alliance.
 
@@ -79,7 +79,7 @@ The Punic (Carthaginian) language was a Semitic language virtually identical to 
 
 ### The British Tin Trade
 
-> **Ezekiel 27:12**: "**Tarshish** was thy merchant by reason of the multitude of all kind of riches; with silver, iron, **tin**, and lead, they traded in thy fairs."
+> **[[Scripture/Ezekiel/27#Verse 12|Ezekiel 27:12]]**: "**Tarshish** was thy merchant by reason of the multitude of all kind of riches; with silver, iron, **tin**, and lead, they traded in thy fairs."
 
 Tarshish supplied tin. The ancient world's primary tin source was Cornwall, Britain. Phoenician/Israelite traders reached Britain for tin as early as 1000 BC.
 
@@ -92,7 +92,7 @@ The name "Britain" may derive from Hebrew:
 
 ## The Tribe of Dan and Sea Trade
 
-> **Judges 5:17**: "...and why did **Dan remain in ships**?"
+> **[[Scripture/Judges/5#Verse 17|Judges 5:17]]**: "...and why did **Dan remain in ships**?"
 
 Dan was a seafaring tribe. When the Assyrians came, many Danites would have escaped by sea, to the Phoenician colonies they already traded with.
 

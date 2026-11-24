@@ -9,7 +9,7 @@ Before their birth, Yahweh declared that Jacob and Esau would become two nations
 
 ## The Prophecy
 
-### Genesis 25:21-23
+### [[Scripture/Genesis/25#Verse 21|Genesis 25:21-23]]
 
 > "And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceived. And the children **struggled together within her**... And the LORD said unto her, **Two nations are in thy womb, and two manner of people** shall be separated from thy bowels; and **the one people shall be stronger than the other people**; and **the elder shall serve the younger**."
 
@@ -23,7 +23,7 @@ Before birth:
 
 ## Jacob and Esau: The Individuals
 
-### The Birthright (Genesis 25:29-34)
+### The Birthright ([[Scripture/Genesis/25#Verse 29|Genesis 25:29-34]])
 
 Esau sold his birthright for a bowl of stew:
 
@@ -34,7 +34,7 @@ Esau was:
 - Worldly-minded
 - Contemptuous of spiritual things
 
-### The Blessing (Genesis 27)
+### The Blessing ([[Scripture/Genesis/27|Genesis 27]])
 
 Jacob received Isaac's blessing through Rebekah's scheme. Isaac blessed Jacob:
 
@@ -42,7 +42,7 @@ Jacob received Isaac's blessing through Rebekah's scheme. Isaac blessed Jacob:
 
 To Esau:
 
-> "By thy sword shalt thou live, and shalt serve thy brother; and **it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck**." (Genesis 27:40)
+> "By thy sword shalt thou live, and shalt serve thy brother; and **it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck**." ([[Scripture/Genesis/27#Verse 40|Genesis 27:40]])
 
 This prophecy indicates:
 - Esau would eventually gain dominion
@@ -53,7 +53,7 @@ This prophecy indicates:
 
 ## God's Declaration
 
-### Malachi 1:2-4
+### [[Scripture/Malachi/1#Verse 2|Malachi 1:2-4]]
 
 > "I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob's brother? saith the LORD: yet **I loved Jacob, And I hated Esau**, and laid his mountains and his heritage waste for the dragons of the wilderness. Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the LORD of hosts, They shall build, but **I will throw down**; and they shall call them, **The border of wickedness**, and, **The people against whom the LORD hath indignation for ever**."
 
@@ -63,7 +63,7 @@ Yahweh:
 - Has eternal indignation against Esau/Edom
 - Will throw down whatever they build
 
-### Romans 9:13
+### [[Scripture/Romans/9#Verse 13|Romans 9:13]]
 
 Paul quotes Malachi:
 
@@ -82,16 +82,16 @@ Esau's descendants:
 - Called "Edomites" or "Idumeans"
 - Intermarried with Canaanites and Ishmaelites
 
-> **Genesis 36:2**: "Esau took his wives of the daughters of Canaan."
+> **[[Scripture/Genesis/36#Verse 2|Genesis 36:2]]**: "Esau took his wives of the daughters of Canaan."
 
 Esau mixed his line with Canaanites, corrupting his lineage.
 
 ### Historical Enmity
 
 Edom consistently opposed Israel:
-- Refused Israel passage (Numbers 20:14-21)
+- Refused Israel passage ([[Scripture/Numbers/20#Verse 14|Numbers 20:14-21]])
 - Warred against Israel repeatedly
-- Rejoiced at Jerusalem's destruction (Obadiah 1:11-14)
+- Rejoiced at Jerusalem's destruction ([[Scripture/Obadiah/1#Verse 11|Obadiah 1:11-14]])
 - Eventually absorbed into Judea (see [[38 - Edomite Infiltration]])
 
 ---
@@ -102,18 +102,18 @@ Edom consistently opposed Israel:
 
 The entire book of Obadiah is against Edom:
 
-> **Obadiah 1:18**: "And the house of Jacob shall be a fire, and the house of Joseph a flame, and **the house of Esau for stubble**, and they shall kindle in them, and devour them; and **there shall not be any remaining of the house of Esau**; for the LORD hath spoken it."
+> **[[Scripture/Obadiah/1#Verse 18|Obadiah 1:18]]**: "And the house of Jacob shall be a fire, and the house of Joseph a flame, and **the house of Esau for stubble**, and they shall kindle in them, and devour them; and **there shall not be any remaining of the house of Esau**; for the LORD hath spoken it."
 
 Edom's fate:
 - Destroyed by Jacob/Joseph
 - No remnant remaining
 - Complete annihilation
 
-### Ezekiel 35
+### [[Scripture/Ezekiel/35|Ezekiel 35]]
 
-> "Because thou hast had a **perpetual hatred**, and hast shed the blood of the children of Israel... Therefore, as I live, saith the Lord GOD, I will prepare thee unto blood, and blood shall pursue thee: sith thou hast not hated blood, even blood shall pursue thee." (Ezekiel 35:5-6)
+> "Because thou hast had a **perpetual hatred**, and hast shed the blood of the children of Israel... Therefore, as I live, saith the Lord GOD, I will prepare thee unto blood, and blood shall pursue thee: sith thou hast not hated blood, even blood shall pursue thee." ([[Scripture/Ezekiel/35#Verse 5|Ezekiel 35:5-6]])
 
-> "I will make thee **perpetual desolations**." (Ezekiel 35:9)
+> "I will make thee **perpetual desolations**." ([[Scripture/Ezekiel/35#Verse 9|Ezekiel 35:9]])
 
 ---
 
@@ -127,7 +127,7 @@ The Edomites:
 - Mixed with Canaanites
 - Were conquered and absorbed into Judea (~150 BC)
 - Became indistinguishable from "Jews"
-- Are those who "say they are Jews, and are not" (Revelation 2:9)
+- Are those who "say they are Jews, and are not" ([[Scripture/Revelation/2#Verse 9|Revelation 2:9]])
 
 The conflict between Jacob and Esau continues as the conflict between:
 - True Israel (Europeans)

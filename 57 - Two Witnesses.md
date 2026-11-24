@@ -3,17 +3,17 @@
 
 ## The Claim
 
-The "two witnesses" of Revelation 11 can be interpreted as representing the two houses of Israel, Judah and Israel (the ten tribes), or as the Old and New Testaments preserved by European Christians. Either interpretation points to Israel's identity.
+The "two witnesses" of [[Scripture/Revelation/11|Revelation 11]] can be interpreted as representing the two houses of Israel, Judah and Israel (the ten tribes), or as the Old and New Testaments preserved by European Christians. Either interpretation points to Israel's identity.
 
 ---
 
 ## The Text
 
-### Revelation 11:3-4
+### [[Scripture/Revelation/11#Verse 3|Revelation 11:3-4]]
 
 > "And I will give power unto my **two witnesses**, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth. These are the **two olive trees**, and the **two candlesticks** standing before the God of the earth."
 
-### Revelation 11:7-12
+### [[Scripture/Revelation/11#Verse 7|Revelation 11:7-12]]
 
 > "And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them... And after three days and an half the Spirit of life from God entered into them, and they stood upon their feet."
 
@@ -34,7 +34,7 @@ Both houses:
 
 ### Zechariah's Vision
 
-> **Zechariah 4:11-14**: "What are these **two olive trees** upon the right side of the candlestick and upon the left side thereof?... These are the **two anointed ones**, that stand by the Lord of the whole earth."
+> **[[Scripture/Zechariah/4#Verse 11|Zechariah 4:11-14]]**: "What are these **two olive trees** upon the right side of the candlestick and upon the left side thereof?... These are the **two anointed ones**, that stand by the Lord of the whole earth."
 
 The two olive trees = two anointed witnesses. In Zechariah's time: Zerubbabel (ruler) and Joshua (priest), representing kingly and priestly functions.
 
@@ -69,7 +69,7 @@ The witnesses testified in Israel (Europe).
 
 ## The Persecution
 
-### Revelation 11:7
+### [[Scripture/Revelation/11#Verse 7|Revelation 11:7]]
 
 > "The beast... shall make war against them, and shall overcome them, and **kill them**."
 
@@ -89,7 +89,7 @@ Both interpretations point to European Christian experience.
 
 ## The Resurrection
 
-### Revelation 11:11
+### [[Scripture/Revelation/11#Verse 11|Revelation 11:11]]
 
 > "And after three days and an half the **Spirit of life from God entered into them**, and they stood upon their feet."
 
@@ -109,7 +109,7 @@ The "resurrection" of the witnesses happened in Europe.
 
 ## The 1,260 Days
 
-### Revelation 11:3
+### [[Scripture/Revelation/11#Verse 3|Revelation 11:3]]
 
 > "They shall prophesy **a thousand two hundred and threescore days**, clothed in sackcloth."
 
@@ -126,7 +126,7 @@ This period corresponds to European Christian history under papal authority.
 
 ## The Location
 
-### Revelation 11:8
+### [[Scripture/Revelation/11#Verse 8|Revelation 11:8]]
 
 > "And their dead bodies shall lie in the street of **the great city**, which spiritually is called Sodom and Egypt, **where also our Lord was crucified**."
 

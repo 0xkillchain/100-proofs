@@ -9,7 +9,7 @@ Europeans developed the concept of environmental stewardship, caring for creatio
 
 ## The Mandate
 
-> **Genesis 2:15**: "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it."
+> **[[Scripture/Genesis/2#Verse 15|Genesis 2:15]]**: "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it."
 
 Adam (Israel's ancestor) was given stewardship, not exploitation.
 

@@ -3,13 +3,13 @@
 
 ## The Claim
 
-Revelation 7 lists the twelve tribes of Israel being sealed for protection. These are literal Israelite tribes, identified and sealed in the end times, not a metaphorical "spiritual Israel."
+[[Scripture/Revelation/7|Revelation 7]] lists the twelve tribes of Israel being sealed for protection. These are literal Israelite tribes, identified and sealed in the end times, not a metaphorical "spiritual Israel."
 
 ---
 
 ## The Text
 
-### Revelation 7:1-8
+### [[Scripture/Revelation/7#Verse 1|Revelation 7:1-8]]
 
 > "And I heard the number of them which were sealed: and there were sealed **an hundred and forty and four thousand of all the tribes of the children of Israel**."
 
@@ -44,7 +44,7 @@ If this were symbolic, why list specific tribes with specific numbers?
 ### Variations from Genesis
 
 Note the differences from the original twelve:
-- **Dan is missing**: (possibly due to idolatry, Judges 18)
+- **Dan is missing**: (possibly due to idolatry, [[Scripture/Judges/18|Judges 18]])
 - **Ephraim is missing**: (Joseph listed instead)
 - **Levi is included**: (usually not counted in territorial lists)
 - **Manasseh separate**: (Joseph's son listed individually)
@@ -83,14 +83,14 @@ The sealing will occur among European peoples.
 The 144,000 are:
 - Literally from the twelve tribes
 - Sealed for protection
-- First fruits to God (Revelation 14:4)
+- First fruits to God ([[Scripture/Revelation/14#Verse 4|Revelation 14:4]])
 - Follow the Lamb
 
 ### Not the Total
 
 144,000 is not the total saved:
 
-> **Revelation 7:9**: "After this I beheld, and, lo, a **great multitude, which no man could number**, of all nations, and kindreds, and people, and tongues."
+> **[[Scripture/Revelation/7#Verse 9|Revelation 7:9]]**: "After this I beheld, and, lo, a **great multitude, which no man could number**, of all nations, and kindreds, and people, and tongues."
 
 The 144,000 are a specific group (perhaps firstfruits, leaders, or martyrs). The "great multitude" is the broader saved Israel.
 
@@ -101,15 +101,15 @@ The 144,000 are a specific group (perhaps firstfruits, leaders, or martyrs). The
 ### Why No Dan?
 
 Dan is not listed. Possible reasons:
-- Dan's early idolatry (Judges 18:30)
+- Dan's early idolatry ([[Scripture/Judges/18#Verse 30|Judges 18:30]])
 - Dan traditionally associated with apostasy
 - Antichrist connection? (some traditions)
 
 ### Dan Elsewhere
 
 Dan is mentioned in:
-- Ezekiel 48: receives territory in the millennium
-- Genesis 49: receives Jacob's blessing
+- [[Scripture/Ezekiel/48|Ezekiel 48]]: receives territory in the millennium
+- [[Scripture/Genesis/49|Genesis 49]]: receives Jacob's blessing
 
 Dan isn't permanently rejected, just not in the 144,000.
 
@@ -117,7 +117,7 @@ Dan isn't permanently rejected, just not in the 144,000.
 
 ## End Times Context
 
-### Revelation 7:1-3
+### [[Scripture/Revelation/7#Verse 1|Revelation 7:1-3]]
 
 > "Hurt not the earth, neither the sea, nor the trees, till we have **sealed the servants of our God** in their foreheads."
 
@@ -128,7 +128,7 @@ The sealing happens before judgment:
 
 ### The Sealed Survive
 
-The 144,000 appear again in Revelation 14:
+The 144,000 appear again in [[Scripture/Revelation/14|Revelation 14]]:
 - Standing with the Lamb on Zion
 - Having the Father's name on foreheads
 - Singing a new song

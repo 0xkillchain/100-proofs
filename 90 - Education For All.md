@@ -18,7 +18,7 @@ Europeans developed universal education, the idea that all children should learn
 
 ## The Motivation
 
-> **Deuteronomy 6:7**: "And thou shalt teach them diligently unto thy children."
+> **[[Scripture/Deuteronomy/6#Verse 7|Deuteronomy 6:7]]**: "And thou shalt teach them diligently unto thy children."
 
 Israel was commanded to educate. Europeans obeyed.
 

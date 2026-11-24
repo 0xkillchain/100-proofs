@@ -9,7 +9,7 @@ The two trees in Eden, the Tree of Life and the Tree of Knowledge of Good and Ev
 
 ## The Trees
 
-### Genesis 2:9
+### [[Scripture/Genesis/2#Verse 9|Genesis 2:9]]
 
 > "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the **tree of life** also in the midst of the garden, and the **tree of knowledge of good and evil**."
 
@@ -30,13 +30,13 @@ One tree leads to life. The other leads to death.
 
 "Trees" often symbolize people or lineages in Scripture:
 
-> **Psalm 1:3**: "And he shall be like a **tree** planted by the rivers of water."
+> **[[Scripture/Psalms/1#Verse 3|Psalm 1:3]]**: "And he shall be like a **tree** planted by the rivers of water."
 
-> **Ezekiel 31:3-9**: Assyria described as a great **tree** (cedar)
+> **[[Scripture/Ezekiel/31#Verse 3|Ezekiel 31:3-9]]**: Assyria described as a great **tree** (cedar)
 
-> **Daniel 4:10-12**: Nebuchadnezzar as a great **tree**
+> **[[Scripture/Daniel/4#Verse 10|Daniel 4:10-12]]**: Nebuchadnezzar as a great **tree**
 
-> **Matthew 7:17-18**: "A good **tree** bringeth forth good fruit; but a corrupt **tree** bringeth forth evil fruit."
+> **[[Scripture/Matthew/7#Verse 17|Matthew 7:17-18]]**: "A good **tree** bringeth forth good fruit; but a corrupt **tree** bringeth forth evil fruit."
 
 Trees = people, nations, or lineages is common biblical symbolism.
 
@@ -51,13 +51,13 @@ The serpent (*nachash*) in Hebrew can mean:
 - Shining one
 - Enchanter
 
-> **Ezekiel 28:13-14**: The being in Eden described as a covering cherub, beautiful and wise
+> **[[Scripture/Ezekiel/28#Verse 13|Ezekiel 28:13-14]]**: The being in Eden described as a covering cherub, beautiful and wise
 
 The serpent was an intelligent, beautiful being, Satan or a high-ranking fallen angel.
 
 ### A Physical Encounter
 
-> **Genesis 3:1**: "Now the serpent was **more subtil than any beast of the field**."
+> **[[Scripture/Genesis/3#Verse 1|Genesis 3:1]]**: "Now the serpent was **more subtil than any beast of the field**."
 
 This was a rational, cunning being who engaged Eve in conversation and seduction.
 
@@ -69,17 +69,17 @@ This was a rational, cunning being who engaged Eve in conversation and seduction
 
 "Eating" and "knowing" are used for sexual relations:
 
-> **Proverbs 30:20**: "Such is the way of an adulterous woman; **she eateth, and wipeth her mouth**, and saith, I have done no wickedness."
+> **[[Scripture/Proverbs/30#Verse 20|Proverbs 30:20]]**: "Such is the way of an adulterous woman; **she eateth, and wipeth her mouth**, and saith, I have done no wickedness."
 
-> **Proverbs 9:17**: "Stolen waters are sweet, and **bread eaten in secret** is pleasant." (context: adultery)
+> **[[Scripture/Proverbs/9#Verse 17|Proverbs 9:17]]**: "Stolen waters are sweet, and **bread eaten in secret** is pleasant." (context: adultery)
 
-> **Song of Solomon 4:16**: "Let my beloved come into his garden, and **eat his pleasant fruits**."
+> **[[Scripture/Song-of-Solomon/4#Verse 16|Song of Solomon 4:16]]**: "Let my beloved come into his garden, and **eat his pleasant fruits**."
 
 "Eating fruit" can mean sexual union.
 
 ### The Covering of Nakedness
 
-> **Genesis 3:7**: "And the eyes of them both were opened, and they knew that they were **naked**; and they sewed fig leaves together, and made themselves **aprons**."
+> **[[Scripture/Genesis/3#Verse 7|Genesis 3:7]]**: "And the eyes of them both were opened, and they knew that they were **naked**; and they sewed fig leaves together, and made themselves **aprons**."
 
 After "eating," they became aware of nakedness and covered their loins. If this was just eating fruit, why cover the genitals?
 
@@ -87,23 +87,23 @@ After "eating," they became aware of nakedness and covered their loins. If this 
 
 ## Eve's "Beguiling"
 
-### Genesis 3:13
+### [[Scripture/Genesis/3#Verse 13|Genesis 3:13]]
 
 > "The serpent **beguiled** me, and I did eat."
 
 "Beguiled" (Hebrew: *nasha*) = deceived, seduced
 
-> **2 Corinthians 11:3**: "But I fear, lest by any means, as the serpent **beguiled** Eve through his subtilty, so your minds should be corrupted."
+> **[[Scripture/2-Corinthians/11#Verse 3|2 Corinthians 11:3]]**: "But I fear, lest by any means, as the serpent **beguiled** Eve through his subtilty, so your minds should be corrupted."
 
 Paul uses *exapatao*, a word used for seduction.
 
 ### The Result
 
-> **Genesis 4:1**: "And Adam knew Eve his wife; and she conceived, and bare Cain."
+> **[[Scripture/Genesis/4#Verse 1|Genesis 4:1]]**: "And Adam knew Eve his wife; and she conceived, and bare Cain."
 
 Cain was born after the Fall. But:
 
-> **1 John 3:12**: "Not as Cain, who was **of that wicked one**."
+> **[[Scripture/1-John/3#Verse 12|1 John 3:12]]**: "Not as Cain, who was **of that wicked one**."
 
 Cain was "of" (*ek*) the wicked one, the serpent, not Adam.
 
@@ -111,7 +111,7 @@ Cain was "of" (*ek*) the wicked one, the serpent, not Adam.
 
 ## Two Seedlines
 
-### Genesis 3:15
+### [[Scripture/Genesis/3#Verse 15|Genesis 3:15]]
 
 > "And I will put **enmity between thee and the woman, and between thy seed and her seed**."
 
@@ -132,7 +132,7 @@ The Adamic/Israelite line:
 - Carries His spirit
 - Leads to eternal life through Christ
 
-> **Revelation 22:14**: "Blessed are they that do his commandments, that they may have right to the **tree of life**."
+> **[[Scripture/Revelation/22#Verse 14|Revelation 22:14]]**: "Blessed are they that do his commandments, that they may have right to the **tree of life**."
 
 ### Tree of Knowledge
 
@@ -150,7 +150,7 @@ The two trees represent:
 1. **Two lineages**: God's creation vs. serpent's corruption
 2. **"Eating" = union**: Sexual metaphor common in Scripture
 3. **Eve seduced**: Produced Cain, "of the wicked one"
-4. **Two seeds**: Genesis 3:15 prophecy
+4. **Two seeds**: [[Scripture/Genesis/3#Verse 15|Genesis 3:15]] prophecy
 5. **Continuing conflict**: Between the lineages
 
 The Garden narrative is not about literal fruit but about the origin of two distinct races, one from Adam, one from the serpent.

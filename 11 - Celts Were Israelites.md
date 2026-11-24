@@ -47,7 +47,7 @@ Irish mythology records the Tuatha de Danann, literally the "Tribe of Dana/Danu"
 
 ### Dan's Seafaring Character
 
-> **Judges 5:17**: "Why did Dan remain in ships?"
+> **[[Scripture/Judges/5#Verse 17|Judges 5:17]]**: "Why did Dan remain in ships?"
 
 Dan was a seafaring tribe. When the Assyrians invaded:
 - Inland tribes were captured
@@ -58,7 +58,7 @@ The Tuatha de Danann arriving by ship matches Dan's character perfectly.
 
 ### Dan Place Names
 
-Jacob prophesied Dan would leave a trail (Genesis 49:17). In Ireland:
+Jacob prophesied Dan would leave a trail ([[Scripture/Genesis/49#Verse 17|Genesis 49:17]]). In Ireland:
 - River **Don** (multiple)
 - **Dun** prefix (hill-fort): Dundalk, Dingle, Dunmore
 - Place names with Dan/Don throughout
@@ -146,7 +146,7 @@ This mirrors Israelite history: from Egypt, scattered to Scythia, with Phoenicia
 
 The Stone of Destiny (Lia Fáil) was brought to Ireland by the Tuatha de Danann and used in coronation ceremonies.
 
-Tradition connects it to Jacob's pillow (Genesis 28:18). The stone eventually moved:
+Tradition connects it to Jacob's pillow ([[Scripture/Genesis/28#Verse 18|Genesis 28:18]]). The stone eventually moved:
 - Ireland → Scotland (Stone of Scone) → England (Westminster)
 
 British monarchs were crowned on this stone until recently.

@@ -56,9 +56,9 @@ Some DSS texts align with Septuagint against Masoretic:
 
 | Passage | DSS/LXX | Masoretic |
 |---------|---------|-----------|
-| Deuteronomy 32:8 | "Sons of God" | "Sons of Israel" |
+| [[Scripture/Deuteronomy/32#Verse 8|Deuteronomy 32:8]] | "Sons of God" | "Sons of Israel" |
 | Various | Longer chronologies | Shorter chronologies |
-| Psalm 22:16 | "Pierced" | "Like a lion" |
+| [[Scripture/Psalms/22#Verse 16|Psalm 22:16]] | "Pierced" | "Like a lion" |
 
 This suggests LXX preserved authentic readings.
 
@@ -121,7 +121,7 @@ This was the context into which Christ came.
 
 ### Isaiah Intact
 
-The Great Isaiah Scroll shows Isaiah 53 (the Suffering Servant) intact:
+The Great Isaiah Scroll shows [[Scripture/Isaiah/53|Isaiah 53]] (the Suffering Servant) intact:
 - No evidence of Christian addition
 - Predates Christ by ~100 years
 - Confirms the prophecy was authentic
@@ -177,7 +177,7 @@ The Dead Sea Scrolls prove:
 1. **Textual reliability**: Scripture preserved accurately
 2. **LXX validation**: Often supports Greek readings
 3. **Pre-Christian expectations**: Jews awaited Messiah
-4. **Isaiah 53 authentic**: Suffering Servant prophecy intact
+4. **[[Scripture/Isaiah/53|Isaiah 53]] authentic**: Suffering Servant prophecy intact
 5. **European scholarship**: Israel (Europeans) studied and preserved
 
 The DSS confirm the Christian Old Testament and validate the textual tradition preserved by European Christians.

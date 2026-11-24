@@ -9,7 +9,7 @@ Malachi prophesied corruption of the Levitical priesthood, which was fulfilled w
 
 ## The Corruption
 
-### Malachi 1:6-8
+### [[Scripture/Malachi/1#Verse 6|Malachi 1:6-8]]
 
 > "A son honoureth his father, and a servant his master: if then I be a father, where is mine honour? and if I be a master, where is my fear? saith the LORD of hosts **unto you, O priests, that despise my name**... Ye offer polluted bread upon mine altar."
 
@@ -18,7 +18,7 @@ The priests:
 - Offered polluted sacrifices
 - Treated the altar with contempt
 
-### Malachi 2:1-9
+### [[Scripture/Malachi/2#Verse 1|Malachi 2:1-9]]
 
 > "And now, O **ye priests**, this commandment is for you. If ye will not hear, and if ye will not lay it to heart, to give glory unto my name... I will even send a **curse upon you**, and I will curse your blessings... Ye have **departed out of the way**; ye have caused many to stumble at the law; **ye have corrupted the covenant of Levi**."
 
@@ -42,7 +42,7 @@ By Christ's time:
 
 ### Esau in the Temple
 
-The prophecy in Genesis 27:40 was fulfilled:
+The prophecy in [[Scripture/Genesis/27#Verse 40|Genesis 27:40]] was fulfilled:
 
 > "Thou shalt have the dominion, that thou shalt break his yoke from off thy neck."
 
@@ -54,7 +54,7 @@ Esau had gained dominion, even controlling Jacob's Temple.
 
 ### Cleansing the Temple
 
-> **Matthew 21:12-13**: "And Jesus went into the temple of God, and cast out all them that sold and bought in the temple... And said unto them, It is written, My house shall be called the house of prayer; but **ye have made it a den of thieves**."
+> **[[Scripture/Matthew/21#Verse 12|Matthew 21:12-13]]**: "And Jesus went into the temple of God, and cast out all them that sold and bought in the temple... And said unto them, It is written, My house shall be called the house of prayer; but **ye have made it a den of thieves**."
 
 The Temple had become:
 - A commercial enterprise
@@ -63,9 +63,9 @@ The Temple had become:
 
 ### Confronting the Priests
 
-> **Matthew 23:13**: "But woe unto you, **scribes and Pharisees, hypocrites**! for ye shut up the kingdom of heaven against men."
+> **[[Scripture/Matthew/23#Verse 13|Matthew 23:13]]**: "But woe unto you, **scribes and Pharisees, hypocrites**! for ye shut up the kingdom of heaven against men."
 
-> **Matthew 23:33**: "Ye **serpents**, ye generation of **vipers**."
+> **[[Scripture/Matthew/23#Verse 33|Matthew 23:33]]**: "Ye **serpents**, ye generation of **vipers**."
 
 Christ identified the corrupted religious leaders as serpent seed.
 
@@ -75,21 +75,21 @@ Christ identified the corrupted religious leaders as serpent seed.
 
 ### Replacement Prophesied
 
-> **Malachi 3:1-3**: "The Lord, whom ye seek, shall suddenly come to his temple... And he shall sit as a refiner and purifier of silver: and he shall **purify the sons of Levi**, and purge them as gold and silver."
+> **[[Scripture/Malachi/3#Verse 1|Malachi 3:1-3]]**: "The Lord, whom ye seek, shall suddenly come to his temple... And he shall sit as a refiner and purifier of silver: and he shall **purify the sons of Levi**, and purge them as gold and silver."
 
 Christ came to purify, not the corrupted priesthood, but the true sons of Levi among His people.
 
 ### Priesthood of Believers
 
-> **1 Peter 2:5**: "Ye also, as lively stones, are built up a spiritual house, an **holy priesthood**, to offer up spiritual sacrifices, acceptable to God by Jesus Christ."
+> **[[Scripture/1-Peter/2#Verse 5|1 Peter 2:5]]**: "Ye also, as lively stones, are built up a spiritual house, an **holy priesthood**, to offer up spiritual sacrifices, acceptable to God by Jesus Christ."
 
-> **1 Peter 2:9**: "But ye are a chosen generation, a **royal priesthood**, an holy nation."
+> **[[Scripture/1-Peter/2#Verse 9|1 Peter 2:9]]**: "But ye are a chosen generation, a **royal priesthood**, an holy nation."
 
 The Levitical priesthood was replaced by the priesthood of all believers in Israel, those who accepted Christ.
 
 ### Hebrews on the Change
 
-> **Hebrews 7:12**: "For **the priesthood being changed**, there is made of necessity a change also of the law."
+> **[[Scripture/Hebrews/7#Verse 12|Hebrews 7:12]]**: "For **the priesthood being changed**, there is made of necessity a change also of the law."
 
 The corrupted Levitical system was replaced by Christ's Melchizedek priesthood.
 

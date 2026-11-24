@@ -79,7 +79,7 @@ The Hill of Tara, Ireland's sacred coronation site, may derive from Torah (law).
 
 ### The "Dan" Trail
 
-As prophesied (Genesis 49:17), Dan left a trail:
+As prophesied ([[Scripture/Genesis/49#Verse 17|Genesis 49:17]]), Dan left a trail:
 - **Danube**: Major European river
 - **Dnieper** (Danapris): Ukrainian river
 - **Don**: Russian river

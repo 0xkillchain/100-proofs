@@ -3,17 +3,17 @@
 
 ## The Claim
 
-The "woman" of Revelation 12 represents Israel, who fled into the wilderness to be protected. This wilderness period corresponds to Israel's scattering to Europe, where they were preserved as Christian nations.
+The "woman" of [[Scripture/Revelation/12|Revelation 12]] represents Israel, who fled into the wilderness to be protected. This wilderness period corresponds to Israel's scattering to Europe, where they were preserved as Christian nations.
 
 ---
 
 ## The Text
 
-### Revelation 12:1-2
+### [[Scripture/Revelation/12#Verse 1|Revelation 12:1-2]]
 
 > "And there appeared a great wonder in heaven; **a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars**: And she being with child cried, travailing in birth."
 
-### Revelation 12:5-6
+### [[Scripture/Revelation/12#Verse 5|Revelation 12:5-6]]
 
 > "And she brought forth a **man child**, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne. And **the woman fled into the wilderness**, where she hath a place prepared of God, that they should feed her there **a thousand two hundred and threescore days**."
 
@@ -28,7 +28,7 @@ The "woman" of Revelation 12 represents Israel, who fled into the wilderness to 
 The twelve stars = the twelve tribes of Israel.
 
 Compare Joseph's dream:
-> **Genesis 37:9**: "The sun and the moon and the **eleven stars** made obeisance to me."
+> **[[Scripture/Genesis/37#Verse 9|Genesis 37:9]]**: "The sun and the moon and the **eleven stars** made obeisance to me."
 
 Jacob (sun), Rachel (moon), and eleven brothers (stars), the family of Israel.
 
@@ -49,9 +49,9 @@ The woman is unmistakably Israel.
 > "A man child, who was to **rule all nations with a rod of iron**."
 
 This is Christ:
-> **Psalm 2:9**: "Thou shalt break them with a **rod of iron**."
+> **[[Scripture/Psalms/2#Verse 9|Psalm 2:9]]**: "Thou shalt break them with a **rod of iron**."
 
-> **Revelation 19:15**: "He shall rule them with a **rod of iron**."
+> **[[Scripture/Revelation/19#Verse 15|Revelation 19:15]]**: "He shall rule them with a **rod of iron**."
 
 Israel (the woman) gave birth to Christ (the man child).
 
@@ -59,7 +59,7 @@ Israel (the woman) gave birth to Christ (the man child).
 
 ## The Dragon's Attack
 
-### Revelation 12:13-17
+### [[Scripture/Revelation/12#Verse 13|Revelation 12:13-17]]
 
 > "And when the dragon saw that he was cast unto the earth, he **persecuted the woman** which brought forth the man child. And to the woman were given two wings of a great eagle, that she might **fly into the wilderness**, into her place, where she is nourished for a **time, and times, and half a time**, from the face of the serpent."
 
@@ -98,7 +98,7 @@ This corresponds to:
 
 ## The Two Wings
 
-### Revelation 12:14
+### [[Scripture/Revelation/12#Verse 14|Revelation 12:14]]
 
 > "To the woman were given **two wings of a great eagle**."
 
@@ -110,13 +110,13 @@ Interpretations:
 
 The eagle is a symbol of:
 - Dan (one of the camp standards)
-- Divine rescue (Exodus 19:4: "I bare you on eagles' wings")
+- Divine rescue ([[Scripture/Exodus/19#Verse 4|Exodus 19:4]]: "I bare you on eagles' wings")
 
 ---
 
 ## The Flood and the Earth
 
-### Revelation 12:15-16
+### [[Scripture/Revelation/12#Verse 15|Revelation 12:15-16]]
 
 > "And the serpent cast out of his mouth **water as a flood** after the woman, that he might cause her to be carried away of the flood. And **the earth helped the woman**, and the earth opened her mouth, and swallowed up the flood."
 
@@ -134,7 +134,7 @@ But the "earth" helps the woman:
 
 ## The Remnant
 
-### Revelation 12:17
+### [[Scripture/Revelation/12#Verse 17|Revelation 12:17]]
 
 > "And the dragon was wroth with the woman, and went to make war with **the remnant of her seed**, which keep the commandments of God, and have the testimony of Jesus Christ."
 

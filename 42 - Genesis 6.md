@@ -1,5 +1,5 @@
 
-# Proof 42: Genesis 6 The Corruption of All Flesh
+# Proof 42: [[Scripture/Genesis/6|Genesis 6]] The Corruption of All Flesh
 
 ## The Claim
 
@@ -9,11 +9,11 @@ The Flood came because "all flesh had corrupted his way upon the earth." This co
 
 ## The Text
 
-### Genesis 6:5-7
+### [[Scripture/Genesis/6#Verse 5|Genesis 6:5-7]]
 
 > "And GOD saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually. And it repented the LORD that he had made man on the earth... And the LORD said, I will destroy man whom I have created."
 
-### Genesis 6:11-13
+### [[Scripture/Genesis/6#Verse 11|Genesis 6:11-13]]
 
 > "The earth also was **corrupt** before God, and the earth was filled with violence. And God looked upon the earth, and, behold, it was corrupt; for **all flesh had corrupted his way upon the earth**. And God said unto Noah, The end of all flesh is come before me."
 
@@ -44,7 +44,7 @@ This suggests:
 
 ## Noah's Distinction
 
-### Genesis 6:8-9
+### [[Scripture/Genesis/6#Verse 8|Genesis 6:8-9]]
 
 > "But **Noah found grace in the eyes of the LORD**... Noah was a just man and **perfect in his generations**, and Noah walked with God."
 
@@ -75,9 +75,9 @@ Noah was *tamim* in his *toledoth*, unblemished in his lineage. His genetics wer
 
 ### How Bad Was It?
 
-> **Genesis 6:5**: "Every imagination of the thoughts of his heart was **only evil continually**."
+> **[[Scripture/Genesis/6#Verse 5|Genesis 6:5]]**: "Every imagination of the thoughts of his heart was **only evil continually**."
 
-> **Genesis 6:12**: "**All flesh** had corrupted his way."
+> **[[Scripture/Genesis/6#Verse 12|Genesis 6:12]]**: "**All flesh** had corrupted his way."
 
 This was not merely human sinfulness (which continues after the Flood). This was corruption of the species itself through Nephilim mixing.
 
@@ -109,7 +109,7 @@ The Flood destroyed:
 
 ### The Corruption Returned
 
-> **Genesis 6:4**: "There were giants in the earth in those days; **and also after that**."
+> **[[Scripture/Genesis/6#Verse 4|Genesis 6:4]]**: "There were giants in the earth in those days; **and also after that**."
 
 The Nephilim bloodline survived. How?
 
@@ -121,8 +121,8 @@ The Nephilim bloodline survived. How?
 ### Giants in Canaan
 
 The post-Flood Nephilim descendants:
-- Anakim (Numbers 13:33)
-- Rephaim (Genesis 14:5)
+- Anakim ([[Scripture/Numbers/13#Verse 33|Numbers 13:33]])
+- Rephaim ([[Scripture/Genesis/14#Verse 5|Genesis 14:5]])
 - Various giant tribes
 
 God commanded Israel to destroy these peoples, continuing the cleansing the Flood began.
@@ -131,7 +131,7 @@ God commanded Israel to destroy these peoples, continuing the cleansing the Floo
 
 ## Christ and Noah
 
-### Matthew 24:37-39
+### [[Scripture/Matthew/24#Verse 37|Matthew 24:37-39]]
 
 > "But **as the days of Noe were, so shall also the coming of the Son of man be**. For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage... And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be."
 
@@ -144,7 +144,7 @@ The end times will be like Noah's day:
 
 ## Synthesis
 
-Genesis 6 proves:
+[[Scripture/Genesis/6|Genesis 6]] proves:
 
 1. **Corruption was genetic**: "All flesh" corrupted, not just behavior
 2. **Noah was genetically pure**: *Tamim* in his generations
@@ -152,7 +152,7 @@ Genesis 6 proves:
 4. **Some survived**: Giants after the Flood
 5. **Pattern continues**: End times like Noah's day
 
-Understanding Genesis 6 reveals why lineage matters, why Israel must remain separate, why certain peoples cannot be saved.
+Understanding [[Scripture/Genesis/6|Genesis 6]] reveals why lineage matters, why Israel must remain separate, why certain peoples cannot be saved.
 
 ---
 

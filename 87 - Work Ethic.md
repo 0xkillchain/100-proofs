@@ -21,11 +21,11 @@ This fueled European economic development.
 
 ## The Biblical Foundation
 
-> **Colossians 3:23**: "And whatsoever ye do, do it heartily, as to the Lord, and not unto men."
+> **[[Scripture/Colossians/3#Verse 23|Colossians 3:23]]**: "And whatsoever ye do, do it heartily, as to the Lord, and not unto men."
 
-> **Proverbs 6:6**: "Go to the ant, thou sluggard; consider her ways, and be wise."
+> **[[Scripture/Proverbs/6#Verse 6|Proverbs 6:6]]**: "Go to the ant, thou sluggard; consider her ways, and be wise."
 
-> **2 Thessalonians 3:10**: "If any would not work, neither should he eat."
+> **[[Scripture/2-Thessalonians/3#Verse 10|2 Thessalonians 3:10]]**: "If any would not work, neither should he eat."
 
 Israel's scriptures taught diligent labor.
 

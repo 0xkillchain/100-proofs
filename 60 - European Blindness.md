@@ -9,7 +9,7 @@ Scripture prophesied that Israel would be blinded to their own identity. Europea
 
 ## The Prophecies
 
-### Isaiah 29:10-12
+### [[Scripture/Isaiah/29#Verse 10|Isaiah 29:10-12]]
 
 > "For the LORD hath poured out upon you the **spirit of deep sleep**, and hath **closed your eyes**: the prophets and your rulers, the seers hath he covered. And the vision of all is become unto you as the words of a **book that is sealed**."
 
@@ -18,7 +18,7 @@ Israel would be:
 - Eyes closed
 - Unable to understand their own prophecies
 
-### Romans 11:7-8
+### [[Scripture/Romans/11#Verse 7|Romans 11:7-8]]
 
 > "Israel hath not obtained that which he seeketh for; but the election hath obtained it, and **the rest were blinded** (According as it is written, God hath given them the **spirit of slumber, eyes that they should not see**, and ears that they should not hear;) unto this day."
 
@@ -27,7 +27,7 @@ Paul confirms:
 - This blindness is prophesied
 - It continues "unto this day"
 
-### Romans 11:25
+### [[Scripture/Romans/11#Verse 25|Romans 11:25]]
 
 > "For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that **blindness in part is happened to Israel**, until the fulness of the Gentiles [nations] be come in."
 
@@ -62,7 +62,7 @@ Jews:
 
 ## The Purpose of Blindness
 
-### Romans 11:11
+### [[Scripture/Romans/11#Verse 11|Romans 11:11]]
 
 > "I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles [nations], for to provoke them to jealousy."
 
@@ -109,7 +109,7 @@ Europeans have been completely deceived about their own identity.
 
 ## The Lifting of Blindness
 
-### Romans 11:26
+### [[Scripture/Romans/11#Verse 26|Romans 11:26]]
 
 > "And so **all Israel shall be saved**: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob."
 
@@ -118,7 +118,7 @@ The blindness will end:
 - The Deliverer comes
 - Ungodliness removed
 
-### Hosea 2:23
+### [[Scripture/Hosea/2#Verse 23|Hosea 2:23]]
 
 > "And I will say to them which were **not my people, Thou art my people**; and they shall say, Thou art my God."
 
@@ -140,7 +140,7 @@ This may be the beginning of the blindness lifting.
 
 ### The Timing
 
-> **Romans 11:25**: "Until the fulness of the Gentiles be come in."
+> **[[Scripture/Romans/11#Verse 25|Romans 11:25]]**: "Until the fulness of the Gentiles be come in."
 
 The blindness lasts until a certain fullness. When that's complete, eyes will open.
 

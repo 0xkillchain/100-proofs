@@ -21,9 +21,9 @@ No other civilization built these institutions organically.
 
 ## The Biblical Command
 
-> **James 1:27**: "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction."
+> **[[Scripture/James/1#Verse 27|James 1:27]]**: "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction."
 
-> **Deuteronomy 10:18**: "He doth execute the judgment of the fatherless and widow."
+> **[[Scripture/Deuteronomy/10#Verse 18|Deuteronomy 10:18]]**: "He doth execute the judgment of the fatherless and widow."
 
 Israel was commanded to care for the vulnerable.
 

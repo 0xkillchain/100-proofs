@@ -9,15 +9,15 @@ Scripture prophesies a regathering of Israel to the land. This has not been fulf
 
 ## The Prophecies
 
-### Isaiah 11:11-12
+### [[Scripture/Isaiah/11#Verse 11|Isaiah 11:11-12]]
 
 > "And it shall come to pass in that day, that the Lord shall set his hand again **the second time to recover the remnant of his people**... And he shall set up an ensign for the nations, and shall **assemble the outcasts of Israel, and gather together the dispersed of Judah** from the four corners of the earth."
 
-### Jeremiah 31:8-10
+### [[Scripture/Jeremiah/31#Verse 8|Jeremiah 31:8-10]]
 
 > "Behold, I will bring them from the **north country**, and gather them from the **coasts of the earth**... He that scattered Israel will gather him, and keep him, as a shepherd doth his flock."
 
-### Ezekiel 37:21-22
+### [[Scripture/Ezekiel/37#Verse 21|Ezekiel 37:21-22]]
 
 > "Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land: And **I will make them one nation** in the land."
 
@@ -29,12 +29,12 @@ Scripture prophesies a regathering of Israel to the land. This has not been fulf
 
 | Requirement | Prophecy |
 |-------------|----------|
-| From the north | Jeremiah 31:8 |
-| From the coasts/isles | Isaiah 11:11 |
-| All twelve tribes | Ezekiel 37:19 |
-| One nation (Israel + Judah) | Ezekiel 37:22 |
-| Under one King (Christ) | Ezekiel 37:24 |
-| In righteousness | Jeremiah 31:33-34 |
+| From the north | [[Scripture/Jeremiah/31#Verse 8|Jeremiah 31:8]] |
+| From the coasts/isles | [[Scripture/Isaiah/11#Verse 11|Isaiah 11:11]] |
+| All twelve tribes | [[Scripture/Ezekiel/37#Verse 19|Ezekiel 37:19]] |
+| One nation (Israel + Judah) | [[Scripture/Ezekiel/37#Verse 22|Ezekiel 37:22]] |
+| Under one King (Christ) | [[Scripture/Ezekiel/37#Verse 24|Ezekiel 37:24]] |
+| In righteousness | [[Scripture/Jeremiah/31#Verse 33|Jeremiah 31:33-34]] |
 
 ---
 
@@ -64,11 +64,11 @@ Modern Israel fails most prophetic requirements.
 
 ## "Say They Are Jews and Are Not"
 
-### Revelation 2:9
+### [[Scripture/Revelation/2#Verse 9|Revelation 2:9]]
 
 > "I know the blasphemy of them which **say they are Jews, and are not**, but are the synagogue of Satan."
 
-### Revelation 3:9
+### [[Scripture/Revelation/3#Verse 9|Revelation 3:9]]
 
 > "Behold, I will make them of the synagogue of Satan, which **say they are Jews, and are not, but do lie**."
 
@@ -99,7 +99,7 @@ The true regathering will be:
 
 ### After Christ Returns
 
-> **Ezekiel 37:24**: "And **David my servant shall be king over them**; and they all shall have one shepherd."
+> **[[Scripture/Ezekiel/37#Verse 24|Ezekiel 37:24]]**: "And **David my servant shall be king over them**; and they all shall have one shepherd."
 
 "David" = Christ (the son of David)
 
@@ -107,7 +107,7 @@ The regathering happens when Christ rules, not before.
 
 ### The Second Time
 
-> **Isaiah 11:11**: "The Lord shall set his hand again **the second time** to recover the remnant."
+> **[[Scripture/Isaiah/11#Verse 11|Isaiah 11:11]]**: "The Lord shall set his hand again **the second time** to recover the remnant."
 
 First time: Return from Babylon
 Second time: Final regathering under Christ
@@ -121,7 +121,7 @@ The second hasn't happened yet.
 ### Awakening First
 
 Before regathering:
-1. Blindness removed (Romans 11:25)
+1. Blindness removed ([[Scripture/Romans/11#Verse 25|Romans 11:25]])
 2. Identity recognized
 3. Repentance
 4. Christ returns

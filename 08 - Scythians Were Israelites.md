@@ -41,7 +41,7 @@ Hebrew: **Yitzhak** (יצחק), Isaac
 - The Assyrians would have heard "house of Isaac" as "Bit-Sak" or similar
 - Persian "Sakā" = "people of Isaac"
 
-> **Amos 7:16**: "Thou sayest, Prophesy not against Israel, and drop not thy word against the **house of Isaac**."
+> **[[Scripture/Amos/7#Verse 16|Amos 7:16]]**: "Thou sayest, Prophesy not against Israel, and drop not thy word against the **house of Isaac**."
 
 Israel was called the "house of Isaac." The Sakā/Scythians were the house of Isaac.
 
@@ -50,7 +50,7 @@ Israel was called the "house of Isaac." The Sakā/Scythians were the house of Is
 The Assyrians called these people "Gimirri." The Greeks rendered this as "Cimmerians" (Κιμμέριοι).
 
 Possible Hebrew connections:
-- **Gomer**: Hosea's wife, who symbolized unfaithful Israel (Hosea 1:3)
+- **Gomer**: Hosea's wife, who symbolized unfaithful Israel ([[Scripture/Hosea/1#Verse 3|Hosea 1:3]])
 - **Gamar** (גמר): "to complete, to finish": Israel was "finished" as a nation
 
 The Behistun Inscription equates Sakā and Gimirri, they were the same people called by different names.
@@ -129,7 +129,7 @@ The Saxons specifically are often linked to the Sacae:
 
 ## Scriptural Confirmation
 
-### Colossians 3:11
+### [[Scripture/Colossians/3#Verse 11|Colossians 3:11]]
 
 > "Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, **Scythian**, bond nor free: but Christ is all, and in all."
 

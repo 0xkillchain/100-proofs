@@ -4,6 +4,7 @@ import re
 import shutil
 import sys
 import subprocess
+from scripture import generate
 
 ROOT = Path(__file__).resolve().parents[1]
 quartz = Path(sys.argv[1]).resolve()
@@ -19,7 +20,8 @@ notes = [p for p in ROOT.glob('*.md') if re.match(r'^\d+\s*-', p.name)]
 numbers = {int(p.name.split('-')[0]) for p in notes if re.match(r'^\d+\s*-', p.name)}
 if numbers != set(range(1, 101)):
     raise SystemExit('Expected source documents 1–100; refusing to publish incomplete content.')
-names = {p.stem for p in notes} | {'index'}
+scripture_names = generate(content)
+names = {p.stem for p in notes} | {'index'} | scripture_names
 index_entries = []
 notes.sort(key=lambda p: int(p.name.split('-')[0]))
 for source in notes:
@@ -71,3 +73,14 @@ layout_path.write_text(layout)
     '}) satisfies QuartzComponentConstructor\n'
 )
 print(f'Staged {len(notes)} source documents plus homepage; all wikilinks resolve.')
+
+# Replace Explorer with persistent Proofs / Scripture tabs.
+shutil.copy2(ROOT / 'site/components/Library.tsx', quartz / 'quartz/components/Library.tsx')
+shutil.copy2(ROOT / 'site/components/library.inline.ts', quartz / 'quartz/components/scripts/library.inline.ts')
+shutil.copy2(ROOT / 'site/components/library.scss', quartz / 'quartz/components/styles/library.scss')
+layout = layout_path.read_text()
+if 'Component.Explorer()' not in layout:
+    raise SystemExit('Expected Quartz Explorer; review library tab integration.')
+layout = 'import Library from "./quartz/components/Library"\n' + layout.replace('Component.Explorer()', 'Library()')
+layout_path.write_text(layout)
+print(f'Staged {len(scripture_names)} scripture library pages with Proofs / Scripture tabs.')

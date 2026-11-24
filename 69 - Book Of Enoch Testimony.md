@@ -14,7 +14,7 @@ The Book of Enoch, quoted by Jude and referenced by early Christians, provides a
 - Attributed to Enoch, "seventh from Adam"
 - Written ~300-100 BC (compiled from older traditions)
 - Popular in Second Temple Judaism
-- Quoted in the New Testament (Jude 14-15)
+- Quoted in the New Testament ([[Scripture/Jude/1#Verse 14|Jude 14-15]])
 - Part of the Ethiopian Orthodox canon
 
 ### Why It Matters
@@ -22,23 +22,23 @@ The Book of Enoch, quoted by Jude and referenced by early Christians, provides a
 Even if not canonical, Enoch:
 - Was used by early Christians
 - Shaped Jewish understanding before Christ
-- Provides context for Genesis 6 and the angelic sin
+- Provides context for [[Scripture/Genesis/6|Genesis 6]] and the angelic sin
 
 ---
 
 ## Jude's Quotation
 
-### Jude 14-15
+### [[Scripture/Jude/1#Verse 14|Jude 14-15]]
 
 > "And **Enoch also, the seventh from Adam, prophesied of these**, saying, Behold, the Lord cometh with ten thousands of his saints, To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds."
 
-This quotes 1 Enoch 1:9 almost verbatim. Jude treated Enoch's prophecy as authentic.
+This quotes [[Scripture/1-Enoch/1#Verse 9|1 Enoch 1:9]] almost verbatim. Jude treated Enoch's prophecy as authentic.
 
 ---
 
 ## The Watchers
 
-### 1 Enoch 6-11
+### [[Scripture/1-Enoch/6|1 Enoch 6-11]]
 
 Enoch describes the "Watchers", angels who:
 - Descended to earth
@@ -46,13 +46,13 @@ Enoch describes the "Watchers", angels who:
 - Produced the Nephilim
 - Taught forbidden knowledge
 
-> **1 Enoch 6:1-2**: "And it came to pass when the children of men had multiplied that in those days were born unto them beautiful and comely daughters. And the **angels, the children of the heaven, saw and lusted after them**."
+> **[[Scripture/1-Enoch/6#Verse 1|1 Enoch 6:1-2]]**: "And it came to pass when the children of men had multiplied that in those days were born unto them beautiful and comely daughters. And the **angels, the children of the heaven, saw and lusted after them**."
 
 ### The Offspring
 
-> **1 Enoch 7:2-5**: "And they became pregnant, and they bare great **giants**... who consumed all the acquisitions of men. And when men could no longer sustain them, the giants turned against them and devoured mankind."
+> **[[Scripture/1-Enoch/7#Verse 2|1 Enoch 7:2-5]]**: "And they became pregnant, and they bare great **giants**... who consumed all the acquisitions of men. And when men could no longer sustain them, the giants turned against them and devoured mankind."
 
-This expands on Genesis 6:1-4:
+This expands on [[Scripture/Genesis/6#Verse 1|Genesis 6:1-4]]:
 - Angels mating with humans
 - Giants (Nephilim) as offspring
 - Violence and corruption resulting
@@ -63,7 +63,7 @@ This expands on Genesis 6:1-4:
 
 ### Why the Flood
 
-> **1 Enoch 10:1-3**: "Then said the Most High... Go to Noah and tell him in my name 'Hide thyself!' and reveal to him the end that is approaching: that **the whole earth will be destroyed**, and a deluge is about to come upon the whole earth."
+> **[[Scripture/1-Enoch/10#Verse 1|1 Enoch 10:1-3]]**: "Then said the Most High... Go to Noah and tell him in my name 'Hide thyself!' and reveal to him the end that is approaching: that **the whole earth will be destroyed**, and a deluge is about to come upon the whole earth."
 
 The Flood was judgment on:
 - The Watchers' sin
@@ -72,11 +72,11 @@ The Flood was judgment on:
 
 ### Binding of the Angels
 
-> **1 Enoch 10:4-6**: "Bind Azazel hand and foot, and **cast him into the darkness**: and make an opening in the desert, which is in Dudael, and cast him therein."
+> **[[Scripture/1-Enoch/10#Verse 4|1 Enoch 10:4-6]]**: "Bind Azazel hand and foot, and **cast him into the darkness**: and make an opening in the desert, which is in Dudael, and cast him therein."
 
 This parallels:
-- Jude 6: Angels "in everlasting chains under darkness"
-- 2 Peter 2:4: Cast down to "Tartarus"
+- [[Scripture/Jude/1#Verse 6|Jude 6]]: Angels "in everlasting chains under darkness"
+- [[Scripture/2-Peter/2#Verse 4|2 Peter 2:4]]: Cast down to "Tartarus"
 
 ---
 
@@ -94,7 +94,7 @@ The Book of Enoch understands:
 
 Enoch frequently references the "elect":
 
-> **1 Enoch 1:1**: "The words of the blessing of Enoch, wherewith he blessed the **elect and righteous**, who will be living in the day of tribulation."
+> **[[Scripture/1-Enoch/1#Verse 1|1 Enoch 1:1]]**: "The words of the blessing of Enoch, wherewith he blessed the **elect and righteous**, who will be living in the day of tribulation."
 
 The "elect" are God's chosen people, Israel.
 
@@ -106,13 +106,13 @@ The "elect" are God's chosen people, Israel.
 
 1 Enoch contains prophecies of the "Son of Man":
 
-> **1 Enoch 46:1-3**: "And there I saw One who had a head of days, And His head was white like wool, And with Him was another being whose countenance had the appearance of a man, And his face was full of graciousness, like one of the holy angels."
+> **[[Scripture/1-Enoch/46#Verse 1|1 Enoch 46:1-3]]**: "And there I saw One who had a head of days, And His head was white like wool, And with Him was another being whose countenance had the appearance of a man, And his face was full of graciousness, like one of the holy angels."
 
-This influenced how Jews understood Daniel 7 and prepared for Christ.
+This influenced how Jews understood [[Scripture/Daniel/7|Daniel 7]] and prepared for Christ.
 
 ### Judgment on the Wicked
 
-> **1 Enoch 63:11**: "And now we long for a little rest but find it not: We are driven off and obtain it not."
+> **[[Scripture/1-Enoch/63#Verse 11|1 Enoch 63:11]]**: "And now we long for a little rest but find it not: We are driven off and obtain it not."
 
 The wicked will find no rest, judgment awaits.
 
@@ -160,7 +160,7 @@ The Book of Enoch confirms:
 2. **Nephilim**: Giant offspring
 3. **Judgment**: Flood as cleansing
 4. **Two seeds**: Elect vs. wicked
-5. **Early understanding**: How Jews read Genesis 6
+5. **Early understanding**: How Jews read [[Scripture/Genesis/6|Genesis 6]]
 
 Enoch provides context for the two seedlines doctrine and the corruption that necessitated the Flood.
 
@@ -176,7 +176,7 @@ Enoch provides context for the two seedlines doctrine and the corruption that ne
 
 ## Cross-References
 
-- [[41 - Nephilim And Fallen Angels]]: Genesis 6 connection
+- [[41 - Nephilim And Fallen Angels]]: [[Scripture/Genesis/6|Genesis 6]] connection
 - [[42 - Genesis 6]]: The corruption
 - [[48 - Judes Warnings]]: Jude's use of Enoch
 

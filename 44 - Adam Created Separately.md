@@ -9,21 +9,21 @@ Adam was a unique creation, formed directly by Yahweh, given the breath of life,
 
 ## The Creation Account
 
-### Genesis 1 vs. Genesis 2
+### [[Scripture/Genesis/1|Genesis 1]] vs. [[Scripture/Genesis/2|Genesis 2]]
 
-**Genesis 1:27:**
+**[[Scripture/Genesis/1#Verse 27|Genesis 1:27]]:**
 > "So God created **man** [*adam*] in his own image, in the image of God created he him; male and female created he them."
 
-**Genesis 2:7:**
+**[[Scripture/Genesis/2#Verse 7|Genesis 2:7]]:**
 > "And the LORD God **formed man** [*adam*] of the dust of the ground, and **breathed into his nostrils the breath of life**; and man became a living soul."
 
 Some see two different events:
-1. Genesis 1: General creation of humanity (Day 6)
-2. Genesis 2: Specific formation of Adam for Eden
+1. [[Scripture/Genesis/1|Genesis 1]]: General creation of humanity (Day 6)
+2. [[Scripture/Genesis/2|Genesis 2]]: Specific formation of Adam for Eden
 
 ### The Differences
 
-| Genesis 1 | Genesis 2 |
+| [[Scripture/Genesis/1|Genesis 1]] | [[Scripture/Genesis/2|Genesis 2]] |
 |-----------|-----------|
 | "Created" (*bara*) | "Formed" (*yatsar*) |
 | "Man" (general) | "The man" (specific) |
@@ -39,9 +39,9 @@ Some see two different events:
 
 *Yatsar* means to form, shape, fashion, like a potter forming clay.
 
-> **Isaiah 64:8**: "We are the clay, and thou our **potter**; and we all are the work of thy hand."
+> **[[Scripture/Isaiah/64#Verse 8|Isaiah 64:8]]**: "We are the clay, and thou our **potter**; and we all are the work of thy hand."
 
-> **Jeremiah 18:6**: "As the clay is in the **potter's** hand, so are ye in mine hand."
+> **[[Scripture/Jeremiah/18#Verse 6|Jeremiah 18:6]]**: "As the clay is in the **potter's** hand, so are ye in mine hand."
 
 Adam was personally crafted by Yahweh, hands-on creation, not mere command.
 
@@ -56,7 +56,7 @@ Adam was formed from the dust, a separate, artisan act.
 
 ## The Breath of Life
 
-### Genesis 2:7
+### [[Scripture/Genesis/2#Verse 7|Genesis 2:7]]
 
 > "And the LORD God formed man of the dust of the ground, and **breathed into his nostrils the breath of life**; and man became a **living soul**."
 
@@ -69,7 +69,7 @@ Only Adam received:
 
 Animals have *nephesh* (soul/life) but not the *neshamah* (breath) directly from God.
 
-If other humans existed (Genesis 1), they may have had *nephesh* but not the *neshamah* that Adam received.
+If other humans existed ([[Scripture/Genesis/1|Genesis 1]]), they may have had *nephesh* but not the *neshamah* that Adam received.
 
 This breath made Adam different, he carried God's Spirit.
 
@@ -79,7 +79,7 @@ This breath made Adam different, he carried God's Spirit.
 
 ### A Specific Location
 
-> **Genesis 2:8**: "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed."
+> **[[Scripture/Genesis/2#Verse 8|Genesis 2:8]]**: "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed."
 
 Adam was:
 - Placed in Eden specifically
@@ -89,11 +89,11 @@ Adam was:
 ### Outside Eden
 
 What was outside Eden?
-- Other humans (from Genesis 1)?
+- Other humans (from [[Scripture/Genesis/1|Genesis 1]])?
 - The "beasts of the field" (possibly other hominids)?
 - A world already populated?
 
-When Cain was exiled, he found a wife and feared others would kill him (Genesis 4:14-17). Where did these people come from?
+When Cain was exiled, he found a wife and feared others would kill him ([[Scripture/Genesis/4#Verse 14|Genesis 4:14-17]]). Where did these people come from?
 
 ---
 
@@ -102,8 +102,8 @@ When Cain was exiled, he found a wife and feared others would kill him (Genesis 
 ### The Interpretation
 
 One interpretation:
-- Genesis 1: Creation of various peoples on Day 6
-- Genesis 2: Special formation of Adam for a covenant purpose
+- [[Scripture/Genesis/1|Genesis 1]]: Creation of various peoples on Day 6
+- [[Scripture/Genesis/2|Genesis 2]]: Special formation of Adam for a covenant purpose
 
 Adam was created to:
 - Bear God's image specifically
@@ -123,13 +123,13 @@ This view holds that:
 
 ## Christ as the "Last Adam"
 
-### 1 Corinthians 15:45
+### [[Scripture/1-Corinthians/15#Verse 45|1 Corinthians 15:45]]
 
 > "And so it is written, The **first man Adam** was made a living soul; the **last Adam** was made a quickening spirit."
 
 Christ is the "last Adam", from the same lineage, completing what Adam began.
 
-> **1 Corinthians 15:47**: "The first man is of the earth, earthy: the second man is the Lord from heaven."
+> **[[Scripture/1-Corinthians/15#Verse 47|1 Corinthians 15:47]]**: "The first man is of the earth, earthy: the second man is the Lord from heaven."
 
 Adam and Christ are uniquely connected, both special creations with specific purposes.
 
@@ -160,7 +160,7 @@ Adam was not merely one of many humans but a unique creation for a covenant purp
 ## Cross-References
 
 - [[45 - Spirit Of God In Adam]]: The significance of the breath
-- [[46 - Two Different Creations]]: Interpreting Genesis 1-2
+- [[46 - Two Different Creations]]: Interpreting [[Scripture/Genesis/1|Genesis 1-2]]
 - [[42 - Genesis 6]]: Why Noah's lineage mattered
 
 ---

@@ -1,0 +1,25 @@
+.library { min-height: 0; display: flex; flex-direction: column; flex: 1; }
+.library-tabs { display: flex; flex-shrink: 0; border-bottom: 1px solid var(--lightgray); gap: .25rem; }
+.library-tabs button { flex: 1; cursor: pointer; padding: .65rem .3rem; background: transparent; border: 0; border-bottom: 3px solid transparent; color: var(--darkgray); font: inherit; }
+.library-tabs button[aria-selected="true"] { border-bottom-color: var(--secondary); color: var(--secondary); font-weight: 700; }
+.library [role="tabpanel"] { overflow-y: auto; min-height: 0; padding: .8rem .2rem; }
+.library [hidden] { display: none; }
+.library ol, .library ul { margin: .75rem 0; padding-left: 1.7rem; }
+.library ul { list-style: none; padding-left: 0; }
+.library li { margin-bottom: .6rem; line-height: 1.4; }
+.library a { font-size: .9rem; font-weight: 400; }
+.library a[aria-current="page"] { font-weight: 700; text-decoration: underline; }
+.library .library-index { font-weight: 700; }
+.library button:focus-visible, .scripture-controls select:focus-visible { outline: 2px solid var(--secondary); outline-offset: 2px; }
+.scripture-controls { display: flex; flex-wrap: wrap; gap: 1rem; padding: 1rem 0; }
+.scripture-controls label { display: flex; flex-direction: column; gap: .3rem; font-size: .85rem; }
+.scripture-controls select { padding: .5rem; border: 1px solid var(--gray); border-radius: 5px; background: var(--light); color: var(--dark); max-width: 100%; font: inherit; }
+.scripture-verses p { line-height: 1.9; scroll-margin-top: 2rem; padding: .35rem .6rem; border-radius: 4px; }
+.scripture-verses p:target { background: var(--textHighlight); color: var(--dark); }
+.scripture-verses sup { color: var(--secondary); font-weight: 700; margin-right: .5rem; }
+.scripture-chapters { display: flex; flex-wrap: wrap; gap: .5rem; }
+.scripture-chapters a { min-width: 2.5rem; padding: .6rem; text-align: center; border: 1px solid var(--lightgray); border-radius: 5px; }
+@media (max-width: 800px) {
+ html body .page > #quartz-body .sidebar.left { flex-wrap: wrap; }
+ html body .page > #quartz-body .sidebar.left > .library { flex: 1 0 100%; width: 100%; max-height: 18rem; margin-top: 1rem; }
+}

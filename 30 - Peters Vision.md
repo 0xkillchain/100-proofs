@@ -3,13 +3,13 @@
 
 ## The Claim
 
-Peter's vision of the unclean animals (Acts 10) is commonly misinterpreted as abolishing food laws or opening salvation to all races. In context, it declared the dispersed Israelites "clean", no longer unclean due to their time among the nations.
+Peter's vision of the unclean animals ([[Scripture/Acts/10|Acts 10]]) is commonly misinterpreted as abolishing food laws or opening salvation to all races. In context, it declared the dispersed Israelites "clean", no longer unclean due to their time among the nations.
 
 ---
 
 ## The Vision
 
-### Acts 10:9-16
+### [[Scripture/Acts/10#Verse 9|Acts 10:9-16]]
 
 > "Peter went up upon the housetop to pray... And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet... Wherein were all manner of **fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air**. And there came a voice to him, Rise, Peter; kill, and eat. But Peter said, Not so, Lord; for I have **never eaten any thing that is common or unclean**. And the voice spake unto him again the second time, **What God hath cleansed, that call not thou common**. This was done thrice."
 
@@ -35,13 +35,13 @@ Problems with this view:
 
 ## Peter's Own Interpretation
 
-### Acts 10:28
+### [[Scripture/Acts/10#Verse 28|Acts 10:28]]
 
 > "And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but **God hath shewed me that I should not call any man common or unclean**."
 
 Peter understood the vision was about **people**, not food.
 
-### Acts 10:34-35
+### [[Scripture/Acts/10#Verse 34|Acts 10:34-35]]
 
 > "Then Peter opened his mouth, and said, Of a truth I perceive that **God is no respecter of persons**: But in every nation he that feareth him, and worketh righteousness, is accepted with him."
 
@@ -53,7 +53,7 @@ Peter understood the vision was about **people**, not food.
 
 ### Who Was Cornelius?
 
-> **Acts 10:1-2**: "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band, A **devout man, and one that feared God** with all his house, which gave much alms to the people, and prayed to God alway."
+> **[[Scripture/Acts/10#Verse 1|Acts 10:1-2]]**: "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band, A **devout man, and one that feared God** with all his house, which gave much alms to the people, and prayed to God alway."
 
 Cornelius was:
 - A Roman centurion (European)
@@ -86,7 +86,7 @@ Peter's vision declared:
 - They can be received back into the covenant community
 - Peter should not call them "unclean" or avoid them
 
-> **Acts 10:15**: "What God hath cleansed, that call not thou common."
+> **[[Scripture/Acts/10#Verse 15|Acts 10:15]]**: "What God hath cleansed, that call not thou common."
 
 God cleansed the dispersed Israelites through Christ's sacrifice.
 
@@ -94,7 +94,7 @@ God cleansed the dispersed Israelites through Christ's sacrifice.
 
 ## Peter's Conclusion
 
-### Acts 11:1-18
+### [[Scripture/Acts/11#Verse 1|Acts 11:1-18]]
 
 Peter explained the vision to the Jerusalem church:
 
@@ -108,9 +108,9 @@ The "Gentiles" (nations) granted repentance are the dispersed Israelite nations,
 
 ### The Background
 
-> **Hosea 1:9**: "Call his name Loammi: for ye are **not my people**."
+> **[[Scripture/Hosea/1#Verse 9|Hosea 1:9]]**: "Call his name Loammi: for ye are **not my people**."
 
-> **Hosea 2:23**: "I will say to them which were not my people, **Thou art my people**."
+> **[[Scripture/Hosea/2#Verse 23|Hosea 2:23]]**: "I will say to them which were not my people, **Thou art my people**."
 
 The Northern Kingdom was declared "not my people", unclean, outside the covenant.
 
@@ -118,7 +118,7 @@ Peter's vision reversed this: those who were "unclean" (not my people) are now "
 
 ### Peter Quotes Hosea
 
-> **1 Peter 2:10**: "Which in time past were **not a people**, but are now **the people of God**: which had **not obtained mercy**, but now have **obtained mercy**."
+> **[[Scripture/1-Peter/2#Verse 10|1 Peter 2:10]]**: "Which in time past were **not a people**, but are now **the people of God**: which had **not obtained mercy**, but now have **obtained mercy**."
 
 Peter applies Hosea's prophecy to his European audience, because they are the dispersed Israelites Hosea prophesied about.
 

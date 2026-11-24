@@ -9,7 +9,7 @@ Daniel interpreted Nebuchadnezzar's dream of a statue destroyed by a stone "cut 
 
 ## The Dream
 
-### Daniel 2:31-35
+### [[Scripture/Daniel/2#Verse 31|Daniel 2:31-35]]
 
 > "Thou, O king, sawest, and behold a great image... This image's **head was of fine gold**, his **breast and his arms of silver**, his **belly and his thighs of brass**, His **legs of iron**, his **feet part of iron and part of clay**. Thou sawest till that a **stone was cut out without hands**, which **smote the image upon his feet** that were of iron and clay, and brake them to pieces... and the **stone that smote the image became a great mountain, and filled the whole earth**."
 
@@ -17,7 +17,7 @@ Daniel interpreted Nebuchadnezzar's dream of a statue destroyed by a stone "cut 
 
 ## The Interpretation
 
-### Daniel 2:36-45
+### [[Scripture/Daniel/2#Verse 36|Daniel 2:36-45]]
 
 | Part | Metal | Kingdom |
 |------|-------|---------|
@@ -41,7 +41,7 @@ The stone was "cut out without hands":
 - Divine origin
 - Supernatural establishment
 
-> **Daniel 2:45**: "The stone was cut out of the mountain **without hands**."
+> **[[Scripture/Daniel/2#Verse 45|Daniel 2:45]]**: "The stone was cut out of the mountain **without hands**."
 
 Christ's kingdom was established by God, not by human politics.
 
@@ -67,7 +67,7 @@ These tribes:
 
 ### The Mountain Filling the Earth
 
-> **Daniel 2:35**: "The stone... became a **great mountain, and filled the whole earth**."
+> **[[Scripture/Daniel/2#Verse 35|Daniel 2:35]]**: "The stone... became a **great mountain, and filled the whole earth**."
 
 Christian Europe:
 - Spread across the globe
@@ -112,7 +112,7 @@ The timeline matches Daniel's vision perfectly.
 
 ## Still Standing
 
-### Daniel 2:44
+### [[Scripture/Daniel/2#Verse 44|Daniel 2:44]]
 
 > "It shall **stand for ever**."
 

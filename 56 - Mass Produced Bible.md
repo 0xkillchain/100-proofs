@@ -3,7 +3,7 @@
 
 ## The Claim
 
-The printing press and mass-produced Bible emerged in Europe, among Europeans. Israel was given the oracles of God (Romans 3:2), and it was Europeans who preserved, translated, printed, and distributed the Scriptures to the world.
+The printing press and mass-produced Bible emerged in Europe, among Europeans. Israel was given the oracles of God ([[Scripture/Romans/3#Verse 2|Romans 3:2]]), and it was Europeans who preserved, translated, printed, and distributed the Scriptures to the world.
 
 ---
 
@@ -99,7 +99,7 @@ This was primarily European/American effort.
 
 ## "The Oracles of God"
 
-### Romans 3:1-2
+### [[Scripture/Romans/3#Verse 1|Romans 3:1-2]]
 
 > "What advantage then hath the Jew? or what profit is there of circumcision? Much every way: chiefly, because that **unto them were committed the oracles of God**."
 

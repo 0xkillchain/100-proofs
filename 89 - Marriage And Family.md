@@ -20,9 +20,9 @@ European marriage:
 
 ## The Biblical Pattern
 
-> **Genesis 2:24**: "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh."
+> **[[Scripture/Genesis/2#Verse 24|Genesis 2:24]]**: "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh."
 
-> **Malachi 2:14**: "The LORD hath been witness between thee and the wife of thy youth."
+> **[[Scripture/Malachi/2#Verse 14|Malachi 2:14]]**: "The LORD hath been witness between thee and the wife of thy youth."
 
 Marriage as covenant, not contract.
 

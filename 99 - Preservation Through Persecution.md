@@ -21,7 +21,7 @@ Yet European Christianity survived.
 
 ## The Promise
 
-> **Jeremiah 30:11**: "For I am with thee, saith the LORD, to save thee: though I make a full end of all nations whither I have scattered thee, yet will I not make a full end of thee."
+> **[[Scripture/Jeremiah/30#Verse 11|Jeremiah 30:11]]**: "For I am with thee, saith the LORD, to save thee: though I make a full end of all nations whither I have scattered thee, yet will I not make a full end of thee."
 
 Israel would be scattered but not destroyed.
 

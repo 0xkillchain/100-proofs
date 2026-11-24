@@ -30,7 +30,7 @@ European art was overwhelmingly:
 ## The Image of God
 
 Creativity reflects being made in God's image:
-> **Genesis 1:27**: "God created man in his own image."
+> **[[Scripture/Genesis/1#Verse 27|Genesis 1:27]]**: "God created man in his own image."
 
 The Creator's children create.
 

@@ -11,25 +11,25 @@ Yahweh promised Abraham that his seed would become **many nations**, innumerable
 
 ### The Promise of Many Nations
 
-> **Genesis 12:2**: "And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing."
+> **[[Scripture/Genesis/12#Verse 2|Genesis 12:2]]**: "And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing."
 
-> **Genesis 13:16**: "And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered."
+> **[[Scripture/Genesis/13#Verse 16|Genesis 13:16]]**: "And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered."
 
-> **Genesis 15:5**: "And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be."
+> **[[Scripture/Genesis/15#Verse 5|Genesis 15:5]]**: "And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be."
 
-> **Genesis 17:4-6**: "As for me, behold, my covenant is with thee, and thou shalt be a father of **many nations**. Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee. And I will make thee exceeding fruitful, and I will make **nations** of thee, and **kings** shall come out of thee."
+> **[[Scripture/Genesis/17#Verse 4|Genesis 17:4-6]]**: "As for me, behold, my covenant is with thee, and thou shalt be a father of **many nations**. Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee. And I will make thee exceeding fruitful, and I will make **nations** of thee, and **kings** shall come out of thee."
 
-> **Genesis 22:17**: "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies."
+> **[[Scripture/Genesis/22#Verse 17|Genesis 22:17]]**: "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies."
 
 ### Repeated to Isaac
 
-> **Genesis 26:4**: "And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed."
+> **[[Scripture/Genesis/26#Verse 4|Genesis 26:4]]**: "And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed."
 
 ### Repeated to Jacob
 
-> **Genesis 28:14**: "And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed."
+> **[[Scripture/Genesis/28#Verse 14|Genesis 28:14]]**: "And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed."
 
-> **Genesis 35:11**: "And God said unto him, I am God Almighty: be fruitful and multiply; **a nation and a company of nations** shall be of thee, and kings shall come out of thy loins."
+> **[[Scripture/Genesis/35#Verse 11|Genesis 35:11]]**: "And God said unto him, I am God Almighty: be fruitful and multiply; **a nation and a company of nations** shall be of thee, and kings shall come out of thy loins."
 
 ---
 
@@ -101,7 +101,7 @@ Only Europeans fulfilled these promises. If these promises are true, and only Eu
 
 1. What specific genealogies connect European royalty to Judah?
 2. When did the "blindness" about identity begin?
-3. How do the tribal blessings of Genesis 49 map to European nations?
+3. How do the tribal blessings of [[Scripture/Genesis/49|Genesis 49]] map to European nations?
 
 ---
 

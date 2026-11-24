@@ -33,7 +33,7 @@ Their argument: All humans made in God's image.
 ## Israel's Experience
 
 Israel was redeemed from slavery in Egypt:
-> **Exodus 20:2**: "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage."
+> **[[Scripture/Exodus/20#Verse 2|Exodus 20:2]]**: "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage."
 
 This shaped Israel's moral consciousness, and Europeans' conscience.
 

@@ -53,9 +53,9 @@ The NT quotes the OT hundreds of times. Many follow the Septuagint rather than t
 
 | Passage | NT Quote | Matches |
 |---------|----------|---------|
-| Isaiah 7:14 | Matthew 1:23 "virgin" | LXX (*parthenos*) |
-| Hebrews 10:5 | "a body hast thou prepared me" | LXX reading |
-| Acts 15:17 | "residue of men" | LXX (not Hebrew) |
+| [[Scripture/Isaiah/7#Verse 14|Isaiah 7:14]] | [[Scripture/Matthew/1#Verse 23|Matthew 1:23]] "virgin" | LXX (*parthenos*) |
+| [[Scripture/Hebrews/10#Verse 5|Hebrews 10:5]] | "a body hast thou prepared me" | LXX reading |
+| [[Scripture/Acts/15#Verse 17|Acts 15:17]] | "residue of men" | LXX (not Hebrew) |
 
 Christ and the apostles used the Septuagint.
 
@@ -63,7 +63,7 @@ Christ and the apostles used the Septuagint.
 
 ## Key Differences
 
-### Isaiah 7:14
+### [[Scripture/Isaiah/7#Verse 14|Isaiah 7:14]]
 
 **Septuagint:** "Behold, a **virgin** (*parthenos*) shall conceive"
 **Masoretic:** "Behold, a **young woman** (*almah*) shall conceive"
@@ -72,12 +72,12 @@ The LXX clearly says "virgin"; the MT is ambiguous. Did Jews change this to unde
 
 ### Chronologies
 
-Genesis 5 and 11 genealogies:
+[[Scripture/Genesis/5|Genesis 5]] and [[Scripture/Genesis/11|11]] genealogies:
 - Septuagint gives longer lifespans
 - Masoretic gives shorter
 - Affects dating of creation and Flood
 
-### Deuteronomy 32:8
+### [[Scripture/Deuteronomy/32#Verse 8|Deuteronomy 32:8]]
 
 **Septuagint:** "He set the bounds of the peoples according to the number of the **sons of God**"
 **Masoretic:** "according to the number of the **children of Israel**"
@@ -127,7 +127,7 @@ Europeans (Israel) preserved the older text.
 
 ## Examples of Possible Changes
 
-### Psalm 22:16
+### [[Scripture/Psalms/22#Verse 16|Psalm 22:16]]
 
 **Septuagint/DSS:** "They **pierced** my hands and feet"
 **Masoretic:** "Like a **lion**, my hands and feet"

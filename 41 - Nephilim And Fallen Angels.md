@@ -9,7 +9,7 @@ Fallen angels mated with human women, producing the Nephilim, giant hybrid being
 
 ## The Key Passage
 
-### Genesis 6:1-4
+### [[Scripture/Genesis/6#Verse 1|Genesis 6:1-4]]
 
 > "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them, That **the sons of God saw the daughters of men that they were fair; and they took them wives** of all which they chose... There were **giants** [Nephilim] in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became **mighty men** which were of old, men of renown."
 
@@ -21,11 +21,11 @@ Fallen angels mated with human women, producing the Nephilim, giant hybrid being
 
 "Sons of God" (Hebrew: *bene elohim*) in the Old Testament refers to angels:
 
-> **Job 1:6**: "Now there was a day when the **sons of God** came to present themselves before the LORD, and **Satan** came also among them."
+> **[[Scripture/Job/1#Verse 6|Job 1:6]]**: "Now there was a day when the **sons of God** came to present themselves before the LORD, and **Satan** came also among them."
 
-> **Job 2:1**: "Again there was a day when the **sons of God** came to present themselves before the LORD."
+> **[[Scripture/Job/2#Verse 1|Job 2:1]]**: "Again there was a day when the **sons of God** came to present themselves before the LORD."
 
-> **Job 38:7**: "When the morning stars sang together, and all the **sons of God** shouted for joy?"
+> **[[Scripture/Job/38#Verse 7|Job 38:7]]**: "When the morning stars sang together, and all the **sons of God** shouted for joy?"
 
 In Job, "sons of God" are clearly angels, supernatural beings in God's court.
 
@@ -41,7 +41,7 @@ Some claim "sons of God" means Seth's line. Problems:
 
 ## New Testament Confirmation
 
-### Jude 6-7
+### [[Scripture/Jude/1#Verse 6|Jude 6-7]]
 
 > "And **the angels which kept not their first estate, but left their own habitation**, he hath reserved in everlasting chains under darkness unto the judgment of the great day. Even as **Sodom and Gomorrha**, and the cities about them in like manner, **giving themselves over to fornication, and going after strange flesh**, are set forth for an example."
 
@@ -50,7 +50,7 @@ Key points:
 - Their sin was like Sodom's: sexual ("strange flesh")
 - They are now imprisoned awaiting judgment
 
-### 2 Peter 2:4-5
+### [[Scripture/2-Peter/2#Verse 4|2 Peter 2:4-5]]
 
 > "For if **God spared not the angels that sinned**, but cast them down to hell [Tartarus], and delivered them into chains of darkness... And **spared not the old world**, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly."
 
@@ -71,17 +71,17 @@ The sinning angels' crime was connected to the pre-Flood corruption.
 
 They were:
 - Hybrid offspring of angels and humans
-- Giants (Genesis 6:4, Numbers 13:33)
+- Giants ([[Scripture/Genesis/6#Verse 4|Genesis 6:4]], [[Scripture/Numbers/13#Verse 33|Numbers 13:33]])
 - "Mighty men" (*gibborim*)
 - "Men of renown" (famous, legendary)
 
 ### After the Flood
 
-> **Genesis 6:4**: "There were giants in the earth in those days; **and also after that**."
+> **[[Scripture/Genesis/6#Verse 4|Genesis 6:4]]**: "There were giants in the earth in those days; **and also after that**."
 
 The Nephilim existed before the Flood and "after that", they or their bloodline survived.
 
-> **Numbers 13:33**: "And there we saw the **giants, the sons of Anak, which come of the giants**: and we were in our own sight as grasshoppers."
+> **[[Scripture/Numbers/13#Verse 33|Numbers 13:33]]**: "And there we saw the **giants, the sons of Anak, which come of the giants**: and we were in our own sight as grasshoppers."
 
 The Anakim in Canaan were Nephilim descendants. Israel was commanded to destroy them.
 
@@ -92,11 +92,11 @@ The Anakim in Canaan were Nephilim descendants. Israel was commanded to destroy 
 ### The Giants
 
 Multiple groups of giants existed:
-- **Anakim**: Descendants of Anak (Numbers 13:33)
-- **Rephaim**: "Shades" or giants (Genesis 14:5)
-- **Emim**: "Terrible ones" (Deuteronomy 2:10-11)
-- **Zamzummim**: Giants in Ammon (Deuteronomy 2:20)
-- **Amorites**: Described as tall as cedars (Amos 2:9)
+- **Anakim**: Descendants of Anak ([[Scripture/Numbers/13#Verse 33|Numbers 13:33]])
+- **Rephaim**: "Shades" or giants ([[Scripture/Genesis/14#Verse 5|Genesis 14:5]])
+- **Emim**: "Terrible ones" ([[Scripture/Deuteronomy/2#Verse 10|Deuteronomy 2:10-11]])
+- **Zamzummim**: Giants in Ammon ([[Scripture/Deuteronomy/2#Verse 20|Deuteronomy 2:20]])
+- **Amorites**: Described as tall as cedars ([[Scripture/Amos/2#Verse 9|Amos 2:9]])
 
 ### Why Destroy Canaan?
 
@@ -134,7 +134,7 @@ The corrupted bloodline wound through history.
 
 ## The Purpose of the Flood
 
-### Genesis 6:9
+### [[Scripture/Genesis/6#Verse 9|Genesis 6:9]]
 
 > "**Noah was a just man and perfect in his generations**."
 
@@ -163,9 +163,9 @@ Understanding the Nephilim explains why God commanded Israel to remain separate 
 
 ## Questions for Further Study
 
-1. How does the Book of Enoch expand on Genesis 6?
+1. How does the Book of Enoch expand on [[Scripture/Genesis/6|Genesis 6]]?
 2. What archaeological evidence exists for giants?
-3. How did second-century Christians interpret Genesis 6?
+3. How did second-century Christians interpret [[Scripture/Genesis/6|Genesis 6]]?
 
 ---
 

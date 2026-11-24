@@ -36,3 +36,13 @@ Only numbered source documents and one generated homepage index are published. T
 The build applies `scripts/quartz-graph.patch` for a labeled expand button, larger graph, wider zoom range, close control, and movement-based click detection. Quartz is pinned in the deployment workflow so upstream changes cannot silently break the patch. When upgrading Quartz, review and refresh the patch, then run preparation and a full Quartz build.
 
 The desktop right column grows into available viewport space while article width scales between 480px and 720px, and navigation between 200px and 240px, leaving the remaining width for the graph. The graph frame uses a responsive height, and a ResizeObserver keeps its WebGL canvas drawing buffer matched to the frame.
+
+## Scripture viewer and library tabs
+
+`site/components/Library.tsx` replaces both Explorer instances with persistent Proofs and Scripture tabs. The library is rendered with real links, keyboard-accessible tabs, and a scrolling list. Chapter pages provide book/chapter selectors and verse anchors; native links and browser Back still work.
+
+`site/data/scripture.json` vendors the KJV and Apocrypha texts; provenance and incomplete Enoch excerpt coverage are documented in `site/data/README.md`. Generated scripture pages are not committed and are recreated during preparation. Their social image is shared to avoid generating thousands of preview images.
+
+To link future proof citations, run `python3 scripts/scripture.py`. This is idempotent, preserves existing links and quoted wording, and validates canonical chapter/verse references. Abbreviated references are resolved only where their book context is explicit. Source citations are real wikilinks to `Scripture/Book/Chapter#Verse N`.
+
+After building, run `python3 scripts/verify-scripture.py /path/to/quartz/public BASE_COMMIT` to verify source wording preservation, citation completeness, rendered links, verse anchors, and the replacement tabs against the pre-migration baseline (`28a2569`).

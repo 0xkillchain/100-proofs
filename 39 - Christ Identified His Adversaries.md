@@ -7,7 +7,7 @@ Christ directly told certain religious leaders their identity: they were not Abr
 
 ---
 
-## The Key Passage: John 8
+## The Key Passage: [[Scripture/John/8|John 8]]
 
 ### The Setting
 
@@ -67,7 +67,7 @@ They could not hear Christ because:
 
 ## Other Passages
 
-### Matthew 23: Woe to the Pharisees
+### [[Scripture/Matthew/23|Matthew 23]]: Woe to the Pharisees
 
 > **v.33**: "Ye **serpents**, ye **generation of vipers**, how can ye escape the damnation of hell?"
 
@@ -77,13 +77,13 @@ They could not hear Christ because:
 
 Why would they be responsible for Abel's blood? Because they were descendants of Abel's murderer, Cain.
 
-### Matthew 12:34
+### [[Scripture/Matthew/12#Verse 34|Matthew 12:34]]
 
 > "O **generation of vipers**, how can ye, being evil, speak good things?"
 
 Again, "offspring of snakes", identifying their lineage.
 
-### John 10:26
+### [[Scripture/John/10#Verse 26|John 10:26]]
 
 > "But **ye believe not, because ye are not of my sheep**, as I said unto you."
 
@@ -93,7 +93,7 @@ They don't believe because they are not Christ's sheep. It's a matter of nature,
 
 ## The Parable of the Tares
 
-### Matthew 13:24-30, 36-43
+### [[Scripture/Matthew/13#Verse 24|Matthew 13:24-30, 36-43]]
 
 > "The kingdom of heaven is likened unto a man which sowed good seed in his field: But while men slept, **his enemy came and sowed tares among the wheat**."
 
@@ -121,7 +121,7 @@ Christ wasn't simply saying "you're acting like the devil." He identified their 
 
 ### Lineage Determines Nature
 
-> **John 8:44**: "The lusts of your father **ye will do**."
+> **[[Scripture/John/8#Verse 44|John 8:44]]**: "The lusts of your father **ye will do**."
 
 Their lineage determined their nature. They "will do" (inevitably, not just possibly) their father's lusts.
 

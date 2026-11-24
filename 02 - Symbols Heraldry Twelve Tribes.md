@@ -9,27 +9,27 @@ Each of the twelve tribes of Israel had specific symbols assigned to them. These
 
 ## Scriptural Evidence
 
-### Jacob's Blessings (Genesis 49)
+### Jacob's Blessings ([[Scripture/Genesis/49|Genesis 49]])
 
-> **Judah** (49:9): "Judah is a **lion's** whelp... he stooped down, he couched as a **lion**, and as an old lion; who shall rouse him up?"
+> **Judah** ([[Scripture/Genesis/49#Verse 9|49:9]]): "Judah is a **lion's** whelp... he stooped down, he couched as a **lion**, and as an old lion; who shall rouse him up?"
 
-> **Zebulun** (49:13): "Zebulun shall dwell at the haven of the **sea**; and he shall be for an haven of **ships**."
+> **Zebulun** ([[Scripture/Genesis/49#Verse 13|49:13]]): "Zebulun shall dwell at the haven of the **sea**; and he shall be for an haven of **ships**."
 
-> **Issachar** (49:14): "Issachar is a strong **ass** couching down between two burdens."
+> **Issachar** ([[Scripture/Genesis/49#Verse 14|49:14]]): "Issachar is a strong **ass** couching down between two burdens."
 
-> **Dan** (49:17): "Dan shall be a **serpent** by the way, an **adder** in the path."
+> **Dan** ([[Scripture/Genesis/49#Verse 17|49:17]]): "Dan shall be a **serpent** by the way, an **adder** in the path."
 
-> **Naphtali** (49:21): "Naphtali is a **hind** [deer] let loose: he giveth goodly words."
+> **Naphtali** ([[Scripture/Genesis/49#Verse 21|49:21]]): "Naphtali is a **hind** [deer] let loose: he giveth goodly words."
 
-> **Joseph/Ephraim** (49:22): "Joseph is a fruitful bough... whose branches run over the wall."
+> **Joseph/Ephraim** ([[Scripture/Genesis/49#Verse 22|49:22]]): "Joseph is a fruitful bough... whose branches run over the wall."
 
-> **Benjamin** (49:27): "Benjamin shall ravin as a **wolf**: in the morning he shall devour the prey."
+> **Benjamin** ([[Scripture/Genesis/49#Verse 27|49:27]]): "Benjamin shall ravin as a **wolf**: in the morning he shall devour the prey."
 
-### Moses' Blessings (Deuteronomy 33)
+### Moses' Blessings ([[Scripture/Deuteronomy/33|Deuteronomy 33]])
 
-> **Joseph** (33:17): "His glory is like the firstling of his **bullock**, and his horns are like the horns of **unicorns**: with them he shall push the people together to the ends of the earth: they are the ten thousands of Ephraim, and they are the thousands of Manasseh."
+> **Joseph** ([[Scripture/Deuteronomy/33#Verse 17|33:17]]): "His glory is like the firstling of his **bullock**, and his horns are like the horns of **unicorns**: with them he shall push the people together to the ends of the earth: they are the ten thousands of Ephraim, and they are the thousands of Manasseh."
 
-### Numbers 2 Tribal Standards
+### [[Scripture/Numbers/2|Numbers 2]] Tribal Standards
 
 The tribes camped under four main standards (banners):
 - **East**: Judah (with Issachar, Zebulun): **Lion**
@@ -37,7 +37,7 @@ The tribes camped under four main standards (banners):
 - **West**: Ephraim (with Manasseh, Benjamin): **Ox/Bull**
 - **North**: Dan (with Asher, Naphtali): **Eagle**
 
-These four faces match Ezekiel's vision (Ezekiel 1:10) and Revelation 4:7.
+These four faces match Ezekiel's vision ([[Scripture/Ezekiel/1#Verse 10|Ezekiel 1:10]]) and [[Scripture/Revelation/4#Verse 7|Revelation 4:7]].
 
 ---
 
@@ -65,13 +65,13 @@ These four faces match Ezekiel's vision (Ezekiel 1:10) and Revelation 4:7.
 The British Royal Coat of Arms features:
 - **Three lions passant** (England): Judah's symbol
 - **Lion rampant** (Scotland): Judah's symbol
-- **Unicorn** (Scotland): Ephraim's symbol from Deuteronomy 33:17
+- **Unicorn** (Scotland): Ephraim's symbol from [[Scripture/Deuteronomy/33#Verse 17|Deuteronomy 33:17]]
 
 The phrase "the British Lion" is not coincidental.
 
 ### The Unicorn of Ephraim
 
-Deuteronomy 33:17 describes Joseph's horns as "horns of unicorns" (Hebrew: *re'em*, a wild ox or aurochs). The unicorn appears on:
+[[Scripture/Deuteronomy/33#Verse 17|Deuteronomy 33:17]] describes Joseph's horns as "horns of unicorns" (Hebrew: *re'em*, a wild ox or aurochs). The unicorn appears on:
 - Scottish Royal Arms
 - British Royal Arms (opposite the lion)
 - Various European noble houses
@@ -80,7 +80,7 @@ England = "Anglos" = from "Engel" = "young bull", matching Ephraim's symbol.
 
 ### Dan's Serpent Trail
 
-Genesis 49:17 says Dan would be "a serpent by the way", leaving a trail. Dan's name appears across Europe:
+[[Scripture/Genesis/49#Verse 17|Genesis 49:17]] says Dan would be "a serpent by the way", leaving a trail. Dan's name appears across Europe:
 - **Denmark** (Dan's mark)
 - **Danube** River
 - **Dnieper** River (from Danapris)
@@ -92,9 +92,9 @@ The Danish flag is the oldest national flag still in use, a Christian cross.
 
 ### Benjamin's Wolf in Rome
 
-Genesis 49:27 calls Benjamin a "ravenous wolf." Rome's founding legend:
+[[Scripture/Genesis/49#Verse 27|Genesis 49:27]] calls Benjamin a "ravenous wolf." Rome's founding legend:
 - Romulus and Remus nursed by a **wolf**
-- The Apostle Paul was of the tribe of Benjamin (Romans 11:1, Philippians 3:5)
+- The Apostle Paul was of the tribe of Benjamin ([[Scripture/Romans/11#Verse 1|Romans 11:1]], [[Scripture/Philippians/3#Verse 5|Philippians 3:5]])
 - Paul's primary mission was to Rome and the Romans
 
 ---
@@ -163,8 +163,8 @@ If Europeans inherited the symbols of Israel, they inherited the blood of Israel
 ## Cross-References
 
 - [[01 - Nations Abraham Seed]]: The promises these symbols identify
-- [[18 - Jacobs Blessing Twelve Tribes]]: Full text of Genesis 49
-- [[19 - Moses Blessing Twelve Tribes]]: Full text of Deuteronomy 33
+- [[18 - Jacobs Blessing Twelve Tribes]]: Full text of [[Scripture/Genesis/49|Genesis 49]]
+- [[19 - Moses Blessing Twelve Tribes]]: Full text of [[Scripture/Deuteronomy/33|Deuteronomy 33]]
 - [[20 - Dans Trail Through Europe]]: Detailed tracking of Dan
 
 ---

@@ -9,11 +9,11 @@ The 144,000 sealed Israelites and the "great multitude which no man could number
 
 ## The 144,000
 
-### Revelation 7:4
+### [[Scripture/Revelation/7#Verse 4|Revelation 7:4]]
 
 > "And I heard the number of them which were sealed: and there were sealed **an hundred and forty and four thousand of all the tribes of the children of Israel**."
 
-### Revelation 14:1-5
+### [[Scripture/Revelation/14#Verse 1|Revelation 14:1-5]]
 
 > "And I looked, and, lo, **a Lamb stood on the mount Sion, and with him an hundred forty and four thousand**, having his Father's name written in their foreheads... These are they which were not defiled with women; for they are virgins. These are they which **follow the Lamb whithersoever he goeth**. These were redeemed from among men, being the **firstfruits unto God and to the Lamb**."
 
@@ -28,11 +28,11 @@ Characteristics:
 
 ## The Great Multitude
 
-### Revelation 7:9-10
+### [[Scripture/Revelation/7#Verse 9|Revelation 7:9-10]]
 
 > "After this I beheld, and, lo, **a great multitude, which no man could number**, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands; And cried with a loud voice, saying, **Salvation to our God** which sitteth upon the throne, and unto the Lamb."
 
-### Revelation 7:13-14
+### [[Scripture/Revelation/7#Verse 13|Revelation 7:13-14]]
 
 > "What are these which are arrayed in white robes? and whence came they?... These are they which **came out of great tribulation**, and have washed their robes, and made them white in the blood of the Lamb."
 
@@ -45,7 +45,7 @@ Characteristics:
 > "Of **all nations, and kindreds, and people, and tongues**"
 
 This sounds universal, but consider:
-- Israel became "many nations" (Genesis 17:5)
+- Israel became "many nations" ([[Scripture/Genesis/17#Verse 5|Genesis 17:5]])
 - Israel was scattered among all nations
 - The Greek *ethnos* (nations) doesn't require every nation on earth
 
@@ -53,7 +53,7 @@ The "great multitude" is from the **nations of Israel**, the scattered tribes.
 
 ### Abraham's Promise
 
-> **Genesis 22:17**: "I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore."
+> **[[Scripture/Genesis/22#Verse 17|Genesis 22:17]]**: "I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore."
 
 An "innumerable multitude" was promised to Abraham's seed, Israel.
 
@@ -94,7 +94,7 @@ The 144,000 as "firstfruits" implies:
 
 ## From Great Tribulation
 
-### Revelation 7:14
+### [[Scripture/Revelation/7#Verse 14|Revelation 7:14]]
 
 > "These are they which **came out of great tribulation**."
 
@@ -109,7 +109,7 @@ This describes Israel's experience, suffering, persecution, but ultimately prese
 
 ## The White Robes
 
-### Revelation 7:13-14
+### [[Scripture/Revelation/7#Verse 13|Revelation 7:13-14]]
 
 > "These... have **washed their robes**, and made them white in the **blood of the Lamb**."
 
@@ -129,7 +129,7 @@ This is Israel redeemed by their kinsman-redeemer.
 The great multitude is not "everyone saved":
 - They come out of tribulation (a specific experience)
 - They are before the throne (after death/rapture)
-- They serve God in His temple (Revelation 7:15)
+- They serve God in His temple ([[Scripture/Revelation/7#Verse 15|Revelation 7:15]])
 
 They are the saved of Israel, those who accepted Christ.
 

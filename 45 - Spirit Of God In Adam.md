@@ -9,7 +9,7 @@ Adam received the "breath of life" (*neshamah*) directly from Yahweh, a spiritua
 
 ## The Breath
 
-### Genesis 2:7
+### [[Scripture/Genesis/2#Verse 7|Genesis 2:7]]
 
 > "And the LORD God formed man of the dust of the ground, and **breathed into his nostrils the breath of life**; and man became a **living soul**."
 
@@ -36,13 +36,13 @@ Adam received the *neshamah*, a spirit-breath directly from God.
 - Can refer to animals' life-force
 - Also used for God's Spirit
 
-### Job 32:8
+### [[Scripture/Job/32#Verse 8|Job 32:8]]
 
 > "But there is a spirit [*ruach*] in man: and the **inspiration [*neshamah*] of the Almighty** giveth them understanding."
 
 The *neshamah* from God gives understanding, a capacity for divine communion.
 
-### Job 33:4
+### [[Scripture/Job/33#Verse 4|Job 33:4]]
 
 > "The Spirit [*ruach*] of God hath made me, and the **breath [*neshamah*] of the Almighty** hath given me life."
 
@@ -52,7 +52,7 @@ Both terms used, the *neshamah* specifically gives life.
 
 ## Animals Do Not Have Neshamah
 
-### Genesis 7:22
+### [[Scripture/Genesis/7#Verse 22|Genesis 7:22]]
 
 > "All in whose nostrils was the **breath of life** [*neshamah chayah*], of all that was in the dry land, died."
 
@@ -71,7 +71,7 @@ This *neshamah* is what makes Adam's race capable of spiritual communion with Go
 
 ## Passed to Descendants
 
-### Genesis 5:1-3
+### [[Scripture/Genesis/5#Verse 1|Genesis 5:1-3]]
 
 > "This is the book of the generations of Adam. In the day that God created man, in the **likeness of God** made he him... And Adam lived an hundred and thirty years, and begat a son in **his own likeness, after his image**; and called his name Seth."
 
@@ -107,7 +107,7 @@ If other peoples did not receive the *neshamah*:
 This explains why:
 - Israel is uniquely God's people
 - Christ came for Israel
-- Some "cannot hear" (John 8:47)
+- Some "cannot hear" ([[Scripture/John/8#Verse 47|John 8:47]])
 
 ---
 
@@ -115,19 +115,19 @@ This explains why:
 
 ### The Holy Spirit
 
-> **John 20:22**: "He breathed on them, and saith unto them, **Receive ye the Holy Ghost**."
+> **[[Scripture/John/20#Verse 22|John 20:22]]**: "He breathed on them, and saith unto them, **Receive ye the Holy Ghost**."
 
-Christ breathed on His disciples, echoing Genesis 2:7. He gave them the Spirit as Yahweh gave Adam the *neshamah*.
+Christ breathed on His disciples, echoing [[Scripture/Genesis/2#Verse 7|Genesis 2:7]]. He gave them the Spirit as Yahweh gave Adam the *neshamah*.
 
 ### Born of the Spirit
 
-> **John 3:6**: "That which is born of the flesh is flesh; and **that which is born of the Spirit is spirit**."
+> **[[Scripture/John/3#Verse 6|John 3:6]]**: "That which is born of the flesh is flesh; and **that which is born of the Spirit is spirit**."
 
 Spiritual birth requires having the spiritual capacity, the *neshamah*, to receive the Spirit.
 
 ### Spirit Witnesses with Spirit
 
-> **Romans 8:16**: "**The Spirit itself beareth witness with our spirit**, that we are the children of God."
+> **[[Scripture/Romans/8#Verse 16|Romans 8:16]]**: "**The Spirit itself beareth witness with our spirit**, that we are the children of God."
 
 God's Spirit witnesses with our spirit, the *neshamah* He placed in Adam's race. This witness requires having a spirit capable of communion.
 
@@ -177,7 +177,7 @@ The breath of God in Adam is why his race is uniquely capable of knowing God, an
 ## Cross-References
 
 - [[44 - Adam Created Separately]]: Adam's unique creation
-- [[46 - Two Different Creations]]: Genesis 1 vs. 2
+- [[46 - Two Different Creations]]: [[Scripture/Genesis/1|Genesis 1]] vs. 2
 - [[27 - Children Of Israel Sons And Heirs]]: Israel as God's children
 
 ---

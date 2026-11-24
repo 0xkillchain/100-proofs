@@ -3,11 +3,11 @@
 
 ## The Claim
 
-Deuteronomy 28 lists specific blessings for obedience and curses for disobedience. These blessings and curses have applied only to the European peoples, confirming they are Israel.
+[[Scripture/Deuteronomy/28|Deuteronomy 28]] lists specific blessings for obedience and curses for disobedience. These blessings and curses have applied only to the European peoples, confirming they are Israel.
 
 ---
 
-## The Blessings (Deuteronomy 28:1-14)
+## The Blessings ([[Scripture/Deuteronomy/28#Verse 1|Deuteronomy 28:1-14]])
 
 ### Promised Blessings
 
@@ -47,11 +47,11 @@ Deuteronomy 28 lists specific blessings for obedience and curses for disobedienc
 | Head, not tail | Leading in science, arts, government |
 | Blessed abundantly | Unmatched prosperity |
 
-From ~500 AD to ~1900 AD, Christian Europe experienced unprecedented blessings matching Deuteronomy 28.
+From ~500 AD to ~1900 AD, Christian Europe experienced unprecedented blessings matching [[Scripture/Deuteronomy/28|Deuteronomy 28]].
 
 ---
 
-## The Curses (Deuteronomy 28:15-68)
+## The Curses ([[Scripture/Deuteronomy/28#Verse 15|Deuteronomy 28:15-68]])
 
 ### Promised Curses
 
@@ -89,7 +89,7 @@ From ~500 AD to ~1900 AD, Christian Europe experienced unprecedented blessings m
 | Tail, not head | Declining influence, following others |
 | Scattered | Diaspora, migration |
 
-Post-Christian Europe has experienced curses matching Deuteronomy 28.
+Post-Christian Europe has experienced curses matching [[Scripture/Deuteronomy/28|Deuteronomy 28]].
 
 ---
 
@@ -169,7 +169,7 @@ Deuteronomy's blessings and curses prove:
 4. **Unique to Europeans**: No other people matches both
 5. **Confirms identity**: Europeans are Israel
 
-The pattern of Deuteronomy 28 identifies who Israel is, the European peoples.
+The pattern of [[Scripture/Deuteronomy/28|Deuteronomy 28]] identifies who Israel is, the European peoples.
 
 ---
 

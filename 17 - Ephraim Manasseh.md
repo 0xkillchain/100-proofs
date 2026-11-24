@@ -9,7 +9,7 @@ Jacob blessed Joseph's sons Ephraim and Manasseh with a specific prophecy: Manas
 
 ## The Blessing
 
-### Genesis 48:13-20
+### [[Scripture/Genesis/48#Verse 13|Genesis 48:13-20]]
 
 Joseph brought his two sons to Jacob for blessing. He positioned:
 - **Manasseh** (firstborn) at Jacob's right hand
@@ -89,7 +89,7 @@ The pattern matches:
 
 ### Why Joseph's Sons?
 
-Joseph received the birthright blessing (1 Chronicles 5:1-2), which included:
+Joseph received the birthright blessing ([[Scripture/1-Chronicles/5#Verse 1|1 Chronicles 5:1-2]]), which included:
 - Double portion of inheritance
 - The blessing of the firstborn
 
@@ -104,9 +104,9 @@ In Israel's tribal system:
 
 ---
 
-## Jacob's Prophecy in Genesis 49
+## Jacob's Prophecy in [[Scripture/Genesis/49|Genesis 49]]
 
-> **Genesis 49:22-26**: "Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall: The archers have sorely grieved him, and shot at him, and hated him: But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob... The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph."
+> **[[Scripture/Genesis/49#Verse 22|Genesis 49:22-26]]**: "Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall: The archers have sorely grieved him, and shot at him, and hated him: But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob... The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph."
 
 Key elements:
 - **Fruitful bough**: Prosperous, growing
@@ -119,9 +119,9 @@ This describes colonial expansion, "branches running over the wall" to the "utmo
 
 ---
 
-## Moses' Prophecy in Deuteronomy 33
+## Moses' Prophecy in [[Scripture/Deuteronomy/33|Deuteronomy 33]]
 
-> **Deuteronomy 33:13-17**: "Blessed of the LORD be his land, for the precious things of heaven... And for the precious things of the earth and fulness thereof... His glory is like the firstling of his bullock, and his horns are like the horns of unicorns: with them he shall **push the people together to the ends of the earth**: they are the **ten thousands of Ephraim**, and they are the **thousands of Manasseh**."
+> **[[Scripture/Deuteronomy/33#Verse 13|Deuteronomy 33:13-17]]**: "Blessed of the LORD be his land, for the precious things of heaven... And for the precious things of the earth and fulness thereof... His glory is like the firstling of his bullock, and his horns are like the horns of unicorns: with them he shall **push the people together to the ends of the earth**: they are the **ten thousands of Ephraim**, and they are the **thousands of Manasseh**."
 
 Key elements:
 - **Blessed land**: Abundant natural resources (America, Australia, etc.)
@@ -149,7 +149,7 @@ Britain colonized globally; America became the single great nation. The prophecy
 ### Symbols
 
 **The Unicorn:**
-> **Deuteronomy 33:17**: "His horns are like the horns of **unicorns**."
+> **[[Scripture/Deuteronomy/33#Verse 17|Deuteronomy 33:17]]**: "His horns are like the horns of **unicorns**."
 
 The Unicorn is on:
 - The British Royal Coat of Arms
@@ -217,8 +217,8 @@ This is one of the most specific and verifiable prophecies identifying Israel in
 
 - [[01 - Nations Abraham Seed]]: The foundational promises
 - [[16 - Promises Only Europeans Fulfilled]]: The fulfillment summary
-- [[18 - Jacobs Blessing Twelve Tribes]]: Full Genesis 49 analysis
-- [[19 - Moses Blessing Twelve Tribes]]: Full Deuteronomy 33 analysis
+- [[18 - Jacobs Blessing Twelve Tribes]]: Full [[Scripture/Genesis/49|Genesis 49]] analysis
+- [[19 - Moses Blessing Twelve Tribes]]: Full [[Scripture/Deuteronomy/33|Deuteronomy 33]] analysis
 
 ---
 

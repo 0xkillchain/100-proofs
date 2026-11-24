@@ -29,16 +29,16 @@ The Greek word *ekklesia* (translated "church") means "called-out assembly." In 
 
 The Septuagint (Greek Old Testament, translated ~250 BC) uses *ekklesia* to translate the Hebrew *qahal*:
 
-> **Deuteronomy 9:10**: "The LORD delivered unto me two tables of stone written with the finger of God; and on them was written according to all the words, which the LORD spake with you in the mount out of the midst of the fire in the day of the **assembly** [*qahal*/ekklesia]."
+> **[[Scripture/Deuteronomy/9#Verse 10|Deuteronomy 9:10]]**: "The LORD delivered unto me two tables of stone written with the finger of God; and on them was written according to all the words, which the LORD spake with you in the mount out of the midst of the fire in the day of the **assembly** [*qahal*/ekklesia]."
 
-> **Deuteronomy 23:1-3**: "He that is wounded... shall not enter into the **congregation** [*qahal*/ekklesia] of the LORD... An Ammonite or Moabite shall not enter into the **congregation** of the LORD."
+> **[[Scripture/Deuteronomy/23#Verse 1|Deuteronomy 23:1-3]]**: "He that is wounded... shall not enter into the **congregation** [*qahal*/ekklesia] of the LORD... An Ammonite or Moabite shall not enter into the **congregation** of the LORD."
 
 The *ekklesia* of the Old Testament was:
 - Israel's national assembly
 - A gathering of covenant people
 - Exclusive: not everyone could enter
 
-### Acts 7:38
+### [[Scripture/Acts/7#Verse 38|Acts 7:38]]
 
 Stephen explicitly connects the terms:
 
@@ -50,23 +50,23 @@ Stephen calls Israel's wilderness assembly the "ekklesia", the church. The churc
 
 ## New Testament Usage
 
-### Matthew 16:18
+### [[Scripture/Matthew/16#Verse 18|Matthew 16:18]]
 
 > "Upon this rock I will build my **church** [*ekklesia*]; and the gates of hell shall not prevail against it."
 
 Christ was not building a "new" institution, He was rebuilding/restoring Israel's assembly on the foundation of faith in Him as Messiah.
 
-### Hebrews 2:12
+### [[Scripture/Hebrews/2#Verse 12|Hebrews 2:12]]
 
 > "I will declare thy name unto my **brethren**, in the midst of the **church** [*ekklesia*] will I sing praise unto thee."
 
-This quotes Psalm 22:22, where the Hebrew is *qahal*. The author of Hebrews equates the Old Testament *qahal* with the New Testament *ekklesia*.
+This quotes [[Scripture/Psalms/22#Verse 22|Psalm 22:22]], where the Hebrew is *qahal*. The author of Hebrews equates the Old Testament *qahal* with the New Testament *ekklesia*.
 
-### Hebrews 12:23
+### [[Scripture/Hebrews/12#Verse 23|Hebrews 12:23]]
 
 > "To the general assembly and **church** [*ekklesia*] of the firstborn, which are written in heaven."
 
-The "church of the firstborn", Israel was Yahweh's firstborn (Exodus 4:22). This is Israel's assembly in its heavenly fulfillment.
+The "church of the firstborn", Israel was Yahweh's firstborn ([[Scripture/Exodus/4#Verse 22|Exodus 4:22]]). This is Israel's assembly in its heavenly fulfillment.
 
 ---
 
@@ -76,15 +76,15 @@ The "church of the firstborn", Israel was Yahweh's firstborn (Exodus 4:22). This
 
 In the Old Testament, Israel was called out:
 
-> **Deuteronomy 7:6**: "For thou art an holy people unto the LORD thy God: the LORD thy God hath **chosen thee** to be a special people unto himself, above all people that are upon the face of the earth."
+> **[[Scripture/Deuteronomy/7#Verse 6|Deuteronomy 7:6]]**: "For thou art an holy people unto the LORD thy God: the LORD thy God hath **chosen thee** to be a special people unto himself, above all people that are upon the face of the earth."
 
-> **Isaiah 41:8-9**: "But thou, Israel, art my servant, Jacob whom I have **chosen**... Thou whom I have taken from the ends of the earth, and **called thee**."
+> **[[Scripture/Isaiah/41#Verse 8|Isaiah 41:8-9]]**: "But thou, Israel, art my servant, Jacob whom I have **chosen**... Thou whom I have taken from the ends of the earth, and **called thee**."
 
 In the New Testament:
 
-> **1 Peter 2:9**: "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath **called you** out of darkness into his marvellous light."
+> **[[Scripture/1-Peter/2#Verse 9|1 Peter 2:9]]**: "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath **called you** out of darkness into his marvellous light."
 
-Peter uses Old Testament language for Israel (Exodus 19:6) and applies it to his European audience, because they are Israel.
+Peter uses Old Testament language for Israel ([[Scripture/Exodus/19#Verse 6|Exodus 19:6]]) and applies it to his European audience, because they are Israel.
 
 ---
 
@@ -102,7 +102,7 @@ The "church" is:
 - The same people with a renewed covenant
 - The *qahal* of the Old Testament in New Testament form
 
-### Galatians 6:16
+### [[Scripture/Galatians/6#Verse 16|Galatians 6:16]]
 
 > "And as many as walk according to this rule, peace be on them, and mercy, and upon **the Israel of God**."
 
@@ -114,7 +114,7 @@ Paul calls the church "the Israel of God", because that's what it is.
 
 ### Old Testament Restrictions
 
-> **Deuteronomy 23:1-3**: Certain peoples could not enter the *qahal* "even to the tenth generation."
+> **[[Scripture/Deuteronomy/23#Verse 1|Deuteronomy 23:1-3]]**: Certain peoples could not enter the *qahal* "even to the tenth generation."
 
 The assembly had ethnic boundaries.
 
@@ -152,7 +152,7 @@ Better translations:
 The "church" is Israel's assembly because:
 
 1. **Ekklesia = qahal**: Same word, same concept
-2. **Acts 7:38**: Israel in the wilderness was the *ekklesia*
+2. **[[Scripture/Acts/7#Verse 38|Acts 7:38]]**: Israel in the wilderness was the *ekklesia*
 3. **Hebrews quotes Psalms**: *Qahal* becomes *ekklesia*
 4. **Same people**: Old Testament Israel, New Testament church
 5. **"Israel of God"**: Paul's name for the church

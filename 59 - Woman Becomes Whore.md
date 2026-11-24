@@ -3,13 +3,13 @@
 
 ## The Claim
 
-The pure woman of Revelation 12 (Israel/the Church) becomes corrupted and appears as the "whore of Babylon" in Revelation 17. This represents Israel's apostasy in the institutional church, while the true remnant remains faithful.
+The pure woman of [[Scripture/Revelation/12|Revelation 12]] (Israel/the Church) becomes corrupted and appears as the "whore of Babylon" in [[Scripture/Revelation/17|Revelation 17]]. This represents Israel's apostasy in the institutional church, while the true remnant remains faithful.
 
 ---
 
 ## Two Visions of a Woman
 
-### Revelation 12: The Pure Woman
+### [[Scripture/Revelation/12|Revelation 12]]: The Pure Woman
 
 - Clothed with the sun
 - Crown of twelve stars
@@ -17,7 +17,7 @@ The pure woman of Revelation 12 (Israel/the Church) becomes corrupted and appear
 - Fled to wilderness
 - The true Israel/Church
 
-### Revelation 17: The Harlot
+### [[Scripture/Revelation/17|Revelation 17]]: The Harlot
 
 - Dressed in purple and scarlet
 - Decked with gold and jewels
@@ -29,7 +29,7 @@ The pure woman of Revelation 12 (Israel/the Church) becomes corrupted and appear
 
 ## The Harlot Described
 
-### Revelation 17:1-6
+### [[Scripture/Revelation/17#Verse 1|Revelation 17:1-6]]
 
 > "Come hither; I will shew unto thee the judgment of the **great whore** that sitteth upon many waters: With whom the kings of the earth have committed fornication... And the woman was arrayed in **purple and scarlet colour**, and decked with gold and precious stones and pearls, having a **golden cup** in her hand full of abominations... And upon her forehead was a name written, **MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS**... And I saw the woman **drunken with the blood of the saints**."
 
@@ -41,11 +41,11 @@ The pure woman of Revelation 12 (Israel/the Church) becomes corrupted and appear
 
 Throughout the Old Testament, Israel is portrayed as God's unfaithful wife:
 
-> **Ezekiel 16:15**: "But **thou didst trust in thine own beauty, and playedst the harlot** because of thy renown."
+> **[[Scripture/Ezekiel/16#Verse 15|Ezekiel 16:15]]**: "But **thou didst trust in thine own beauty, and playedst the harlot** because of thy renown."
 
-> **Hosea 4:12**: "My people ask counsel at their stocks, and their staff declareth unto them: for the **spirit of whoredoms** hath caused them to err."
+> **[[Scripture/Hosea/4#Verse 12|Hosea 4:12]]**: "My people ask counsel at their stocks, and their staff declareth unto them: for the **spirit of whoredoms** hath caused them to err."
 
-> **Jeremiah 3:6**: "Hast thou seen that which **backsliding Israel hath done? she is gone up upon every high mountain and under every green tree, and there hath played the harlot**."
+> **[[Scripture/Jeremiah/3#Verse 6|Jeremiah 3:6]]**: "Hast thou seen that which **backsliding Israel hath done? she is gone up upon every high mountain and under every green tree, and there hath played the harlot**."
 
 Israel's apostasy was always described as harlotry/adultery.
 
@@ -80,9 +80,9 @@ If Christianity is Israel's faith, then:
 
 ### Same Woman, Different Condition
 
-The woman of Revelation 12 and 17 may be the same woman in different states:
-- **Revelation 12**: Israel pure, persecuted
-- **Revelation 17**: Israel corrupted, persecuting
+The woman of [[Scripture/Revelation/12|Revelation 12]] and [[Scripture/Revelation/17|17]] may be the same woman in different states:
+- **[[Scripture/Revelation/12|Revelation 12]]**: Israel pure, persecuted
+- **[[Scripture/Revelation/17|Revelation 17]]**: Israel corrupted, persecuting
 
 This parallels Israel's history:
 - Faithful under persecution
@@ -91,9 +91,9 @@ This parallels Israel's history:
 
 ### The Remnant
 
-> **Revelation 12:17**: "The remnant of her seed, which keep the commandments of God."
+> **[[Scripture/Revelation/12#Verse 17|Revelation 12:17]]**: "The remnant of her seed, which keep the commandments of God."
 
-> **Revelation 18:4**: "**Come out of her, my people**, that ye be not partakers of her sins."
+> **[[Scripture/Revelation/18#Verse 4|Revelation 18:4]]**: "**Come out of her, my people**, that ye be not partakers of her sins."
 
 God's people (Israel) are called out of the corrupt system, proving they're inside it.
 
@@ -101,7 +101,7 @@ God's people (Israel) are called out of the corrupt system, proving they're insi
 
 ## The Judgment
 
-### Revelation 17:16
+### [[Scripture/Revelation/17#Verse 16|Revelation 17:16]]
 
 > "And the ten horns which thou sawest upon the beast, **these shall hate the whore**, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire."
 
@@ -110,7 +110,7 @@ The corrupt system will be judged:
 - Destroyed completely
 - Divine judgment executed
 
-### Revelation 18
+### [[Scripture/Revelation/18|Revelation 18]]
 
 Describes the fall of "Babylon":
 - Merchants mourn
@@ -132,7 +132,7 @@ The "harlot" may represent:
 ### The True Israel
 
 True Israel:
-- Comes out of Babylon (Revelation 18:4)
+- Comes out of Babylon ([[Scripture/Revelation/18#Verse 4|Revelation 18:4]])
 - Keeps the commandments
 - Has the testimony of Jesus
 - The faithful remnant

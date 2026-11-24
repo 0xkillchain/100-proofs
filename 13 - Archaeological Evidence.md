@@ -13,7 +13,7 @@ Archaeological discoveries confirm the Israelite migrations to Europe. Artifacts
 
 **Tell Halaf (Gozan)**
 - Location: Northern Syria
-- Significance: One of the cities where Israel was placed (2 Kings 17:6)
+- Significance: One of the cities where Israel was placed ([[Scripture/2-Kings/17#Verse 6|2 Kings 17:6]])
 - Findings: Aramaean and Assyrian period artifacts, evidence of diverse population
 
 **Nimrud (Calah)**
@@ -136,7 +136,7 @@ Scythian/Cimmerian peoples buried their dead in kurgans (burial mounds):
 - Sometimes human sacrifice (apostasy period)
 
 **Israelite parallels:**
-- Burial mounds mentioned in scripture (Joshua 7:26, 2 Samuel 18:17)
+- Burial mounds mentioned in scripture ([[Scripture/Joshua/7#Verse 26|Joshua 7:26, 2]] Samuel 18:17)
 - Elite burials with goods (patriarchal tombs)
 - Horse and chariot associations (Solomon's era)
 
@@ -198,7 +198,7 @@ These routes facilitated both trade and migration. Amber appears in:
 Tin from Britain reached:
 - Phoenician traders
 - The Mediterranean
-- Eventually to Israel (Ezekiel 27:12)
+- Eventually to Israel ([[Scripture/Ezekiel/27#Verse 12|Ezekiel 27:12]])
 
 This trade network established connections long before the main migrations.
 

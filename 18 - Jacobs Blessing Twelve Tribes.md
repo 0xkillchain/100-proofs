@@ -3,13 +3,13 @@
 
 ## The Claim
 
-In Genesis 49, Jacob prophesied over each of his twelve sons, describing what would befall their descendants "in the last days." These prophecies have been fulfilled in the European nations.
+In [[Scripture/Genesis/49|Genesis 49]], Jacob prophesied over each of his twelve sons, describing what would befall their descendants "in the last days." These prophecies have been fulfilled in the European nations.
 
 ---
 
 ## The Text
 
-> **Genesis 49:1**: "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you **in the last days**."
+> **[[Scripture/Genesis/49#Verse 1|Genesis 49:1]]**: "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you **in the last days**."
 
 This is prophecy, not just blessing, but prediction of future fulfillment.
 
@@ -17,7 +17,7 @@ This is prophecy, not just blessing, but prediction of future fulfillment.
 
 ## The Twelve Blessings
 
-### Reuben (49:3-4)
+### Reuben ([[Scripture/Genesis/49#Verse 3|49:3-4]])
 
 > "Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power: **Unstable as water, thou shalt not excel**; because thou wentest up to thy father's bed."
 
@@ -30,7 +30,7 @@ This is prophecy, not just blessing, but prediction of future fulfillment.
 
 ---
 
-### Simeon and Levi (49:5-7)
+### Simeon and Levi ([[Scripture/Genesis/49#Verse 5|49:5-7]])
 
 > "Simeon and Levi are brethren; instruments of cruelty are in their habitations... **I will divide them in Jacob, and scatter them in Israel**."
 
@@ -46,7 +46,7 @@ This is prophecy, not just blessing, but prediction of future fulfillment.
 
 ---
 
-### Judah (49:8-12)
+### Judah ([[Scripture/Genesis/49#Verse 8|49:8-12]])
 
 > "Judah, thou art he whom thy brethren shall praise... The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come."
 
@@ -63,7 +63,7 @@ This is prophecy, not just blessing, but prediction of future fulfillment.
 
 ---
 
-### Zebulun (49:13)
+### Zebulun ([[Scripture/Genesis/49#Verse 13|49:13]])
 
 > "Zebulun shall dwell at the **haven of the sea**; and he shall be for an **haven of ships**; and his border shall be unto Zidon."
 
@@ -76,7 +76,7 @@ This is prophecy, not just blessing, but prediction of future fulfillment.
 
 ---
 
-### Issachar (49:14-15)
+### Issachar ([[Scripture/Genesis/49#Verse 14|49:14-15]])
 
 > "Issachar is a strong ass couching down between two burdens: And he saw that rest was good, and the land that it was pleasant; and bowed his shoulder to bear, and became a servant unto tribute."
 
@@ -89,7 +89,7 @@ This is prophecy, not just blessing, but prediction of future fulfillment.
 
 ---
 
-### Dan (49:16-18)
+### Dan ([[Scripture/Genesis/49#Verse 16|49:16-18]])
 
 > "Dan shall judge his people, as one of the tribes of Israel. **Dan shall be a serpent by the way, an adder in the path**, that biteth the horse heels, so that his rider shall fall backward."
 
@@ -106,7 +106,7 @@ This is prophecy, not just blessing, but prediction of future fulfillment.
 
 ---
 
-### Gad (49:19)
+### Gad ([[Scripture/Genesis/49#Verse 19|49:19]])
 
 > "Gad, a troop shall overcome him: but he shall overcome at the last."
 
@@ -119,7 +119,7 @@ This is prophecy, not just blessing, but prediction of future fulfillment.
 
 ---
 
-### Asher (49:20)
+### Asher ([[Scripture/Genesis/49#Verse 20|49:20]])
 
 > "Out of Asher his bread shall be fat, and he shall yield **royal dainties**."
 
@@ -132,7 +132,7 @@ This is prophecy, not just blessing, but prediction of future fulfillment.
 
 ---
 
-### Naphtali (49:21)
+### Naphtali ([[Scripture/Genesis/49#Verse 21|49:21]])
 
 > "Naphtali is a **hind let loose**: he giveth **goodly words**."
 
@@ -144,7 +144,7 @@ This is prophecy, not just blessing, but prediction of future fulfillment.
 
 ---
 
-### Joseph (49:22-26)
+### Joseph ([[Scripture/Genesis/49#Verse 22|49:22-26]])
 
 > "Joseph is a **fruitful bough**... whose branches run over the wall... The blessings of thy father have prevailed... unto the **utmost bound of the everlasting hills**."
 
@@ -158,7 +158,7 @@ This is prophecy, not just blessing, but prediction of future fulfillment.
 
 ---
 
-### Benjamin (49:27)
+### Benjamin ([[Scripture/Genesis/49#Verse 27|49:27]])
 
 > "Benjamin shall ravin as a **wolf**: in the morning he shall devour the prey, and at night he shall divide the spoil."
 

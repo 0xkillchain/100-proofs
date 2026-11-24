@@ -22,7 +22,7 @@ Europeans transformed medicine from superstition to science.
 
 ## The Biblical Motivation
 
-> **Matthew 25:36**: "I was sick, and ye visited me."
+> **[[Scripture/Matthew/25#Verse 36|Matthew 25:36]]**: "I was sick, and ye visited me."
 
 Christ healed. His followers built hospitals.
 

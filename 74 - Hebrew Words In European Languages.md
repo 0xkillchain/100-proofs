@@ -155,9 +155,9 @@ This trail of "Dan" names follows the migration route.
 ### Parallel Expressions
 
 Some European idioms parallel Hebrew expressions:
-- "By the skin of my teeth": Job 19:20
-- "A drop in the bucket": Isaiah 40:15
-- "The apple of his eye": Deuteronomy 32:10
+- "By the skin of my teeth": [[Scripture/Job/19#Verse 20|Job 19:20]]
+- "A drop in the bucket": [[Scripture/Isaiah/40#Verse 15|Isaiah 40:15]]
+- "The apple of his eye": [[Scripture/Deuteronomy/32#Verse 10|Deuteronomy 32:10]]
 
 While some came through Bible translation, cultural affinity may explain adoption.
 

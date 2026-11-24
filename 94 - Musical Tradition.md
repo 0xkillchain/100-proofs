@@ -19,9 +19,9 @@ European sacred music, hymns, choral works, organ music, continues Israel's trad
 
 ## The Biblical Command
 
-> **Psalm 96:1**: "O sing unto the LORD a new song: sing unto the LORD, all the earth."
+> **[[Scripture/Psalms/96#Verse 1|Psalm 96:1]]**: "O sing unto the LORD a new song: sing unto the LORD, all the earth."
 
-> **Colossians 3:16**: "Singing with grace in your hearts to the Lord."
+> **[[Scripture/Colossians/3#Verse 16|Colossians 3:16]]**: "Singing with grace in your hearts to the Lord."
 
 Israel was commanded to sing. Europeans developed the richest sacred music tradition in history.
 

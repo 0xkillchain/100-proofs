@@ -9,7 +9,7 @@ Christ was the kinsman-redeemer of Israel. Under biblical law, only a close rela
 
 ## The Kinsman-Redeemer Law
 
-### Leviticus 25:47-49
+### [[Scripture/Leviticus/25#Verse 47|Leviticus 25:47-49]]
 
 > "And if a sojourner or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger's family: After that he is sold he may be redeemed again; **one of his brethren may redeem him**: Either his uncle, or his uncle's son, may redeem him, or **any that is nigh of kin unto him** of his family may redeem him; or if he be able, he may redeem himself."
 
@@ -28,9 +28,9 @@ Only a kinsman could redeem. A stranger could not redeem an Israelite.
 
 ### His Genealogy
 
-> **Matthew 1:1**: "The book of the generation of Jesus Christ, the son of David, the son of Abraham."
+> **[[Scripture/Matthew/1#Verse 1|Matthew 1:1]]**: "The book of the generation of Jesus Christ, the son of David, the son of Abraham."
 
-> **Luke 3:23-38**: Full genealogy from Adam through Abraham, Judah, and David.
+> **[[Scripture/Luke/3#Verse 23|Luke 3:23-38]]**: Full genealogy from Adam through Abraham, Judah, and David.
 
 Christ was:
 - Of the tribe of Judah
@@ -39,13 +39,13 @@ Christ was:
 
 ### His Redemptive Work
 
-> **Galatians 4:4-5**: "God sent forth his Son, made of a woman, **made under the law**, to **redeem them that were under the law**."
+> **[[Scripture/Galatians/4#Verse 4|Galatians 4:4-5]]**: "God sent forth his Son, made of a woman, **made under the law**, to **redeem them that were under the law**."
 
 Christ came to redeem those "under the law", Israel, who received the law.
 
-> **Titus 2:14**: "Who gave himself for us, that he might **redeem us** from all iniquity, and purify unto himself a **peculiar people**, zealous of good works."
+> **[[Scripture/Titus/2#Verse 14|Titus 2:14]]**: "Who gave himself for us, that he might **redeem us** from all iniquity, and purify unto himself a **peculiar people**, zealous of good works."
 
-"Peculiar people", the same term used for Israel (Deuteronomy 14:2).
+"Peculiar people", the same term used for Israel ([[Scripture/Deuteronomy/14#Verse 2|Deuteronomy 14:2]]).
 
 ---
 
@@ -53,21 +53,21 @@ Christ came to redeem those "under the law", Israel, who received the law.
 
 ### "His People"
 
-> **Matthew 1:21**: "Thou shalt call his name JESUS: for he shall save **his people** from their sins."
+> **[[Scripture/Matthew/1#Verse 21|Matthew 1:21]]**: "Thou shalt call his name JESUS: for he shall save **his people** from their sins."
 
 Not "all people", **His** people. Israel.
 
 ### "Redeemed His People"
 
-> **Luke 1:68**: "Blessed be the Lord God of Israel; for he hath visited and **redeemed his people**."
+> **[[Scripture/Luke/1#Verse 68|Luke 1:68]]**: "Blessed be the Lord God of Israel; for he hath visited and **redeemed his people**."
 
 Zechariah (John the Baptist's father) understood Christ came to redeem Israel.
 
-> **Luke 1:77**: "To give knowledge of salvation unto **his people** by the remission of their sins."
+> **[[Scripture/Luke/1#Verse 77|Luke 1:77]]**: "To give knowledge of salvation unto **his people** by the remission of their sins."
 
 ### "Redeem Israel"
 
-> **Luke 24:21**: "But we trusted that it had been he which should have **redeemed Israel**."
+> **[[Scripture/Luke/24#Verse 21|Luke 24:21]]**: "But we trusted that it had been he which should have **redeemed Israel**."
 
 The disciples expected Christ to redeem Israel, and He did, through His death.
 
@@ -86,7 +86,7 @@ The book of Ruth illustrates kinsman-redemption:
 
 ### The Closer Kinsman
 
-> **Ruth 4:6**: "And the kinsman said, I cannot redeem it for myself, lest I mar mine own inheritance."
+> **[[Scripture/Ruth/4#Verse 6|Ruth 4:6]]**: "And the kinsman said, I cannot redeem it for myself, lest I mar mine own inheritance."
 
 The "closer kinsman" represents the law, which could not redeem Israel because it lacked the power. Christ, as kinsman-redeemer, did what the law could not.
 
@@ -99,7 +99,7 @@ The "closer kinsman" represents the law, which could not redeem Israel because i
 Christ could only redeem those to whom He was related:
 
 1. **Adam's race**: Christ became a man (Adam's descendant) to redeem Adam's race
-2. **Israel specifically**: Christ was born under the law (Galatians 4:4) to redeem those under the law
+2. **Israel specifically**: Christ was born under the law ([[Scripture/Galatians/4#Verse 4|Galatians 4:4]]) to redeem those under the law
 3. **Judah's tribe**: As a Judahite, Christ was kin to all Israel
 
 ### Who Is Excluded?
@@ -119,7 +119,7 @@ Those outside Israel cannot be redeemed under the Mosaic covenant:
 
 ### What "World" Means
 
-> **John 3:16**: "For God so loved the **world**..."
+> **[[Scripture/John/3#Verse 16|John 3:16]]**: "For God so loved the **world**..."
 
 The Greek *kosmos* (world) has multiple meanings:
 1. The created order
@@ -128,7 +128,7 @@ The Greek *kosmos* (world) has multiple meanings:
 
 In context, Christ came to save the "world" of His people, not every creature that exists.
 
-> **John 1:29**: "Behold the Lamb of God, which taketh away the sin of the **world**."
+> **[[Scripture/John/1#Verse 29|John 1:29]]**: "Behold the Lamb of God, which taketh away the sin of the **world**."
 
 The sin that entered through Adam affects Adam's race. Christ takes away that sin for Adam's descendants, specifically, Israel within Adam's race.
 
