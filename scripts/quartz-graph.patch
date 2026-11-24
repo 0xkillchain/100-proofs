@@ -92,11 +92,11 @@
 +.graph canvas { display: block; }
 +.graph { min-width: 0; }
 +@media all and ($desktop) {
-+  .page { max-width: none; margin: 0 1.5rem; }
-+  .page > #quartz-body {
++  html body .page { max-width: none; margin: 0 1.5rem; }
++  html body .page > #quartz-body {
 +    grid-template-columns: clamp(200px, 16vw, 240px) minmax(0, clamp(480px, 42vw, 720px)) minmax(320px, 1fr);
 +  }
-+  .page > #quartz-body .sidebar.right { min-width: 0; padding-left: 1rem; padding-right: 0; }
++  html body .page > #quartz-body .sidebar.right { min-width: 0; padding-left: 1rem; padding-right: 0; }
 +}
 --- a/quartz/components/scripts/graph.inline.ts
 +++ b/quartz/components/scripts/graph.inline.ts
