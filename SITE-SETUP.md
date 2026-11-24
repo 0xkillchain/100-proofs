@@ -29,7 +29,7 @@ Open http://localhost:8080. Use a fresh Quartz checkout before rerunning prepara
 
 The workflow uses Quartz's maintained `v4` branch rather than importing its implementation into this repository. For fully reproducible builds, replace `ref: v4` with a reviewed commit SHA after a successful build. A later migration to Quartz 5 should update the preparation script and workflow together.
 
-Only numbered source documents and INDEX.md are currently published. Expand the content selection in `scripts/prepare-site.py` when adding rebuttals in other files or folders. Broken wikilinks fail preparation rather than silently publishing dead links.
+Only numbered source documents and one generated homepage index are published. The original INDEX.md stays in the repository; source-index and INDEX URLs redirect to the homepage so they do not create duplicate graph nodes. Expand the content selection in `scripts/prepare-site.py` when adding rebuttals in other files or folders. Broken wikilinks fail preparation rather than silently publishing dead links.
 
 ## Graph customization
 

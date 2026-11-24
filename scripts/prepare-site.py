@@ -15,31 +15,30 @@ if content.exists():
     shutil.rmtree(content)
 content.mkdir()
 footer = '\n\n<footer><p>Original research performed by christogenea.org</p><a href="https://x.com/0xkillchain">@0xkillchain on X</a></footer>\n'
-notes = [p for p in ROOT.glob('*.md') if re.match(r'^\d+\s*-', p.name) or p.name == 'INDEX.md']
+notes = [p for p in ROOT.glob('*.md') if re.match(r'^\d+\s*-', p.name)]
 numbers = {int(p.name.split('-')[0]) for p in notes if re.match(r'^\d+\s*-', p.name)}
-if numbers != set(range(1, 101)) or not (ROOT / 'INDEX.md').is_file():
-    raise SystemExit('Expected source documents 1–100 and INDEX.md; refusing to publish incomplete content.')
-names = {p.stem for p in notes}
+if numbers != set(range(1, 101)):
+    raise SystemExit('Expected source documents 1–100; refusing to publish incomplete content.')
+names = {p.stem for p in notes} | {'index'}
 index_entries = []
-notes.sort(key=lambda p: int(p.name.split('-')[0]) if p.name != 'INDEX.md' else 101)
+notes.sort(key=lambda p: int(p.name.split('-')[0]))
 for source in notes:
-    text = source.read_text()
+    text = re.sub(r'\[\[(?:INDEX|source-index)(?=[|#\]])', '[[index', source.read_text())
     targets = [re.split(r'[|#]', m, maxsplit=1)[0] for m in re.findall(r'\[\[([^\]]+)\]\]', text)]
     missing = set(targets) - names - {''}
     if missing:
         raise SystemExit(f'{source.name}: unresolved links: {sorted(missing)}')
-    destination = 'source-index.md' if source.name == 'INDEX.md' else source.name
+    destination = source.name
     legacy_name = source.stem.replace(' - ', '-').replace(' ', '-')
-    redirect = f'---\naliases:\n  - {legacy_name}\n---\n\n' if source.name != 'INDEX.md' else ''
+    redirect = f'---\naliases:\n  - {legacy_name}\n---\n\n'
     (content / destination).write_text(redirect + text.strip() + footer)
-    if source.name != 'INDEX.md':
-        number = int(source.name.split('-')[0])
-        heading = re.search(r'^#\s+(.+)$', text, re.MULTILINE)
-        title = heading.group(1).strip() if heading else source.stem.split('-', 1)[1].strip()
-        title = re.sub(r'^Proof\s+\d+:\s*', '', title)
-        index_entries.append(f'{number}. [[{source.stem}|{title}]]')
+    number = int(source.name.split('-')[0])
+    heading = re.search(r'^#\s+(.+)$', text, re.MULTILINE)
+    title = heading.group(1).strip() if heading else source.stem.split('-', 1)[1].strip()
+    title = re.sub(r'^Proof\s+\d+:\s*', '', title)
+    index_entries.append(f'{number}. [[{source.stem}|{title}]]')
 (content / 'index.md').write_text(
-    '---\ntitle: 100 Proofs Index\n---\n\n' +
+    '---\ntitle: 100 Proofs Index\naliases:\n  - source-index\n  - INDEX\n---\n\n' +
     '\n'.join(index_entries) + '\n' + footer.replace(
         '</footer>',
         '<p><a href="https://github.com/0xkillchain/100-proofs">View on GitHub</a></p></footer>',
