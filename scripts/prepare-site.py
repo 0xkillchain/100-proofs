@@ -128,3 +128,8 @@ spa = spa.replace(needle, needle + """
 """)
 spa_path.write_text(spa)
 print(f'Versioned assets and graph data: {revision}')
+
+backlinks_path = quartz / 'quartz/components/Backlinks.tsx'
+backlinks = backlinks_path.read_text()
+backlinks = backlinks.replace('<OverflowList>', '<OverflowList tabIndex={0} aria-label="Backlinks">')
+backlinks_path.write_text(backlinks)

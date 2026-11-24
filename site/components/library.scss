@@ -28,3 +28,20 @@ html body .page-contents h2 { font-size: 1rem; margin: 0 0 .6rem; }
 html body .page-contents ul { margin: 0; padding-left: 1.2rem; }
 html body .page-contents li { break-inside: avoid; line-height: 1.6; font-size: .9rem; }
 html body .page-contents .contents-depth-2 { margin-left: .75rem; }
+/* Keep backlinks reachable and scroll only their list. */
+html body .page .backlinks { display: flex; flex-direction: column; min-height: 0; overflow: hidden; max-height: 24rem; }
+html body .page .backlinks > h3 { flex: 0 0 auto; }
+html body .page .backlinks > ul.overflow { flex: 1 1 auto; min-height: 0; max-height: none; overflow-y: auto; overscroll-behavior: contain; scrollbar-gutter: stable; }
+@media (min-width: 1200px) {
+  html body .page > #quartz-body .sidebar.right:has(> .backlinks) {
+    display: grid; grid-template-rows: minmax(180px, 1fr) minmax(120px, 28dvh);
+    gap: 1rem; height: 100dvh; overflow-y: auto;
+  }
+  html body .page > #quartz-body .sidebar.right:has(> .backlinks) > .graph {
+    display: grid; grid-template-rows: auto minmax(100px, 1fr) auto; min-height: 0; gap: .5rem;
+  }
+  html body .page > #quartz-body .sidebar.right:has(> .backlinks) > .graph > .graph-outer {
+    height: 100%; min-height: 100px; max-height: 100%; margin: 0; box-sizing: border-box;
+  }
+  html body .page > #quartz-body .sidebar.right > .backlinks { max-height: none; height: 100%; }
+}
