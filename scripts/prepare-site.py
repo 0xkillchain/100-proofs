@@ -10,7 +10,7 @@ content = quartz / 'content'
 if content.exists():
     shutil.rmtree(content)
 content.mkdir()
-footer = '\n\n<footer><a href="https://x.com/0xkillchain">@0xkillchain on X</a></footer>\n'
+footer = '\n\n<footer><p>Original research performed by christogenea.org</p><a href="https://x.com/0xkillchain">@0xkillchain on X</a></footer>\n'
 notes = [p for p in ROOT.glob('*.md') if re.match(r'^\d+\s*-', p.name) or p.name == 'INDEX.md']
 numbers = {int(p.name.split('-')[0]) for p in notes if re.match(r'^\d+\s*-', p.name)}
 if numbers != set(range(1, 101)) or not (ROOT / 'INDEX.md').is_file():
