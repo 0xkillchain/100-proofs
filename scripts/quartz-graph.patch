@@ -30,7 +30,7 @@
      border: 1px solid var(--lightgray);
      box-sizing: border-box;
 -    height: 250px;
-+    height: 320px;
++    height: clamp(360px, 60dvh, 700px);
      margin: 0.5em 0;
      position: relative;
      overflow: hidden;
@@ -67,10 +67,10 @@
 -      width: 80vw;
 +      height: 86dvh;
 +      width: 94vw;
- 
+
        @media all and not ($desktop) {
          width: 90%;
-@@ -71,3 +75,15 @@
+@@ -71,3 +75,27 @@
      }
    }
  }
@@ -86,17 +86,49 @@
 +  }
 +  button:focus-visible { outline: 2px solid var(--secondary); outline-offset: 3px; }
 +}
++
++// Keep the canvas flush with its frame, without an inline baseline gap.
++.graph > .graph-outer > .graph-container { width: 100%; height: 100%; }
++.graph canvas { display: block; }
++.graph { min-width: 0; }
++@media all and ($desktop) {
++  .page { max-width: none; margin: 0 1.5rem; }
++  .page > #quartz-body {
++    grid-template-columns: 280px minmax(0, 800px) minmax(320px, 1fr);
++  }
++  .page > #quartz-body .sidebar.right { min-width: 0; padding-left: 1.5rem; padding-right: 0; }
++}
 --- a/quartz/components/scripts/graph.inline.ts
 +++ b/quartz/components/scripts/graph.inline.ts
+@@ -161,8 +161,8 @@
+       })),
+   }
+
+-  const width = graph.offsetWidth
+-  const height = Math.max(graph.offsetHeight, 250)
++  let width = graph.clientWidth
++  let height = Math.max(graph.clientHeight, 1)
+
+   // we virtualize the simulation and use pixi to actually render it
+   const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
 @@ -246,7 +246,7 @@
      }
    }
- 
+
 -  let dragStartTime = 0
 +  let dragDistance = 0
    let dragging = false
- 
+
    function renderLinks() {
+@@ -357,7 +357,7 @@
+     autoStart: false,
+     autoDensity: true,
+     backgroundAlpha: 0,
+-    preference: "webgpu",
++    preference: "webgl",
+     resolution: window.devicePixelRatio,
+     eventMode: "static",
+   })
 @@ -465,10 +465,11 @@
              fx: event.subject.fx,
              fy: event.subject.fy,
@@ -113,7 +145,7 @@
 @@ -479,8 +480,8 @@
            event.subject.fy = null
            dragging = false
- 
+
 -          // if the time between mousedown and mouseup is short, we consider it a click
 -          if (Date.now() - dragStartTime < 500) {
 +          // Only stationary clicks navigate; quick drags must not open a page.
@@ -121,7 +153,12 @@
              const node = graphData.nodes.find((n) => n.id === event.subject.id) as NodeData
              const targ = resolveRelative(fullSlug, node.id)
              window.spaNavigate(new URL(targ, window.location.toString()))
-@@ -503,7 +504,7 @@
+@@ -499,11 +500,11 @@
+   if (enableZoom) {
+     select<HTMLCanvasElement, NodeData>(app.canvas).call(
+       zoom<HTMLCanvasElement, NodeData>()
+-        .extent([
++        .extent((): [[number, number], [number, number]] => [
            [0, 0],
            [width, height],
          ])
@@ -130,7 +167,34 @@
          .on("zoom", ({ transform }) => {
            currentTransform = transform
            stage.scale.set(transform.k, transform.k)
-@@ -599,6 +600,7 @@
+@@ -522,6 +523,17 @@
+         }),
+     )
+   }
++
++  // Resize the actual drawing buffer as the responsive layout changes.
++  const resizeObserver = new ResizeObserver(() => {
++    const nextWidth = graph.clientWidth
++    const nextHeight = graph.clientHeight
++    if (nextWidth < 1 || nextHeight < 1) return
++    width = nextWidth
++    height = nextHeight
++    app.renderer.resize(width, height)
++  })
++  resizeObserver.observe(graph)
+
+   let stopAnimation = false
+   function animate(time: number) {
+@@ -551,6 +563,8 @@
+
+   requestAnimationFrame(animate)
+   return () => {
++    resizeObserver.disconnect()
++    simulation.stop()
+     stopAnimation = true
+     app.destroy()
+   }
+@@ -599,6 +613,7 @@
    async function renderGlobalGraph() {
      const slug = getFullSlug(window)
      for (const container of containers) {
@@ -138,15 +202,15 @@
        container.classList.add("active")
        const sidebar = container.closest(".sidebar") as HTMLElement
        if (sidebar) {
-@@ -606,7 +608,6 @@
+@@ -606,7 +621,6 @@
        }
- 
+
        const graphContainer = container.querySelector(".global-graph-container") as HTMLElement
 -      registerEscapeHandler(container, hideGlobalGraph)
        if (graphContainer) {
          globalGraphCleanups.push(await renderGraph(graphContainer, slug))
        }
-@@ -616,7 +617,9 @@
+@@ -616,7 +630,9 @@
    function hideGlobalGraph() {
      cleanupGlobalGraphs()
      for (const container of containers) {
@@ -156,10 +220,10 @@
        const sidebar = container.closest(".sidebar") as HTMLElement
        if (sidebar) {
          sidebar.style.zIndex = ""
-@@ -634,6 +637,13 @@
+@@ -634,6 +650,13 @@
      }
    }
- 
+
 +  for (const container of containers) {
 +    registerEscapeHandler(container, hideGlobalGraph)
 +    const close = container.querySelector<HTMLButtonElement>(".graph-close")

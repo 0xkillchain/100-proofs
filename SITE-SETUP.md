@@ -34,3 +34,5 @@ Only numbered source documents and one generated homepage index are published. T
 ## Graph customization
 
 The build applies `scripts/quartz-graph.patch` for a labeled expand button, larger graph, wider zoom range, close control, and movement-based click detection. Quartz is pinned in the deployment workflow so upstream changes cannot silently break the patch. When upgrading Quartz, review and refresh the patch, then run preparation and a full Quartz build.
+
+The desktop right column grows into available viewport space while article width stays capped at 800px. The graph frame uses a responsive height, and a ResizeObserver keeps its WebGL canvas drawing buffer matched to the frame.
