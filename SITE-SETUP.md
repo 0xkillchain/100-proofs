@@ -41,8 +41,16 @@ The desktop right column grows into available viewport space while article width
 
 `site/components/Library.tsx` replaces both Explorer instances with persistent Proofs and Scripture tabs. The library is rendered with real links, keyboard-accessible tabs, and a scrolling list. Chapter pages provide book/chapter selectors and verse anchors; native links and browser Back still work.
 
-`site/data/scripture.json` vendors the KJV and Apocrypha texts; provenance and incomplete Enoch excerpt coverage are documented in `site/data/README.md`. Generated scripture pages are not committed and are recreated during preparation. Their social image is shared to avoid generating thousands of preview images.
+`site/data/scripture.json` vendors only KJV and Apocrypha passages cited in the proofs; provenance and incomplete Enoch excerpt coverage are documented in `site/data/README.md`. Generated scripture pages are not committed and are recreated during preparation. Their social image is shared to avoid generating thousands of preview images.
 
 To link future proof citations, run `python3 scripts/scripture.py`. This is idempotent, preserves existing links and quoted wording, and validates canonical chapter/verse references. Abbreviated references are resolved only where their book context is explicit. Source citations are real wikilinks to `Scripture/Book/Chapter#Verse N`.
 
 After building, run `python3 scripts/verify-scripture.py /path/to/quartz/public BASE_COMMIT` to verify source wording preservation, citation completeness, rendered links, verse anchors, and the replacement tabs against the pre-migration baseline (`28a2569`).
+
+## Relevant passages, top contents, graph window
+
+Scripture publishing is limited to the cited passages in `site/data/scripture.json`. A whole-chapter citation includes that chapter; a verse citation includes only the specified verses/ranges. Uncited books and chapters are absent from generated pages, navigation, search, and graph data. To add a newly cited passage, extend the local corpus from the documented source before linking it.
+
+`PageContents.tsx` renders clickable contents at the top of content pages instead of the right sidebar. Scripture chapters group contiguous selected verses into sections.
+
+Expanded graphs show the current page's immediate connections (the homepage shows all connections), color scripture orange, and fit the graph to available space. Drag the title bar to move the expanded graph; drag its bottom-right corner to resize. Inline graphs resize vertically. Window geometry and inline height persist in browser localStorage under `proofs.graphGeometry.v1`, with viewport bounds checked on restore. Reset size clears the saved geometry. Storage being unavailable does not prevent graph use.

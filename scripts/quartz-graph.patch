@@ -1,15 +1,26 @@
 --- a/quartz/components/Graph.tsx
 +++ b/quartz/components/Graph.tsx
-@@ -68,7 +68,7 @@
+@@ -60,15 +60,16 @@
+ }
+
+ export default ((opts?: Partial<GraphOptions>) => {
+-  const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+-    const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
++  const Graph: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
++    const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph, ...(fileData.slug === "index" ? { depth: 2 } : {}) }
+     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
+     return (
+       <div class={classNames(displayClass, "graph")}>
          <h3>{i18n(cfg.locale).components.graph.title}</h3>
          <div class="graph-outer">
++          <button class="graph-fit" type="button">Fit graph</button>
            <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
 -          <button class="global-graph-icon" aria-label="Global Graph">
 +          <button class="global-graph-icon" aria-label="Expand graph" title="Expand graph">
              <svg
                version="1.1"
                xmlns="http://www.w3.org/2000/svg"
-@@ -93,9 +93,12 @@
+@@ -93,10 +94,19 @@
                  s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"
                />
              </svg>
@@ -17,12 +28,20 @@
            </button>
          </div>
 -        <div class="global-graph-outer">
-+        <p class="graph-help">Drag nodes or background · Scroll to zoom · Click a node to open</p>
+-          <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
++        <p class="graph-help">Orange: scripture · Gray: proofs · Drag nodes or background · Scroll to zoom · Drag corner to resize</p>
 +        <div class="global-graph-outer" role="dialog" aria-modal="true" aria-label="Expanded graph">
-+          <button class="graph-close" aria-label="Close expanded graph">Close ✕</button>
-           <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
++          <div class="graph-window">
++            <div class="graph-titlebar"><span>Connections · drag to move</span><div>
++              <button class="graph-fit" type="button">Fit graph</button>
++              <button class="graph-reset" type="button">Reset size</button>
++              <button class="graph-close" aria-label="Close expanded graph">Close ✕</button>
++            </div></div>
++            <div class="global-graph-container" data-cfg={JSON.stringify(fileData.slug === "index" ? globalGraph : { ...localGraph, scale: 1.3 })}></div>
++          </div>
          </div>
        </div>
+     )
 --- a/quartz/components/styles/graph.scss
 +++ b/quartz/components/styles/graph.scss
 @@ -10,7 +10,7 @@
@@ -70,7 +89,7 @@
 
        @media all and not ($desktop) {
          width: 90%;
-@@ -71,3 +75,27 @@
+@@ -71,3 +75,48 @@
      }
    }
  }
@@ -98,9 +117,35 @@
 +  }
 +  html body .page > #quartz-body .sidebar.right { min-width: 0; padding-left: 1rem; padding-right: 0; }
 +}
++
++html body .graph > .graph-outer { resize: vertical; min-height: 280px; max-height: calc(100dvh - 24px); }
++html body .graph .graph-window {
++  position: fixed; display: flex; flex-direction: column; box-sizing: border-box;
++  min-width: 280px; min-height: 220px; max-width: calc(100vw - 24px); max-height: calc(100dvh - 24px);
++  resize: both; overflow: hidden; border: 1px solid var(--gray); border-radius: 8px;
++  background: var(--light); box-shadow: 0 12px 50px #0004;
++}
++html body .graph .graph-window > .global-graph-container {
++  position: relative; inset: auto; transform: none; width: 100%; height: auto;
++  flex: 1; min-height: 0; border: 0; border-radius: 0;
++}
++html body .graph .graph-titlebar {
++  display: flex; align-items: center; justify-content: space-between; gap: .5rem; flex-wrap: wrap;
++  padding: .6rem; border-bottom: 1px solid var(--lightgray); cursor: move; touch-action: none; user-select: none;
++}
++html body .graph .graph-titlebar button, html body .graph .graph-fit {
++  position: static; width: auto; padding: .4rem .6rem; background: var(--light);
++  border: 1px solid var(--lightgray); border-radius: 4px; color: var(--dark); cursor: pointer;
++}
++html body .graph > .graph-outer > .graph-fit { position: absolute; top: .3rem; left: .3rem; z-index: 1; }
 --- a/quartz/components/scripts/graph.inline.ts
 +++ b/quartz/components/scripts/graph.inline.ts
-@@ -161,8 +161,8 @@
+@@ -1,3 +1,4 @@
++import { setupGraphWindows } from "./graph-window"
+ import type { ContentDetails } from "../../plugins/emitters/contentIndex"
+ import {
+   SimulationNodeDatum,
+@@ -161,8 +162,8 @@
        })),
    }
 
@@ -111,7 +156,16 @@
 
    // we virtualize the simulation and use pixi to actually render it
    const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
-@@ -246,7 +246,7 @@
+@@ -198,6 +199,8 @@
+     const isCurrent = d.id === slug
+     if (isCurrent) {
+       return computedStyleMap["--secondary"]
++    } else if (d.id.startsWith("Scripture/")) {
++      return "#c47733"
+     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+       return computedStyleMap["--tertiary"]
+     } else {
+@@ -246,7 +249,7 @@
      }
    }
 
@@ -120,7 +174,16 @@
    let dragging = false
 
    function renderLinks() {
-@@ -357,7 +357,7 @@
+@@ -279,7 +282,7 @@
+     tweens.get("label")?.stop()
+     const tweenGroup = new TweenGroup()
+
+-    const defaultScale = 1 / scale
++    const defaultScale = 1 / currentTransform.k
+     const activeScale = defaultScale * 1.1
+     for (const n of nodeRenderData) {
+       const nodeId = n.simulationData.id
+@@ -357,7 +360,7 @@
      autoStart: false,
      autoDensity: true,
      backgroundAlpha: 0,
@@ -129,7 +192,22 @@
      resolution: window.devicePixelRatio,
      eventMode: "static",
    })
-@@ -465,10 +465,11 @@
+@@ -377,11 +380,11 @@
+     const label = new Text({
+       interactive: false,
+       eventMode: "none",
+-      text: n.text,
+-      alpha: 0,
++      text: n.text.length > 36 ? n.text.slice(0, 33) + "…" : n.text,
++      alpha: graphData.nodes.length <= 60 ? 0.8 : 0,
+       anchor: { x: 0.5, y: 1.2 },
+       style: {
+-        fontSize: fontSize * 15,
++        fontSize: Math.max(12, fontSize * 15),
+         fill: computedStyleMap["--dark"],
+         fontFamily: computedStyleMap["--bodyFont"],
+       },
+@@ -465,10 +468,11 @@
              fx: event.subject.fx,
              fy: event.subject.fy,
            }
@@ -142,7 +220,7 @@
            const initPos = event.subject.__initialDragPos
            event.subject.fx = initPos.x + (event.x - initPos.x) / currentTransform.k
            event.subject.fy = initPos.y + (event.y - initPos.y) / currentTransform.k
-@@ -479,8 +480,8 @@
+@@ -479,8 +483,8 @@
            event.subject.fy = null
            dragging = false
 
@@ -153,11 +231,16 @@
              const node = graphData.nodes.find((n) => n.id === event.subject.id) as NodeData
              const targ = resolveRelative(fullSlug, node.id)
              window.spaNavigate(new URL(targ, window.location.toString()))
-@@ -499,11 +500,11 @@
+@@ -496,14 +500,14 @@
+     }
+   }
+
++  let fitGraph = () => {}
    if (enableZoom) {
-     select<HTMLCanvasElement, NodeData>(app.canvas).call(
-       zoom<HTMLCanvasElement, NodeData>()
+-    select<HTMLCanvasElement, NodeData>(app.canvas).call(
+-      zoom<HTMLCanvasElement, NodeData>()
 -        .extent([
++    const zoomBehavior = zoom<HTMLCanvasElement, NodeData>()
 +        .extent((): [[number, number], [number, number]] => [
            [0, 0],
            [width, height],
@@ -167,10 +250,40 @@
          .on("zoom", ({ transform }) => {
            currentTransform = transform
            stage.scale.set(transform.k, transform.k)
-@@ -522,6 +523,17 @@
-         }),
-     )
-   }
+@@ -511,17 +515,43 @@
+
+           // zoom adjusts opacity of labels too
+           const scale = transform.k * opacityScale
+-          let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
++          let scaleOpacity = Math.max((scale - 1) / 3.75, graphData.nodes.length <= 60 ? 0.8 : 0)
+           const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
+
+           for (const label of labelsContainer.children) {
++            label.scale.set(1 / transform.k)
+             if (!activeNodes.includes(label)) {
+               label.alpha = scaleOpacity
+             }
+           }
+-        }),
+-    )
+-  }
++        })
++    const canvasSelection = select<HTMLCanvasElement, NodeData>(app.canvas)
++    canvasSelection.call(zoomBehavior)
++    fitGraph = () => {
++      const xs = graphData.nodes.map(n => (n.x ?? 0) + width / 2)
++      const ys = graphData.nodes.map(n => (n.y ?? 0) + height / 2)
++      if (!xs.length) return
++      const left = Math.min(...xs), right = Math.max(...xs)
++      const top = Math.min(...ys), bottom = Math.max(...ys)
++      const k = Math.max(.1, Math.min(3, width / (right-left+140), height / (bottom-top+100)))
++      canvasSelection.call(zoomBehavior.transform, zoomIdentity.translate(width/2 - (left+right)/2*k, height/2 - (top+bottom)/2*k).scale(k))
++    }
++    simulation.tick(150)
++    fitGraph()
++  }
++  const fitButton = graph.closest(".graph-window, .graph-outer")?.querySelector<HTMLButtonElement>(".graph-fit")
++  fitButton?.addEventListener("click", fitGraph)
 +
 +  // Resize the actual drawing buffer as the responsive layout changes.
 +  const resizeObserver = new ResizeObserver(() => {
@@ -185,16 +298,25 @@
 
    let stopAnimation = false
    function animate(time: number) {
-@@ -551,6 +563,8 @@
+@@ -551,6 +581,9 @@
 
    requestAnimationFrame(animate)
    return () => {
++    fitButton?.removeEventListener("click", fitGraph)
 +    resizeObserver.disconnect()
 +    simulation.stop()
      stopAnimation = true
      app.destroy()
    }
-@@ -599,6 +613,7 @@
+@@ -585,6 +618,7 @@
+     }
+   }
+
++  setupGraphWindows()
+   await renderLocalGraph()
+   const handleThemeChange = () => {
+     void renderLocalGraph()
+@@ -599,6 +633,7 @@
    async function renderGlobalGraph() {
      const slug = getFullSlug(window)
      for (const container of containers) {
@@ -202,7 +324,7 @@
        container.classList.add("active")
        const sidebar = container.closest(".sidebar") as HTMLElement
        if (sidebar) {
-@@ -606,7 +621,6 @@
+@@ -606,7 +641,6 @@
        }
 
        const graphContainer = container.querySelector(".global-graph-container") as HTMLElement
@@ -210,7 +332,7 @@
        if (graphContainer) {
          globalGraphCleanups.push(await renderGraph(graphContainer, slug))
        }
-@@ -616,7 +630,9 @@
+@@ -616,7 +650,9 @@
    function hideGlobalGraph() {
      cleanupGlobalGraphs()
      for (const container of containers) {
@@ -220,7 +342,7 @@
        const sidebar = container.closest(".sidebar") as HTMLElement
        if (sidebar) {
          sidebar.style.zIndex = ""
-@@ -634,6 +650,13 @@
+@@ -634,6 +670,13 @@
      }
    }
 

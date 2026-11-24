@@ -44,3 +44,34 @@ for p in sorted(ROOT.glob('[0-9]*.md')):
             assert heading.lower().replace(' ','-') in cache[dest],target
         total+=1
 print(f'PASS: all 100 proofs audited; {total} scripture wikilinks across {changed} proofs; targets and verse anchors exist; two tabs; original wording preserved; conversion idempotent.')
+# Relevant-only publishing, graph edges, contents links, and attribution.
+import json
+index=json.loads((PUBLIC/'static/contentIndex.json').read_text())
+expected={'Scripture/index'}
+for book,data in books.items():
+    bs=book.replace(' ','-')
+    expected.add(f'Scripture/{bs}/index')
+    expected.update(f'Scripture/{bs}/{c}' for c in data['chapters'])
+actual={k for k in index if k.startswith('Scripture/')}
+assert actual==expected, ('Unexpected/missing scripture pages', actual ^ expected)
+for key in index:
+    page=PUBLIC/(key+'.html')
+    if not page.exists():continue
+    markup=page.read_text()
+    assert 'class="page-contents"' in markup, f'Missing top contents: {key}'
+    assert markup.index('class="page-contents"') < markup.index('<article'),key
+    parsed=Anchors();parsed.feed(markup)
+    contents=markup.split('class="page-contents"',1)[1].split('</nav>',1)[0]
+    toc=Anchors();toc.feed('<nav '+contents+'</nav>')
+    from urllib.parse import unquote
+    for href in toc.hrefs:
+        assert unquote(href.lstrip('#')) in parsed.ids,(key,href)
+for proof in ROOT.glob('[0-9]*.md'):
+    key=proof.stem.replace(' ','-')
+    references={doc.split('#')[0] for doc in re.findall(r'\[\[(Scripture/[^|]+)\|',proof.read_text())}
+    assert references <= set(index[key]['links']), f'Missing scripture graph edges: {key}'
+home=(PUBLIC/'index.html').read_text()
+assert 'href="https://christogenea.org"' in home
+assert '[[42 - Genesis 6|' not in home
+assert 'class="graph-window"' in home and 'class="graph-reset"' in home
+print(f'PASS: only {len(expected)} relevant scripture library pages; top contents and valid anchors on every content page; scripture graph edges; clickable attribution; graph window controls.')

@@ -15,7 +15,7 @@ content = quartz / 'content'
 if content.exists():
     shutil.rmtree(content)
 content.mkdir()
-footer = '\n\n<footer><p>Original research performed by christogenea.org</p><a href="https://x.com/0xkillchain">@0xkillchain on X</a></footer>\n'
+footer = '\n\n<footer><p>Original research performed by <a href="https://christogenea.org">christogenea.org</a></p><a href="https://x.com/0xkillchain">@0xkillchain on X</a></footer>\n'
 notes = [p for p in ROOT.glob('*.md') if re.match(r'^\d+\s*-', p.name)]
 numbers = {int(p.name.split('-')[0]) for p in notes if re.match(r'^\d+\s*-', p.name)}
 if numbers != set(range(1, 101)):
@@ -38,10 +38,11 @@ for source in notes:
     heading = re.search(r'^#\s+(.+)$', text, re.MULTILINE)
     title = heading.group(1).strip() if heading else source.stem.split('-', 1)[1].strip()
     title = re.sub(r'^Proof\s+\d+:\s*', '', title)
+    title = re.sub(r'\[\[[^|]+\|([^\]]+)\]\]', r'\1', title)
     index_entries.append(f'{number}. [[{source.stem}|{title}]]')
 (content / 'index.md').write_text(
     '---\ntitle: 100 Proofs Index\naliases:\n  - source-index\n---\n\n' +
-    '\n'.join(index_entries) + '\n' + footer.replace(
+    '## Proofs\n\n' + '\n'.join(index_entries) + '\n' + footer.replace(
         '</footer>',
         '<p><a href="https://github.com/0xkillchain/100-proofs">View on GitHub</a></p></footer>',
     )
@@ -56,6 +57,7 @@ for old, new in [
     if old not in config:
         raise SystemExit(f'Unexpected Quartz configuration: missing {old!r}')
     config = config.replace(old, new, 1)
+config = config.replace('Plugin.TableOfContents()', 'Plugin.TableOfContents({ minEntries: 0 })')
 config_path.write_text(config)
 # Hide dates and estimated reading time on content pages.
 layout_path = quartz / 'quartz.layout.ts'
@@ -82,5 +84,11 @@ layout = layout_path.read_text()
 if 'Component.Explorer()' not in layout:
     raise SystemExit('Expected Quartz Explorer; review library tab integration.')
 layout = 'import Library from "./quartz/components/Library"\n' + layout.replace('Component.Explorer()', 'Library()')
+shutil.copy2(ROOT / 'site/components/PageContents.tsx', quartz / 'quartz/components/PageContents.tsx')
+shutil.copy2(ROOT / 'site/components/graph-window.ts', quartz / 'quartz/components/scripts/graph-window.ts')
+layout = 'import PageContents from "./quartz/components/PageContents"\n' + layout
+layout = layout.replace('Component.DesktopOnly(Component.TableOfContents()),', '')
+layout = layout.replace('Component.TagList(),', 'Component.TagList(), PageContents(),')
+layout = layout.replace('beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(),', 'beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), PageContents(),')
 layout_path.write_text(layout)
 print(f'Staged {len(scripture_names)} scripture library pages with Proofs / Scripture tabs.')

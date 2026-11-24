@@ -39,7 +39,7 @@ def link_references(text, books, proof_number=None):
         chapter = int(match['chapter'])
         tail = match['tail'] or ''
         verse = int(re.match(r':(\d+)', tail)[1]) if tail.startswith(':') else None
-        if len(books[book]['chapters']) == 1 and verse is None:
+        if book in {'Obadiah', 'Philemon', '2 John', '3 John', 'Jude', 'Prayer of Manasses', 'Susanna', 'Bel and the Dragon'} and verse is None:
             verse, chapter = chapter, 1
         chapters = books[book]['chapters']
         if str(chapter) not in chapters:
@@ -88,27 +88,37 @@ def generate(content):
         chapters=data['chapters']; edition=data['edition']
         library.append(f'- [[{target(book)}|{book}]]')
         links='\n'.join(f'<a href="{url(book,c)}">{c}</a>' for c in chapters)
-        (folder/'index.md').write_text(frontmatter(book,scriptureBookIndex=True,book=book,bookOrder=order)+'Select a chapter.\n\n'+f'*{edition}*\n\n<div class="scripture-chapters">\n{links}\n</div>\n')
+        (folder/'index.md').write_text(frontmatter(book,scriptureBookIndex=True,book=book,bookOrder=order)+'## Cited chapters\n\nSelect a chapter containing passages cited by the proofs.\n\n'+f'*{edition}*\n\n<div class="scripture-chapters">\n{links}\n</div>\n')
         for chapter,verses in chapters.items():
             chapter=int(chapter)
             options=''.join(f'<option value="{url(b,1 if "1" in d["chapters"] else next(iter(d["chapters"])))}"'+(' selected' if b==book else '')+f'>{html.escape(b)}</option>' for b,d in books.items())
             chapter_options=''.join(f'<option value="{url(book,c)}"'+(' selected' if int(c)==chapter else '')+f'>{c}</option>' for c in chapters)
             controls=f'<nav class="scripture-controls" aria-label="Scripture reader"><label>Book<select aria-label="Book">{options}</select></label><label>Chapter<select aria-label="Chapter">{chapter_options}</select></label></nav>\n\n'
-            notice = '*Source excerpts only; this is not a complete chapter or an independently verified translation.*\n\n' if data.get('excerpts') else ''
+            notice = '*Only passages cited in the proofs are shown.*\n\n'
+            notice += '*Source excerpts only; this is not a complete chapter or an independently verified translation.*\n\n' if data.get('excerpts') else ''
             lines=[]
+            groups=[]
+            for key in verses:
+                first,*last=map(int,key.split('-'))
+                end=last[0] if last else first
+                if groups and first == groups[-1][1]+1: groups[-1][1]=end
+                else: groups.append([first,end])
+            group_titles={first: (f'Verse {first}' if first==end else f'Verses {first}–{end}') for first,end in groups}
             for verse,text in verses.items():
                 label=verse
                 anchor=verse.split('-')[0]
+                if int(anchor) in group_titles:
+                    lines.append(f'<h2 id="passage-{anchor}">{group_titles[int(anchor)]}</h2>')
                 if text is None:
                     lines.append(f'<p id="verse-{anchor}">Verse {label} is referenced in the notes; its text is unavailable in this excerpt collection.</p>')
                 else:
                     lines.append(f'<p id="verse-{anchor}"><sup>{label}</sup> {html.escape(text)}</p>')
             nav=[]; keys=list(chapters);i=keys.index(str(chapter))
-            if i>0: nav.append(f'[[{target(book,keys[i-1])}|← Previous chapter]]')
-            if i+1<len(keys):nav.append(f'[[{target(book,keys[i+1])}|Next chapter →]]')
-            body=frontmatter(f'{book} {chapter}',book=book,chapter=chapter)+f'*{edition}*\n\n'+controls+notice+'<div class="scripture-verses">\n'+'\n'.join(lines)+'\n</div>\n\n'+' · '.join(nav)+'\n\n'+f'[Text source]({data["source"]})\n'
+            if i>0: nav.append(f'[[{target(book,keys[i-1])}|← Previous cited chapter]]')
+            if i+1<len(keys):nav.append(f'[[{target(book,keys[i+1])}|Next cited chapter →]]')
+            body=frontmatter(f'{book} {chapter}',book=book,chapter=chapter,passageSections=[{'text':title,'slug':f'passage-{first}','depth':0} for first,title in group_titles.items()])+f'*{edition}*\n\n'+controls+notice+'<div class="scripture-verses">\n'+'\n'.join(lines)+'\n</div>\n\n'+' · '.join(nav)+'\n\n'+f'[Text source]({data["source"]})\n'
             (folder/f'{chapter}.md').write_text(body)
-    (root/'index.md').write_text(frontmatter('Scripture')+'Browse by book and chapter. Bible text uses the King James Version; Apocrypha and source excerpts are labeled separately.\n\n'+'\n'.join(library)+'\n')
+    (root/'index.md').write_text(frontmatter('Scripture')+'Only scripture cited by the proofs is included. Bible text uses the King James Version; Apocrypha and source excerpts are labeled separately.\n\n## Cited books\n\n'+'\n'.join(library)+'\n')
     return {str(p.relative_to(content).with_suffix('')) for p in root.rglob('*.md')}
 
 if __name__ == '__main__':
