@@ -30,7 +30,7 @@
      border: 1px solid var(--lightgray);
      box-sizing: border-box;
 -    height: 250px;
-+    height: clamp(360px, 60dvh, 700px);
++    height: clamp(400px, 70dvh, 800px);
      margin: 0.5em 0;
      position: relative;
      overflow: hidden;
@@ -94,9 +94,9 @@
 +@media all and ($desktop) {
 +  .page { max-width: none; margin: 0 1.5rem; }
 +  .page > #quartz-body {
-+    grid-template-columns: 280px minmax(0, 800px) minmax(320px, 1fr);
++    grid-template-columns: clamp(200px, 16vw, 240px) minmax(0, clamp(480px, 42vw, 720px)) minmax(320px, 1fr);
 +  }
-+  .page > #quartz-body .sidebar.right { min-width: 0; padding-left: 1.5rem; padding-right: 0; }
++  .page > #quartz-body .sidebar.right { min-width: 0; padding-left: 1rem; padding-right: 0; }
 +}
 --- a/quartz/components/scripts/graph.inline.ts
 +++ b/quartz/components/scripts/graph.inline.ts
