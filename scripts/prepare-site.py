@@ -4,6 +4,7 @@ import re
 import shutil
 import sys
 import subprocess
+import hashlib
 from scripture import generate
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -42,7 +43,7 @@ for source in notes:
     index_entries.append(f'{number}. [[{source.stem}|{title}]]')
 (content / 'index.md').write_text(
     '---\ntitle: 100 Proofs Index\naliases:\n  - source-index\n---\n\n' +
-    '## Proofs\n\n' + '\n'.join(index_entries) + '\n' + footer.replace(
+    '\n'.join(index_entries) + '\n' + footer.replace(
         '</footer>',
         '<p><a href="https://github.com/0xkillchain/100-proofs">View on GitHub</a></p></footer>',
     )
@@ -92,3 +93,38 @@ layout = layout.replace('Component.TagList(),', 'Component.TagList(), PageConten
 layout = layout.replace('beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(),', 'beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), PageContents(),')
 layout_path.write_text(layout)
 print(f'Staged {len(scripture_names)} scripture library pages with Proofs / Scripture tabs.')
+
+# Give each deployment distinct asset URLs; navigation across builds reloads scripts.
+source_files = sorted(p for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.parts and '__pycache__' not in p.parts and p.suffix in {'.py', '.ts', '.tsx', '.scss', '.json', '.patch', '.md', '.yml'})
+build_hash = hashlib.sha256()
+for path in source_files:
+    build_hash.update(str(path.relative_to(ROOT)).encode())
+    build_hash.update(path.read_bytes())
+revision = build_hash.hexdigest()[:12]
+render_path = quartz / 'quartz/components/renderPage.tsx'
+render = render_path.read_text()
+for asset in ['index.css', 'prescript.js', 'postscript.js', 'static/contentIndex.json']:
+    original = f'joinSegments(baseDir, "{asset}")'
+    if original not in render:
+        raise SystemExit(f'Expected resource URL: {asset}')
+    render = render.replace(original, original + f' + "?v={revision}"')
+render_path.write_text(render)
+head_path = quartz / 'quartz/components/Head.tsx'
+head = head_path.read_text()
+head = head.replace('<meta name="generator" content="Quartz" />', f'<meta name="generator" content="Quartz" /><meta name="site-build" content="{revision}" />')
+head_path.write_text(head)
+spa_path = quartz / 'quartz/components/scripts/spa.inline.ts'
+spa = spa_path.read_text()
+needle = '  const html = p.parseFromString(contents, "text/html")'
+if needle not in spa:
+    raise SystemExit('Expected Quartz navigation parser; review build reload integration.')
+spa = spa.replace(needle, needle + """
+  const currentBuild = document.querySelector<HTMLMetaElement>('meta[name="site-build"]')?.content
+  const nextBuild = html.querySelector<HTMLMetaElement>('meta[name="site-build"]')?.content
+  if (currentBuild && nextBuild && currentBuild !== nextBuild) {
+    window.location.assign(url)
+    return
+  }
+""")
+spa_path.write_text(spa)
+print(f'Versioned assets and graph data: {revision}')

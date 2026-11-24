@@ -156,15 +156,17 @@
 
    // we virtualize the simulation and use pixi to actually render it
    const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
-@@ -198,6 +199,8 @@
+@@ -196,7 +197,9 @@
+   // calculate color
+   const color = (d: NodeData) => {
      const isCurrent = d.id === slug
-     if (isCurrent) {
+-    if (isCurrent) {
++    if (d.id.toLowerCase().startsWith("scripture/")) {
++      return "#f28c28"
++    } else if (isCurrent) {
        return computedStyleMap["--secondary"]
-+    } else if (d.id.startsWith("Scripture/")) {
-+      return "#c47733"
      } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
        return computedStyleMap["--tertiary"]
-     } else {
 @@ -246,7 +249,7 @@
      }
    }

@@ -54,3 +54,5 @@ Scripture publishing is limited to the cited passages in `site/data/scripture.js
 `PageContents.tsx` renders clickable contents at the top of content pages instead of the right sidebar. Scripture chapters group contiguous selected verses into sections.
 
 Expanded graphs show the current page's immediate connections (the homepage shows all connections), color scripture orange, and fit the graph to available space. Drag the title bar to move the expanded graph; drag its bottom-right corner to resize. Inline graphs resize vertically. Window geometry and inline height persist in browser localStorage under `proofs.graphGeometry.v1`, with viewport bounds checked on restore. Reset size clears the saved geometry. Storage being unavailable does not prevent graph use.
+
+Deployment assets and graph JSON use a deterministic build hash in their URLs. Navigation between different build versions triggers a full reload so persisted Quartz scripts cannot retain an older graph implementation. Scripture nodes remain bright orange even when selected; the current-page styling does not override their category color.

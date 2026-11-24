@@ -58,6 +58,9 @@ for key in index:
     page=PUBLIC/(key+'.html')
     if not page.exists():continue
     markup=page.read_text()
+    if key == 'index':
+        assert 'class="page-contents"' not in markup
+        continue
     assert 'class="page-contents"' in markup, f'Missing top contents: {key}'
     assert markup.index('class="page-contents"') < markup.index('<article'),key
     parsed=Anchors();parsed.feed(markup)

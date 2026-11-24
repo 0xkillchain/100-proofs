@@ -1,6 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor } from "./types"
 export default (() => {
   const PageContents: QuartzComponent = ({ fileData }) => {
+    if (fileData.slug === "index") return null
     const passages = fileData.frontmatter?.passageSections as { text: string; slug: string; depth: number }[] | undefined
     const entries = fileData.toc ?? passages ?? []
     const selected = entries.some(e => e.depth > 0) ? entries.filter(e => e.depth > 0) : entries
