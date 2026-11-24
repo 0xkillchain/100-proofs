@@ -11,6 +11,13 @@ export default (() => {
     const scripture = fileData.slug?.startsWith("Scripture/")
     const link = (f: typeof fileData) => resolveRelative(fileData.slug!, f.slug!)
     return <nav class="library" aria-label="Library">
+      <button class="mobile-menu-toggle" type="button" aria-label="Open navigation" aria-controls="library-drawer" aria-expanded="false">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" /></svg>
+      </button>
+      <button class="mobile-menu-backdrop" type="button" aria-label="Close navigation" tabIndex={-1} hidden />
+      <div class="library-drawer" id="library-drawer">
+        <div class="mobile-menu-heading"><strong>Navigation</strong><button class="mobile-menu-close" type="button" aria-label="Close navigation">✕</button></div>
+        <div class="mobile-menu-tools" />
       <div class="library-tabs" role="tablist" aria-label="Browse library">
         <button id="proofs-tab" type="button" role="tab" aria-selected={!scripture} aria-controls="proofs-panel" tabIndex={scripture ? -1 : 0} data-library-tab="proofs">Proofs</button>
         <button id="scripture-tab" type="button" role="tab" aria-selected={!!scripture} aria-controls="scripture-panel" tabIndex={scripture ? 0 : -1} data-library-tab="scripture">Scripture</button>
@@ -23,6 +30,7 @@ export default (() => {
         <a class="library-index" href={resolveRelative(fileData.slug!, "Scripture/index" as any)}>Scripture library</a>
         <ul>{books.map(f => <li><a href={link(f)} aria-current={fileData.slug?.startsWith(f.slug!.replace(/\/index$/, "/")) ? "page" : undefined}>{String(f.frontmatter?.book)}</a></li>)}</ul>
       </section>
+      </div>
     </nav>
   }
   Library.css = style

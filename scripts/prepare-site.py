@@ -80,6 +80,7 @@ print(f'Staged {len(notes)} source documents plus homepage; all wikilinks resolv
 # Replace Explorer with persistent Proofs / Scripture tabs.
 shutil.copy2(ROOT / 'site/components/Library.tsx', quartz / 'quartz/components/Library.tsx')
 shutil.copy2(ROOT / 'site/components/library.inline.ts', quartz / 'quartz/components/scripts/library.inline.ts')
+shutil.copy2(ROOT / 'site/components/mobile-menu.ts', quartz / 'quartz/components/scripts/mobile-menu.ts')
 shutil.copy2(ROOT / 'site/components/library.scss', quartz / 'quartz/components/styles/library.scss')
 layout = layout_path.read_text()
 if 'Component.Explorer()' not in layout:

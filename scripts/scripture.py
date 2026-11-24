@@ -87,7 +87,7 @@ def generate(content):
         folder=root/slug(book);folder.mkdir()
         chapters=data['chapters']; edition=data['edition']
         library.append(f'- [[{target(book)}|{book}]]')
-        links='\n'.join(f'<a href="{url(book,c)}">{c}</a>' for c in chapters)
+        links='\n'.join(f'<a href="{target(book,c)}">{c}</a>' for c in chapters)
         (folder/'index.md').write_text(frontmatter(book,scriptureBookIndex=True,book=book,bookOrder=order)+'## Cited chapters\n\nSelect a chapter containing passages cited by the proofs.\n\n'+f'*{edition}*\n\n<div class="scripture-chapters">\n{links}\n</div>\n')
         for chapter,verses in chapters.items():
             chapter=int(chapter)

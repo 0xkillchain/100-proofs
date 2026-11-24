@@ -1,5 +1,7 @@
+import { setupMobileMenu } from "./mobile-menu"
 document.addEventListener("nav", () => {
   for (const library of document.querySelectorAll<HTMLElement>(".library")) {
+    setupMobileMenu(library)
     const tabs = [...library.querySelectorAll<HTMLButtonElement>("[data-library-tab]")]
     function activate(tab: HTMLButtonElement) {
       for (const button of tabs) {

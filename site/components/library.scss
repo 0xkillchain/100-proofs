@@ -45,3 +45,48 @@ html body .page .backlinks > ul.overflow { flex: 1 1 auto; min-height: 0; max-he
   }
   html body .page > #quartz-body .sidebar.right > .backlinks { max-height: none; height: 100%; }
 }
+.library-drawer { display: flex; flex-direction: column; flex: 1; min-height: 0; }
+.mobile-menu-toggle, .mobile-menu-heading, .mobile-menu-tools, .mobile-menu-backdrop { display: none; }
+@media (max-width: 1024px) {
+  html body .page { max-width: 100%; margin: 0; }
+  html body .page > #quartz-body {
+    display: grid; grid-template-columns: minmax(0, 1fr); padding: 0 1rem; gap: 1rem;
+    grid-template-areas: "grid-sidebar-left" "mobile-title" "mobile-graph" "mobile-contents" "mobile-content" "mobile-backlinks" "mobile-footer";
+  }
+  html body .page > #quartz-body > .center,
+  html body .page > #quartz-body .page-header,
+  html body .page > #quartz-body .page-header > .popover-hint,
+  html body .page > #quartz-body > .sidebar.right { display: contents; }
+  html body .page > #quartz-body .sidebar.left {
+    display: grid; grid-template-columns: 44px minmax(0, 1fr); align-items: center; gap: .75rem;
+    position: static; height: auto; padding: 1rem 0 0; width: 100%; min-width: 0;
+  }
+  html body .page > #quartz-body .sidebar.left > .page-title { grid-column: 2; grid-row: 1; font-size: 1.1rem; line-height: 1.35; }
+  html body .page > #quartz-body .sidebar.left > .spacer,
+  html body .page > #quartz-body .sidebar.left > .flex-component { display: none; }
+  html body .page > #quartz-body .sidebar.left > .library { grid-column: 1; grid-row: 1; width: 44px; max-height: none; margin: 0; flex: initial; }
+  html body .mobile-menu-toggle { display: grid; place-items: center; width: 44px; height: 44px; border: 1px solid var(--lightgray); border-radius: 6px; background: var(--light); color: var(--dark); cursor: pointer; }
+  html body .library-drawer {
+    display: none; position: fixed; inset: 0 auto 0 0; width: min(86vw, 360px); height: 100dvh;
+    box-sizing: border-box; padding: max(1rem, env(safe-area-inset-top)) 1rem max(1rem, env(safe-area-inset-bottom));
+    background: var(--light); color: var(--dark); z-index: 11001; box-shadow: 8px 0 30px #0004;
+  }
+  html body .library[data-menu-open="true"] .library-drawer { display: flex; }
+  html body .mobile-menu-heading { display: flex; align-items: center; justify-content: space-between; margin-bottom: .75rem; }
+  html body .mobile-menu-heading button { min-width: 44px; min-height: 44px; border: 0; background: transparent; color: var(--dark); font-size: 1.25rem; cursor: pointer; }
+  html body .mobile-menu-tools { display: block; margin-bottom: 1rem; }
+  html body .mobile-menu-tools > .flex-component { display: flex; }
+  html body .library .mobile-menu-backdrop:not([hidden]) { display: block; position: fixed; inset: 0; width: 100vw; height: 100dvh; border: 0; background: #0008; z-index: 11000; cursor: pointer; }
+  html body .library-tabs button { min-height: 44px; }
+  html body .library [role="tabpanel"] { flex: 1; overscroll-behavior: contain; }
+  html body .library li a { display: block; padding: .4rem 0; }
+  html body .page .breadcrumbs, html body .page .page-header .tags, html body .page .center > hr { display: none; }
+  html body .page .article-title { grid-area: mobile-title; margin: 0; font-size: clamp(1.45rem, 5vw, 2rem); }
+  html body .page .page-contents { grid-area: mobile-contents; margin: 0; }
+  html body .page > #quartz-body .center > article { grid-area: mobile-content; min-width: 0; margin: 0; }
+  html body .page > #quartz-body .sidebar.right > .graph { grid-area: mobile-graph; min-width: 0; max-height: none; }
+  html body .page > #quartz-body .sidebar.right > .graph > .graph-outer { height: clamp(240px, 42dvh, 360px); max-height: clamp(240px, 42dvh, 360px); min-height: 220px; resize: none; }
+  html body .page > #quartz-body .sidebar.right > .backlinks { grid-area: mobile-backlinks; min-height: 8rem; max-height: 18rem; width: 100%; }
+  html body .page .page-footer { grid-area: mobile-footer; }
+  html body .graph .graph-titlebar button { min-height: 44px; }
+}

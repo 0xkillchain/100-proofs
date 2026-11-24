@@ -78,3 +78,14 @@ assert 'href="https://christogenea.org"' in home
 assert '[[42 - Genesis 6|' not in home
 assert 'class="graph-window"' in home and 'class="graph-reset"' in home
 print(f'PASS: only {len(expected)} relevant scripture library pages; top contents and valid anchors on every content page; scripture graph edges; clickable attribution; graph window controls.')
+
+from urllib.parse import urljoin
+for book,data in books.items():
+    bs=book.replace(' ', '-')
+    markup=(PUBLIC/f'Scripture/{bs}/index.html').read_text()
+    chips=markup.split('class="scripture-chapters"',1)[1].split('</div>',1)[0]
+    parsed=Anchors();parsed.feed('<div '+chips+'</div>')
+    actual={urljoin(f'https://example.com/100-proofs/Scripture/{bs}/', href) for href in parsed.hrefs}
+    expected={f'https://example.com/100-proofs/Scripture/{bs}/{chapter}' for chapter in data['chapters']}
+    assert actual==expected, f'Invalid chapter shortcuts: {book}'
+print('PASS: every book chapter shortcut resolves to its real reader page.')

@@ -58,3 +58,5 @@ Expanded graphs show the current page's immediate connections (the homepage show
 Deployment assets and graph JSON use a deterministic build hash in their URLs. Navigation between different build versions triggers a full reload so persisted Quartz scripts cannot retain an older graph implementation. Scripture nodes remain bright orange even when selected; the current-page styling does not override their category color.
 
 On desktop, the right sidebar reserves a separate row for Backlinks. Its heading stays visible while the list scrolls independently, including keyboard scrolling when focused. The inline graph is capped to the space above it; the expanded graph window keeps its independent sizing.
+
+At widths up to 1024px, mobile layout places the header/title, graph, contents (individual pages), proof content, and Backlinks in that order. Proofs/Scripture navigation and existing search/theme controls move into an accessible hamburger drawer. The drawer closes on selection, backdrop, Escape, or viewport change and restores desktop controls when widened.
