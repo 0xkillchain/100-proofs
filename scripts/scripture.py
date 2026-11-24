@@ -94,8 +94,6 @@ def generate(content):
             options=''.join(f'<option value="{url(b,1 if "1" in d["chapters"] else next(iter(d["chapters"])))}"'+(' selected' if b==book else '')+f'>{html.escape(b)}</option>' for b,d in books.items())
             chapter_options=''.join(f'<option value="{url(book,c)}"'+(' selected' if int(c)==chapter else '')+f'>{c}</option>' for c in chapters)
             controls=f'<nav class="scripture-controls" aria-label="Scripture reader"><label>Book<select aria-label="Book">{options}</select></label><label>Chapter<select aria-label="Chapter">{chapter_options}</select></label></nav>\n\n'
-            notice = '*Only passages cited in the proofs are shown.*\n\n'
-            notice += '*Source excerpts only; this is not a complete chapter or an independently verified translation.*\n\n' if data.get('excerpts') else ''
             lines=[]
             groups=[]
             for key in verses:
@@ -116,7 +114,7 @@ def generate(content):
             nav=[]; keys=list(chapters);i=keys.index(str(chapter))
             if i>0: nav.append(f'[[{target(book,keys[i-1])}|← Previous cited chapter]]')
             if i+1<len(keys):nav.append(f'[[{target(book,keys[i+1])}|Next cited chapter →]]')
-            body=frontmatter(f'{book} {chapter}',book=book,chapter=chapter,passageSections=[{'text':title,'slug':f'passage-{first}','depth':0} for first,title in group_titles.items()])+f'*{edition}*\n\n'+controls+notice+'<div class="scripture-verses">\n'+'\n'.join(lines)+'\n</div>\n\n'+' · '.join(nav)+'\n\n'+f'[Text source]({data["source"]})\n'
+            body=frontmatter(f'{book} {chapter}',book=book,chapter=chapter,passageSections=[{'text':title,'slug':f'passage-{first}','depth':0} for first,title in group_titles.items()])+f'*{edition}*\n\n'+controls+'<div class="scripture-verses">\n'+'\n'.join(lines)+'\n</div>\n\n'+' · '.join(nav)+'\n\n'+f'[Text source]({data["source"]})\n'
             (folder/f'{chapter}.md').write_text(body)
     (root/'index.md').write_text(frontmatter('Scripture')+'Only scripture cited by the proofs is included. Bible text uses the King James Version; Apocrypha and source excerpts are labeled separately.\n\n## Cited books\n\n'+'\n'.join(library)+'\n')
     return {str(p.relative_to(content).with_suffix('')) for p in root.rglob('*.md')}
