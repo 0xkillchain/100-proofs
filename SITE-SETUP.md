@@ -51,7 +51,7 @@ After building, run `python3 scripts/verify-scripture.py /path/to/quartz/public 
 
 Scripture publishing is limited to the cited passages in `site/data/scripture.json`. A whole-chapter citation includes that chapter; a verse citation includes only the specified verses/ranges. Uncited books and chapters are absent from generated pages, navigation, search, and graph data. To add a newly cited passage, extend the local corpus from the documented source before linking it.
 
-`PageContents.tsx` renders clickable contents at the top of content pages instead of the right sidebar. Scripture chapters group contiguous selected verses into sections.
+`PageContents.tsx` renders clickable contents in one column at the top of individual content pages instead of the right sidebar. The main index has no contents section. Scripture chapters group contiguous selected verses into sections.
 
 Expanded graphs show the current page's immediate connections (the homepage shows all connections), color scripture orange, and fit the graph to available space. Drag the title bar to move the expanded graph; drag its bottom-right corner to resize. Inline graphs resize vertically. Window geometry and inline height persist in browser localStorage under `proofs.graphGeometry.v1`, with viewport bounds checked on restore. Reset size clears the saved geometry. Storage being unavailable does not prevent graph use.
 
