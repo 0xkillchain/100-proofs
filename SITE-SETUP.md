@@ -30,3 +30,7 @@ Open http://localhost:8080. Use a fresh Quartz checkout before rerunning prepara
 The workflow uses Quartz's maintained `v4` branch rather than importing its implementation into this repository. For fully reproducible builds, replace `ref: v4` with a reviewed commit SHA after a successful build. A later migration to Quartz 5 should update the preparation script and workflow together.
 
 Only numbered source documents and INDEX.md are currently published. Expand the content selection in `scripts/prepare-site.py` when adding rebuttals in other files or folders. Broken wikilinks fail preparation rather than silently publishing dead links.
+
+## Graph customization
+
+The build applies `scripts/quartz-graph.patch` for a labeled expand button, larger graph, wider zoom range, close control, and movement-based click detection. Quartz is pinned in the deployment workflow so upstream changes cannot silently break the patch. When upgrading Quartz, review and refresh the patch, then run preparation and a full Quartz build.

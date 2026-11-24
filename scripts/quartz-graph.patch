@@ -1,0 +1,172 @@
+--- a/quartz/components/Graph.tsx
++++ b/quartz/components/Graph.tsx
+@@ -68,7 +68,7 @@
+         <h3>{i18n(cfg.locale).components.graph.title}</h3>
+         <div class="graph-outer">
+           <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
+-          <button class="global-graph-icon" aria-label="Global Graph">
++          <button class="global-graph-icon" aria-label="Expand graph" title="Expand graph">
+             <svg
+               version="1.1"
+               xmlns="http://www.w3.org/2000/svg"
+@@ -93,9 +93,12 @@
+                 s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"
+               />
+             </svg>
++            <span>Expand</span>
+           </button>
+         </div>
+-        <div class="global-graph-outer">
++        <p class="graph-help">Drag nodes or background · Scroll to zoom · Click a node to open</p>
++        <div class="global-graph-outer" role="dialog" aria-modal="true" aria-label="Expanded graph">
++          <button class="graph-close" aria-label="Close expanded graph">Close ✕</button>
+           <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
+         </div>
+       </div>
+--- a/quartz/components/styles/graph.scss
++++ b/quartz/components/styles/graph.scss
+@@ -10,7 +10,7 @@
+     border-radius: 5px;
+     border: 1px solid var(--lightgray);
+     box-sizing: border-box;
+-    height: 250px;
++    height: 320px;
+     margin: 0.5em 0;
+     position: relative;
+     overflow: hidden;
+@@ -20,16 +20,20 @@
+       background: none;
+       border: none;
+       color: var(--dark);
+-      opacity: 0.5;
+-      width: 24px;
+-      height: 24px;
++      opacity: 1;
++      width: auto;
++      height: 32px;
+       position: absolute;
+       padding: 0.2rem;
+       margin: 0.3rem;
+       top: 0;
+       right: 0;
+       border-radius: 4px;
+-      background-color: transparent;
++      background-color: var(--light);
++      display: flex;
++      align-items: center;
++      gap: 0.35rem;
++      & > svg { width: 18px; height: 18px; }
+       transition: background-color 0.5s ease;
+       cursor: pointer;
+       &:hover {
+@@ -62,8 +66,8 @@
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%, -50%);
+-      height: 80vh;
+-      width: 80vw;
++      height: 86dvh;
++      width: 94vw;
+ 
+       @media all and not ($desktop) {
+         width: 90%;
+@@ -71,3 +75,15 @@
+     }
+   }
+ }
++
++.graph {
++  .graph-help { font-size: 0.75rem; color: var(--gray); line-height: 1.5; margin: 0.5rem 0; }
++  canvas { cursor: grab; touch-action: none; }
++  canvas:active { cursor: grabbing; }
++  .graph-close {
++    position: absolute; top: 1dvh; right: 3vw; z-index: 1;
++    padding: 0.5rem 0.8rem; border: 1px solid var(--gray); border-radius: 5px;
++    background: var(--light); color: var(--dark); cursor: pointer;
++  }
++  button:focus-visible { outline: 2px solid var(--secondary); outline-offset: 3px; }
++}
+--- a/quartz/components/scripts/graph.inline.ts
++++ b/quartz/components/scripts/graph.inline.ts
+@@ -246,7 +246,7 @@
+     }
+   }
+ 
+-  let dragStartTime = 0
++  let dragDistance = 0
+   let dragging = false
+ 
+   function renderLinks() {
+@@ -465,10 +465,11 @@
+             fx: event.subject.fx,
+             fy: event.subject.fy,
+           }
+-          dragStartTime = Date.now()
++          dragDistance = 0
+           dragging = true
+         })
+         .on("drag", function dragged(event) {
++          dragDistance += Math.hypot(event.dx, event.dy)
+           const initPos = event.subject.__initialDragPos
+           event.subject.fx = initPos.x + (event.x - initPos.x) / currentTransform.k
+           event.subject.fy = initPos.y + (event.y - initPos.y) / currentTransform.k
+@@ -479,8 +480,8 @@
+           event.subject.fy = null
+           dragging = false
+ 
+-          // if the time between mousedown and mouseup is short, we consider it a click
+-          if (Date.now() - dragStartTime < 500) {
++          // Only stationary clicks navigate; quick drags must not open a page.
++          if (dragDistance < 5) {
+             const node = graphData.nodes.find((n) => n.id === event.subject.id) as NodeData
+             const targ = resolveRelative(fullSlug, node.id)
+             window.spaNavigate(new URL(targ, window.location.toString()))
+@@ -503,7 +504,7 @@
+           [0, 0],
+           [width, height],
+         ])
+-        .scaleExtent([0.25, 4])
++        .scaleExtent([0.1, 8])
+         .on("zoom", ({ transform }) => {
+           currentTransform = transform
+           stage.scale.set(transform.k, transform.k)
+@@ -599,6 +600,7 @@
+   async function renderGlobalGraph() {
+     const slug = getFullSlug(window)
+     for (const container of containers) {
++      if (container.classList.contains("active")) continue
+       container.classList.add("active")
+       const sidebar = container.closest(".sidebar") as HTMLElement
+       if (sidebar) {
+@@ -606,7 +608,6 @@
+       }
+ 
+       const graphContainer = container.querySelector(".global-graph-container") as HTMLElement
+-      registerEscapeHandler(container, hideGlobalGraph)
+       if (graphContainer) {
+         globalGraphCleanups.push(await renderGraph(graphContainer, slug))
+       }
+@@ -616,7 +617,9 @@
+   function hideGlobalGraph() {
+     cleanupGlobalGraphs()
+     for (const container of containers) {
++      if (!container.classList.contains("active")) continue
+       container.classList.remove("active")
++      container.closest(".graph")?.querySelector<HTMLButtonElement>(".global-graph-icon")?.focus()
+       const sidebar = container.closest(".sidebar") as HTMLElement
+       if (sidebar) {
+         sidebar.style.zIndex = ""
+@@ -634,6 +637,13 @@
+     }
+   }
+ 
++  for (const container of containers) {
++    registerEscapeHandler(container, hideGlobalGraph)
++    const close = container.querySelector<HTMLButtonElement>(".graph-close")
++    close?.addEventListener("click", hideGlobalGraph)
++    window.addCleanup(() => close?.removeEventListener("click", hideGlobalGraph))
++  }
++
+   const containerIcons = document.getElementsByClassName("global-graph-icon")
+   Array.from(containerIcons).forEach((icon) => {
+     icon.addEventListener("click", renderGlobalGraph)

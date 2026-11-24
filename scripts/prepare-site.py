@@ -3,9 +3,13 @@ from pathlib import Path
 import re
 import shutil
 import sys
+import subprocess
 
 ROOT = Path(__file__).resolve().parents[1]
 quartz = Path(sys.argv[1]).resolve()
+# Fail on upstream changes rather than silently dropping graph improvements.
+subprocess.run(['git', 'apply', '--check', str(ROOT / 'scripts/quartz-graph.patch')], cwd=quartz, check=True)
+subprocess.run(['git', 'apply', str(ROOT / 'scripts/quartz-graph.patch')], cwd=quartz, check=True)
 content = quartz / 'content'
 if content.exists():
     shutil.rmtree(content)
@@ -62,7 +66,7 @@ layout_path.write_text(layout)
 # Keep the page-level X link while suppressing Quartz's built-in attribution/footer.
 (quartz / 'quartz/components/Footer.tsx').write_text(
     'import { QuartzComponent, QuartzComponentConstructor } from "./types"\n\n'
-    'export default (() => {\n'
+    'export default ((_opts?: unknown) => {\n'
     '  const Footer: QuartzComponent = () => <></>\n'
     '  return Footer\n'
     '}) satisfies QuartzComponentConstructor\n'
