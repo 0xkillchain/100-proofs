@@ -38,7 +38,7 @@ for source in notes:
     title = re.sub(r'^Proof\s+\d+:\s*', '', title)
     index_entries.append(f'{number}. [[{source.stem}|{title}]]')
 (content / 'index.md').write_text(
-    '---\ntitle: 100 Proofs Index\naliases:\n  - source-index\n  - INDEX\n---\n\n' +
+    '---\ntitle: 100 Proofs Index\naliases:\n  - source-index\n---\n\n' +
     '\n'.join(index_entries) + '\n' + footer.replace(
         '</footer>',
         '<p><a href="https://github.com/0xkillchain/100-proofs">View on GitHub</a></p></footer>',
